@@ -1,0 +1,9 @@
+(1) Research UK building regulations and planning permissions for garden rooms in Cowes, specifically for structures within 2m of a boundary, 2.5m height limits, and 20sqm use for non-habitable workshops.
+(2) Compare the structural requirements and DIY complexity of flat slabs (using Jackodur Atlas) versus toe-thickened monolithic slabs for a 20sqm timber workshop.
+(3) Investigate Jackodur Atlas slab insulation: technical specifications for UK loads, installation guides for DIYers, and island-specific availability or shipping logistics.
+(4) Evaluate damp-proofing and thermal envelope strategies to protect woodworking tools from humidity and condensation in a UK coastal climate.
+(5) Calculate excavation volumes and estimate manual labor hours for site clearing and hand-digging, specifically factoring in the narrow 'wheelbarrow-width' access for soil removal.
+(6) Analyze concrete delivery logistics for restricted access: compare on-site manual mixing versus ready-mix with line-pumping or wheelbarrowing from the street.
+(7) Research transport logistics for bulky materials (4m timbers, french doors, windows, and insulation packs) through narrow side passages.
+(8) Identify local tool hire and waste management options in Cowes (e.g., skip placement, concrete breakers) that accommodate front-of-house storage and manual hauling.
+(9) Develop a high-level foundation construction timeline, integrating manual labor rates, evening/weekend constraints, and the transport bottlenecks caused by limited access.
