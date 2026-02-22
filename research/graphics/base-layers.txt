@@ -1,19 +1,18 @@
-[ INTERNAL WORKSHOP SPACE ]
- ______________________________________________________   <-- Finished Floor Level
-|                                                      |
-|         REINFORCED CONCRETE SLAB (150mm)             |  <-- C25/30 Grade with
-|     (Contains A193 Steel Mesh & Poly Fibers)         |      Polypropylene Fibers
-|______________________________________________________|
-|                                                      |
-|    EPS300 or XPS INSULATION BOARDS (100mm)           |  <-- High Compressive Strength
-|______________________________________________________|
-|    1200-GAUGE DAMP PROOF MEMBRANE (DPM)              |  <-- Folded up sides of formwork (connects w/ wall VCL)
-|______________________________________________________|
-|       SHARP SAND BLINDING LAYER (25mm)               |  <-- Protects DPM from stones
-|______________________________________________________|
-|                                                      |
-|      COMPACTED MOT TYPE 1 HARDCORE (100mm)           |  <-- Compacted in 50mm layers
-|______________________________________________________|
-|                                                      |
-|          REACTIVE COWES CLAY SUB-GRADE               |  <-- Excavated base
-|______________________________________________________|
+GROUND LEVEL / FFL _________________________________________________
+                          |      [ Linear Threshold Drain ]      |
+   CONCRETE SLAB          | (Sits 3-5mm below slab for drainage) |
+      (150mm)             |______________________________________|
+__________________________|______________________________________|_
+                                                                 |
+   JACKODUR ATLAS XPS INSULATION (150mm)                         |  PERIMETER
+_________________________________________________________________|  GRAVEL
+   1200-GAUGE DPM (Moisture Barrier)                             |  TRENCH
+_________________________________________________________________|  (16/32mm)
+   SHARP SAND BLINDING (25mm)                                    |
+_________________________________________________________________|
+                                                                 |
+   MOT TYPE 1 SUB-BASE (150mm)                                   |
+_________________________________________________________________|
+                                                                 |
+   EXCAVATED CLAY SUBSOIL                                        |
+_________________________________________________________________|
