@@ -1,18 +1,21 @@
 GROUND LEVEL / FFL _________________________________________________
                           |      [ Linear Threshold Drain ]      |
-   CONCRETE SLAB          | (Sits 3-5mm below slab for drainage) |
+   CONCRETE SLAB          | (Set 3-5mm below slab at doorway)    |
       (150mm)             |______________________________________|
 __________________________|______________________________________|_
                                                                  |
-   JACKODUR ATLAS XPS INSULATION (150mm)                         |  PERIMETER
-_________________________________________________________________|  GRAVEL
-   1200-GAUGE DPM (Moisture Barrier)                             |  TRENCH
-_________________________________________________________________|  (16/32mm)
+   1200-GAUGE DPM (Moisture Barrier & Grout Loss Prevention)      |  PERIMETER
+_________________________________________________________________|  FRENCH
+                                                                 |  DRAIN
+   JACKODUR ATLAS XPS INSULATION (150mm)                         |  (150mm wide)
+                                                                 |  16/32mm
+_________________________________________________________________|  Gravel
+                                                                 |
    SHARP SAND BLINDING (25mm)                                    |
 _________________________________________________________________|
                                                                  |
    MOT TYPE 1 SUB-BASE (150mm)                                   |
 _________________________________________________________________|
                                                                  |
-   EXCAVATED CLAY SUBSOIL                                        |
+   COWES CLAY SUBSOIL (Excavated to 475mm depth)                 |
 _________________________________________________________________|
