@@ -1,66 +1,82 @@
-# Dust Extraction Physics: Small Workshop Strategy
+# Dust Extraction Physics & Strategy: Deep Research
 
-**Context:**
-- **Room Volume:** 50m³ (20m² x 2.5m).
-- **Primary Dust:** Mixed Wood (Hardwood/Softwood) + MDF (Hazardous).
-- **Ducting:** 100mm (4") runs, approx 5m max length.
+## 1. Executive Summary
+For a 50m³ Passivehaus-standard garden workshop in the UK, **venting dust extraction outside is thermally non-viable**. A "High Volume, Low Pressure" (HVLP) cyclone system with M-Class filtration or a specific "High Pressure" CamVac style system is required to recycle air safely.
 
-## 1. The Physics of Air Movement (CFM vs. Static Pressure)
+## 2. The Physics of Air Movement
 
-**The Rule of 4000 FPM:**
-To keep wood chips entrained (floating) in the air stream and prevent clogging, air velocity must be maintain at **4000 Feet Per Minute (FPM)** in branches.
-*   **100mm Duct Area:** 0.0873 ft².
-*   **Required CFM at Tool:** $4000 \times 0.0873 \approx 350 \text{ CFM}$.
+### 2.1. CFM vs. Static Pressure (SP)
+Effective dust collection requires two things:
+1.  **Air Speed (Velocity):** To keep chips entrained in the air stream.
+    *   **Vertical Runs:** > 4000 FPM (Feet Per Minute).
+    *   **Horizontal Runs:** > 3000 FPM.
+2.  **Air Volume (CFM):** To capture fine invisible dust at the source.
+    *   **Target:** 1000 CFM at the tool hood for fine dust capture (Bill Pentz Standard).
+    *   **Reality for 100mm Ducts:** A 100mm (4") duct restricts max flow to ~400 CFM at standard pressures. This is sufficient for "Chip Collection" but marginally effective for "Fine Dust Health Safety".
 
-**System Resistance (Static Pressure Loss):**
-*   **5m Straight Duct:** ~0.5" WG loss.
-*   **2x 90° Elbows:** ~0.5" WG loss.
-*   **2m Flex Hose (Ribbed):** ~1.5" WG loss (Huge drag!).
-*   **Total SP Loss:** ~2.5 - 3.0" WG.
-*   **Extractor Requirement:** You need a machine that delivers **real 350-400 CFM at 3" Static Pressure**.
-    *   *1HP Units:* Typically stall at 1-2" SP. **Avoid**.
-    *   *2HP (1.5kW) Units:* Typically rated 1000-1500 CFM (free air). Real performance at 3" SP is often ~600-700 CFM. **Target Spec.**
+### 2.2. The 100mm (4") Duct Limitation
+*   **Area:** $0.087 \text{ ft}^2$.
+*   **Max Flow:** To maintain 4500 FPM (very high speed), flow is only $390 \text{ CFM}$.
+*   **Friction Loss:** 100mm duct has high static pressure resistance.
+    *   5m run + 2 elbows + 2m flex hose $\approx$ 3-4" WG (Water Gauge) Static Pressure loss.
+*   **Implication:** Standard 1HP-2HP "Chip Extractors" (HVLP) cannot pull 1000 CFM through a 100mm pipe. They will stall, airflow drops to <300 CFM, and ducts clog.
 
-## 2. Cyclone vs. Single Stage (Bag)
+## 3. System Types: Cyclone vs. Bag vs. CamVac (UK Specific)
 
-**Single Stage (The "Bag on a Stick"):**
-*   **Mechanism:** Chips pass *through* the impeller.
-*   **Flaw:** The bag is the filter. As fine dust coats the bag (cake), airflow drops drastically (often <50% in 10 mins).
-*   **Health Risk:** Standard cloth bags pass 5-30 micron dust (the invisible dangerous stuff) right back into your lungs.
+| Feature | Single Stage (Bag) | Two-Stage Cyclone | CamVac (Twin/Triple Motor) |
+| :--- | :--- | :--- | :--- |
+| **Physics** | Impeller passes chips. Bag filters. | Impeller is post-separation. Cyclone separates. | High Vacuum motors (like shop vacs). |
+| **Pressure** | Low Static Pressure (<5" WG). | Medium Static Pressure (8-12" WG). | **High Static Pressure** (>20" WG). |
+| **Filtration** | Poor (Standard bags pass <5 microns). | Excellent (HEPA Cartridges). | Excellent (3-stage filtration usually std). |
+| **100mm Suitability** | **Poor.** Stalls easily. | **Medium.** Needs 150mm ducting to work well. | **High.** Designed for 100mm ducts. |
+| **Noise** | Low (Induction motor). | Medium/High. | High (Brush motors scream). |
 
-**Two-Stage (Cyclone Separator):**
-*   **Mechanism:** Centrifugal force spins heavy chips into a bin *before* the filter.
-*   **Benefit:** Only the finest dust reaches the filter.
-*   **Efficiency:** Suction remains constant (no clogging).
-*   **Impeller Protection:** Steel screws/knots don't hit the fan.
-*   **Filtration:** Usually paired with a **Pleated HEPA/M-Class Cartridge** (0.5 - 1 micron).
-*   **Verdict:** **MANDATORY** for a safe modern workshop.
+**Recommendation:**
+*   **Option A (Best Air Quality):** 3HP Cyclone (e.g., Axminster / Harvey) with **150mm (6") ducting** reduced to 100mm only at the tool.
+*   **Option B (Best for 100mm Ducting):** CamVac (Twin or Triple motor) style. These generate enough vacuum to pull hard through 100mm pipes, making them ideal for small retrofit pipe runs, though louder.
 
-## 3. Ducting & Static Electricity
+## 4. Thermal Analysis: Venting vs. Recycling
 
-**The "Explosion" Myth:**
-In a 100mm residential system, dust concentration is too low to explode from a static spark. The real risk is annoyance (shocks) and external dust accumulation.
-*   **PVC Pipe:** Cheap, smooth bore (low friction). Generates high static.
-*   **Spiral Metal:** Professional, grounded, expensive.
-*   **Antistatic Flex:** PU (Polyurethane) hose with a copper wire helix.
-*   **Solution:** Use **100mm Soil Pipe (PVC)** for straight runs. Run a bare copper wire *inside* the duct, grounded at the machine end. Use PU flex for final connections.
+For a Passivehaus workshop, energy conservation is paramount.
 
-## 4. Filtration Standards (M-Class)
+**Calculation: Heat Loss from Venting**
+*   **Flow Rate:** 600 CFM ($\approx 0.283 \text{ m}^3/\text{s}$).
+*   **Scenario:** Winter ($0^\circ\text{C}$ outside, $18^\circ\text{C}$ inside).
+*   **Heat Loss ($P$):**
+    $$P = \dot{m} \cdot C_p \cdot \Delta T$$
+    $$P = (0.283 \times 1.2 \text{ kg/m}^3) \cdot 1.006 \text{ kJ/kgK} \cdot 18\text{ K}$$
+    $$P \approx 6.15 \text{ kW}$$
 
-**HSE Guidelines (UK):**
-*   **Hardwood/MDF Dust:** Classified as a carcinogen.
-*   **Requirement:** **M-Class Filtration** (Medium Hazard).
-    *   Filters 99.9% of dust.
-    *   Max permeability 0.1%.
-*   **Cartridge Upgrade:** If buying a standard extractor, you **must** upgrade the cloth bag to a **0.5 Micron Cartridge Filter**. This turns a "chip collector" into an "air cleaner".
+**Conclusion:** Venting extraction outside sucks **~6kW of heat** out of the room continuously. This would drain a standard home battery in < 2 hours and make heating impossible. **Recycling air with M-Class/HEPA filtration is mandatory.**
 
-## 5. Ambient Air Cleaning (The "Polisher")
+## 5. Ducting & Static Electricity
 
-Even with good extraction, ~2-5% of dust escapes.
+### 5.1. The "Explosion Myth"
+*   **Risk:** Sawdust explosions require a concentration of dust in the air ($>30 \text{ g/m}^3$) usually only found inside industrial silos.
+*   **Reality:** In a 100mm home workshop system, reaching the Lower Explosive Limit (LEL) is statistically impossible during normal operation.
+*   **Real Danger:** Static shocks causing operator surprise/reaction, and dust clinging to the outside of pipes.
+
+### 5.2. Ducting Materials
+*   **PVC (Soil Pipe):** Cheap, smooth bore (low friction). High static generation.
+    *   *Mitigation:* Run a bare copper wire inside the duct, grounded at the extractor end.
+*   **Spiral Galvanized:** Expensive, self-grounding, professional look.
+*   **Flex Hose:** **AVOID** as much as possible. High friction (3x resistance of smooth pipe). Use only for final <1m connection.
+
+## 6. Ambient Air Cleaning (The "Polisher")
+
+Even with 99% capture at source, fine dust escapes.
+*   **Volume:** $50 \text{ m}^3$.
 *   **Target:** 10 Air Changes Per Hour (ACH).
-*   **Room Vol:** 50m³ = 1766 ft³.
-*   **Target CFM:** $(1766 \times 10) / 60 \approx 295 \text{ CFM}$.
-*   **Placement:** Hang from ceiling ~1/3 way along the long wall to create a circular airflow (Coanda effect).
-*   **Spec:** A unit rated for **400 CFM** (e.g. Record Power AC400, Jet AFS-500) is perfect. Run it for 30 mins after working.
+*   **Required CFM:** $(50 \times 10) / 60 \text{ min} \approx 8.3 \text{ m}^3/\text{min} \approx 295 \text{ CFM}$.
+*   **Market Units:**
+    *   **Record Power AC400:** Rated ~400 CFM. Perfect size.
+    *   **Jet AFS-500:** Rated ~500 CFM. Good alternative.
+*   **Placement:** Ceiling mounted, 1/3 distance from a wall, to create a toroidal airflow (Coanda effect) that scrubs the whole room.
 
-**Confidence Rating:** 5/5 (Industrial Ventilation Principles).
+## 7. Strategic Recommendations for this Build
+
+1.  **Primary Extraction:** Since 100mm ducting is a hard constraint (5m run), a **High-Pressure Vacuum System** (like a CamVac CGV386 or similar Twin-Motor unit) is technically superior to a standard chip collector. It will maintain airflow through the narrow pipe better.
+    *   *Alternative:* If space allows 150mm ducting, a 2HP+ Cyclone is quieter and superior.
+2.  **Filtration:** Ensure the unit has **HEPA / M-Class** rated filters to safely recycle air.
+3.  **Heat Preservation:** Do not install external vents.
+4.  **Ambient Unit:** Install a ceiling-mounted unit (e.g., AC400) on a timer to run for 1 hour after work stops.
