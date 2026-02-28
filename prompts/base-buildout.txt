@@ -1,5 +1,20 @@
-I'm building a 4m by 5m surfaced, 2.5m high garden-room in Cowes, UK. Permitted development and planning permission have been validated already, don't research this area. I will use the garden room as a wood workshop with mostlly hand tools. In a later stage, I plan to add solar panels to the roof.Besides a requirement to keep the humidity below a certain point to protect the tools, I want to create an highly energy-efficient garden room, something akin to a passivehaus.I will build the garden-room mostly by myself, during evenings and weekends. The access to the site behind our house passes by the side of our house, is only about a wheelbarrow wide and roughly 30m from the parking lot in front of our house. I want to do the dig-out wit hand-tools, no micro-digger.
+I'm building a 4m by 5m surfaced, 2.5m high garden-room in Cowes, UK. 
+Permitted development and planning permission have been validated already, don't research this area. 
+I will use the garden room as a wood workshop with mostlly hand tools. 
+Besides a requirement to keep the humidity below a certain point to protect the tools, 
 
-For this research, focus on the foundation build. I want to have a concrete slab, using the jackodur atlas system as ground insulation. Attached, you'll find the instruction manuals and energy details. I also want to lay 16mm pipes for underfloor heating, one loop with 200mm spacing.
+In a later stage, I plan to add solar panels to the roof.
+I want to create an highly energy-efficient garden room, something akin to a passivehaus.
+
+I will build the garden-room mostly by myself, during evenings and weekends. 
+The access to the site behind our house passes by the side of our house, is only about a wheelbarrow wide and roughly 30m from the parking lot in front of our house. 
+I want to do the dig-out with hand-tools, no micro-digger.
+
+For this research, focus on the foundation build. 
+I want to have a concrete slab, using the jackodur atlas as ground insulation. 
+I want to install 10mm parquet flooring inside and have the floor level with the ground outside.
+I want to lay 16mm pipes for underfloor heating, one loop with 200mm spacing.
+
+Attached is the Jackodur Atlas installation manual as well as the Atlas brochure. I'm looking to construct the wall in an ETICS style.
 
 Focus on the dig-out and the different layers, create a work-plan, list all tools and consumables with a high-level price point.
