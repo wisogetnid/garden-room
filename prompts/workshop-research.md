@@ -1,0 +1,1 @@
+start the [research process](research-process.md) with the [research context](workshop-research-context.md) and following [research areas](workshop-research-areas.md)

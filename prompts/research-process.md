@@ -1,7 +1,4 @@
-Prompt for o@general 
-Ask the user for a file containing all areas to be researched.
-Ask the user for a file with research context
-Execute each research area in the file in parallel with the research context passed in. For each task, spawn a sub-session and execute following process.
+Execute each research area in parallel with the research context passed in. For each task, spawn a sub-session and execute following process.
 
     Branch: Create and switch to a new branch named research/[topic-name].
 
