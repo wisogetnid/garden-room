@@ -36,7 +36,7 @@ To achieve acoustic mass without sacrificing internal space to "Twin-Stud" frami
 
 ### The Entryway
 * Symmetrical French doors are rejected due to acoustic failure at the meeting stile. 
-* **The Asymmetric "1.5" Door:** A 1000mm active timber/aluminum composite leaf coupled with a 400mm-500mm bolted slave leaf. Provides a Passivhaus-level seal for daily use, but opens to 1.4m+ to wheel in heavy machinery or 8x4 sheet goods.
+* **The Asymmetric "1.5" Door:** A 1000mm active timber/aluminum composite leaf coupled with a 400mm-500mm bolted slave leaf. Provides a Passivhaus-level seal for daily use, but opens to 1.4m+ to wheel in heavy machinery or 8x4 sheet goods. To maintain the flush floor without sacrificing acoustics, the doors will be fitted with **Surface-Mounted Automatic Drop Seals** that plunge a rubber gasket to the floor when closed.
 
 ---
 
@@ -50,6 +50,7 @@ To achieve acoustic mass without sacrificing internal space to "Twin-Stud" frami
 ### Dust Extraction (Internal Recirculation)
 * Venting dust outside destroys the Passivhaus airtightness and dumps all your expensive heat. Therefore, we will use an **Internal Recirculating HVLP System**.
 * **The Cyclone:** An Oneida Dust Deputy (or equivalent cyclone pre-separator) is mandatory. It uses centrifugal force to spin out 99% of the wood waste before it hits the extractor, preventing the fine dust from blinding the expensive HEPA filters required for safe indoor recirculation.
+* **Secondary Defense (Ambient Purifier):** A ceiling-mounted **Ambient Air Purifier** (e.g., Axminster AW15AFS) is required to constantly scrub the air of escaped PM2.5 "dust flour" that the main extraction misses, preventing it from permanently suspending in the airtight room and blinding the dMVHR system.
 * **Ducting Paths:** Rigid, smooth-bore galvanized metal ducting (or grounded anti-static PVC) running high along the walls/ceiling inside the service cavity or exposed, dropping down vertically to blast gates at each major machine to minimize static build-up and airflow friction.
 
 ### Moisture & Climate Control
@@ -65,7 +66,7 @@ To achieve acoustic mass without sacrificing internal space to "Twin-Stud" frami
 * **Week 1: Groundworks.** Excavation of the active clay zone. Lay MOT Type 1 hardcore, sand blinding, 1200-gauge DPM, and assemble the EPS insulated raft formwork. Suspend steel B500A/B mesh on chairs.
 * **Week 2: The Pour.** Concrete pumped or barrowed in (Hired help highly recommended for this day). Power float the finish for the heavy machinery.
 * **Weeks 3 - 6: The Mandatory Curing Halt.** All construction stops for exactly 4 weeks to allow the concrete to release hundreds of liters of water into the atmosphere, ensuring a dry base for the timber.
-* **Week 7: Sole Plates & Framing.** Apply liquid DPM/swelling mastics under the treated timber sole plates. Erect the 140x38mm timber wall frames and the roof joists. 
+* **Week 7: Sole Plates & Framing.** Apply liquid DPM/swelling mastics and a high-density rubber/neoprene **Acoustic Isolation Strip** under the treated timber sole plates to decouple machine vibrations from the walls. Erect the 140x38mm timber wall frames and the roof joists. 
 * **Week 8: The Warm Roof.** Install roof OSB deck, rigid PIR roof insulation, and glue down the EPDM rubber membrane to achieve immediate overhead weathertightness.
 * **Week 9: The External Envelope.** Install wall OSB sheathing, continuous external wood fibre/XPS, Tyvek breather membrane, thermally broken A4 battens, and the Fibre Cement/Millboard cladding.
 * **Week 10: The Door Install.** Fit the Asymmetric 1.5 Door. Meticulously apply Pro Clima tapes to seal the door frame directly to the future VCL line. 
@@ -73,3 +74,13 @@ To achieve acoustic mass without sacrificing internal space to "Twin-Stud" frami
 * **Week 12: Service Cavity & First Fix.** Install the 25mm horizontal battens over the VCL. Run all electrical wiring, sub-main connections, and ceiling dust extraction ducting paths *inside* this cavity. 
 * **Week 13: Internal Boarding.** Haul and install the Fermacell "One-Man" acoustic boards. Tape and joint the seams (or skim coat).
 * **Week 14: Second Fix & Commissioning.** Install Type C breakers, IP66 sockets, and lighting. Commission the dMVHR units and Dehumidifier. Bring in the heavy cast-iron machinery and calibrate the workshop.
+
+---
+
+## 5. Regulatory Compliance & Fire Safety
+
+Because this 20m² timber-framed structure sits within 1m of the boundary fences (West and South), it is **not exempt from Building Regulations**. 
+
+* **Building Control Notification:** A Building Notice must be submitted to the Isle of Wight Council prior to construction. 
+* **Part B (Fire Safety):** The structure must meet "substantially non-combustible" criteria. The specified A2-rated Fibre Cement cladding on the exterior boundary walls, coupled with the non-combustible A1-rated Rockwool insulation and fire-resistant Fermacell interior boards, satisfies these requirements.
+* **Part P (Electrical):** The trenching of the SWA armored cable and the installation of the dedicated workshop consumer unit must be designed, installed, and certified by a Part P registered electrician to pass Building Control inspection.
