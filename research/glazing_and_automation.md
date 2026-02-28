@@ -1,55 +1,100 @@
-# Glazing & Automation Strategy: High Performance
+# Research: Glazing & Automation (2026 Trends)
 
-**Context:**
-- **Goal:** Maximise natural light, minimise heat loss/gain.
-- **Orientation:** South-facing (Solar gain risk).
-- **Environment:** Workshop (Dust).
+## Executive Summary
+For a DIY garden workshop aiming for Passivhaus standards in Cowes, UK (North/North-East facing), **Vacuum Insulated Glazing (VIG)** offers the best balance of thermal performance and manageability (weight/thickness). While **Smart Glass** is evolving, its cost-benefit for a North-facing workshop is low compared to high-performance Low-E coatings. **Integrated Blinds** with Matter support are highly recommended for dust control in a woodworking environment.
 
-## 1. Vacuum Insulated Glazing (VIG) vs. Triple Glazing
+---
 
-**Vacuum Insulated Glazing (e.g., LandVac, Pilkington Spacia):**
-*   **Technology:** Two panes separated by 0.1mm vacuum gap with micro-spacers.
-*   **Performance:**
-    *   **U-Value:** **0.4 - 0.5 W/m²K** (Centre pane).
-    *   **Thickness:** **8.3mm** (Thinner than single glazing!).
-    *   **Weight:** ~20kg/m².
-*   **Pros:** Incredible insulation in a slim profile. Retrofits into standard frames.
-*   **Cons:** **Extreme Cost** (£400+/m²). Visible micro-dots.
-*   **Verdict:** **Niche**. Best for heritage windows, not cost-effective for a new build garden room.
+## 1. High-Spec Glazing: VIG vs. Triple Glazing
 
-**Triple Glazing (e.g., Planitherm One):**
-*   **Technology:** 3 panes, 2 cavities (Argon/Krypton fill), Low-E coatings.
-*   **Performance:**
-    *   **U-Value:** **0.6 - 0.8 W/m²K** (Whole window Uw ~0.8-0.9).
-    *   **Thickness:** **44mm** (4-16-4-16-4).
-    *   **Weight:** **30-40kg/m²**.
-*   **Pros:** Excellent thermal & acoustic performance. Standard industry availability.
-*   **Cons:** Heavy. Reduces light transmission slightly (Light Transmittance ~70%).
-*   **Verdict:** **Winner**. The standard for high-performance builds.
+### Vacuum Insulated Glazing (VIG) - The 2026 "Game Changer"
+*   **Technology:** Two panes of glass separated by a vacuum gap (0.1-0.3mm), kept apart by micro-spacers.
+*   **Performance (U-Value):** 0.4 - 0.7 W/m²K (Center pane). Comparable to or better than triple glazing.
+*   **Thickness:** Extremely thin (6mm - 10mm total).
+*   **Weight:** ~20kg/m² (Similar to single/double glazing).
+*   **DIY Implications:** 
+    *   **Handling:** significantly lighter than triple glazing, making it feasible for a solo builder.
+    *   **Framing:** Requires less depth in timber frames (standard 50-70mm rebates are fine), reducing timber costs and thermal bridging.
+*   **Cost:** Higher upfront (~£300-£500/m²), but offset by savings in structural timber and ease of installation.
 
-## 2. Solar Control Strategy (South Facing)
+### Triple Glazing - The Standard Approach
+*   **Technology:** Three panes with two gas-filled cavities (Argon/Krypton).
+*   **Performance (U-Value):** 0.5 - 0.8 W/m²K.
+*   **Thickness:** Bulky (36mm - 44mm typical).
+*   **Weight:** ~30kg - 45kg/m² (Heavy!).
+*   **DIY Implications:** 
+    *   **Handling:** Dangerous for a solo builder to install large units (e.g., patio doors). Requires heavy-duty lifting gear or multiple helpers.
+    *   **Framing:** Requires deep rebates and stronger lintels/headers to support the weight.
+*   **Cost:** Moderate (~£150-£250/m²).
 
-**The Physics:**
-A south-facing workshop acts as a greenhouse.
-*   **Standard Glass (g-value ~0.7):** Admits 70% of solar heat. Great in winter, lethal in summer.
-*   **Solar Control Glass (e.g., SKN 176):**
-    *   **g-value:** **0.37** (Blocks 63% of solar heat).
-    *   **Light Transmittance:** **70%** (Still bright).
-    *   **U-Value:** **1.0 W/m²K** (Double Glazed unit).
-*   **Trade-off:** You lose free winter heating.
-*   **Recommendation:** **Avoid Solar Control Glass** if possible. Instead, use **Structural Shading** (Roof Overhang / Brise Soleil) designed to block high summer sun (June ~60° altitude) but admit low winter sun (Dec ~15° altitude). This is passive intelligence.
+### Recommendation
+**Go with Hybrid VIG (VIG + 1 Low-E pane).**
+This combination offers U-values as low as 0.3 W/m²K, remains lighter than triple glazing, and fits standard profiles. For a DIY build with limited access (wheelbarrow only), the weight reduction of VIG is critical.
 
-## 3. Automation: Matter & Thread (2026 Standard)
+---
 
-**Blind Control:**
-In a dusty workshop, internal blinds get dirty.
-*   **Solution A: Integrated Blinds (Between Glass):** Sealed unit. Dust free. Expensive. Often manual or proprietary motorized.
-*   **Solution B: Smart Roller Blinds (Internal):**
-    *   **Technology:** **Thread** (Networking protocol) + **Matter** (Smart Home Standard).
-    *   **Product:** **Eve MotionBlinds** (Coulisse motors).
-        *   **Connectivity:** Connects directly to Apple Home/Google Home via Thread Border Router (HomePod Mini / Nest Hub). No proprietary bridge required.
-        *   **Power:** USB-C Rechargeable battery (lasts 6-12 months).
-        *   **Features:** "Adaptive Shading" - closes automatically based on sun position/temp.
-*   **Recommendation:** **Eve MotionBlinds Upgrade Kit** for standard roller blinds. Cost-effective, reliable, future-proof.
+## 2. Smart Glass Trends (2026)
 
-**Confidence Rating:** 5/5 (Glass Tech & Smart Home Protocols).
+*   **Electrochromic (Dynamic Tinting):** 
+    *   *Examples:* Halio, SageGlass.
+    *   *Function:* Tints on demand to block glare/heat.
+    *   *Pros:* Eliminates blinds, perfect solar control.
+    *   *Cons:* Very expensive, complex wiring, slow transition times (though improving).
+    *   *Relevance:* Low for North/NE facing. Glare is less of an issue than heat retention.
+*   **PDLC (Privacy Glass):**
+    *   *Function:* Switches from opaque to transparent.
+    *   *Relevance:* Good for privacy from neighbours (West/South), but doesn't offer significant thermal benefits.
+
+---
+
+## 3. Matter-Compatible Motorized Blinds
+
+For a workshop, dust is the enemy. **Integrated Blinds (Between Glass)** are the gold standard.
+
+### Integrated Systems (Sealed Unit)
+*   **ScreenLine (Pellini):** Market leader. Magnetic transmission (no holes in glass).
+*   **Control:**
+    *   *Wired:* 24V motor inside the headrail. Connect to a Matter-compatible relay (e.g., **Shelly Plus 2PM** flashed with Matter firmware or via Home Assistant).
+    *   *Solar/Battery:* Rechargeable battery on the frame.
+*   **Matter Integration:** 
+    *   Use a **Bond Bridge Pro** or **Somfy TaHoma Switch** (Matter bridge) to expose RF blinds to Apple Home/Google Home.
+    *   **Eve MotionBlinds** (Thread/Matter) are available as retrofit motors for roller blinds, but less common for *integrated* slats.
+
+### Recommendation
+Prioritize **ScreenLine C-System (Wired Motor)** integrated blinds.
+*   **Why:** No dust on slats.
+*   **Automation:** Wire to a Shelly relay or similar smart switch that supports Matter. This is robust, hardwired (no batteries to charge), and future-proof.
+
+---
+
+## 4. Solar Reflective Coatings (G-Value)
+
+### The Physics
+*   **G-Value:** The percentage of solar heat that enters the room (0.0 - 1.0).
+*   **Low-E (Emissivity):** Keeps internal heat IN (Winter priority).
+
+### Analysis for Cowes Garden Room
+*   **Orientation:** North / North-East.
+*   **Solar Gain:** Limited. The "Greenhouse Effect" is less of a risk than in South-facing rooms.
+*   **Strategy:**
+    *   **DO NOT** use high solar control glass (low g-value like 0.2-0.3) on North windows. You *want* the free solar gain on the few days you get it.
+    *   **DO** use high-performance **Soft-Coat Low-E (Planitherm One or similar)**. This reflects ~96% of internal heat back into the room.
+    *   **West Facing (Neighbours):** If there are high-level windows, use privacy glass or standard Low-E. Solar gain here is late evening (summer only).
+
+### Cost-Benefit
+*   **Solar Control Glass:** Adds ~15-20% to cost.
+*   **Benefit:** Negative for North facing (losses free heat).
+*   **Verdict:** Skip solar control. Invest in the lowest possible U-value (VIG) instead.
+
+---
+
+## Summary of Recommendations for Master Plan
+
+1.  **Glazing:** Hybrid VIG (Vacuum + Low-E).
+    *   *Target U-value:* < 0.5 W/m²K.
+    *   *Reason:* Weight saving for DIY installation, superior thermal performance.
+2.  **Blinds:** Integrated Magnetic Blinds (ScreenLine).
+    *   *Automation:* Hardwired 24V motors controlled via Matter-compatible relays (Shelly/Eve).
+    *   *Reason:* Dust-free, zero maintenance.
+3.  **Coatings:** High-performance Low-E (e.g., Saint-Gobain Planitherm One).
+    *   *Reason:* Maximize heat retention. Avoid solar control coatings on North face.
