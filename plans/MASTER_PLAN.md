@@ -18,9 +18,7 @@
 | **Damp Proof Membrane (DPM)** | 1200-gauge Polythene | Loose laid, taped seams, folded up edges by min 250mm | Primary defense against rising damp. |
 | **Under-Slab Thermal Break** | XPS (Extruded Polystyrene) - 300kPa Compressive Strength | Friction fit inside EPS ring beam formwork | Prevent cold-bridging into the earth; 300kPa required to prevent slab settlement under heavy loads. |
 | **Steel Reinforcement** | A193 Steel Mesh | Suspended on 50mm plastic concrete 'chairs' | Provide tensile strength to concrete; 50mm cover prevents coastal chloride corrosion. |
-
 | **Heating Integration** | 16mm PEX-a Wet UFH Pipework | Zip-tied to the A193 Steel Mesh @ 150mm centers before pour | **Baseline heating/cooling:** Embedded into the thermal mass. Powered by an external Air Source Heat Pump (ASHP). |
-
 | **Concrete Slab** | Min 100mm thick (C25/30 mix) | Poured in-situ, power-floated finish | High-mass structural base; dampens low-frequency machinery vibration. |
 
 ### 1.2 Splash Zone, DPC, and Vermin Protection
