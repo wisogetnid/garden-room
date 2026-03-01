@@ -21,14 +21,27 @@
 | **Heating Integration** | 16mm PEX-a Wet UFH Pipework | Zip-tied to the A193 Steel Mesh @ 150mm centers before pour | **Baseline heating/cooling:** Embedded into the thermal mass. Powered by an external Air Source Heat Pump (ASHP). |
 | **Concrete Slab** | Min 100mm thick (C25/30 mix) | Poured in-situ, power-floated finish | High-mass structural base; dampens low-frequency machinery vibration. |
 
-### 1.2 Splash Zone, DPC, and Vermin Protection
-*   **The 'Splash' Zone Upstand:** The external brick/block upstand (or perimeter EPS formwork rendered with polymer cement) must extend a minimum of **150mm above external ground level**. This prevents coastal rain splashback from rotting the timber sole plate.
-*   **DPC / DPM Lapping:** A polymeric Damp Proof Course (DPC) must be laid exactly under the timber sole plate. The 1200-gauge internal DPM (which was folded up the sides of the slab) must be folded *over* the top of the slab edge and **lapped beneath the DPC by a minimum of 100mm**, sealed with double-sided butyl tape.
-*   **Vermin Protection:** 
-    *   *Material:* 316 Marine-Grade Stainless Steel Woven Wire Mesh.
-    *   *Gauge:* 6mm x 6mm aperture, 0.7mm wire thickness.
-    *   *Fixing:* Stapled continuously across the bottom of the external rain-screen ventilation gap (behind the cladding) and at any sub-floor vents using stainless steel staples.
-    *   *Purpose:* Prevents coastal rodents from entering the warm sub-floor void or climbing the ventilation cavity.
+### 1.3 Ground-to-Wall Interface Details (Slab-to-Wall Junction)
+
+**Objective:** Ensure zero thermal bridging ('Red Line' test), block coastal wind-driven rain from wicking into the timber, and securely anchor the structure to the insulated floating raft.
+
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose |
+| :--- | :--- | :--- | :--- |
+| **1. Perimeter Drainage** | 200mm Wide French Drain | Trench filled with 20mm washed gravel | Ensures coastal wind-driven rain instantly drains away from the JACKODUR® XPS upstand. |
+| **2. Upstand Waterproofing**| Flexible Polymer-Cement Render | Trowelled over the exposed JACKODUR® upstand | Protects the XPS from UV degradation and mechanical damage above ground. |
+| **3. Base Drip Flashing** | Stainless Steel Drip Profile | Screwed to the base batten, kicking out over the XPS render | Prevents water from wicking back up into the rain-screen ventilation gap. |
+| **4. Thermal Overlap** | 50mm Wood Fibre External Insulation | Extended downwards to cover the top 50mm of the JACKODUR® XPS upstand | **'Red Line' Continuity:** Locks the wall insulation directly to the foundation insulation, eliminating the cold bridge at the slab edge. |
+| **5. Structural Thermal Break**| **Compacfoam CF200** Block | 140mm x 50mm, sits directly on the concrete edge | Bears the entire structural load of the timber frame while providing high-density thermal and moisture isolation from the concrete. |
+| **6. DPM / DPC Lapping** | 1200-gauge DPM & Polymeric DPC | DPM folded over slab edge, lapped beneath DPC by min 100mm, sealed with Butyl Tape | Completely seals the concrete slab moisture away from the Compacfoam and timber sole plate. |
+| **7. Structural Anchoring** | M12 A4 (316) Stainless Anchor Bolts | Embedded 100mm into concrete via chemical resin @ 1200mm centers | Passes through the sole plate, DPC, and Compacfoam to lock the frame against massive coastal wind uplift. |
+
+**Textual Cross-Section Description (Outside to Inside at Floor Level):**
+*(Outside)* 20mm Washed Gravel French Drain -> JACKODUR® XPS Upstand (Rendered) -> Stainless Drip Flashing -> 50mm Wood Fibre Insulation (overlapping XPS) -> Tyvek Breather Membrane (taped to XPS render) -> 25mm Batten -> Fibre Cement Cladding -> 140x38mm Timber Sole Plate sitting on Compacfoam CF200 block -> Polymeric DPC bonded to 1200g DPM -> 100mm Concrete Slab with embedded 16mm PEX pipe. *(Inside)*
+
+**3 Critical Failure Points During Pour & First Lift:**
+1.  **Concrete Blow-Out:** The JACKODUR® XPS upstand acts as the concrete formwork. If the external perimeter is not properly backfilled with gravel or braced during the pour, the hydrostatic pressure of the wet concrete will blow out the XPS, destroying the thermal tub.
+2.  **DPM Corner Tearing:** Folding the heavy 1200g DPM around the internal 90-degree corner of the XPS tub often leads to punctures. Any hole here ruins the radon and moisture seal.
+3.  **The 'Wicking' Gap:** If the Tyvek breather membrane is not perfectly taped to the rendered face of the JACKODUR® upstand (using a primer and Pro Clima Tescon Vana), coastal wind-driven rain will blow up under the cladding and rot the timber sole plate.
 
 ---
 
