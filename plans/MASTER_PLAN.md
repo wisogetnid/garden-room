@@ -71,6 +71,18 @@
 *   **Corner Junctions:** The VCL must not be pulled tight into structural corners. Leave a 50mm "slack fold" loop pushed into the corner to allow for seasonal timber expansion without ripping the membrane. Tape the overlapping edge with Tescon Vana.
 *   **Window / Door Reveals:** Use **Pro Clima Tescon Profil** (split-backed pre-folded tape). The rigid half adheres to the side profile of the aluminum/timber door frame; the flexible half adheres to the Intello Plus VCL, creating an unbroken bridge across the reveal gap.
 
+### 2.3 Flat Roof Drainage & Rainwater Harvesting (The Water Butt Strategy)
+**Objective:** A 20m² flat roof in Cowes will collect approximately 16,000 liters of water annually. Unmanaged runoff cascading off the roof will instantly overwhelm the local perimeter french drain, causing hydrostatic pressure buildup against the JACKODUR® raft upstand and potentially flooding neighboring boundaries.
+
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose |
+| :--- | :--- | :--- | :--- |
+| **Roof Fall Setup** | Tapered PIR Insulation Boards | Bonded over the 18mm OSB deck | Creates a permanent **1:60 fall** directing water toward a single designated low edge (e.g., the rear/West elevation). |
+| **Drip Edge Trim** | Sure-Edge UPVC Drip Trim | Fixed clamping the EPDM membrane | Prevents water from running back under the EPDM and directs it cleanly into the gutter system. |
+| **Guttering** | 112mm UPVC Deepflow (Black) | Standard fascia brackets | Higher capacity than half-round gutters to handle intense coastal downpours without overflowing the fascia. |
+| **Rainwater Diverter** | 68mm Downpipe Diverter Valve | Cut into the vertical downpipe | Channels rainwater into the water butt until full, then automatically redirects the excess. |
+| **Water Butt** | 200L to 250L Slimline Butt | Sitting on a stable block plinth | Eco-friendly harvesting for garden use, drastically reducing sudden shock loads on the ground drainage. |
+| **The Overflow (CRITICAL)**| 68mm UPVC Pipe | Piped from diverter to a Soakaway Crate | A 200L butt fills in a single heavy storm. The overflow **must not** dump at the base of the foundation. It must be piped to a dedicated soakaway located at least 3m-5m away from the foundation. |
+
 ---
 
 ## 3. Structural Rigidity & Vibration Logic
