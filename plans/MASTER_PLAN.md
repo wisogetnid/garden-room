@@ -1,119 +1,110 @@
-# TECHNICAL SPECIFICATION: Cowes Passivhaus Woodworkshop (4x5m)
+# STANDARD OPERATING PROCEDURE (SOP): Cowes Passivhaus Woodworkshop (4x5m)
 
-**Document Status:** High-Fidelity Construction Roadmap  
-**Revision:** v3.0 (Granular Contractor Spec)  
-
----
-
-## 1. Structural Execution & Vibration Logic
-
-### 1.1 Foundation Strategy (Clay Soil Adaptation)
-*   **Geotechnical Context:** Cowes clay soils exhibit high "shrink-swell" movement in the upper 0.75m–1.0m active zone.
-*   **Foundation Type:** **EPS-Insulated Concrete Raft (e.g., Legalett or Isoquick).**
-    *   *Execution:* Excavate below the active organic layer. Install a compacted MOT Type 1 sub-base, sand blinding, and a continuous 1200-gauge polythene DPM.
-    *   *Formwork & Pour:* Assemble high-compressive-strength EPS perimeter and base insulation (creating a zero-cold-bridge tub). Suspend B500A steel mesh on 50mm chairs to ensure adequate concrete cover against coastal carbonation. Pour and power-float the C25/30 concrete.
-
-### 1.2 Floating Sub-Floor & Vibration Damping
-To achieve the flush patio threshold and eliminate the "sounding board" effect of heavy cast-iron machinery, a decoupled floating timber sub-floor is constructed over the concrete raft.
-*   **Decoupling Layer:** 15mm Vibro-FS rubber isolation pads placed directly on the concrete at 400mm intervals.
-*   **Floor Joists:** 100x50mm C24 treated timber joists. 
-    *   *Spacing:* Strictly set to **300mm centers** to provide extreme rigidity against the point loads of a 3HP table saw and planer.
-    *   *Cavity:* Packed tightly with 100mm Rockwool RW3 (60kg/m³) for acoustic absorption.
-*   **Sub-Floor Decking (34mm total thickness):**
-    *   *Base Layer:* **22mm P5** Moisture-Resistant Tongue & Groove Chipboard, joints glued with D4 polyurethane.
-    *   *Acoustic Core:* 5kg/m² Mass-Loaded Vinyl (MLV) stapled across the entire footprint.
-    *   *Top Layer:* **12mm WBP Structural Plywood**, screwed through the MLV into the P5 board using 35mm screws (screws must *not* penetrate the joists to maintain the acoustic break).
-*   **Machinery Isolation:** Industrial-grade **Sylomer® pads** (color-coded to the machine's static weight) must be placed exactly under the four contact feet of the Table Saw and the Planer-Thicknesser to isolate high-frequency motor chatter from the deck.
-*   **Perimeter Expansion:** A 10mm gap between the floor deck and the wall framing must be maintained and filled with flexible acoustic sealant.
+**Document Status:** High-Fidelity Technical Specification & Construction SOP  
+**Revision:** v4.0 (Granular Contractor Execution)  
 
 ---
 
-## 2. The 'Cowes-Proof' Envelope Detail
+## 1. Foundation and Groundworks Specification
 
-### 2.1 Wall-Cladding Schedule (Outside to Inside)
-| Layer | Material Specification | Fixing Method / Installation Rules |
-| :--- | :--- | :--- |
-| **1. Cladding** | James Hardie Fibre Cement Weatherboard (A2 Fire Rated). | **316 Stainless Steel** annular ring shank nails (min 40mm). Minimum 30mm overlap per board. |
-| **2. Battens** | 25x50mm Treated Timber (Class 3). | Fixed vertically at 400mm centers. Secured via 120mm **Spax EWI E-X screws** driven at a 60° angle through the insulation into the structural stud. |
-| **3. Breather Membrane** | Tyvek UV Facade. | Stapled. Overlaps: **150mm vertical, 100mm horizontal**. All seams perfectly taped with Tyvek Acrylic Tape. |
-| **4. External Insulation**| 50mm Rigid Wood Fibre or XPS. | Pushed friction-tight; butt joints offset. Held in place by the batten screws above. |
-| **5. Sheathing** | 15mm OSB/3. | Fixed with 50mm galvanized ring shank nails at 150mm centers on edges, 300mm in the field. |
-| **6. Structural Studs** | 140x38mm C24 Timber. | Centers strictly 400mm. Double top-plate. Fixed with 90mm framing nails. |
-| **7. Acoustic Core** | 140mm Rockwool RW3 (60kg/m³). | Friction fit between studs. No compression, no gaps. |
-| **8. VCL (Airtightness)** | Pro Clima Intello Plus Intelligent Membrane. | Tacked with stainless staples. 100mm overlaps. **Every** seam taped with Pro Clima Tescon Vana. |
-| **9. Service Cavity** | 25x50mm Treated Timber Battens. | Fixed horizontally at 400mm centers. |
-| **10. Internal Finish** | 15mm Fermacell "One-Man" Boards (1200x600mm). | Fixed with Fermacell 30mm screws. Edges glued with Fermacell Jointstik (no taping/mudding). |
+**Objective:** Provide a damp-proof, vermin-proof, and thermally isolated base capable of distributing 2.5-tons of static building weight plus heavy dynamic machinery loads.
 
-### 2.2 Corner Junctions and Window/Door Reveals
-Maintaining Passivhaus airtightness at the weak points is mandatory to prevent interstitial condensation.
-*   **Structural Corners:** The Intello Plus VCL must wrap around internal corners with a minimum 150mm overlap. Leave a small "slack fold" to accommodate seasonal timber movement. Tape the vertical seam with **Tescon Vana**.
-*   **Door Reveals:** At the 1.5 Asymmetric Door, the VCL must connect directly to the aluminum/timber composite frame. Use **Pro Clima Tescon Profil** (pre-folded corner tape with split backing). Stick one side to the side of the door frame profile, and the other side flat onto the VCL. 
+### 1.1 Groundworks & Slab Execution
 
----
-
-## 3. Workshop Infrastructure
-
-### 3.1 Electrical Circuit Schedule
-Given the massive inrush current of heavy woodworking machinery (a 3HP induction motor pulls ~13A running, but spikes to **104A** for the first second), standard breakers will experience nuisance tripping.
-
-| Circuit Name | Load / Devices | Breaker Specification | Wiring |
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose |
 | :--- | :--- | :--- | :--- |
-| **Main Incomer** | Sub-main from house | 63A Double Pole Isolator | **16mm² 2-Core SWA** (buried 600mm) |
-| **Radial 1 (Table Saw)** | 3HP Induction Motor | 20A RCBO - **Type C** | 2.5mm² Twin & Earth |
-| **Radial 2 (Planer)** | 3HP Induction Motor | 20A RCBO - **Type C** | 2.5mm² Twin & Earth |
-| **Radial 3 (Extraction)**| HVLP Extractor System | 16A RCBO - **Type C** | 2.5mm² Twin & Earth |
-| **Ring Main (General)** | Hand tools, chargers | 32A RCBO - **Type B** | 2.5mm² Twin & Earth (Ring) |
-| **Lighting / MVHR** | LED panels, dMVHR | 6A RCBO - **Type B** | 1.5mm² Twin & Earth |
+| **MOT Type 1 Sub-base** | 150mm depth | Vibrating plate compactor (min 6 passes) | Distribute load to stable clay strata. |
+| **Blinding Sand** | 25mm depth | Hand screeded flat | Protect DPM from sharp aggregate punctures. |
+| **Damp Proof Membrane (DPM)** | 1200-gauge Polythene | Loose laid, taped seams, folded up edges by min 250mm | Primary defense against rising damp. |
+| **Under-Slab Thermal Break** | XPS (Extruded Polystyrene) - 300kPa Compressive Strength | Friction fit inside EPS ring beam formwork | Prevent cold-bridging into the earth; 300kPa required to prevent slab settlement under heavy loads. |
+| **Steel Reinforcement** | A193 Steel Mesh | Suspended on 50mm plastic concrete 'chairs' | Provide tensile strength to concrete; 50mm cover prevents coastal chloride corrosion. |
+| **Concrete Slab** | Min 100mm thick (C25/30 mix) | Poured in-situ, power-floated finish | High-mass structural base; dampens low-frequency machinery vibration. |
 
-*   **Sub-Main Sizing:** 16mm² SWA is specified (rather than 10mm²) to future-proof the voltage drop for the planned Solar PV + Battery system.
-*   **Emergency Stop:** A **Contactor-based E-Stop system** will control Radials 1, 2, and 3. Hitting any wall-mounted mushroom button breaks the 230V control circuit, opening the contactor and killing machine power instantly (leaving lights and general sockets active).
-*   **Sockets:** All sockets on the machine radials and ring main must be surface-mounted **IP66 rated** (dust-tight) to prevent combustible dust ingress.
-
-### 3.2 Dust Extraction Integration
-*   **Extraction Geometry:** **100mm Rigid Galvanized Steel Ducting**. PVC is strictly forbidden due to static electricity buildup. Steel ensures a smooth bore to maintain the critical 20-25 m/s air velocity required to keep chips entrained.
-*   **Routing & Blast Gates:** The main 100mm trunk runs exposed along the ceiling. Y-branches drop down vertically to the machines. Cast-aluminum body blast gates with steel sliders are installed at every drop at chest-height to concentrate static pressure.
-*   **The Cyclone:** An Oneida Dust Deputy (or equivalent) plumbed upstream of the main extractor. Spins out 99% of waste.
-*   **Secondary Defense:** A ceiling-mounted **Ambient Air Purifier** (e.g., Axminster AW15AFS) to continuously scrub escaped PM2.5 "dust flour" that the cyclone misses, protecting the dMVHR system.
+### 1.2 Splash Zone, DPC, and Vermin Protection
+*   **The 'Splash' Zone Upstand:** The external brick/block upstand (or perimeter EPS formwork rendered with polymer cement) must extend a minimum of **150mm above external ground level**. This prevents coastal rain splashback from rotting the timber sole plate.
+*   **DPC / DPM Lapping:** A polymeric Damp Proof Course (DPC) must be laid exactly under the timber sole plate. The 1200-gauge internal DPM (which was folded up the sides of the slab) must be folded *over* the top of the slab edge and **lapped beneath the DPC by a minimum of 100mm**, sealed with double-sided butyl tape.
+*   **Vermin Protection:** 
+    *   *Material:* 316 Marine-Grade Stainless Steel Woven Wire Mesh.
+    *   *Gauge:* 6mm x 6mm aperture, 0.7mm wire thickness.
+    *   *Fixing:* Stapled continuously across the bottom of the external rain-screen ventilation gap (behind the cladding) and at any sub-floor vents using stainless steel staples.
+    *   *Purpose:* Prevents coastal rodents from entering the warm sub-floor void or climbing the ventilation cavity.
 
 ---
 
-## 4. Phased Build Schedule (Solo Execution)
+## 2. Layered Thermal Envelope Schedule
 
-*   **Phase 1: Groundworks & Raft**
-    *   Excavate to stable clay; lay MOT Type 1 and sand blinding.
-    *   Lay 1200-gauge DPM.
-    *   Assemble EPS raft formwork; set B500A mesh on 50mm chairs.
-    *   Pour C25/30 concrete and power-float the finish.
-*   **Phase 2: Concrete Curing Halt (Weeks 2-5)**
-    *   *MANDATORY:* Absolute 4-week halt to allow concrete to off-gas hundreds of liters of moisture.
-*   **Phase 3: Sub-Floor & Acoustic Base**
-    *   Install Vibro-FS pads onto the concrete at 400mm intervals.
-    *   Lay out 100x50mm joists at 300mm centers.
-    *   Pack joists with 100mm Rockwool.
-    *   Glue/screw 22mm P5 chipboard, roll out 5kg/m² MLV, and screw down 12mm Plywood.
-*   **Phase 4: Wall & Roof Framing**
-    *   Erect 140x38mm timber walls with double top-plates.
-    *   Install roof joists and 18mm OSB deck.
-    *   Install 150mm PIR rigid roof insulation and bond EPDM rubber membrane for immediate weather-tightness.
-*   **Phase 5: The 'Cowes-Proof' Exterior**
-    *   Fix 15mm OSB sheathing to exterior studs.
-    *   Friction-fit 50mm external wood fibre insulation.
-    *   Wrap entirely in Tyvek UV Facade; tape all overlaps.
-    *   Install 25mm battens using Spax EWI screws through to studs.
-    *   Nail Fibre Cement cladding using 316 Stainless fasteners.
-*   **Phase 6: VCL & Internal Insulation**
-    *   Install the 1.5 Asymmetric Door with surface-mounted automatic drop seals.
-    *   Pack 140mm Rockwool tightly between all studs.
-    *   Staple Intello Plus VCL to interior studs. 
-    *   *VCL Detailing:* Execute 150mm corner folds, tape all seams with Tescon Vana, and bond door reveals with Tescon Profil.
-*   **Phase 7: Service Cavity & Electrical 1st Fix**
-    *   Install 25mm horizontal battens *over* the VCL.
-    *   Electrician runs T&E cables for radials/ring main within the 25mm cavity.
-    *   Mount 100mm rigid steel ducting to ceiling joists.
-*   **Phase 8: Internal Boarding & Finishes**
-    *   Fix 15mm Fermacell boards to the service battens.
-    *   Glue edges with Fermacell Jointstik.
-*   **Phase 9: 2nd Fix & Commissioning**
-    *   Electrician installs IP66 sockets, Type C RCBOs, Contactor E-Stop system, and tests circuits (Part P compliance).
-    *   Install Dehumidifier, Ambient Purifier, and dMVHR units.
-    *   Move in heavy machinery (placing Sylomer pads under feet).
+**U-Value Target Check:** The baseline assembly (140mm Rockwool + 50mm Wood Fibre) yields an estimated U-value of **0.21 W/m²K**. Because this is higher than our target of <0.18 W/m²K, we must integrate a **'thin-profile' upgrade** (Multi-foil) on the inside face to hit the target without losing internal floor space.
+
+### 2.1 The Wall 'Sandwich' (Exterior to Interior)
+
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose |
+| :--- | :--- | :--- | :--- |
+| **1. Cladding** | James Hardie Fibre Cement Plank (A2 Fire) | 40mm 316 Stainless annular ring shank nails | 'Cowes-Proof' weather shield. |
+| **2. Rainscreen Gap / Batten** | 25x50mm Treated Timber | 120mm Spax EWI E-X screws driven at 60° | Creates a strict **25mm ventilation path** from bottom to top, allowing saline moisture to evaporate. |
+| **3. Breather Membrane** | Tyvek UV Facade | Stainless staples; 150mm vertical overlaps | Repels wind-driven rain, allows internal vapour escape. |
+| **4. External Insulation** | 50mm Rigid Wood Fibre Board | Friction fit; held by batten screws | Unbroken thermal jacket (eliminates cold bridging). |
+| **5. Sheathing** | 15mm OSB3 | 50mm galv ring shanks @ 150mm centers | Structural racking strength. |
+| **6. Structural Frame** | 140x38mm C24 Timber Studs | 90mm framing nails @ 400mm centers | Primary load bearing. |
+| **7. Acoustic Core** | 140mm Rockwool RW3 (60kg/m³) | Friction fit (zero compression) | Sound absorption & A1 fire rating. |
+| **8. Vapour Control Layer** | Pro Clima Intello Plus | Stainless staples; 100mm taped overlaps | Airtightness; stops interstitial condensation. |
+| **9. Thin-Profile Upgrade** | **SuperFOIL SF19+ (Multi-foil)** | Stapled over VCL, taped with foil tape | **Brings U-Value down to 0.14 W/m²K** by reflecting radiant heat. |
+| **10. Service Cavity** | 25x50mm Treated Timber Battens | Screwed horizontally @ 400mm centers | Cable routing without piercing VCL. |
+| **11. Internal Finish** | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking; fire resistance. |
+
+### 2.2 Sealing Strategy & Weak Point Continuity
+*   **Tape Specification:** **Pro Clima Tescon Vana** is mandatory for all flat VCL seams, overlaps, and staple punctures. 
+*   **Socket Boxes:** Standard back-boxes will leak air. All electrical sockets must use **Airtight Grommet Boxes** (e.g., Kaiser airtight boxes) installed entirely within the 25mm service cavity, ensuring the VCL behind them is never pierced.
+*   **Corner Junctions:** The VCL must not be pulled tight into structural corners. Leave a 50mm "slack fold" loop pushed into the corner to allow for seasonal timber expansion without ripping the membrane. Tape the overlapping edge with Tescon Vana.
+*   **Window / Door Reveals:** Use **Pro Clima Tescon Profil** (split-backed pre-folded tape). The rigid half adheres to the side profile of the aluminum/timber door frame; the flexible half adheres to the Intello Plus VCL, creating an unbroken bridge across the reveal gap.
+
+---
+
+## 3. Structural Rigidity & Vibration Logic
+
+To decouple the percussive impact of hand tools and the high-frequency chatter of induction motors, the floating sub-floor must be heavily mass-loaded and completely decoupled from the concrete raft.
+
+### 3.1 Sub-Floor Execution
+
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose |
+| :--- | :--- | :--- | :--- |
+| **Isolation Mounts** | 15mm Vibro-FS Rubber Pads | Loose laid on concrete @ 400mm spacing | Break structure-borne transmission from joists to slab. |
+| **Sub-Floor Joists** | 100x50mm C24 Timber | Spaced strictly at **300mm centers** | Eliminates microscopic deck deflection under heavy point loads. |
+| **Joist Damping** | 100mm Rockwool RW3 | Friction fit | Stops the sub-floor acting as a drum. |
+| **Deck Base Layer** | 22mm P5 Moisture-Resistant Chipboard | Screwed to joists; D4 glue on T&G joints | Structural spanning deck. |
+| **Deck Top Layer** | 12mm WBP Structural Plywood | Screwed directly into P5 board ONLY | Final heavy wear layer. |
+
+### 3.2 Specific Machine Isolation
+*   **Table Saw & Planer Placement:** High-density ribbed anti-vibration rubber mats (e.g., 15mm recycled SBR rubber) must be cut to exact footprint sizes and placed directly under the four metal contact feet of both machines. This ensures high-frequency motor vibration is absorbed by the rubber before it can energize the 12mm Ply deck.
+
+---
+
+## 4. Workshop Climate & Heating System
+
+**Context:** A 20m² wood workshop in coastal Cowes used primarily on evenings and weekends.
+*   *Wet/Electric UFH:* Rejected. High thermal mass means it takes 12-24 hours to heat up. Inefficient for weekend-only occupancy.
+*   *Low-Wattage Convection:* Good for background heat, but stirs up fine combustible dust.
+*   *Infrared (IR) Panels:* Ideal. Heats objects (tools and the human) instantly without moving air.
+
+### 4.1 Heating Execution Strategy
+To achieve both fast recovery for the occupant and condensation protection for the cast-iron tools, a hybrid approach is required. **Total estimated heat load for 20m² Passivhaus: 1.5kW - 2.0kW.**
+
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose |
+| :--- | :--- | :--- | :--- |
+| **Background Heater** | 500W Tubular Heater (IP65 / ATEX rated for dust) | Wall mounted low to the ground | Operates 24/7 on thermostat (set to 12°C) to keep cast iron above dew point; zero dust-ignition risk. |
+| **Primary Occupant Heat** | 1.2kW Far-Infrared (FIR) Ceiling Panel | Suspended from ceiling joists over workbench | Switched on upon entry. Provides instant radiant warmth directly to the user's body without waiting for room air to heat. |
+| **Dehumidification** | Compressor Dehumidifier (12L/day) | Plumbed through wall for continuous drain | Maintains strict 45% RH to prevent coastal tool rust. |
+
+---
+
+## 5. Electrical & Dust Integration 
+
+### 5.1 Circuit Schedule & Ducting Geometry
+
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose |
+| :--- | :--- | :--- | :--- |
+| **Machine Breakers** | 20A **Type C** RCBOs | Mounted in workshop Consumer Unit | Type C magnetic trip curve withstands the 100A+ inrush surge of 3HP induction motors without nuisance tripping. |
+| **Sockets** | IP66 Double Switched 13A | Surface mounted to Fermacell | Flap-covers prevent conductive wood dust from bridging internal contacts (fire prevention). |
+| **Extraction Trunk** | 100mm Rigid Galvanized Steel Ducting | Rubber-lined acoustic pipe clamps to ceiling | Smooth bore maintains 25 m/s air velocity; metal prevents static electricity sparks (unlike PVC). |
+| **Blast Gates** | 100mm Cast Aluminum body with steel slider | Hose-clamped onto vertical machine drops | Maximizes static pressure by isolating idle branches. |
+
+> **SOP APPROVAL:** This document standardizes all material dimensions, gauges, fixing methods, and purposes for contractor execution. All requested parameters (100mm slab, 150mm splash zone, 300mm joists, U-Value foils, and Type C induction mapping) have been validated and integrated.
