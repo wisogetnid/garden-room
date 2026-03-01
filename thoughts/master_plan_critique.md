@@ -5,20 +5,29 @@
 
 ## 1. Critical Vulnerabilities (Red Flags)
 
-### 🔴 Structural Wind Uplift & Foundation Anchoring
+### 🔴 1. Structural Wind Uplift & Foundation Anchoring
 **The Flaw:** The plan details a heavy concrete raft and a timber frame, but entirely omits the mechanical connection between the two. Cowes is a high-wind coastal zone. Without specified anchor bolts tying the sole plate to the concrete slab, the structure is vulnerable to severe wind uplift and racking. Furthermore, the plan specifies a "polymeric DPC" but fails to mandate a *compression-rated* DPC. Standard DPC will extrude (squish out) under the weight of the timber frame, breaking the damp seal and loosening the anchor bolts.
 
-### 🔴 Localized Sub-Floor Deflection (The 250kg Point Load)
+### 🔴 2. Localized Sub-Floor Deflection (The 250kg Point Load)
 **The Flaw:** The plan specifies 100x50mm C24 joists on Vibro-FS isolation pads at 400mm spacing, topped with 34mm of decking. However, placing a 250kg cast-iron planer (a massive dynamic live-load) on this floating floor risks localized crushing of the Vibro-FS pads. The joists themselves won't span 4m (they rest on the slab via pads), but the *pads* must be rated for the concentrated point load, or the floor will dip and permanently deform under the machinery, ruining tool calibration.
 
-### 🔴 Unsealed VCL Penetrations (Passivhaus Failure)
+### 🔴 3. Unsealed VCL Penetrations (Passivhaus Failure)
 **The Flaw:** The plan correctly specifies "Kaiser Airtight Grommet Boxes" for electrical sockets in the service cavity. However, it completely ignores the massive penetrations required for the **dMVHR units** (approx. 100mm-150mm holes) and the **Dehumidifier permanent condensate drain**. If these punch through the Intello Plus VCL without certified EPDM airtightness grommets, the Passivhaus airtightness fails entirely, inviting severe interstitial condensation.
 
-### 🔴 Galvanic & Coastal Corrosion Overlap
+### 🔴 4. Galvanic & Coastal Corrosion Overlap
 **The Flaw:** The plan specifies 316 Stainless Steel for the cladding nails and vermin mesh. However, it specifies "120mm Spax EWI E-X screws" for the external battens and "Galvanized Steel" for the internal dust ducting. Standard EWI screws are often heavily zinc-plated (Wirox) but *not* A4 stainless. In a marine environment, zinc coating will aggressively corrode, causing the heavy external cladding to shear off.
 
-### 🔴 Dust Extraction Static Grounding (Explosion Risk)
+### 🔴 5. Dust Extraction Static Grounding (Explosion Risk)
 **The Flaw:** The plan specifies rigid galvanized steel ducting to "prevent static electricity sparks (unlike PVC)." This is a dangerous half-measure. While steel *conducts* static electricity, it does not *dissipate* it unless the entire ducting network is physically **Earth Bonded** (grounded) to the electrical system. Without an earth strap, the metal ducting becomes a massive capacitor capable of discharging a high-voltage spark into a cloud of PM2.5 wood dust (ATEX explosion risk).
+
+### 🔴 6. Summer Overheating & Internal Heat Gains (Passivhaus "Oven Effect")
+**The Flaw:** The plan is optimized for deep winter. A highly insulated (0.14 W/m²K), hyper-airtight 20m² room has massive thermal retention. When the user runs a 3HP table saw, a 1.5HP dust extractor, a dehumidifier (which releases latent heat), and occupies the space, the internal heat gain is massive. Without a specified **MVHR Summer Bypass** or active external shading for the glazed door, the room will turn into an unbearable 35°C oven during summer months, forcing the user to open the door (destroying the acoustic and dust envelope).
+
+### 🔴 7. The Flush Threshold "Patio Trap" (Water Ingress)
+**The Flaw:** The plan mandates a "flush patio threshold" to roll machinery in. If the existing patio slopes toward the workshop even slightly, or during heavy Cowes coastal downpours with wind-driven rain, water will pool against the door seals and breach the sub-floor. Achieving a flush threshold safely requires an aggressive channel-drainage strategy directly in front of the door, separating the patio from the timber structure, which is completely absent from the current SOP.
+
+### 🔴 8. Stroboscopic LED Lighting Hazard (Machinery Safety)
+**The Flaw:** The plan specifies general "LED panels" on a 6A breaker. Standard, budget LED drivers operate by rapidly flickering the light (Pulse Width Modulation). In a workshop, if the LED flicker frequency matches the RPM of a spinning table saw or planer blade, the "Stroboscopic Effect" occurs: the blade appears completely stationary while spinning at 4,000 RPM. This is a lethal hazard.
 
 ---
 
@@ -32,6 +41,9 @@
 | **VCL Penetrations** | **Pro Clima Roflex / Kaflex EPDM Grommets**. | Every pipe (MVHR, dehumidifier drain) or cable breaching the VCL must pass through a tight-fitting, taped EPDM rubber gasket to maintain absolute airtightness. |
 | **Exterior Batten Fasteners**| **Spax EWI Screws (A4 / 316 Stainless ONLY)**. | Coastal marine environments destroy zinc/galvanized coatings. All fasteners penetrating the rain-screen gap must be A4 stainless. |
 | **Dust Ducting Grounding** | **10mm² Earth Bonding Copper Wire**. | The galvanized steel ductwork must be physically clamped and wired to the main earth terminal in the workshop consumer unit to dissipate static charge safely. |
+| **Summer Cooling Strategy** | **dMVHR with Summer Bypass Mode** + **External Solar Shading (Brise Soleil)**. | The bypass mode vents heat without passing it through the heat-exchanger core. External shading prevents solar gain from hitting the glazed door. |
+| **Threshold Water Defense** | **ACO HexDrain Channel** + **Compacfoam Thermal Block**. | An ACO drain must be trenched between the patio and the door sill. The door sill itself must rest on a structural Compacfoam block to prevent cold-bridging into the concrete slab. |
+| **Workshop Lighting** | **High-Frequency (Flicker-Free) LED Drivers**. | Mandatory safety requirement to eliminate the stroboscopic effect on spinning machinery blades. |
 
 ---
 
@@ -39,10 +51,11 @@
 
 **@librarian - Action Required:** The current plan relies on generalized UK building data. For a high-fidelity 2026 Passivhaus build in Cowes, we require exact, verified technical data points to fill the remaining 'Black Holes' in our engineering logic.
 
-Please research and provide specific data on the following 5 points:
+Please research and provide specific data on the following 6 points:
 
 1.  **Coastal Wind-Load Data (Isle of Wight / Cowes):** What is the required basic wind speed (m/s) and dynamic wind pressure (kN/m²) for structural calculations in Cowes, PO31? We need this to verify if M12 anchors at 1200mm centers are sufficient.
 2.  **Elastomer Deflection Rates (Getzner Sylomer):** Find the exact static load limit (in N/mm²) for standard "Vibro-FS" pads versus "Sylomer Brown/Red" pads to support a 250kg dynamic load over a 0.5m² footprint without exceeding 10% deflection.
 3.  **Acoustic Assembly Rw Rating:** What is the specific predicted decibel-drop (Rw rating) of our exact wall assembly: *15mm Fermacell + 140mm Rockwool RW3 + 15mm OSB3 + 50mm Wood Fibre + Fibre Cement Cladding*?
 4.  **A4 (316) EWI Screw Availability:** Confirm the availability, brand, and shear-strength of 120mm A4 (316) stainless steel screws designed specifically for External Wall Insulation (EWI) over timber studs in the UK market.
 5.  **ATEX / BS 7671 Static Grounding:** What is the specific BS 7671 electrical regulation code for cross-bonding / earth-grounding exposed metallic dust extraction ductwork in a combustible dust environment?
+6.  **Stroboscopic Safety Compliance:** What is the required IEEE 1789 standard or equivalent UK health and safety specification for LED flicker rates in environments with high-speed rotary machinery?
