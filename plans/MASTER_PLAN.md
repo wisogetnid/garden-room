@@ -18,6 +18,7 @@
 | **Damp Proof Membrane (DPM)** | 1200-gauge Polythene | Loose laid, taped seams, folded up edges by min 250mm | Primary defense against rising damp. |
 | **Under-Slab Thermal Break** | XPS (Extruded Polystyrene) - 300kPa Compressive Strength | Friction fit inside EPS ring beam formwork | Prevent cold-bridging into the earth; 300kPa required to prevent slab settlement under heavy loads. |
 | **Steel Reinforcement** | A193 Steel Mesh | Suspended on 50mm plastic concrete 'chairs' | Provide tensile strength to concrete; 50mm cover prevents coastal chloride corrosion. |
+| **Heating Integration** | Heavy-Duty Electric UFH Cables | Zip-tied to the A193 Steel Mesh before pour | **Future-proofing & baseline heating:** Embedded into the thermal mass. |
 | **Concrete Slab** | Min 100mm thick (C25/30 mix) | Poured in-situ, power-floated finish | High-mass structural base; dampens low-frequency machinery vibration. |
 
 ### 1.2 Splash Zone, DPC, and Vermin Protection
@@ -80,18 +81,18 @@ To decouple the percussive impact of hand tools and the high-frequency chatter o
 
 ## 4. Workshop Climate & Heating System
 
-**Context:** A 20m² wood workshop in coastal Cowes used primarily on evenings and weekends.
-*   *Wet/Electric UFH:* Rejected. High thermal mass means it takes 12-24 hours to heat up. Inefficient for weekend-only occupancy.
-*   *Low-Wattage Convection:* Good for background heat, but stirs up fine combustible dust.
-*   *Infrared (IR) Panels:* Ideal. Heats objects (tools and the human) instantly without moving air.
+**Context:** A 20m² wood workshop in coastal Cowes used primarily on evenings and weekends, with potential future conversion to a home office.
+*   *Low-Wattage Convection:* Good for background heat, but stirs up fine combustible dust (Rejected).
+*   *Infrared (IR) Panels:* Ideal for instant radiant heat (heats objects and the human directly).
+*   *Electric UFH:* The Passivhaus "Gold Standard." Since the building has a U-Value of 0.14 W/m²K, running UFH to maintain a base 12-14°C is incredibly cheap (~£15/month). It provides 24/7 protection for cast-iron tools against coastal moisture and perfectly future-proofs the room for a home office conversion.
 
 ### 4.1 Heating Execution Strategy
-To achieve both fast recovery for the occupant and condensation protection for the cast-iron tools, a hybrid approach is required. **Total estimated heat load for 20m² Passivhaus: 1.5kW - 2.0kW.**
+A "Dual-System Compromise" will be employed. The embedded UFH maintains the thermal battery, and the IR Panel provides instant top-up heat for the occupant. **Total estimated heat load for 20m² Passivhaus: 1.5kW - 2.0kW.**
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose |
 | :--- | :--- | :--- | :--- |
-| **Background Heater** | 500W Tubular Heater (IP65 / ATEX rated for dust) | Wall mounted low to the ground | Operates 24/7 on thermostat (set to 12°C) to keep cast iron above dew point; zero dust-ignition risk. |
-| **Primary Occupant Heat** | 1.2kW Far-Infrared (FIR) Ceiling Panel | Suspended from ceiling joists over workbench | Switched on upon entry. Provides instant radiant warmth directly to the user's body without waiting for room air to heat. |
+| **Baseline Thermal Battery** | Heavy-Duty Electric UFH Heating Cable | Embedded within the 100mm concrete slab | Runs continuously via thermostat at 12-14°C. Costs pennies in a Passivhaus. Keeps cast-iron tools completely dry and provides the ultimate home-office comfort future-proof. |
+| **Primary Occupant Heat** | 1.2kW Far-Infrared (FIR) Ceiling Panel | Suspended from ceiling joists over workbench | Switched on upon entry for weekend work. Provides instant radiant warmth directly to the user's body without waiting for room air to heat. |
 | **Dehumidification** | Compressor Dehumidifier (12L/day) | Plumbed through wall for continuous drain | Maintains strict 45% RH to prevent coastal tool rust. |
 
 ---
