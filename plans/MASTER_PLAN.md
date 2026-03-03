@@ -120,7 +120,7 @@ A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the 
 | **Baseline Thermal Battery** | 16mm PEX-a Pipework (Wet UFH) + 3kW ASHP | Embedded within the 100mm concrete slab @ 150mm centers | Runs continuously via thermostat at 12-14°C (winter) or 19°C (summer). Costs pennies in a Passivhaus. Keeps cast-iron tools dry, mitigates the summer "oven effect," and provides the ultimate home-office comfort future-proof. |
 
 | **Primary Occupant Heat** | 1.2kW Far-Infrared (FIR) Ceiling Panel | Suspended from ceiling joists over workbench | Switched on upon entry for weekend work. Provides instant radiant warmth directly to the user's body without waiting for room air to heat. |
-| **Dehumidification** | Compressor Dehumidifier (12L/day) | Plumbed through wall for continuous drain | Maintains strict 45% RH to prevent coastal tool rust. |
+| **Dehumidification** | Smart Compressor Dehumidifier (e.g., MeacoDry Arete 1 12L) | Freestanding on floor. Relies on internal 2.5L-5L tank with Wi-Fi push notifications to the user's phone. | **Zero VCL Penetrations:** Because the Passivhaus envelope is airtight, moisture ingress from the outside is near zero. Once the initial construction moisture is extracted, the unit will rarely run when the room is unoccupied, making manual emptying highly infrequent. |
 
 ---
 
