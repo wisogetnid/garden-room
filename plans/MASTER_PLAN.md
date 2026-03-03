@@ -29,7 +29,7 @@
 | :--- | :--- | :--- | :--- |
 | **1. Perimeter Drainage** | 200mm Wide French Drain | Trench filled with 20mm washed gravel | Ensures coastal wind-driven rain instantly drains away from the JACKODUR® XPS upstand. |
 | **2. Upstand Waterproofing**| Flexible Polymer-Cement Render | Trowelled over the exposed JACKODUR® upstand | Protects the XPS from UV degradation and mechanical damage above ground. |
-| **3. Base Drip Flashing** | Stainless Steel Drip Profile | Screwed to the base batten, kicking out over the XPS render | Prevents water from wicking back up into the rain-screen ventilation gap. |
+| **3. Base Drip Flashing** | High-Impact uPVC Starter Track with Weeped Drip Edge | Screwed to the base batten | Far superior to metal tracks in marine environments; prevents galvanic corrosion and wicks water away from the rain-screen gap. |
 | **4. Thermal Overlap** | 50mm Wood Fibre External Insulation | Extended downwards to cover the top 50mm of the JACKODUR® XPS upstand | **'Red Line' Continuity:** Locks the wall insulation directly to the foundation insulation, eliminating the cold bridge at the slab edge. |
 | **5. Structural Thermal Break**| **Compacfoam CF200** Block | 140mm x 50mm, sits directly on the concrete edge | Bears the entire structural load of the timber frame while providing high-density thermal and moisture isolation from the concrete. |
 | **6. DPM / DPC Lapping** | 1200-gauge DPM & Polymeric DPC | DPM folded over slab edge, lapped beneath DPC by min 100mm, sealed with Butyl Tape | Completely seals the concrete slab moisture away from the Compacfoam and timber sole plate. |
@@ -54,9 +54,9 @@
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose |
 | :--- | :--- | :--- | :--- |
 | **1. Cladding** | James Hardie Fibre Cement Plank (A2 Fire) | 40mm 316 Stainless annular ring shank nails | 'Cowes-Proof' weather shield. |
-| **2. Rainscreen Gap / Batten** | 25x50mm Treated Timber | 120mm Spax EWI E-X screws driven at 60° | Creates a strict **25mm ventilation path** from bottom to top, allowing saline moisture to evaporate. |
+| **2. Rainscreen Gap / Batten** | 25x50mm Treated Timber | 120mm A4 (316) Stainless Steel EWI Screws driven at 60° | Creates a strict **25mm ventilation path** from bottom to top, allowing saline moisture to evaporate. A4 Stainless is mandatory to prevent galvanic corrosion in coastal air. |
 | **3. Breather Membrane** | Tyvek UV Facade | Stainless staples; 150mm vertical overlaps | Repels wind-driven rain, allows internal vapour escape. |
-| **4. External Insulation** | 50mm Rigid Wood Fibre Board | Friction fit; held by batten screws | Unbroken thermal jacket (eliminates cold bridging). |
+| **4. External Insulation** | 50mm Rigid Wood Fibre Board | Friction fit; held by batten screws | Unbroken thermal jacket. Chosen for its high specific heat capacity (2,100 J/kgK), providing a massive 'decrement delay' to prevent summer overheating. |
 | **5. Sheathing** | 15mm OSB3 | 50mm galv ring shanks @ 150mm centers | Structural racking strength. |
 | **6. Structural Frame** | 140x38mm C24 Timber Studs | 90mm framing nails @ 400mm centers | Primary load bearing. |
 | **7. Acoustic Core** | 140mm Rockwool RW3 (60kg/m³) | Friction fit (zero compression) | Sound absorption & A1 fire rating. |
@@ -131,8 +131,10 @@ A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose |
 | :--- | :--- | :--- | :--- |
 | **Machine Breakers** | 20A **Type C** RCBOs | Mounted in workshop Consumer Unit | Type C magnetic trip curve withstands the 100A+ inrush surge of 3HP induction motors without nuisance tripping. |
+| **Local Machine Isolation** | IP66 Lockable Rotary Isolators | Wall-mounted next to each fixed machine | Mandated by BS 7671 (Reg 464.2) to prevent inadvertent reactivation during mechanical maintenance. |
 | **Sockets** | IP66 Double Switched 13A | Surface mounted to Fermacell | Flap-covers prevent conductive wood dust from bridging internal contacts (fire prevention). |
-| **Extraction Trunk** | 100mm Rigid Galvanized Steel Ducting | Rubber-lined acoustic pipe clamps to ceiling | Smooth bore maintains 25 m/s air velocity; metal prevents static electricity sparks (unlike PVC). |
+| **Lighting** | High-CRI (>95) LED Panels with Flicker-Free Drivers | Surface mounted to ceiling | **Critical Safety:** Flicker Index must be < 0.02 to prevent the 'stroboscopic effect' making spinning table saw blades appear stationary. |
+| **Extraction Trunk** | 100mm Rigid Galvanized Steel Ducting | Rubber-lined acoustic pipe clamps to ceiling | Smooth bore maintains 25 m/s air velocity; metal prevents static electricity sparks. **Must be earth-bonded with a 10mm² copper wire to prevent ATEX explosion risks.** |
 | **Blast Gates** | 100mm Cast Aluminum body with steel slider | Hose-clamped onto vertical machine drops | Maximizes static pressure by isolating idle branches. |
 
 > **SOP APPROVAL:** This document standardizes all material dimensions, gauges, fixing methods, and purposes for contractor execution. All requested parameters (100mm slab, 150mm splash zone, 300mm joists, U-Value foils, and Type C induction mapping) have been validated and integrated.
