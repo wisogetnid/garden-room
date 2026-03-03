@@ -14,9 +14,9 @@
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose |
 | :--- | :--- | :--- | :--- |
 | **MOT Type 1 Sub-base** | 150mm depth | Vibrating plate compactor (min 6 passes) | Distribute load to stable clay strata. |
-| **Blinding Sand** | 25mm depth | Hand screeded flat | Protect DPM from sharp aggregate punctures. |
-| **Damp Proof Membrane (DPM)** | 1200-gauge Polythene | Loose laid, taped seams, folded up edges by min 250mm | Primary defense against rising damp. |
-| **Under-Slab Thermal Break** | XPS (Extruded Polystyrene) - 300kPa Compressive Strength | Friction fit inside EPS ring beam formwork | Prevent cold-bridging into the earth; 300kPa required to prevent slab settlement under heavy loads. |
+| **Blinding Sand** | 25mm depth | Hand screeded flat | Provide a perfectly level bed for the XPS formwork. |
+| **Under-Slab Thermal Break** | JACKODUR® Atlas XPS System | Interlocking XPS panels assembled directly on the blinding sand | Prevent cold-bridging into the earth; serves as the permanent insulated formwork for the concrete. |
+| **Damp Proof Membrane (DPM)** | 1200-gauge Polythene | Loose laid *inside* the XPS tub, taped seams | **Critical Placement:** Sits directly between the XPS insulation and the wet concrete to prevent the concrete from seeping between the XPS joints and to stop capillary moisture rising through the slab. |
 | **Steel Reinforcement** | A193 Steel Mesh | Suspended on 50mm plastic concrete 'chairs' | Provide tensile strength to concrete; 50mm cover prevents coastal chloride corrosion. |
 | **Heating Integration** | 16mm PEX-a Wet UFH Pipework | Zip-tied to the A193 Steel Mesh @ 150mm centers before pour | **Baseline heating/cooling:** Embedded into the thermal mass. Powered by an external Air Source Heat Pump (ASHP). |
 | **Concrete Slab** | Min 100mm thick (C25/30 mix) | Poured in-situ, power-floated finish | High-mass structural base; dampens low-frequency machinery vibration. |
@@ -94,8 +94,8 @@
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose |
 | :--- | :--- | :--- | :--- |
 | **Slab Priming** | Acrylic Concrete Primer | Rolled directly onto the cured, dust-free concrete slab | Seals the power-floated surface and prepares it for adhesive bonding. |
-| **Aesthetic Deck** | Engineered Timber / LVT (Luxury Vinyl Tile) | **Fully Bonded** to the slab using flexible polyurethane floor adhesive | A hard-bonded floor ensures zero air-gaps, maximizing the radiant thermal transfer from the Wet UFH embedded in the concrete. |
-| **Perimeter Expansion**| 5mm Cork Expansion Strip | Wedged between the floor edge and the Fermacell walls | Prevents the timber/LVT from buckling during seasonal humidity changes. |
+| **Aesthetic/Wear Deck** | Heavy-Duty Engineered Oak (e.g., 20mm total depth with 6mm wear layer) | **Fully Bonded** to the slab using flexible polyurethane wood-floor adhesive (e.g., SikaBond) | A hard-bonded floor ensures zero air-gaps, maximizing the radiant thermal transfer from the Wet UFH embedded in the concrete, while providing a durable, repairable, tool-safe surface. |
+| **Perimeter Expansion**| 10mm Cork Expansion Strip | Wedged between the floor edge and the Fermacell walls | Prevents the timber from buckling during seasonal humidity changes. |
 
 ### 3.2 Specific Machine Isolation (Vibration Decoupling)
 *   **Table Saw & Planer Placement:** Because the machines are sitting on the solid concrete thermal mass, the concrete itself absorbs the low-frequency vibrations. However, to prevent high-frequency motor chatter from radiating into the room, industrial-grade **Sylomer® pads** (color-coded to the machine's static weight) or high-density 15mm ribbed SBR rubber mats must be placed exactly under the four contact feet of the Table Saw and the Planer-Thicknesser.
