@@ -6,13 +6,13 @@
 ## 1. Critical Vulnerabilities (Red Flags)
 
 ### 🔴 1. Structural Logic: The "Extruding" DPC
-**The Flaw:** Section 1.3 specifies a "Polymeric DPC" bonded to the DPM under the Compacfoam and sole plate. However, it fails to specify that this must be a **Compression-Rated** DPC. A standard polymeric DPC will physically extrude (squish out) over time under the 2.5-ton static dead-load of the building and the dynamic live-load of the machinery. This will break the moisture seal and loosen the M12 anchor bolts.
+**The Flaw:** Section 1.3 specifies a "Polymeric DPC bonded to 1200g DPM" under the Compacfoam and sole plate. However, it fails to specify that this must be a **Compression-Rated** DPC. A standard polymeric DPC will physically extrude (squish out) over time under the 2.5-ton static dead-load of the building and the dynamic live-load of the machinery. This will break the moisture seal and loosen the M12 anchor bolts over time, putting the structure at risk during high coastal winds.
 
-### 🔴 2. Structural Logic: Unverified Joist Deflection (The 250kg Planer)
-**The Flaw:** The plan specifies 100x50mm C24 joists at 300mm centers for the sub-floor. While 300mm is a tight spacing, the plan completely lacks the mathematical proof (Span-to-Deflection ratio) for a concentrated 250kg dynamic 'live-load' (a heavy cast-iron planer operating in the center of the span). Without verifying the dead-load (the heavy 34mm floor deck) vs. the live-load, we risk microscopic deck deflection, which will ruin the calibration of precision woodworking machinery.
+### 🔴 2. Structural Logic: Vibro-FS Pad Crushing (The 250kg Point Load)
+**The Flaw:** The plan specifies 100x50mm C24 joists for the sub-floor, resting on 15mm Vibro-FS rubber pads spaced at 400mm intervals. Because the joists are fully supported every 400mm, the *joist span deflection* is negligible. However, placing a 250kg cast-iron planer (a massive dynamic 'live-load') on this floating deck will concentrate immense weight over just a few Vibro-FS pads. Standard Vibro-FS pads are designed for lightweight acoustic domestic floors. Under a 250kg dynamic machinery load, they will permanently crush/compress unevenly. The floor will dip locally, ruining the calibration of precision woodworking machinery.
 
-### 🔴 3. Envelope Integrity: Unsealed MVHR & UFH VCL Penetrations
-**The Flaw:** Section 2.2 praises the use of Airtight Grommet Boxes for electrical sockets. However, it completely ignores the massive penetrations required for the **dMVHR ventilation units** (typically 100mm–150mm core holes) and the **Wet UFH manifold plumbing**. If these punch through the Intello Plus VCL without certified EPDM airtightness collars (e.g., Pro Clima Roflex), the Passivhaus envelope will haemorrhage warm, moist air into the wall cavity, causing immediate interstitial rot.
+### 🔴 3. Envelope Integrity: Unsealed dMVHR Penetrations
+**The Flaw:** The plan brilliantly updated the dehumidifier to a zero-penetration "Smart Tank" model, and handles electrical sockets with airtight Kaiser boxes. However, it completely ignores the massive penetrations required for the **dMVHR ventilation units** (typically 100mm–150mm core holes straight through the wall). If these punch through the Intello Plus VCL without certified EPDM airtightness collars (e.g., Pro Clima Roflex), the Passivhaus envelope will haemorrhage warm, moist air into the cold exterior wall cavity, causing immediate interstitial rot.
 
 ### 🔴 4. Salt-Air Corrosion: The "Galvanized" Trap
 **The Flaw:** Section 2.1 mandates 316 Stainless nails for the cladding, but critically specifies **"50mm galv ring shanks"** for the OSB3 sheathing. In the coastal Cowes environment, saline moisture easily penetrates the breathable rain-screen gap. Galvanized fasteners will undergo galvanic corrosion, rust rapidly, and eventually shear off under the immense racking loads of coastal winds. **All** structural fasteners on the cold side of the insulation must be A4 (316) Stainless Steel.
@@ -30,8 +30,8 @@
 | Vulnerability Area | Required Specification Update | Purpose & Execution |
 | :--- | :--- | :--- |
 | **Sole Plate DPC** | **Visqueen High-Performance (HP) Compression-Rated DPC**. | Withstands the compressive structural load of the building without extruding, ensuring anchor bolts and the moisture seal remain intact. |
-| **Sub-Floor Deflection** | **Engineer-Verified Load Calculation**. | Must definitively prove that 100x50mm C24 joists @ 300mm centers will yield less than L/500 deflection under a 250kg dynamic point load. |
-| **VCL Penetrations** | **Pro Clima Roflex / Kaflex EPDM Grommets**. | Every pipe (MVHR, UFH manifold) or cable breaching the VCL must pass through a tight-fitting, taped EPDM rubber gasket to maintain absolute Passivhaus airtightness. |
+| **Point-Load Isolation** | **High-Load Sylomer® Pads (Brown/Red)**. | Standard Vibro-FS pads will crush under the 250kg planer. Specific high-load elastomer pads must be substituted directly beneath the footprint of heavy machinery. |
+| **VCL Penetrations** | **Pro Clima Roflex / Kaflex EPDM Grommets**. | Every pipe (dMVHR cores, UFH manifold) breaching the VCL must pass through a tight-fitting, taped EPDM rubber gasket to maintain absolute Passivhaus airtightness. |
 | **OSB Fasteners**| **50mm A4 (316) Stainless Steel Ring Shanks**. | Coastal marine environments destroy zinc/galvanized coatings. All fasteners in the exterior envelope must be 316 Stainless. |
 | **Dust Ducting Grounding** | **10mm² Earth Bonding Copper Wire**. | The galvanized steel ductwork must be physically clamped and wired to the main earth terminal in the workshop consumer unit to dissipate static charge safely. |
 | **Machinery Safety** | **Contactor-Based E-Stop Circuit**. | A dedicated NVR (No-Volt Release) circuit for the machinery radials, controlled by easily accessible mushroom-head 'Kill Switches' on the walls. |
@@ -42,9 +42,9 @@
 
 **@librarian - Action Required:** The current plan relies on generalized building data. For a high-fidelity 2026 Passivhaus build in Cowes, we require exact, verified technical data points to fill the remaining 'Black Holes'. Please provide precise data on the following 6 points:
 
-1.  **Coastal Wind-Load Data (Isle of Wight / Cowes):** What is the exact basic wind speed (m/s) and dynamic wind pressure (kN/m²) required by the IOW Council for structural calculations in Cowes (PO31)? 
-2.  **Point-Load Deflection Math:** Provide the engineering calculation for a 250kg live-load sitting in the center of a 100x50mm C24 timber joist spanning its maximum unsupported distance between Vibro-FS pads. Does it meet the L/500 deflection criteria for precision workshops?
+1.  **Coastal Wind-Load Data (Isle of Wight / Cowes):** What is the exact basic wind speed (m/s) and dynamic wind pressure (kN/m²) required by the IOW Council for structural calculations in Cowes (PO31)? We must verify that M12 anchors at 1200mm centers are sufficient.
+2.  **Elastomer Deflection Rates (Getzner Sylomer):** Find the exact static load limit (in N/mm²) for standard "Vibro-FS" rubber pads versus "Sylomer Brown/Red" pads to support a 250kg dynamic load without exceeding 10% deflection or permanently crushing.
 3.  **Acoustic Assembly Rw Rating:** What is the specific predicted decibel-drop (Rw rating) of our exact wall assembly: *15mm Fermacell + 140mm Rockwool RW3 + 15mm OSB3 + 50mm Wood Fibre + Fibre Cement Cladding*?
 4.  **Galvanic Corrosion Rates:** What is the documented failure timeline of standard Galvanized (Zinc-coated) ring shank nails when exposed to coastal saline air in the UK? 
 5.  **ATEX / BS 7671 Static Grounding:** What is the specific BS 7671 electrical regulation code for cross-bonding / earth-grounding exposed metallic dust extraction ductwork in a combustible dust environment?
-6.  **MVHR Core Sizing:** What exact diameter core drill (e.g., 100mm, 150mm) is required for the Blauberg Vento dMVHR units, and what specific Pro Clima Roflex grommet size matches it?
+6.  **dMVHR Core Sizing:** What exact diameter core drill (e.g., 100mm, 150mm) is required for the Blauberg Vento dMVHR units, and what specific Pro Clima Roflex grommet size matches it?
