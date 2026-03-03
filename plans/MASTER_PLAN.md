@@ -87,20 +87,18 @@
 
 ## 3. Structural Rigidity & Vibration Logic
 
-To decouple the percussive impact of hand tools and the high-frequency chatter of induction motors, the floating sub-floor must be heavily mass-loaded and completely decoupled from the concrete raft.
+**Context:** To maximize the Passivhaus thermal mass effect (the baseline heating of the slab) and handle the extreme point loads of heavy cast-iron machinery, **we will not build a floating timber sub-floor over the concrete.** The machinery will sit directly on the concrete, with the final aesthetic floor finish bonded to it.
 
-### 3.1 Sub-Floor Execution
+### 3.1 Hard-Bonded Floor Execution
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose |
 | :--- | :--- | :--- | :--- |
-| **Isolation Mounts** | 15mm Vibro-FS Rubber Pads | Loose laid on concrete @ 400mm spacing | Break structure-borne transmission from joists to slab. |
-| **Sub-Floor Joists** | 100x50mm C24 Timber | Spaced strictly at **300mm centers** | Eliminates microscopic deck deflection under heavy point loads. |
-| **Joist Damping** | 100mm Rockwool RW3 | Friction fit | Stops the sub-floor acting as a drum. |
-| **Deck Base Layer** | 22mm P5 Moisture-Resistant Chipboard | Screwed to joists; D4 glue on T&G joints | Structural spanning deck. |
-| **Deck Top Layer** | 12mm WBP Structural Plywood | Screwed directly into P5 board ONLY | Final heavy wear layer. |
+| **Slab Priming** | Acrylic Concrete Primer | Rolled directly onto the cured, dust-free concrete slab | Seals the power-floated surface and prepares it for adhesive bonding. |
+| **Aesthetic Deck** | Engineered Timber / LVT (Luxury Vinyl Tile) | **Fully Bonded** to the slab using flexible polyurethane floor adhesive | A hard-bonded floor ensures zero air-gaps, maximizing the radiant thermal transfer from the Wet UFH embedded in the concrete. |
+| **Perimeter Expansion**| 5mm Cork Expansion Strip | Wedged between the floor edge and the Fermacell walls | Prevents the timber/LVT from buckling during seasonal humidity changes. |
 
-### 3.2 Specific Machine Isolation
-*   **Table Saw & Planer Placement:** High-density ribbed anti-vibration rubber mats (e.g., 15mm recycled SBR rubber) must be cut to exact footprint sizes and placed directly under the four metal contact feet of both machines. This ensures high-frequency motor vibration is absorbed by the rubber before it can energize the 12mm Ply deck.
+### 3.2 Specific Machine Isolation (Vibration Decoupling)
+*   **Table Saw & Planer Placement:** Because the machines are sitting on the solid concrete thermal mass, the concrete itself absorbs the low-frequency vibrations. However, to prevent high-frequency motor chatter from radiating into the room, industrial-grade **Sylomer® pads** (color-coded to the machine's static weight) or high-density 15mm ribbed SBR rubber mats must be placed exactly under the four contact feet of the Table Saw and the Planer-Thicknesser.
 
 ---
 
