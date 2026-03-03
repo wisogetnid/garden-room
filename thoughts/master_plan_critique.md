@@ -8,8 +8,8 @@
 ### 🔴 1. Structural Logic: The "Extruding" DPC
 **The Flaw:** Section 1.3 specifies a "Polymeric DPC bonded to 1200g DPM" under the Compacfoam and sole plate. However, it fails to specify that this must be a **Compression-Rated** DPC. A standard polymeric DPC will physically extrude (squish out) over time under the 2.5-ton static dead-load of the building and the dynamic live-load of the machinery. This will break the moisture seal and loosen the M12 anchor bolts over time, putting the structure at risk during high coastal winds.
 
-### 🔴 2. Structural Logic: Vibro-FS Pad Crushing (The 250kg Point Load)
-**The Flaw:** The plan specifies 100x50mm C24 joists for the sub-floor, resting on 15mm Vibro-FS rubber pads spaced at 400mm intervals. Because the joists are fully supported every 400mm, the *joist span deflection* is negligible. However, placing a 250kg cast-iron planer (a massive dynamic 'live-load') on this floating deck will concentrate immense weight over just a few Vibro-FS pads. Standard Vibro-FS pads are designed for lightweight acoustic domestic floors. Under a 250kg dynamic machinery load, they will permanently crush/compress unevenly. The floor will dip locally, ruining the calibration of precision woodworking machinery.
+### 🔴 2. Structural Logic: Thermal Mass Bonding Failure
+**The Flaw:** Section 3.1 correctly removes the floating timber floor to allow the Wet UFH thermal battery to radiate, but specifies gluing an engineered timber/LVT deck directly to the slab. In a woodworking shop, dropping heavy tools or shifting a 250kg cast-iron machine across a fully glued finish will instantly gouge or crack it. Because it is permanently glued to the thermal mass, replacing a damaged section requires grinding the adhesive off the concrete, risking catastrophic damage to the 16mm PEX heating pipes embedded just below the surface.
 
 ### 🔴 3. Envelope Integrity: Unsealed dMVHR Penetrations
 **The Flaw:** The plan brilliantly updated the dehumidifier to a zero-penetration "Smart Tank" model, and handles electrical sockets with airtight Kaiser boxes. However, it completely ignores the massive penetrations required for the **dMVHR ventilation units** (typically 100mm–150mm core holes straight through the wall). If these punch through the Intello Plus VCL without certified EPDM airtightness collars (e.g., Pro Clima Roflex), the Passivhaus envelope will haemorrhage warm, moist air into the cold exterior wall cavity, causing immediate interstitial rot.
@@ -30,7 +30,7 @@
 | Vulnerability Area | Required Specification Update | Purpose & Execution |
 | :--- | :--- | :--- |
 | **Sole Plate DPC** | **Visqueen High-Performance (HP) Compression-Rated DPC**. | Withstands the compressive structural load of the building without extruding, ensuring anchor bolts and the moisture seal remain intact. |
-| **Point-Load Isolation** | **High-Load Sylomer® Pads (Brown/Red)**. | Standard Vibro-FS pads will crush under the 250kg planer. Specific high-load elastomer pads must be substituted directly beneath the footprint of heavy machinery. |
+| **Hard-Bonded Floor Risk** | **Heavy-Duty Floating LVT (No Glue)** or **Polished Concrete**. | If an aesthetic deck is desired over the thermal mass, it must be a 'click-lock' floating system to allow for easy repair/replacement without grinding adhesive near embedded UFH pipes. |
 | **VCL Penetrations** | **Pro Clima Roflex / Kaflex EPDM Grommets**. | Every pipe (dMVHR cores, UFH manifold) breaching the VCL must pass through a tight-fitting, taped EPDM rubber gasket to maintain absolute Passivhaus airtightness. |
 | **OSB Fasteners**| **50mm A4 (316) Stainless Steel Ring Shanks**. | Coastal marine environments destroy zinc/galvanized coatings. All fasteners in the exterior envelope must be 316 Stainless. |
 | **Dust Ducting Grounding** | **10mm² Earth Bonding Copper Wire**. | The galvanized steel ductwork must be physically clamped and wired to the main earth terminal in the workshop consumer unit to dissipate static charge safely. |
@@ -43,7 +43,7 @@
 **@librarian - Action Required:** The current plan relies on generalized building data. For a high-fidelity 2026 Passivhaus build in Cowes, we require exact, verified technical data points to fill the remaining 'Black Holes'. Please provide precise data on the following 6 points:
 
 1.  **Coastal Wind-Load Data (Isle of Wight / Cowes):** What is the exact basic wind speed (m/s) and dynamic wind pressure (kN/m²) required by the IOW Council for structural calculations in Cowes (PO31)? We must verify that M12 anchors at 1200mm centers are sufficient.
-2.  **Elastomer Deflection Rates (Getzner Sylomer):** Find the exact static load limit (in N/mm²) for standard "Vibro-FS" rubber pads versus "Sylomer Brown/Red" pads to support a 250kg dynamic load without exceeding 10% deflection or permanently crushing.
+2.  **UFH Slab Cover Math:** If an aesthetic LVT floor is fully bonded, what is the exact minimum concrete coverage (in mm) required above the 16mm PEX-a UFH pipes to safely allow mechanical surface grinding/repair without risking a puncture?
 3.  **Acoustic Assembly Rw Rating:** What is the specific predicted decibel-drop (Rw rating) of our exact wall assembly: *15mm Fermacell + 140mm Rockwool RW3 + 15mm OSB3 + 50mm Wood Fibre + Fibre Cement Cladding*?
 4.  **Galvanic Corrosion Rates:** What is the documented failure timeline of standard Galvanized (Zinc-coated) ring shank nails when exposed to coastal saline air in the UK? 
 5.  **ATEX / BS 7671 Static Grounding:** What is the specific BS 7671 electrical regulation code for cross-bonding / earth-grounding exposed metallic dust extraction ductwork in a combustible dust environment?
