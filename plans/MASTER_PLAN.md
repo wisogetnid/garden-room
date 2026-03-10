@@ -71,7 +71,21 @@
 *   **Corner Junctions:** The VCL must not be pulled tight into structural corners. Leave a 50mm "slack fold" loop pushed into the corner to allow for seasonal timber expansion without ripping the membrane. Tape the overlapping edge with Tescon Vana.
 *   **Window / Door Reveals:** Use **Pro Clima Tescon Profil** (split-backed pre-folded tape). The rigid half adheres to the side profile of the aluminum/timber door frame; the flexible half adheres to the Intello Plus VCL, creating an unbroken bridge across the reveal gap.
 
-### 2.3 Flat Roof Drainage & Rainwater Harvesting (The Water Butt Strategy)
+### 2.3 Solar-Ready Warm Roof Execution (With 50cm Overhang)
+
+**Context:** The roof is a "Warm Roof" (insulation entirely above the joists) to prevent condensation without requiring ventilation. It features a large 50cm North-facing overhang and must support the dead/live loads of a future Solar PV array without deflection.
+
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose |
+| :--- | :--- | :--- | :--- |
+| **Structural Joists** | 47x150mm C24 Timber | Fixed to double top-plate with inverted joist hangers at **400mm centers** | 400mm centers are mandatory (rather than 600mm) to safely support the additional 15-25 kg/m² dead load of a future solar array. |
+| **The Thermal Plug**| Rigid PIR Blocks or Mineral Wool | Friction fit between joists directly over the wall top-plate | **Critical 'Red Line' Link:** Plugs the gap between the wall insulation and roof insulation, preventing the "cold pocket" thermal bridge at the eaves. |
+| **Primary Deck** | 18mm OSB3 | Screwed to joists | Distributes solar point-loads and provides a rigid diaphragm, especially critical for stiffening the 50cm overhang. |
+| **Vapour Control** | Foil-backed VCL Membrane | Loose laid over OSB3 deck; joints taped | Stops internal moisture reaching the insulation. Must be taped directly to the wall's Intello Plus VCL to seal the junction. |
+| **Roof Insulation** | 150mm Rigid PIR Boards (150kPa Compressive Strength) | Mechanically fastened or bonded | High compressive strength required to resist localized crushing from solar panel mounting brackets or maintenance foot traffic. |
+| **Waterproofing** | 1.5mm EPDM Membrane | Fully adhered (glued) to the PIR (or secondary 9mm OSB cover board) | 50-year seamless weather protection. |
+| **Fascia/Soffit Insulation** | Continuous wind-barrier and PIR fill | Fitted behind the fascia board on the 50cm overhang | Prevents the overhang cavity from becoming a condensation trap that rots the rafter tails. |
+
+### 2.4 Flat Roof Drainage & Rainwater Harvesting (The Water Butt Strategy)
 **Objective:** A 20m² flat roof in Cowes will collect approximately 16,000 liters of water annually. Unmanaged runoff cascading off the roof will instantly overwhelm the local perimeter french drain, causing hydrostatic pressure buildup against the JACKODUR® raft upstand and potentially flooding neighboring boundaries.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose |
