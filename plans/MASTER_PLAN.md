@@ -133,6 +133,7 @@ A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the 
 
 | **Primary Occupant Heat** | 1.2kW Far-Infrared (FIR) Ceiling Panel | Suspended from ceiling joists over workbench | Switched on upon entry for weekend work. Provides instant radiant warmth directly to the user's body without waiting for room air to heat. |
 | **Dehumidification** | Smart Compressor Dehumidifier (e.g., MeacoDry Arete 1 12L) | Freestanding on floor. Relies on internal 2.5L-5L tank with Wi-Fi push notifications to the user's phone. | **Zero VCL Penetrations:** Because the Passivhaus envelope is airtight, moisture ingress from the outside is near zero. Once the initial construction moisture is extracted, the unit will rarely run when the room is unoccupied, making manual emptying highly infrequent. |
+| **Mechanical Ventilation** | Decentralized MVHR (dMVHR) with Summer Bypass | Wall-mounted, core-drilled through the envelope | **The 'Lungs' of the Passivhaus:** Provides continuous fresh air and CO2 extraction without losing heat. *CRITICAL: Must be fitted with G4 (Extract) and F7 (Intake) ISO 16890 filters to prevent the heat exchanger from blinding with fine wood dust.* |
 
 ---
 
