@@ -15,7 +15,7 @@
 | :--- | :--- | :--- | :--- |
 | **MOT Type 1 Sub-base** | 150mm depth | Vibrating plate compactor (min 6 passes) | Distribute load to stable clay strata. |
 | **Blinding Sand** | 25mm depth | Hand screeded flat | Provide a perfectly level bed for the XPS formwork. |
-| **Under-Slab Thermal Break** | JACKODUR® Atlas XPS System | Interlocking XPS panels assembled directly on the blinding sand | Prevent cold-bridging into the earth; serves as the permanent insulated formwork for the concrete. |
+| **Under-Slab Thermal Break** | 100-150mm JACKODUR® Atlas XPS System | Interlocking XPS panels assembled directly on the blinding sand | Prevent cold-bridging into the earth; serves as permanent insulated formwork. *Self-Builder Tradeoff:* 100-150mm thickness reduces hand-excavation by >10 tonnes compared to the 300mm Passivhaus standard, while still achieving an excellent U-value of 0.24-0.35 W/m²K for an intermittently heated space. |
 | **Damp Proof Membrane (DPM)** | 1200-gauge Polythene | Loose laid *inside* the XPS tub, taped seams | **Critical Placement:** Sits directly between the XPS insulation and the wet concrete to prevent the concrete from seeping between the XPS joints and to stop capillary moisture rising through the slab. |
 | **Steel Reinforcement** | A193 Steel Mesh | Suspended on 50mm plastic concrete 'chairs' | Provide tensile strength to concrete; 50mm cover prevents coastal chloride corrosion. |
 | **Heating Integration** | 16mm PEX-a Wet UFH Pipework | Zip-tied to the A193 Steel Mesh @ 150mm centers before pour | **Baseline heating/cooling:** Embedded into the thermal mass. Powered by an external Air Source Heat Pump (ASHP). |
