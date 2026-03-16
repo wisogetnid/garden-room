@@ -98,13 +98,13 @@
 
 **Context:** To maximize the Passivhaus thermal mass effect (the baseline heating of the slab) and handle the extreme point loads of heavy cast-iron machinery, **we will not build a floating timber sub-floor over the concrete.** The machinery will sit directly on the concrete, with the final aesthetic floor finish bonded to it.
 
-### 3.1 Hard-Bonded Floor Execution
+### 3.1 Workshop-Optimized Floor Execution
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose |
 | :--- | :--- | :--- | :--- |
-| **Slab Priming** | Acrylic Concrete Primer | Rolled directly onto the cured, dust-free concrete slab | Seals the power-floated surface and prepares it for adhesive bonding. |
-| **Aesthetic/Wear Deck** | Heavy-Duty Engineered Oak (e.g., 20mm total depth with 6mm wear layer) | **Fully Bonded** to the slab using flexible polyurethane wood-floor adhesive (e.g., SikaBond) | A hard-bonded floor ensures zero air-gaps, maximizing the radiant thermal transfer from the Wet UFH embedded in the concrete, while providing a durable, repairable, tool-safe surface. |
-| **Perimeter Expansion**| 10mm Cork Expansion Strip | Wedged between the floor edge and the Fermacell walls | Prevents the timber from buckling during seasonal humidity changes. |
+| **Slab Sealing** | Breathable Concrete Sealer / Densifier | Rolled directly onto the cured, dust-free concrete slab | Prevents concrete dusting under the tiles and protects the slab from accidental spills. |
+| **Aesthetic/Wear Deck** | 7mm Heavy-Duty Interlocking PVC Tiles (e.g., Ecotile) | **Loose-laid** directly over the concrete (no adhesive required) | Protects dropped cast-iron hand tools (chisels) from shattering, withstands 200kg machinery point loads, and can be easily lifted and sold when the room transitions to a home office. |
+| **Perimeter Expansion**| 5mm-10mm Expansion Gap | Hidden beneath a skirting board or flexible trim | Allows the PVC tiles to expand and contract with the UFH temperature fluctuations without buckling. |
 
 ### 3.2 Specific Machine Isolation (Vibration Decoupling)
 *   **Table Saw & Planer Placement:** Because the machines are sitting on the solid concrete thermal mass, the concrete itself absorbs the low-frequency vibrations. However, to prevent high-frequency motor chatter from radiating into the room, industrial-grade **Sylomer® pads** (color-coded to the machine's static weight) or high-density 15mm ribbed SBR rubber mats must be placed exactly under the four contact feet of the Table Saw and the Planer-Thicknesser.
