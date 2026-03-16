@@ -27,15 +27,17 @@
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose |
 | :--- | :--- | :--- | :--- |
-| **1. Level Threshold Drainage** | Aco HexDrain (Linear Channel Drain) | Set in concrete directly flush against the active door threshold | **CRITICAL for Flush Transitions:** Prevents pooling patio water from breaching the 0mm internal/external floor level and flooding the workshop. |
+| **1. Level Threshold Drainage** | Aco HexDrain (Linear Channel Drain) | Set in concrete directly flush against the rendered 100mm Jackodur EPS upstand at the doorway | **CRITICAL for Flush Transitions:** Prevents pooling patio water from breaching the 0mm internal/external floor level and flooding the workshop. Forms a physical barrier protecting the soft EPS foam from patio loads. |
 | **2. Perimeter Drainage** | 200mm Wide French Drain | Trench filled with 20mm washed gravel | Ensures coastal wind-driven rain instantly drains away from the JACKODUR® XPS upstand on non-door elevations. |
 | **3. Upstand Waterproofing**| Liquid-applied Waterproof Membrane (e.g., RIW Flexiseal) | Painted heavily over the XPS upstand, lapping up the Compacfoam block | Because the SIP base sits flush with the patio, this prevents hydrostatic pressure from pushing water through the joint. |
 | **4. Structural Thermal Break (The "Submarine" Layer)**| **Compacfoam CF200** Block | 140mm x 50mm (or higher to match patio depth), sits directly on the concrete edge | **Zero-Rot Base:** Replaces the traditional timber sole plate. Because the patio and internal floor are flush, this block sits directly in the potential "wet zone". Its zero-capillarity ensures no water wicks into the MgO SIPs above it. |
 | **5. DPM / DPC Lapping** | 1200-gauge DPM & Polymeric DPC | DPM folded over slab edge, lapped beneath DPC by min 100mm, sealed with Butyl Tape | Completely seals the concrete slab moisture away from the Compacfoam and the SIP structure. |
 | **6. Structural Anchoring** | M12 A4 (316) Stainless Anchor Bolts | Embedded 100mm into concrete via chemical resin @ 1200mm centers | Passes through the sole plate, DPC, and Compacfoam to lock the frame against massive coastal wind uplift. |
 
-**Textual Cross-Section Description for Flush Transition (Outside Patio to Inside Floor Level):**
-*(Outside)* Flush Patio Paving -> **Aco Channel Drain (at door) / French Drain (walls)** -> Liquid Waterproofing lapping over XPS Upstand onto Compacfoam -> Direct-Applied Silicone Render -> 150mm MgO SIP Panel sitting on Compacfoam CF200 block -> Polymeric DPC bonded to 1200g DPM -> 100mm Concrete Slab + 7mm PVC Tile *(Inside - perfectly level with patio)*.
+**Textual Cross-Section Description for Flush Transition (At Doorway):**
+*(Outside)* Flush Patio Paving -> **Aco Channel Drain** -> 100mm Jackodur EPS Upstand (waterproofed) -> **Compacfoam CF200 Block** (bridging over the soft EPS and resting on the concrete slab edge) -> Aluminium Door Threshold sitting on the Compacfoam -> 100mm Concrete Slab + 7mm PVC Tile *(Inside - perfectly level with patio)*.
+
+**Why this Geometry Works:** The 100mm EPS upstand cannot support the weight of foot traffic or a heavy door frame. The high-density Compacfoam block spans over the soft EPS and transfers the door load down into the solid concrete slab. The Aco drain sits directly against the outside face of the EPS upstand, instantly swallowing any rain that runs down the glass before it can bridge the thermal gap.
 
 **3 Critical Failure Points for a Level Threshold:**
 1.  **Water Ingress at the Door:** A 0mm threshold is the #1 cause of garden room flooding. If the Aco Drain is not perfectly pitched away from the active door leaf, wind-driven rain will pool and blow under the weather seal.
