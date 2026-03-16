@@ -27,21 +27,22 @@
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose |
 | :--- | :--- | :--- | :--- |
-| **1. Perimeter Drainage** | 200mm Wide French Drain | Trench filled with 20mm washed gravel | Ensures coastal wind-driven rain instantly drains away from the JACKODUR® XPS upstand. |
-| **2. Upstand Waterproofing**| Flexible Polymer-Cement Render | Trowelled over the exposed JACKODUR® upstand | Protects the XPS from UV degradation and mechanical damage above ground. |
-| **3. Base Drip Flashing** | Stainless Steel Drip Profile | Screwed to the base batten, kicking out over the XPS render | Prevents water from wicking back up into the rain-screen ventilation gap. |
-| **4. Thermal Overlap** | 50mm Wood Fibre External Insulation | Extended downwards to cover the top 50mm of the JACKODUR® XPS upstand | **'Red Line' Continuity:** Locks the wall insulation directly to the foundation insulation, eliminating the cold bridge at the slab edge. |
-| **5. Structural Thermal Break**| **Compacfoam CF200** Block | 140mm x 50mm, sits directly on the concrete edge | **Critical Function:** 1) *Flanking Transmission:* Stops heat bypassing the wall insulation via the concrete slab. 2) *Capillary Break:* Completely impermeable DPC protecting the timber from residual slab moisture. 3) *Geometric Alignment:* Bridges the gap between the hard concrete and soft EPS upstand. |
-| **6. DPM / DPC Lapping** | 1200-gauge DPM & Polymeric DPC | DPM folded over slab edge, lapped beneath DPC by min 100mm, sealed with Butyl Tape | Completely seals the concrete slab moisture away from the Compacfoam and timber sole plate. |
-| **7. Structural Anchoring** | M12 A4 (316) Stainless Anchor Bolts | Embedded 100mm into concrete via chemical resin @ 1200mm centers | Passes through the sole plate, DPC, and Compacfoam to lock the frame against massive coastal wind uplift. |
+| **1. Level Threshold Drainage** | Aco HexDrain (Linear Channel Drain) | Set in concrete directly flush against the rendered 100mm Jackodur EPS upstand at the doorway | **CRITICAL for Flush Transitions:** Prevents pooling patio water from breaching the 0mm internal/external floor level and flooding the workshop. Forms a physical barrier protecting the soft EPS foam from patio loads. |
+| **2. Perimeter Drainage** | 200mm Wide French Drain | Trench filled with 20mm washed gravel | Ensures coastal wind-driven rain instantly drains away from the JACKODUR® XPS upstand on non-door elevations. |
+| **3. Upstand Waterproofing**| Liquid-applied Waterproof Membrane (e.g., RIW Flexiseal) | Painted heavily over the XPS upstand, lapping up the Compacfoam block | Because the SIP base sits flush with the patio, this prevents hydrostatic pressure from pushing water through the joint. |
+| **4. Structural Thermal Break (The "Submarine" Layer)**| **Compacfoam CF200** Block | 140mm x 50mm (or higher to match patio depth), sits directly on the concrete edge | **Zero-Rot Base:** Replaces the traditional timber sole plate. Because the patio and internal floor are flush, this block sits directly in the potential "wet zone". Its zero-capillarity ensures no water wicks into the MgO SIPs above it. |
+| **5. DPM / DPC Lapping** | 1200-gauge DPM & Polymeric DPC | DPM folded over slab edge, lapped beneath DPC by min 100mm, sealed with Butyl Tape | Completely seals the concrete slab moisture away from the Compacfoam and the SIP structure. |
+| **6. Structural Anchoring** | M12 A4 (316) Stainless Anchor Bolts | Embedded 100mm into concrete via chemical resin @ 1200mm centers | Passes through the sole plate, DPC, and Compacfoam to lock the frame against massive coastal wind uplift. |
 
-**Textual Cross-Section Description (Outside to Inside at Floor Level):**
-*(Outside)* 20mm Washed Gravel French Drain -> JACKODUR® XPS Upstand (Rendered) -> Stainless Drip Flashing -> Direct-Applied Thin-Coat Silicone Render -> 150mm Magnesium Oxide (MgO) SIP Panel (A1 Non-Combustible) sitting on Compacfoam CF200 block -> Polymeric DPC bonded to 1200g DPM -> 100mm Concrete Slab with embedded 16mm PEX pipe. *(Inside)*
+**Textual Cross-Section Description for Flush Transition (At Doorway):**
+*(Outside)* Flush Patio Paving -> **Aco Channel Drain** -> 100mm Jackodur EPS Upstand (waterproofed) -> **Compacfoam CF200 Block** (bridging over the soft EPS and resting on the concrete slab edge) -> Aluminium Door Threshold sitting on the Compacfoam -> 100mm Concrete Slab + 7mm PVC Tile *(Inside - perfectly level with patio)*.
 
-**3 Critical Failure Points During Pour & First Lift:**
-1.  **Concrete Blow-Out:** The JACKODUR® XPS upstand acts as the concrete formwork. If the external perimeter is not properly backfilled with gravel or braced during the pour, the hydrostatic pressure of the wet concrete will blow out the XPS, destroying the thermal tub.
-2.  **DPM Corner Tearing:** Folding the heavy 1200g DPM around the internal 90-degree corner of the XPS tub often leads to punctures. Any hole here ruins the radon and moisture seal.
-3.  **The 'Wicking' Gap:** If the Tyvek breather membrane is not perfectly taped to the rendered face of the JACKODUR® upstand (using a primer and Pro Clima Tescon Vana), coastal wind-driven rain will blow up under the cladding and rot the timber sole plate.
+**Why this Geometry Works:** The 100mm EPS upstand cannot support the weight of foot traffic or a heavy door frame. The high-density Compacfoam block spans over the soft EPS and transfers the door load down into the solid concrete slab. The Aco drain sits directly against the outside face of the EPS upstand, instantly swallowing any rain that runs down the glass before it can bridge the thermal gap.
+
+**3 Critical Failure Points for a Level Threshold:**
+1.  **Water Ingress at the Door:** A 0mm threshold is the #1 cause of garden room flooding. If the Aco Drain is not perfectly pitched away from the active door leaf, wind-driven rain will pool and blow under the weather seal.
+2.  **Capillary Wicking at the Base:** Because the ground is level with the interior, standard timber baseplates rot instantly. The Compacfoam + Liquid Waterproofing acts as a "submarine" layer. Any failure to lap this waterproofing allows patio water to wick laterally into the building envelope.
+3.  **Concrete Blow-Out:** The JACKODUR® XPS upstand acts as the concrete formwork. If the external perimeter is not properly backfilled during the pour, hydrostatic pressure will blow out the tub.
 
 ---
 
@@ -98,13 +99,13 @@
 
 **Context:** To maximize the Passivhaus thermal mass effect (the baseline heating of the slab) and handle the extreme point loads of heavy cast-iron machinery, **we will not build a floating timber sub-floor over the concrete.** The machinery will sit directly on the concrete, with the final aesthetic floor finish bonded to it.
 
-### 3.1 Hard-Bonded Floor Execution
+### 3.1 Workshop-Optimized Floor Execution
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose |
 | :--- | :--- | :--- | :--- |
-| **Slab Priming** | Acrylic Concrete Primer | Rolled directly onto the cured, dust-free concrete slab | Seals the power-floated surface and prepares it for adhesive bonding. |
-| **Aesthetic/Wear Deck** | Heavy-Duty Engineered Oak (e.g., 20mm total depth with 6mm wear layer) | **Fully Bonded** to the slab using flexible polyurethane wood-floor adhesive (e.g., SikaBond) | A hard-bonded floor ensures zero air-gaps, maximizing the radiant thermal transfer from the Wet UFH embedded in the concrete, while providing a durable, repairable, tool-safe surface. |
-| **Perimeter Expansion**| 10mm Cork Expansion Strip | Wedged between the floor edge and the Fermacell walls | Prevents the timber from buckling during seasonal humidity changes. |
+| **Slab Sealing** | Breathable Concrete Sealer / Densifier | Rolled directly onto the cured, dust-free concrete slab | Prevents concrete dusting under the tiles and protects the slab from accidental spills. |
+| **Aesthetic/Wear Deck** | 7mm Heavy-Duty Interlocking PVC Tiles (e.g., Ecotile) | **Loose-laid** directly over the concrete (no adhesive required) | Protects dropped cast-iron hand tools (chisels) from shattering, withstands 200kg machinery point loads, and can be easily lifted and sold when the room transitions to a home office. |
+| **Perimeter Expansion**| 5mm-10mm Expansion Gap | Hidden beneath a skirting board or flexible trim | Allows the PVC tiles to expand and contract with the UFH temperature fluctuations without buckling. |
 
 ### 3.2 Specific Machine Isolation (Vibration Decoupling)
 *   **Table Saw & Planer Placement:** Because the machines are sitting on the solid concrete thermal mass, the concrete itself absorbs the low-frequency vibrations. However, to prevent high-frequency motor chatter from radiating into the room, industrial-grade **Sylomer® pads** (color-coded to the machine's static weight) or high-density 15mm ribbed SBR rubber mats must be placed exactly under the four contact feet of the Table Saw and the Planer-Thicknesser.
