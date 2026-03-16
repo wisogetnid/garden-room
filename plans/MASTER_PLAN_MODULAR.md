@@ -1,7 +1,7 @@
 # STANDARD OPERATING PROCEDURE (SOP): Cowes Passivhaus Woodworkshop (4x5m) - Modular Version
 
 **Document Status:** High-Fidelity Technical Specification & Construction SOP (Modular Alternative)  
-**Revision:** v1.0 (Modular Panel Structural Execution)  
+**Revision:** v2.0 (High-Performance Magnesium Oxide (MgO) SIP Execution)  
 
 ---
 
@@ -36,7 +36,7 @@
 | **7. Structural Anchoring** | M12 A4 (316) Stainless Anchor Bolts | Embedded 100mm into concrete via chemical resin @ 1200mm centers | Passes through the sole plate, DPC, and Compacfoam to lock the frame against massive coastal wind uplift. |
 
 **Textual Cross-Section Description (Outside to Inside at Floor Level):**
-*(Outside)* 20mm Washed Gravel French Drain -> JACKODUR® XPS Upstand (Rendered) -> Stainless Drip Flashing -> 50mm Wood Fibre Insulation (overlapping XPS) -> Tyvek Breather Membrane (taped to XPS render) -> 25mm Batten -> Fibre Cement Cladding -> 140x38mm Timber Sole Plate sitting on Compacfoam CF200 block -> Polymeric DPC bonded to 1200g DPM -> 100mm Concrete Slab with embedded 16mm PEX pipe. *(Inside)*
+*(Outside)* 20mm Washed Gravel French Drain -> JACKODUR® XPS Upstand (Rendered) -> Stainless Drip Flashing -> Direct-Applied Thin-Coat Silicone Render -> 150mm Magnesium Oxide (MgO) SIP Panel (A1 Non-Combustible) sitting on Compacfoam CF200 block -> Polymeric DPC bonded to 1200g DPM -> 100mm Concrete Slab with embedded 16mm PEX pipe. *(Inside)*
 
 **3 Critical Failure Points During Pour & First Lift:**
 1.  **Concrete Blow-Out:** The JACKODUR® XPS upstand acts as the concrete formwork. If the external perimeter is not properly backfilled with gravel or braced during the pour, the hydrostatic pressure of the wet concrete will blow out the XPS, destroying the thermal tub.
@@ -47,50 +47,45 @@
 
 ## 2. Layered Thermal Envelope Schedule
 
-**U-Value Target Check:** The baseline assembly (140mm Rockwool + 50mm Wood Fibre) yields an estimated U-value of **0.21 W/m²K**. Because this is higher than our target of <0.18 W/m²K, we must integrate a **'thin-profile' upgrade** (Multi-foil) on the inside face to hit the target without losing internal floor space.
+**U-Value Target Check:** The structural transition to 150mm Magnesium Oxide (MgO) SIPs utilizing a high-density PUR/QuadCore insulation yields an estimated U-value of **~0.15 W/m²K**, seamlessly achieving the Passivhaus fabric requirement in a highly compact wall profile without the need for thick secondary insulation layers.
 
 ### 2.1 The Modular Panel 'Sandwich' (Exterior to Interior)
 
-**Context:** To navigate the 30m wheelbarrow-width path and allow for solo assembly, the walls will be pre-fabricated off-site into 600mm x 2400mm panels (weighing approx 25kg each). The panel build-up prioritizes acoustic mass (Rockwool/Fermacell) while maintaining extreme coastal airtightness.
+**Context:** To navigate the 30m wheelbarrow-width path and ensure long-term structural integrity against coastal moisture and fire (boundary compliance), the build utilizes a Magnesium Oxide (MgO) Structural Insulated Panel (SIP) system. These are locally manufactured (MTL Ltd, Isle of Wight) to negate ferry logistics and crane requirements.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose |
 | :--- | :--- | :--- | :--- |
-| **1. Cladding (Applied on-site)** | James Hardie Fibre Cement Plank (A2 Fire) | 40mm 316 Stainless annular ring shank nails | 'Cowes-Proof' weather shield. |
-| **2. Rainscreen Gap (Applied on-site)** | 25x50mm Treated Timber | 120mm A4 (316) Stainless Steel EWI Screws driven at 60° | Creates a strict **25mm ventilation path** from bottom to top. Bridging the panel joints with batten adds structural rigidity. |
-| **3. Breather Membrane (Pre-fab)** | Tyvek UV Facade | Stainless staples; 150mm vertical loose flap | Repels wind-driven rain. *Critical:* A 150mm flap is left loose on one side of the panel to tape over the adjacent panel during assembly. |
-| **4. External Insulation (Pre-fab)** | 50mm Rigid Wood Fibre Board | Friction fit; held by batten screws | Unbroken thermal jacket. Chosen for its high specific heat capacity (2,100 J/kgK), providing a massive 'decrement delay'. |
-| **5. Sheathing (Pre-fab)** | 9mm OSB3 | 50mm A4 (316) Stainless Steel Ring Shanks @ 150mm centers | Structural racking strength. Keeps panel weight down compared to 15mm. |
-| **6. Structural Frame (Pre-fab)** | 89x38mm C24 Timber Studs | Screwed into a rigid jig to form a 600x2400mm frame | Primary load bearing. Built in a precision jig to ensure zero dimensional creep across the 5m wall span. |
-| **7. Acoustic Core (Pre-fab)** | 90mm Rockwool RW3 (60kg/m³) | Friction fit (zero compression) | High-density mass for acoustic damping (far superior to SIP foam) while remaining light enough for solo carrying. |
-| **8. Vapour Control Layer (Pre-fab)** | Pro Clima Intello Plus | Stainless staples; 100mm taped overlaps | Airtightness. Like the breather membrane, a loose flap must be left to tape to the adjacent panel. |
-| **9. Service Cavity (Applied on-site)**| 25x50mm Treated Timber Battens | Screwed horizontally @ 400mm centers | Cable routing without piercing VCL. Placed on-site to lock the modular panels together horizontally. |
-| **10. Internal Finish (Applied on-site)**| 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking; fire resistance. |
+| **1. External Cladding (Applied on-site)** | Thin-Coat Silicone Render | Trowel-applied directly to the external MgO board | Replaces complex timber rainscreens. Self-coloured, UV resistant, and maintenance-free. Impact-resistant and breathable in coastal zones. |
+| **2. Structural Outer Skin (Pre-fab)** | 12mm Magnesium Oxide (MgO) Board | Factory-bonded to the insulation core | **A1 Non-Combustible** rating (zero flame spread). Impervious to mold, rot, and coastal salt degradation. Acts as a perfect, stable render carrier. |
+| **3. Thermal Core (Pre-fab)** | 125mm PUR or Kingspan QuadCore Foam | Injected/Bonded under pressure ($\lambda \approx 0.018 - 0.022$ W/mK) | Exceptional thermal resistance yielding Passivhaus-level U-values in a minimal thickness footprint, removing the "timber framing" thermal bridges. |
+| **4. Structural Inner Skin (Pre-fab)** | 12mm Magnesium Oxide (MgO) Board | Factory-bonded to the insulation core | Internal racking strength with a high "screw-pull-out" capacity for mounting heavy workshop tools/cabinets. Intrinsically airtight material. |
+| **5. Vapour Control Layer / Airtightness** | Pro Clima Tescon Vana Tape | Adhered directly over the internal panel joints | MgO boards are intrinsically airtight. Specialized Passivhaus tape on the joints achieves the required $\le 0.6$ ACH airtightness standard. |
+| **6. Service Cavity (Applied on-site)**| 25x50mm Treated Timber Battens | Screwed horizontally into the inner MgO skin @ 400mm centers | Allows routing of all electrical cabling and dust extraction switches without piercing the airtight MgO envelope. |
+| **7. Internal Finish (Applied on-site)**| 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking, mitigating the low-frequency noise from workshop machinery. |
 
 ### 2.2 Modular Panel Sealing & Structural Joining Strategy
-*   **The Panel-to-Panel Seal:** Before two panels are bolted together, a continuous strip of expanding pre-compressed foam tape (**Compriband** or Illbruck TP600) is applied to the vertical timber stile. When compressed, this forms an acoustic, thermal, and weathertight seal that accommodates structural movement.
-*   **Mechanical Panel Fixing:** The 600mm panels are pulled tight and joined using heavily torqued **100mm Spax washer-head structural screws** or M8 carriage bolts driven through the vertical stiles (4 fixings per 2.4m height).
-*   **The Tying Plates:** The individual panels must sit on, and be screwed down into, a continuous 140x38mm **timber sole plate** anchored to the concrete raft. Finally, a continuous **double top-plate** is nailed flat across the top of all assembled panels, tying the individual modules into a monolithic, rigid diaphragm.
+*   **The Panel-to-Panel Seal:** Traditional timber splines create thermal bridges. All vertical panel-to-panel connections utilize **Insulated Splines** (miniature SIP strips with identical core foam) heavily sealed with structural polyurethane adhesive/expanding foam during assembly to ensure 100% thermal continuity.
+*   **Airtight Tape Application:** Once assembled, the internal seam lines (where panels meet) must be meticulously taped with Passivhaus-certified **Tescon Vana tape**. Because the inorganic MgO boards are airtight, this single taping step secures the envelope without requiring a full wrapping membrane.
+*   **The Tying Plates:** Panels sit on and lock into a treated **timber or MgO/SIP base plate** anchored to the Compacfoam thermal break on the concrete raft. A continuous top-plate is secured across the top rebate of the SIPs, uniting the modules into a rigid, monolithic structural diaphragm capable of supporting heavy solar-ready flat roofs.
 
-### 2.3 Solar-Ready Warm Roof Execution (With 50cm Overhang)
+### 2.3 Solar-Ready Roof Execution (MgO SIP Integration)
 
-**Context:** The roof is a "Warm Roof" (insulation entirely above the joists) to prevent condensation without requiring ventilation. It features a large 50cm North-facing overhang and must support the dead/live loads of a future Solar PV array without deflection.
+**Context:** The roof structure must integrate seamlessly with the MgO SIP walls, provide Passivhaus-level insulation, and support the dead/live loads of a future Solar PV array without deflection.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose |
 | :--- | :--- | :--- | :--- |
-| **Structural Joists** | 47x150mm C24 Timber | Fixed to double top-plate with inverted joist hangers at **400mm centers** | 400mm centers are mandatory (rather than 600mm) to safely support the additional 15-25 kg/m² dead load of a future solar array. |
-| **The Thermal Plug**| Rigid PIR Blocks or Mineral Wool | Friction fit between joists directly over the wall top-plate | **Critical 'Red Line' Link:** Plugs the gap between the wall insulation and roof insulation, preventing the "cold pocket" thermal bridge at the eaves. |
-| **Primary Deck** | 18mm OSB3 | Screwed to joists | Distributes solar point-loads and provides a rigid diaphragm, especially critical for stiffening the 50cm overhang. |
-| **Vapour Control** | Foil-backed VCL Membrane | Loose laid over OSB3 deck; joints taped | Stops internal moisture reaching the insulation. Must be taped directly to the wall's Intello Plus VCL to seal the junction. |
-| **Roof Insulation** | 150mm Rigid PIR Boards (150kPa Compressive Strength) | Mechanically fastened or bonded | High compressive strength required to resist localized crushing from solar panel mounting brackets or maintenance foot traffic. |
-| **Waterproofing** | 1.5mm EPDM Membrane | Fully adhered (glued) to the PIR (or secondary 9mm OSB cover board) | 50-year seamless weather protection. |
-| **Fascia/Soffit Insulation** | Continuous wind-barrier and PIR fill | Fitted behind the fascia board on the 50cm overhang | Prevents the overhang cavity from becoming a condensation trap that rots the rafter tails. |
+| **Wall Top Plate** | Timber or MgO/SIP base | Secured into the top rebate of the wall SIPs | Provides a continuous structural bearing plate for the roof panels to distribute the roof and solar loads evenly into the wall skins. |
+| **Roof Structure** | 175mm MgO SIP Roof Panels | Spanning from wall to wall, joined via insulated splines | Provides extreme thermal resistance ($\approx 0.15$ W/m²K) and massive structural strength across the 4m span capable of supporting solar arrays. |
+| **The 50cm Overhang** | Cantilevered MgO SIP Panel | Extended beyond the wall line | SIP panels inherently resist cantilever shear forces, providing a rigid 50cm overhang without the need for complex structural "outriggers". |
+| **Airtightness** | Pro Clima Tescon Vana Tape | Taped directly over the internal SIP roof joints | Ensures the internal airtight envelope is continuously connected from the walls across the ceiling without full membranes. |
+| **Waterproofing Deck** | 1.5mm EPDM Membrane | Fully adhered (glued) to the tapered PIR boards or a secondary cover board | 50-year seamless weather protection. |
 
 ### 2.4 Flat Roof Drainage & Rainwater Harvesting (The Water Butt Strategy)
 **Objective:** A 20m² flat roof in Cowes will collect approximately 16,000 liters of water annually. Unmanaged runoff cascading off the roof will instantly overwhelm the local perimeter french drain, causing hydrostatic pressure buildup against the JACKODUR® raft upstand and potentially flooding neighboring boundaries.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose |
 | :--- | :--- | :--- | :--- |
-| **Roof Fall Setup** | Tapered PIR Insulation Boards | Bonded over the 18mm OSB deck | Creates a permanent **1:60 fall** directing water toward a single designated low edge (e.g., the rear/West elevation). |
+| **Roof Fall Setup** | Tapered PIR Insulation Boards | Bonded over the top MgO skin of the roof SIP | Creates a permanent **1:60 fall** directing water toward a single designated low edge (e.g., the rear/West elevation). |
 | **Drip Edge Trim** | Sure-Edge UPVC Drip Trim | Fixed clamping the EPDM membrane | Prevents water from running back under the EPDM and directs it cleanly into the gutter system. |
 | **Guttering** | 112mm UPVC Deepflow (Black) | Standard fascia brackets | Higher capacity than half-round gutters to handle intense coastal downpours without overflowing the fascia. |
 | **Rainwater Diverter** | 68mm Downpipe Diverter Valve | Cut into the vertical downpipe | Channels rainwater into the water butt until full, then automatically redirects the excess. |
