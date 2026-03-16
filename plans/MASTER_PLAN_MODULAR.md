@@ -27,21 +27,20 @@
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose |
 | :--- | :--- | :--- | :--- |
-| **1. Perimeter Drainage** | 200mm Wide French Drain | Trench filled with 20mm washed gravel | Ensures coastal wind-driven rain instantly drains away from the JACKODUR® XPS upstand. |
-| **2. Upstand Waterproofing**| Flexible Polymer-Cement Render | Trowelled over the exposed JACKODUR® upstand | Protects the XPS from UV degradation and mechanical damage above ground. |
-| **3. Base Drip Flashing** | Stainless Steel Drip Profile | Screwed to the base batten, kicking out over the XPS render | Prevents water from wicking back up into the rain-screen ventilation gap. |
-| **4. Thermal Overlap** | 50mm Wood Fibre External Insulation | Extended downwards to cover the top 50mm of the JACKODUR® XPS upstand | **'Red Line' Continuity:** Locks the wall insulation directly to the foundation insulation, eliminating the cold bridge at the slab edge. |
-| **5. Structural Thermal Break**| **Compacfoam CF200** Block | 140mm x 50mm, sits directly on the concrete edge | Bears the entire structural load of the timber frame while providing high-density thermal and moisture isolation from the concrete. |
-| **6. DPM / DPC Lapping** | 1200-gauge DPM & Polymeric DPC | DPM folded over slab edge, lapped beneath DPC by min 100mm, sealed with Butyl Tape | Completely seals the concrete slab moisture away from the Compacfoam and timber sole plate. |
-| **7. Structural Anchoring** | M12 A4 (316) Stainless Anchor Bolts | Embedded 100mm into concrete via chemical resin @ 1200mm centers | Passes through the sole plate, DPC, and Compacfoam to lock the frame against massive coastal wind uplift. |
+| **1. Level Threshold Drainage** | Aco HexDrain (Linear Channel Drain) | Set in concrete directly flush against the active door threshold | **CRITICAL for Flush Transitions:** Prevents pooling patio water from breaching the 0mm internal/external floor level and flooding the workshop. |
+| **2. Perimeter Drainage** | 200mm Wide French Drain | Trench filled with 20mm washed gravel | Ensures coastal wind-driven rain instantly drains away from the JACKODUR® XPS upstand on non-door elevations. |
+| **3. Upstand Waterproofing**| Liquid-applied Waterproof Membrane (e.g., RIW Flexiseal) | Painted heavily over the XPS upstand, lapping up the Compacfoam block | Because the SIP base sits flush with the patio, this prevents hydrostatic pressure from pushing water through the joint. |
+| **4. Structural Thermal Break (The "Submarine" Layer)**| **Compacfoam CF200** Block | 140mm x 50mm (or higher to match patio depth), sits directly on the concrete edge | **Zero-Rot Base:** Replaces the traditional timber sole plate. Because the patio and internal floor are flush, this block sits directly in the potential "wet zone". Its zero-capillarity ensures no water wicks into the MgO SIPs above it. |
+| **5. DPM / DPC Lapping** | 1200-gauge DPM & Polymeric DPC | DPM folded over slab edge, lapped beneath DPC by min 100mm, sealed with Butyl Tape | Completely seals the concrete slab moisture away from the Compacfoam and the SIP structure. |
+| **6. Structural Anchoring** | M12 A4 (316) Stainless Anchor Bolts | Embedded 100mm into concrete via chemical resin @ 1200mm centers | Passes through the sole plate, DPC, and Compacfoam to lock the frame against massive coastal wind uplift. |
 
-**Textual Cross-Section Description (Outside to Inside at Floor Level):**
-*(Outside)* 20mm Washed Gravel French Drain -> JACKODUR® XPS Upstand (Rendered) -> Stainless Drip Flashing -> Direct-Applied Thin-Coat Silicone Render -> 150mm Magnesium Oxide (MgO) SIP Panel (A1 Non-Combustible) sitting on Compacfoam CF200 block -> Polymeric DPC bonded to 1200g DPM -> 100mm Concrete Slab with embedded 16mm PEX pipe. *(Inside)*
+**Textual Cross-Section Description for Flush Transition (Outside Patio to Inside Floor Level):**
+*(Outside)* Flush Patio Paving -> **Aco Channel Drain (at door) / French Drain (walls)** -> Liquid Waterproofing lapping over XPS Upstand onto Compacfoam -> Direct-Applied Silicone Render -> 150mm MgO SIP Panel sitting on Compacfoam CF200 block -> Polymeric DPC bonded to 1200g DPM -> 100mm Concrete Slab + 7mm PVC Tile *(Inside - perfectly level with patio)*.
 
-**3 Critical Failure Points During Pour & First Lift:**
-1.  **Concrete Blow-Out:** The JACKODUR® XPS upstand acts as the concrete formwork. If the external perimeter is not properly backfilled with gravel or braced during the pour, the hydrostatic pressure of the wet concrete will blow out the XPS, destroying the thermal tub.
-2.  **DPM Corner Tearing:** Folding the heavy 1200g DPM around the internal 90-degree corner of the XPS tub often leads to punctures. Any hole here ruins the radon and moisture seal.
-3.  **The 'Wicking' Gap:** If the Tyvek breather membrane is not perfectly taped to the rendered face of the JACKODUR® upstand (using a primer and Pro Clima Tescon Vana), coastal wind-driven rain will blow up under the cladding and rot the timber sole plate.
+**3 Critical Failure Points for a Level Threshold:**
+1.  **Water Ingress at the Door:** A 0mm threshold is the #1 cause of garden room flooding. If the Aco Drain is not perfectly pitched away from the active door leaf, wind-driven rain will pool and blow under the weather seal.
+2.  **Capillary Wicking at the Base:** Because the ground is level with the interior, standard timber baseplates rot instantly. The Compacfoam + Liquid Waterproofing acts as a "submarine" layer. Any failure to lap this waterproofing allows patio water to wick laterally into the building envelope.
+3.  **Concrete Blow-Out:** The JACKODUR® XPS upstand acts as the concrete formwork. If the external perimeter is not properly backfilled during the pour, hydrostatic pressure will blow out the tub.
 
 ---
 
