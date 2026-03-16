@@ -4,10 +4,18 @@
 This is the master blueprint for the high-end, sustainable 4x5m garden workshop, designed to meet or exceed Passivhaus standards.
 
 ## 2. Foundation System & Ground-to-Wall Interface
-* **Type:** Floating Insulated Raft Foundation (Concrete slab fully enveloped in 100mm EPS L-elements and floor panels).
+* **Type:** Floating Insulated Raft Foundation (Concrete slab fully enveloped in Jackodur Atlas EPS L-elements and floor panels).
 * **Thermal Performance:** Fully thermal-bridge-free.
 
-### 2.1 Why a Structural Thermal Break is Needed on an Insulated Raft
+### 2.1 Jackodur Atlas Insulation Thickness: Passivhaus vs. Practical Trade-off
+While the strict Passivhaus standard targets a floor U-value of $\le 0.15 \text{ W/(m}^2\text{K)}$ (requiring **250mm - 300mm** of Jackodur Atlas insulation), this demands the excavation of nearly 500mm of earth (including sub-base). For a 4x5m footprint, hand-digging this volume equates to moving and disposing of **over 20 tonnes** of solid earth. 
+
+**The Self-Builder Trade-off:**
+To make the build feasible for a self-builder without mechanical digging machinery, we are specifying **100mm to 150mm** thickness for the Jackodur Atlas floor insulation. 
+*   **Excavation Savings:** Reduces total depth to ~225mm, slashing the hand-dug earth volume by more than half (to ~10 tonnes).
+*   **Thermal Performance:** 100mm provides a U-value of ~0.35 W/(m²K), and 150mm provides ~0.24 W/(m²K). For an intermittently heated 20m² garden room, this is exceptionally efficient, avoiding the massive physical and financial toll of a 300mm excavation for only marginal energy savings.
+
+### 2.2 Why a Structural Thermal Break is Needed on an Insulated Raft
 You asked: *Why would I need a structural thermal break when using a floating raft insulation around the concrete slab, meaning the slab is now in the building envelope?*
 
 Even with the concrete slab acting as an internal thermal mass separated from the ground, a structural thermal break (e.g., Marmox Thermoblock, Compacfoam, or Foamglas) is still strictly required beneath the timber sole plate. The reasons are:
