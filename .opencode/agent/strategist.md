@@ -1,6 +1,6 @@
 ---
 description: Critical thinker focused on trade-offs, budget, and project logic.
-model: google/gemini-3-pro
+model: google/gemini-3.1-pro-preview
 tools:
   read: true
   write: true

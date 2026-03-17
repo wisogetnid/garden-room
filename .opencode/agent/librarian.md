@@ -1,6 +1,6 @@
 ---
 description: Deep-dive researcher for technical specs and building codes.
-model: google/gemini-3-flash
+model: google/gemini-3.1-pro-preview
 tools:
   websearch: true
   webfetch: true
