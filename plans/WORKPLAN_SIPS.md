@@ -30,7 +30,7 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
 *   **Evening Task (Quiet):** Zip-tie the 16mm PEX-a Underfloor Heating pipe to the steel mesh at 150mm centers. Pressure test the loop with an air compressor and leave the gauge on.
 
 ### Weekend 3: 🚨 BIG EVENT: The Concrete Pour
-*   **Saturday (All Hands):** The concrete lorry arrives. You need 2-3 people. Wheelbarrowing 2.5 cubic meters of concrete down a 30m path is brutal. You *must* brace the outside of the Jackodur XPS tub with timber pegs and gravel backfill, or the hydrostatic pressure of the wet concrete will blow the tub apart. Power-float the min 100mm C25/30 mix level.
+*   **Saturday (All Hands):** The concrete lorry arrives equipped with a **mini line pump** to bypass the narrow 30m path constraint. Run the delivery hose down the path to entirely eliminate the brutal wheelbarrowing. Have 2 people manage the hose and spread the 2.5 cubic meters of C25/30 mix. The JACKODUR® Atlas XPS interlocking tub is engineered to be entirely self-supporting during the pour, so no external timber bracing or gravel backfilling is required. Power-float the slab perfectly level.
 *   **Sunday (Rest):** Let the slab cure. Do nothing. Drink tea. 
 *   **Sunday Lockdown:** Check the UFH pressure gauge. Cover the slab with a tarp if heavy rain or frost is forecast.
 
