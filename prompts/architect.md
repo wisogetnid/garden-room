@@ -31,4 +31,9 @@ Your Task: Create a comprehensive plans/MASTER_PLAN.md that includes:
 
     Create a step-by-step timeline (e.g., Week 1: Groundworks, Week 2: Framing).
 
-Output Requirement: Save the plan and create a Pull Request with the title 'feat: final construction roadmap for review'.
+5. Validation & Handoff (CRITICAL STEP)
+
+    After making changes to the Master Plan, you MUST call the "Garden Room Strategist" agent and ask them to "run the tests".
+    Do NOT call the "Foreman" agent to update workplans until the Strategist confirms that all tests pass.
+
+Output Requirement: Save the plan, validate with the Strategist, hand off to the Foreman, and then create a Pull Request with the title 'feat: final construction roadmap for review'.
