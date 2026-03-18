@@ -1,7 +1,7 @@
 # STANDARD OPERATING PROCEDURE (SOP): Cowes Passivhaus Woodworkshop (4x5m) - Modular Version
 
 **Document Status:** High-Fidelity Technical Specification & Construction SOP (Modular Alternative)
-**Revision:** v2.1 (High-Performance Magnesium Oxide (MgO) SIP Execution, Quantified & Sequenced)
+**Revision:** v2.2 (High-Performance Magnesium Oxide (MgO) SIP Execution, Quantified & Sequenced)
 
 ---
 
@@ -22,10 +22,10 @@
 
 **Phase 3: Superstructure Envelope (Days 8-12)**
 *   **Step 3.1:** Secure timber/MgO base plates to the concrete/Compacfoam using M12 resin anchors @ 1200mm centers.
-*   **Step 3.2:** Erect 150mm MgO SIP wall panels. Join using insulated splines and structural polyurethane adhesive.
+*   **Step 3.2:** Receive 150mm MgO SIP panels (e.g., Dragonboard/SIPit-FR) via rigid shuttle vehicle (crucial for navigating narrow island roads). Erect wall panels and join using insulated splines and structural polyurethane adhesive.
 *   **Step 3.3:** *[Factory Pre-Cuts]* Ensure factory has pre-cut openings for dMVHR and the 2 standard windows (North and East elevations) to avoid on-site structural damage.
 *   **Step 3.4:** Install continuous top-plate into the top rebate of the wall SIPs.
-*   **Step 3.5:** Install 175mm MgO SIP roof panels. Join via insulated splines. tape internal joints with Tescon Vana.
+*   **Step 3.5:** Install 175mm MgO SIP roof panels. Join via insulated splines. Tape internal joints with Tescon Vana.
 
 **Phase 4: Weatherproofing & Exterior (Days 13-17)**
 *   **Step 4.1:** Tape all internal SIP seams with Pro Clima Tescon Vana.
@@ -41,6 +41,11 @@
 *   **Step 5.4:** Apply concrete sealer to slab. Loose-lay 7mm PVC floor tiles.
 *   **Step 5.5:** Second-fix electrical (sockets, lighting, IR panel, consumer unit).
 *   **Step 5.6:** Connect and commission ASHP and dMVHR. Install Copper Earth Bonding strap to ducting.
+
+## 0.1 Potential Risks (Logistics & Compliance)
+*   **Transportation Logistics:** Delivery to the Isle of Wight via Red Funnel or Wightlink incurs heavy ferry premiums for 17m articulated lorries (often exceeding £400). Furthermore, narrow rural roads require a "shuttle" service using smaller rigid vehicles to access the final site. Utilizing kits structured for rapid modular assembly (like Direct Sips) helps optimize transport density.
+*   **Fire Safety Compliance:** 2024-2026 Approved Document B requires structures within 1m of a boundary to be constructed of "substantially non-combustible materials". The use of A1-rated Magnesium Oxide (MgO) SIP panels eliminates the need for secondary fire-rated boarding and provides up to 4 hours of fire resistance, safely and completely resolving this strict regulation.
+*   **Moisture Durability:** Unlike standard OSB panels, MgO boards are inorganic and impervious to moisture. They will not swell, rot, or delaminate during the humid construction phase on the South Coast, drastically reducing weather-related installation risks.
 
 ---
 
@@ -147,12 +152,12 @@
 ### 4.1 Heating Execution Strategy
 A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the thermal battery and provides passive summer cooling, while the IR Panel provides instant top-up heat for the occupant in winter. **Total estimated heat load for 20m² Passivhaus: 1.5kW - 2.0kW.** This is an intentional investment in the future comfort and longevity of the space.
 
-| Material Name | Dimensions / Gauge | Fixing Method | Purpose |
-| :--- | :--- | :--- | :--- |
-| **Baseline Thermal Battery** | 16mm PEX-a Pipework (Wet UFH) + 3kW ASHP | Embedded within the 100mm concrete slab @ 150mm centers | Runs continuously via thermostat at 12-14°C (winter) or 19°C (summer). Keeps cast-iron tools dry, mitigates the summer "oven effect". |
-| **Primary Occupant Heat** | 1.2kW Far-Infrared (FIR) Ceiling Panel | Suspended from ceiling joists over workbench | Switched on upon entry for weekend work. Provides instant radiant warmth directly to the user's body. |
-| **Dehumidification** | Smart Compressor Dehumidifier (e.g., MeacoDry Arete 1 12L) | Freestanding on floor. Relies on internal 2.5L-5L tank. | **Zero VCL Penetrations:** Because the Passivhaus envelope is airtight, moisture ingress from the outside is near zero. |
-| **Mechanical Ventilation** | Decentralized MVHR (dMVHR) with Summer Bypass | Wall-mounted. **Factory pre-cut by SIP manufacturer** (along with 2 standard windows on North and East elevations) to avoid on-site structural damage. | **The 'Lungs' of the Passivhaus:** Provides continuous fresh air and CO2 extraction without losing heat. *CRITICAL: Must be fitted with G4 (Extract) and F7 (Intake) ISO 16890 filters.* |
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
+| :--- | :--- | :--- | :--- | :--- |
+| **Baseline Thermal Battery** | 16mm PEX-a Pipework (Wet UFH) + 3kW ASHP | Embedded within the 100mm concrete slab @ 150mm centers | Runs continuously via thermostat at 12-14°C (winter) or 19°C (summer). Keeps cast-iron tools dry, mitigates the summer "oven effect". | 1 system |
+| **Primary Occupant Heat** | 1.2kW Far-Infrared (FIR) Ceiling Panel | Suspended from ceiling joists over workbench | Switched on upon entry for weekend work. Provides instant radiant warmth directly to the user's body. | 1 panel |
+| **Dehumidification** | Smart Compressor Dehumidifier (e.g., MeacoDry Arete 1 12L) | Freestanding on floor. Relies on internal 2.5L-5L tank. | **Zero VCL Penetrations:** Because the Passivhaus envelope is airtight, moisture ingress from the outside is near zero. | 1 unit |
+| **Mechanical Ventilation** | Decentralized MVHR (dMVHR) with Summer Bypass | Wall-mounted. **Factory pre-cut by SIP manufacturer** (along with 2 standard windows on North and East elevations) to avoid on-site structural damage. | **The 'Lungs' of the Passivhaus:** Provides continuous fresh air and CO2 extraction without losing heat. *CRITICAL: Must be fitted with G4 (Extract) and F7 (Intake) ISO 16890 filters.* | 1 unit |
 
 ---
 
@@ -160,12 +165,12 @@ A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the 
 
 ### 5.1 Circuit Schedule & Ducting Geometry
 
-| Material Name | Dimensions / Gauge | Fixing Method | Purpose |
-| :--- | :--- | :--- | :--- |
-| **Machine Breakers** | 20A **Type C** RCBOs | Mounted in workshop Consumer Unit | Type C magnetic trip curve withstands the 100A+ inrush surge of 3HP induction motors without nuisance tripping. |
-| **Sockets** | IP66 Double Switched 13A | Surface mounted to Fermacell | Flap-covers prevent conductive wood dust from bridging internal contacts (fire prevention). |
-| **Extraction Trunk** | 100mm Rigid Galvanized Steel Ducting | Rubber-lined acoustic pipe clamps to ceiling | Smooth bore maintains 25 m/s air velocity; metal prevents static electricity sparks (unlike PVC). |
-| **Static Protection** | Copper Earth Bonding Strap | Bolted to galvanized ducting and grounded to electrical Earth | **ATEX Safety:** Safely grounds the massive static charge generated by high-velocity wood dust moving through metal ductwork, preventing lethal dust explosions. |
-| **Blast Gates** | 100mm Cast Aluminum body with steel slider | Hose-clamped onto vertical machine drops | Maximizes static pressure by isolating idle branches. |
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
+| :--- | :--- | :--- | :--- | :--- |
+| **Machine Breakers** | 20A **Type C** RCBOs | Mounted in workshop Consumer Unit | Type C magnetic trip curve withstands the 100A+ inrush surge of 3HP induction motors without nuisance tripping. | 4 units |
+| **Sockets** | IP66 Double Switched 13A | Surface mounted to Fermacell | Flap-covers prevent conductive wood dust from bridging internal contacts (fire prevention). | ~6 units |
+| **Extraction Trunk** | 100mm Rigid Galvanized Steel Ducting | Rubber-lined acoustic pipe clamps to ceiling | Smooth bore maintains 25 m/s air velocity; metal prevents static electricity sparks (unlike PVC). | ~10 linear meters |
+| **Static Protection** | Copper Earth Bonding Strap | Bolted to galvanized ducting and grounded to electrical Earth | **ATEX Safety:** Safely grounds the massive static charge generated by high-velocity wood dust moving through metal ductwork, preventing lethal dust explosions. | 1 unit |
+| **Blast Gates** | 100mm Cast Aluminum body with steel slider | Hose-clamped onto vertical machine drops | Maximizes static pressure by isolating idle branches. | 3 units |
 
 > **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (100mm slab, 150mm splash zone, and Type C induction mapping) have been validated and integrated.
