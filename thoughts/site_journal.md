@@ -31,3 +31,9 @@
 - **SIPS Weatherproofing:** Enforced a strict zero-delay protocol on the Tyvek UV Facade breather membrane in the new SIPS workplan. With coastal weather, OSB cannot sit exposed. The Sunday Lockdown now mandates full wrapping.
 - **SIPS Fire Safety:** Added a mandatory step and inspection point for the 15mm Fermacell internal boarding in the SIPS workplan, as this is the only way the combustible OSB SIPs will pass the REI30/REI60 boundary fire regulations.
 - **Next Steps:** Awaiting user decision on which route (MODULAR vs. SIPS) to greenlight for final materials ordering.
+
+## Date: 2026-03-18
+**Foreman Notes: Concrete Pour Update**
+- Reworked "Weekend 3: The Concrete Pour" in both `WORKPLAN_MODULAR.md` and `WORKPLAN_SIPS.md`.
+- **Narrow Access Resolution:** Removed the brutal wheelbarrowing logistics. Specified the use of a concrete lorry equipped with a **mini line pump** to easily bridge the 30m path constraint.
+- **Formwork Physics:** Removed the requirement to add external timber bracing or gravel backfill. Confirmed that the interlocking JACKODUR® Atlas XPS tub is structurally engineered to be entirely self-supporting and can handle the hydrostatic pressure of the wet concrete pour on its own.
