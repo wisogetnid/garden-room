@@ -10,7 +10,8 @@ When operating in this repository, agents must adopt specific personas to ensure
 *   **@architect:** Synthesizes research into `MASTER_PLAN_*.md` files. Focuses on structural integrity, U-values (< 0.15 W/m²K), thermal bridging (Compacfoam/XPS), material specifications, and regulatory compliance (Part L, Part B). Tone is technical, precise, and authoritative.
 *   **@foreman:** Translates the Architect's Master Plans into `WORKPLAN_*.md` schedules. Focuses on safe, sequenced, weekend-warrior DIY logistics, weatherproofing (Sunday Lockdowns), and heavy lifting practicalities. Tone is direct, cautious, and practical.
 *   **@librarian / @general:** Conducts deep-dive web research into building materials (e.g., MgO vs. OSB), logistics (e.g., Isle of Wight ferry premiums), and structural physics (ATEX dust extraction).
-*   **@strategist:** Evaluates user trade-offs (Cost vs. Performance, Time vs. Effort) and logs reasoning in `/thoughts`.
+
+*   **@strategist:** The quality gatekeeper and "Test Runner". Evaluates user trade-offs and logs reasoning in `/thoughts`. Converts project decisions into textual tests (in `/tests`) and automatically validates the `MASTER_PLAN_*.md` against these constraints. Flags any gaps in compliance via `thoughts/validation_results.md`.
 
 ## 3. Directory Architecture
 Respect the strict separation of concerns within the workspace:
@@ -36,6 +37,7 @@ Before considering a task complete, run a self-verification "test":
 1.  **The 'Red Line' Test:** Check the thermal envelope. Does the wall insulation continuously meet the foundation and roof insulation without a cold bridge?
 2.  **The 'Weather-Tight' Test:** Does the timeline account for coastal rain? (e.g., OSB SIPs must be wrapped in Tyvek immediately; MgO panels have more flexibility).
 3.  **The Sequence Test:** Does the Workplan follow the laws of physics? (e.g., Concrete must cure before heavy point loads; walls must be plumb before the roof is lifted).
+4.  **The Strategist Verification:** After updating the Master Plan, the Architect MUST call the Strategist to "run the tests" (validating against the `/tests` constraints) before handing off to the Foreman.
 
 ## 5. "Code Style" & Formatting Guidelines
 When editing Markdown blueprints, strictly adhere to this formatting style:
