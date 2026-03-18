@@ -78,8 +78,13 @@
 | **5. DPM / DPC Lapping** | 1200-gauge DPM & Polymeric DPC | DPM folded over slab edge, lapped beneath DPC by min 100mm, sealed with Butyl Tape | Completely seals the concrete slab moisture away from the Compacfoam and the SIP structure. | 1 Roll DPC (225mm) |
 | **6. Structural Anchoring** | M12 A4 (316) Stainless Anchor Bolts | Embedded 100mm into concrete via chemical resin @ 1200mm centers | Passes through the sole plate, DPC, and Compacfoam to lock the frame against massive coastal wind uplift. | ~16 units + 2 resin tubes |
 
-**Textual Cross-Section Description for Flush Transition (At Doorway):**
-*(Outside)* Flush Patio Paving -> **Aco Channel Drain** -> 100mm Jackodur XPS Upstand (waterproofed) -> **Compacfoam CF200 Block** (bridging over the soft XPS and resting on the concrete slab edge) -> Aluminium Door Threshold sitting on the Compacfoam -> 100mm Concrete Slab + 7mm PVC Tile *(Inside - perfectly level with patio)*.
+**Detailed Ground-to-Wall Load Path & Thermal Connection (At the Threshold & Perimeter):**
+
+1. **The Foundation Base:** The perimeter consists of the solid 100mm structural concrete slab immediately adjacent to the 100mm JACKODUR® XPS foam upstand (which acted as the permanent formwork). While the XPS is a great insulator, it is too soft to support structural weight or hold anchor bolts. 
+2. **The "Submarine" Layer (Compacfoam):** A highly engineered, ultra-dense EPS block (Compacfoam CF200) is laid continuously around the perimeter. It is positioned to bear heavily on the solid concrete slab edge while slightly bridging over the softer XPS upstand. This safely transfers the heavy structural load of the wall down into the concrete while simultaneously connecting the wall insulation to the foundation insulation (completing the 'Red Line' thermal envelope). Compacfoam is impervious to rot.
+3. **Moisture Encapsulation:** The 1200-gauge Damp Proof Membrane (DPM) from under the slab is folded up the concrete edge, sitting *beneath* the Compacfoam. A heavy-duty polymeric Damp Proof Course (DPC) is then laid directly *on top* of the Compacfoam, fully encapsulating the joint.
+4. **Base Plate & Anchoring:** A treated timber (or MgO) base plate sits perfectly level on the DPC. We drill down through the base plate, DPC, and Compacfoam, plunging 100mm deep into the concrete. M12 Stainless Steel anchor rods are secured with chemical resin, violently clamping the base plate and Compacfoam down to the slab.
+5. **The SIP Drop & Lock:** The 150mm MgO SIP wall panel features a routed bottom edge (the core foam is recessed, leaving the two 12mm MgO outer skins extending downward). Structural polyurethane adhesive is applied to the base plate, and the SIP panel is dropped *over* it. The heavy MgO skins slide down the sides of the base plate, and the internal PUR core foam rests flat on top. Structural screws are driven through the lower MgO skins directly into the sides of the base plate to permanently lock the wall.
 
 ---
 
