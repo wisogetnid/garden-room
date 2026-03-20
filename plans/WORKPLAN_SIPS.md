@@ -19,10 +19,14 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
 ## 🗓️ Phase 1: Groundworks & The Floating Raft (The Heavy Slog)
 *This is the worst of the physical labor. Pace yourself.*
 
-### Weekend 1: The Big Dig
-*   **Saturday (Heavy):** Mark out the 4x5m footprint + 200mm extra all around for the French Drain. Excavate down 150mm. You are hand-digging roughly 10 tonnes of earth. Hire a motorized wheelbarrow if the 30m path allows.
-*   **Sunday (Heavy):** Lay the geotextile membrane. Wheelbarrow in 150mm of Type 1 MOT sub-base.
-*   **Sunday Lockdown (4 PM):** Hire a vibrating compactor plate. Run 6 passes over the MOT. Cover the spoil heap with a tarp so it doesn't turn into a mudslide next week. Return the wacker plate.
+### Weekend 1: Demolition & The Big Dig (🚨 MAJOR LOGISTICS)
+*   **Friday Logistics:** Waste removal calculation updated. The existing 2.4m x 3.6m x 0.1m concrete patch is ~0.9m³ of solid concrete (~2 tonnes). However, because you need a uniform 330mm depth across the entire 4.4x5.4m footprint, you must dig out ~7m³ of solid soil (~10.5 tonnes) from beneath the pad and the rest of the garden. **Total waste: ~12.5 tonnes / ~10.5m³ (loose volume).** *Foreman Note:* Since you are digging manually and pacing yourself, hire **sequential 6-yard builder's skips**. (Do not use 8-yard skips for soil/rubble, as they will quickly exceed the skip lorry's 8-tonne lifting limit). You will likely need 2 to 3 of these skips in sequence.
+*   **Saturday (Brutal Heavy):** Demolish the wooden shed. Hire a concrete breaker to smash and remove the 100mm thick concrete pad. Mark out the new 4x5m footprint + 200mm extra all around for the French drain. Excavate the entire footprint down to exactly 330mm (to fit 150mm MOT + 25mm sand + 150mm XPS). Because the old pad was only 100mm deep, you will need to dig out another 230mm of soil *under* where the pad used to be to reach your target depth. Load your first skip manually as you go.
+*   **Sunday (Sub-Base):** Lay the geotextile membrane across the entire flat, 330mm deep excavated footprint. Wheelbarrow in your Type 1 MOT sub-base to a uniform depth of 150mm across the whole area.
+*   **Sunday Lockdown (4 PM) - 🚨 OPEN EXCAVATION PROTOCOL:** If you did not finish the dig or sub-base this weekend, **DO NOT leave the earthen trench exposed.** A 330mm deep hole of this size will become a 7,800-liter swimming pool if it rains. If water saturates the bottom clay/soil (the 'formation level'), it will turn to mush and ruin the load-bearing capacity for your MOT. 
+    1.  *The Sump:* Dig a small, deeper bucket-sized hole in the lowest corner of the trench. If it rains, the water will pool here where you can drop a cheap submersible pump.
+    2.  *The Tarp:* Pin down heavy-duty tarpaulins over any exposed bare earth at the bottom of the trench to prevent the rain from turning it to mud.
+    3.  *Compaction:* If you managed to lay the MOT, hire a heavy vibrating compactor plate. Run 6 passes over the MOT, compacting it in layers. Return the wacker plate. Cover the compacted MOT with a tarp.
 
 ### Weekend 2: The Tub & The Steel
 *   **Saturday (Moderate):** Screed 25mm of blinding sand perfectly level. Assemble the 100mm Jackodur Atlas XPS perimeter L-elements and interlocking floor panels. *Foreman Note:* If this isn't level, the whole building will be crooked.
