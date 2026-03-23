@@ -73,3 +73,69 @@
 - **Instructions Added:**
     1.  **Sump & Pump:** Dig a deeper bucket-sized hole in the lowest corner. If it rains, water flows here for easy extraction via a submersible pump.
     2.  **Tarp the Base:** Pin down heavy-duty tarpaulins specifically over the *exposed flat earth* at the bottom of the trench to prevent rain from turning it to mud.
+
+## Date: 2026-03-19
+**Architect & Strategist Notes: Heavy-Duty Foundation Upgrade**
+- **User Request:** Upgraded the SIPS plan foundation to handle extreme workshop conditions.
+- **Specification Changes:**
+    - Increased blinding sand from 25mm to 50mm for a safer, more forgiving bed for the XPS formwork.
+    - Upgraded the concrete slab thickness from 100mm to a heavy-duty 150mm.
+    - Replaced the single layer of A193 steel mesh with a **double layer of heavy A393 steel mesh**.
+    - Integrated a "sandwich" protocol: The 16mm PEX-a Underfloor Heating (UFH) pipes must be zip-tied to the bottom layer and then covered by the top layer to prevent floating and ensure perfect core thermal mass integration.
+    - Updated concrete volume estimation to ~3.5 cubic meters.
+- **Validation:** The Strategist has officially updated `tests/001_foundation_strategy.md` to enforce this new 150mm / Double A393 constraint moving forward.
+- **Next Steps:** The Foreman needs to review the SIPS Workplan timeline to account for the heavy A393 mesh cutting and lifting logistics.
+
+## Date: 2026-03-19
+**Foreman Notes: Heavy-Duty Steel Logistics added to SIPS Workplan**
+- Handed off from Architect. The 150mm slab and double A393 steel requirements have been integrated into `WORKPLAN_SIPS.md`.
+- **Logistics Alert:** A single 4.8m x 2.4m sheet of 10mm-thick A393 mesh weighs ~70kg. This completely alters the "Weekend 2" workload from "Moderate" to "Heavy/Dangerous."
+- **Workplan Updates:**
+    - Explicitly mandated a 2-person lift and an angle grinder with metal-cutting discs for the steel installation.
+    - Updated Saturday to emphasize the deeper 50mm sand bed.
+    - Created a "Mid-Week Prep (Heavy)" task specifically to drag the *top* layer of 70kg A393 mesh over the pressurised UFH pipes. 
+    - Added a strict warning not to accidentally cut or burst the pressurised PEX-a pipes with the sharp edges of the heavy steel mesh while sandwiching them.
+    - Updated Weekend 3 to reflect the larger ~3.5 cubic meter concrete volume and the 150mm power-floated depth.
+    - The Sunday Lockdown checklist now explicitly requires verifying the UFH pressure gauge hasn't dropped after the aggressive top mesh installation.
+
+## Date: 2026-03-19
+**Foreman Notes: Recalculated Dig-Out for 350mm Depth**
+- Because the blinding sand layer was increased to 50mm, the new excavation depth equation is: 150mm MOT + 50mm Sand + 150mm XPS tub = 350mm below Finished Floor Level (FFL).
+- **Recalculated Waste Volumes:** 
+    - The old concrete pad (~0.9m³ / ~2 tonnes) stays the same.
+    - Digging 350mm deep across the entire 4.4x5.4m footprint (23.76m²) yields roughly 7.5m³ of solid soil to excavate.
+    - At ~1.5 tonnes per solid m³, that equals roughly **11.2 tonnes of soil**.
+- **Total Waste:** Combined weight is roughly **~13.2 tonnes** / **~11m³ loose volume** (approx. 14.5 cubic yards).
+- **Skip Hire Status:** With 11m³ (14.5 cubic yards), the user will need roughly three 6-yard builder's skips. Updated the Workplan to specify this.
+- **Dig Under Pad:** Because the old pad was 100mm deep, digging down to 350mm means excavating 250mm of soil from directly beneath where the pad used to sit.
+
+## Date: 2026-03-19
+**Architect & Strategist Notes: Steel Reinforcement Optimization**
+- **User Request:** Downgraded the steel mesh from heavy-duty A393 to structural A252.
+- **Rationale:** A252 (8mm wire at 200mm centers) is more than sufficient for a domestic garden room workshop while significantly reducing material cost and lifting hazards. We are maintaining the "double layer sandwich" protocol to ensure the UFH pipes remain perfectly integrated within the 150mm slab without floating.
+- **Updates:** Updated `MASTER_PLAN_SIPS.md` to specify A252. Updated `tests/001_foundation_strategy.md` to test against the A252 constraint instead of A393.
+- **Hand-off:** Instructed the Foreman to update the Workplan to reflect the safer lifting weights.
+
+## Date: 2026-03-19
+**Foreman Notes: A252 Steel Mesh Workplan Updates**
+- Handed off from Architect. Replaced A393 references with A252 in `WORKPLAN_SIPS.md`.
+- **Logistics Alert Adjusted:** A single 4.8m x 2.4m sheet of 8mm A252 mesh weighs roughly 45kg (down from the dangerous 70kg of A393). This makes the Weekend 2 and Mid-Week Prep lifts significantly safer and more manageable for a DIYer, though a 2-person lift is still recommended.
+
+## Date: 2026-03-19
+**Strategist Notes: Test 001 Enhancement - Structural Validation**
+- Upgraded `tests/001_foundation_strategy.md`.
+- **Change:** Transitioned from a "static" string-matching test (i.e. strictly requiring 150mm slab + A252) to an "active structural validation" test.
+- **New Validation Rule:** The Strategist (acting as the Test Runner) is now mandated to use web searches to cross-reference proposed foundation layers (sub-base depths, concrete thickness, compressive strength of the XPS, and steel gauge) against standard UK building/engineering practices.
+- **Rationale:** If the Architect proposes modifying the concrete depth or steel (e.g., dropping to a 100mm slab with A142 mesh), the Strategist will not blindly approve or reject it based on hardcoded values. Instead, it will look up whether a 100mm slab on XPS 300 can handle the dynamic point-loads of cast iron machinery without cracking.
+
+## Date: 2026-03-19
+**Strategist Notes: Universal Test Suite Enhancement**
+- Upgraded tests `002` through `007` to include "Active Web-Search Validation" clauses.
+- **Rationale:** The Strategist (Test Runner) is no longer a passive string-matching tool. It is now explicitly mandated to run independent web searches to verify the physics, chemistry, and regulations behind the Architect's proposals before passing the build.
+- **New Validations Include:**
+    - **Roof (002):** Active load-bearing and deflection limits for 4m spanning SIPs, plus checking <2.5m Permitted Development rules.
+    - **Wall (003):** Calculating vapour permeability and interstitial condensation risks against coastal weather data.
+    - **Door (004):** Checking dB reduction and Q50/n50 airtightness claims for asymmetric 1.5 doors vs. French doors.
+    - **Heating/Flooring (005):** Verifying W/m² outputs against Passivhaus heating loads, and point-load capacity of flooring under heavy cast iron machinery.
+    - **Dust (006):** Validating ATEX static grounding logic for rigid ducting and <PM2.5 HEPA filtration efficacy for recirculated hardwood dust.
+    - **Timeline (007):** Cross-referencing UK seasonal temperatures to verify the specific curing timeline/strength (MPa) required for a 150mm C25/30 mix before heavy SIPs can be loaded onto the perimeter.
