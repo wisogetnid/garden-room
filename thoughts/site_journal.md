@@ -139,3 +139,17 @@
     - **Heating/Flooring (005):** Verifying W/m² outputs against Passivhaus heating loads, and point-load capacity of flooring under heavy cast iron machinery.
     - **Dust (006):** Validating ATEX static grounding logic for rigid ducting and <PM2.5 HEPA filtration efficacy for recirculated hardwood dust.
     - **Timeline (007):** Cross-referencing UK seasonal temperatures to verify the specific curing timeline/strength (MPa) required for a 150mm C25/30 mix before heavy SIPs can be loaded onto the perimeter.
+
+## Date: 2026-03-23
+**Architect & Strategist Notes: Foundation Validation Fixes**
+- **Strategist Gap Report:** The active test flagged that C25/30 concrete violates the JACKODUR® Atlas BBA Certificate (which requires C32/40). It also flagged that the logistics for the line pump/contractors were missing from the Master Plan step 1.6.
+- **Architect Updates:** Modified `MASTER_PLAN_SIPS.md` to explicitly specify C32/40 concrete, and included the concrete line pump and contractor crew in Step 1.6 and the materials table. 
+- **Mesh Clearance Warning Acknowledged:** The Strategist flagged that a 150mm slab holding two layers of A252 and UFH pipe only leaves 2mm of cover tolerance. This is an accepted risk for now; the Foreman must be extremely precise with chair placement.
+- **Hand-off:** All Strategist validation gaps regarding the foundation test have been patched in the Master Plan. Handoff to the Foreman to sync these changes (specifically the C32/40 upgrade) to the Workplan.
+
+## Date: 2026-03-23
+**Foreman Notes: Workplan SIPS Foundation & Logistics Sync**
+- Acknowledged the Master Plan validation updates from the Architect and Strategist.
+- **Concrete Grade Upgrade:** Replaced C25/30 with C32/40 in `WORKPLAN_SIPS.md` for "Weekend 3: The 150mm Concrete Pour" to satisfy the structural BBA certification for the 150mm JACKODUR tub.
+- **Contractor Logistics:** Updated Weekend 3 to mandate hiring a small contractor crew for the 3.5m³ line pump pour to prevent cold-joints and DIY exhaustion.
+- **Mesh Clearance Warning:** Inserted a fierce warning into "Weekend 2: The Tub & The Heavy Steel" regarding the 50mm plastic chairs. The "double steel sandwich" in a 150mm slab leaves almost zero tolerance (2mm). Instructed the user that perfect chair placement is critical to prevent the top mesh from breaching the power-floated surface.

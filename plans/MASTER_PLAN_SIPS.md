@@ -10,10 +10,10 @@
 **Phase 1: Groundworks & Foundation (Days 1-5)**
 *   **Step 1.1:** Excavate footprint to 150mm depth + foundation perimeter. Lay and compact MOT Type 1 sub-base (6 passes).
 *   **Step 1.2:** Screed 50mm blinding sand flat.
-*   **Step 1.3:** Assemble 100mm-150mm JACKODUR® Atlas XPS interlocking tub.
+*   **Step 1.3:** Assemble 150mm JACKODUR® Atlas XPS interlocking tub.
 *   **Step 1.4:** Loose-lay 1200-gauge DPM inside the XPS tub, tape all seams.
 *   **Step 1.5:** Place 50mm concrete chairs, lay the first layer of A252 steel mesh, zip-tie 16mm PEX-a UFH pipework @ 150mm centers, then lay the second layer of A252 steel mesh directly over the pipes (sandwiching them).
-*   **Step 1.6:** Pour min 150mm C25/30 concrete slab. Power-float finish. Cure for 7-14 days.
+*   **Step 1.6:** Hire a concrete line pump and a small contractor crew to pour the ~3.5m³ of min 150mm C32/40 concrete slab. Power-float finish. Cure for 7-14 days.
 
 **Phase 2: Drainage & Threshold (Days 6-7)**
 *   **Step 2.1:** Install 200mm French drain trench with 20mm washed gravel around non-door elevations.
@@ -59,11 +59,11 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **MOT Type 1 Sub-base** | 150mm depth | Vibrating plate compactor (min 6 passes) | Distribute load to stable clay strata. | ~4 Bulk Bags (approx. 3.4 tonnes) |
 | **Blinding Sand** | 50mm depth | Hand screeded flat | Provide a perfectly level bed for the XPS formwork. | ~2 Bulk Bags (approx. 1700kg) |
-| **Under-Slab Thermal Break** | 100-150mm JACKODUR® Atlas XPS System | Interlocking XPS panels assembled directly on the blinding sand | Prevent cold-bridging into the earth; serves as permanent insulated formwork. | 1 complete Atlas tub system |
+| **Under-Slab Thermal Break** | 150mm JACKODUR® Atlas XPS System | Interlocking XPS panels assembled directly on the blinding sand | Prevent cold-bridging into the earth; serves as permanent insulated formwork. | 1 complete Atlas tub system |
 | **Damp Proof Membrane (DPM)** | 1200-gauge Polythene | Loose laid *inside* the XPS tub, taped seams | **Critical Placement:** Sits directly between the XPS insulation and the wet concrete to prevent capillary moisture rising through the slab. | 1 Roll (4m x 25m) |
 | **Steel Reinforcement** | A252 Steel Mesh (Two Layers) | First layer on 50mm plastic concrete 'chairs', second layer sandwiching the UFH pipes | Structural tensile strength. The double layer prevents thermal cracking and supports point loads. | 6 Sheets (4.8m x 2.4m) |
 | **Heating Integration** | 16mm PEX-a Wet UFH Pipework | Zip-tied to the bottom layer of A252 mesh @ 150mm centers, sandwiched by the top layer before pour | **Baseline heating/cooling:** Embedded into the thermal mass. Powered by an external Air Source Heat Pump (ASHP). | ~150 linear meters |
-| **Concrete Slab** | Min 150mm thick (C25/30 mix) | Poured in-situ, power-floated finish | Extreme high-mass structural base; dampens low-frequency machinery vibration and provides massive thermal battery capacity. | ~3.5 Cubic Meters |
+| **Concrete Slab** | Min 150mm thick (C32/40 mix) | Poured in-situ using a line pump and contractor crew, power-floated finish | Extreme high-mass structural base; dampens low-frequency machinery vibration and provides massive thermal battery capacity. The C32/40 mix is mandated by JACKODUR® BBA certification. | ~3.5 Cubic Meters |
 
 ### 1.3 Ground-to-Wall Interface Details (Slab-to-Wall Junction)
 
