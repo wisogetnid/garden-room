@@ -4,7 +4,7 @@
 
 1. **Acoustics over Space:** The user prioritizes soundproofing over maximizing internal floor space. Open to external continuous insulation to offset internal footprint loss.
 2. **Thermal Efficiency First:** High thermal performance (Passivhaus-level) is the priority, accepting higher upfront costs. Dust extraction will utilize an internal recirculation system (with high-grade HEPA and cyclone separation) to preserve the thermal envelope.
-3. **Foundation Strategy:** Insulated Concrete Raft. Provides maximum thermal mass, vibration dampening for heavy machinery, and allows for a flush transition to the existing outside patio.
+3. **Foundation Strategy:** Insulated Concrete Raft. Provides maximum thermal mass, vibration dampening for heavy machinery, and features an explicit 150mm "splash zone" above the external ground level to protect the timber frame from ground moisture and wind-driven rain rebound.
 4. **Labor & Logistics:** The user is willing to hire temporary contractors for critical heavy-lifting phases (e.g., moving heavy acoustic boards like Fermacell, or pumping/barrowing concrete on pour day).
 5. **Structural Envelope:** Traditional Timber Frame for walls and roof. Chosen for breathability, flexibility, and ease of DIY modification, despite the slower weather-tightness timeline compared to SIPs.
 6. **Vapour Management:** A meticulously taped internal Vapour Control Layer (VCL) will be the primary defense against interstitial condensation. This locks the moisture out of the wall structure.

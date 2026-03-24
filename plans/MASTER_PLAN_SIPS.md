@@ -1,4 +1,4 @@
-# STANDARD OPERATING PROCEDURE (SOP): Cowes Passivhaus Woodworkshop (4x5m) - SIPs Version
+# STANDARD OPERATING PROCEDURE (SOP): Cowes Passivhaus Woodworkshop (3.6m x 5.2m) - SIPs Version
 
 **Document Status:** High-Fidelity Technical Specification & Construction SOP (SIPs Alternative)  
 **Revision:** v1.1 (SIPs Structural Execution, Quantified & Sequenced)  
@@ -8,33 +8,33 @@
 ## 0. Step-by-Step Construction Phases
 
 **Phase 1: Groundworks & Foundation (Days 1-5)**
-*   **Step 1.1:** Excavate footprint to 150mm depth + foundation perimeter. Lay and compact MOT Type 1 sub-base (6 passes).
+*   **Step 1.1:** Excavate footprint to 350mm depth + foundation perimeter. Per JACKODUR® BBA installation specs, excavate an additional 400mm working space all around the tub. For a 3.6m x 5.2m slab, you must dig a **4.4m x 6.0m** footprint. Lay and compact 150mm MOT Type 1 sub-base (6 passes).
 *   **Step 1.2:** Screed 50mm blinding sand flat.
-*   **Step 1.3:** Assemble 150mm JACKODUR® Atlas XPS interlocking tub.
+*   **Step 1.3:** Assemble the 150mm JACKODUR® Atlas XPS interlocking tub (3.6m x 5.2m). (The top of the 150mm XPS base will now sit exactly flush with the external ground level, while the perimeter upstands will protrude 150mm above ground).
 *   **Step 1.4:** Loose-lay 1200-gauge DPM inside the XPS tub, tape all seams.
 *   **Step 1.5:** Place 50mm concrete chairs, lay a single layer of A252 steel mesh, zip-tie 16mm PEX-a UFH pipework @ 150mm centers directly to the top of the mesh.
-*   **Step 1.6:** Hire a concrete line pump and a small contractor crew to pour the ~3.5m³ of min 150mm C32/40 concrete slab. Power-float finish. Cure for 7-14 days.
+*   **Step 1.6:** Hire a concrete line pump and a small contractor crew to pour the ~2.8m³ of min 150mm C32/40 concrete slab. The slab is poured *inside* the XPS upstands (on top of the XPS base), rising 150mm above ground level to create the required 150mm splash zone. Power-float finish. Cure for 14 days minimum before drilling anchors.
 
 **Phase 2: Drainage & Threshold (Days 6-7)**
-*   **Step 2.1:** Install 200mm French drain trench with 20mm washed gravel around non-door elevations.
+*   **Step 2.1:** Backfill the existing 200mm perimeter over-excavation gap with 20mm washed gravel to create a clean splash margin (no further digging required).
 *   **Step 2.2:** Trowel flexible polymer-cement render over exposed XPS upstand.
 *   **Step 2.3:** Install Compacfoam CF200 block at the threshold directly on the concrete edge. Lap DPM/DPC.
 
-**Phase 3: Superstructure Envelope (Days 8-12)**
+**Phase 3: Superstructure Envelope (Days 20-24)**
 *   **Step 3.1:** Secure timber sole plates to the concrete/Compacfoam using M12 resin anchors @ 1200mm centers.
 *   **Step 3.2:** Coordinate delivery of 142mm PUR-Core SIP panels from New Forest SIPs (Lymington) via Yarmouth ferry, utilizing rigid shuttle vehicles for narrow island road access. Erect wall panels and join using insulated splines and structural adhesive.
 *   **Step 3.3:** Install continuous top-plate into the top rebate of the wall SIPs.
-*   **Step 3.4:** Install 172mm PUR-Core SIP roof panels. Join via insulated splines. Tape internal joints with Tescon Vana.
+*   **Step 3.4:** Install 172mm PUR-Core SIP roof panels. **CRITICAL LOGISTICS:** Due to the extreme weight of 172mm panels, utilize narrow 600mm width panels or hire a material lift for safe installation. Ensure the final roof pitch and coverings strictly maintain a total external height of ≤ 2.5m from ground level to comply with Permitted Development rules. Join via insulated splines. Tape internal joints with Tescon Vana.
 
-**Phase 4: Weatherproofing & Exterior (Days 13-17)**
+**Phase 4: Weatherproofing & Exterior (Days 25-29)**
 *   **Step 4.1:** Tape all internal SIP seams with Pro Clima Tescon Vana.
 *   **Step 4.2:** Install tapered PIR insulation boards on roof (1:60 fall). Fully adhere 1.5mm EPDM membrane and secure UPVC Drip Trim.
 *   **Step 4.3:** **CRITICAL:** Install Tyvek UV Facade breather membrane over OSB skins immediately to protect against coastal moisture degradation.
 *   **Step 4.4:** Install 50mm Wood Fibre external insulation and 25x50mm rainscreen battens.
-*   **Step 4.5:** Install James Hardie Fibre Cement Cladding. Install windows/doors.
+*   **Step 4.5:** Install James Hardie Fibre Cement Cladding. Install windows and doors. **DOOR SPECIFICATION:** Explicitly forbid the use of French Doors as they inherently fail Passivhaus Q50 airtightness and acoustic dB reduction tests. Specify and install an Asymmetric 1.5 Door system (e.g., 1000mm active leaf + 400-600mm slave leaf) or a high-performance Lift-and-Slide door.
 *   **Step 4.6:** Install guttering and rainwater diverter to 200L water butt (overflow to dedicated soakaway).
 
-**Phase 5: Internal Fit-Out & Services (Days 18-25)**
+**Phase 5: Internal Fit-Out & Services (Days 30-37)**
 *   **Step 5.1:** Install 25x50mm service cavity battens internally @ 400mm centers.
 *   **Step 5.2:** First-fix electrical wiring and ASHP pipework in the service cavity/ceiling.
 *   **Step 5.3:** Install 15mm Fermacell boards over battens (crucial for REI30/REI60 fire rating if <1m from boundary).
@@ -57,13 +57,13 @@
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **MOT Type 1 Sub-base** | 150mm depth | Vibrating plate compactor (min 6 passes) | Distribute load to stable clay strata. | ~4 Bulk Bags (approx. 3.4 tonnes) |
-| **Blinding Sand** | 50mm depth | Hand screeded flat | Provide a perfectly level bed for the XPS formwork. | ~2 Bulk Bags (approx. 1700kg) |
+| **MOT Type 1 Sub-base** | 150mm depth | Vibrating plate compactor (min 6 passes) | Distribute load to stable clay strata. Applied 400mm wider than tub as per JACKODUR® specs. | ~10 Bulk Bags (approx. 8.5 tonnes) |
+| **Blinding Sand** | 50mm depth | Hand screeded flat | Provide a perfectly level bed for the XPS formwork. Applied 400mm wider than tub. | ~2.5 Bulk Bags (approx. 2.1 tonnes) |
 | **Under-Slab Thermal Break** | 150mm JACKODUR® Atlas XPS System | Interlocking XPS panels assembled directly on the blinding sand | Prevent cold-bridging into the earth; serves as permanent insulated formwork. | 1 complete Atlas tub system |
 | **Damp Proof Membrane (DPM)** | 1200-gauge Polythene | Loose laid *inside* the XPS tub, taped seams | **Critical Placement:** Sits directly between the XPS insulation and the wet concrete to prevent capillary moisture rising through the slab. | 1 Roll (4m x 25m) |
 | **Steel Reinforcement** | A252 Steel Mesh (Single Layer) | Placed on 50mm plastic concrete 'chairs' | Structural tensile strength. A single layer positioned in the bottom-third of the slab controls thermal cracking while eliminating the risk of breaching the concrete's top cover during power floating. | 3 Sheets (4.8m x 2.4m) |
 | **Heating Integration** | 16mm PEX-a Wet UFH Pipework | Zip-tied to the top of the A252 mesh @ 150mm centers before pour | **Baseline heating/cooling:** Embedded into the thermal mass. Powered by an external Air Source Heat Pump (ASHP). | ~150 linear meters |
-| **Concrete Slab** | Min 150mm thick (C32/40 mix) | Poured in-situ using a line pump and contractor crew, power-floated finish | Extreme high-mass structural base; dampens low-frequency machinery vibration and provides massive thermal battery capacity. The C32/40 mix is mandated by JACKODUR® BBA certification. | ~3.5 Cubic Meters |
+| **Concrete Slab** | Min 150mm thick (C32/40 mix) | Poured in-situ using a line pump and contractor crew, power-floated finish | Extreme high-mass structural base; dampens low-frequency machinery vibration and provides massive thermal battery capacity. The C32/40 mix is mandated by JACKODUR® BBA certification. | ~2.8 Cubic Meters |
 
 ### 1.3 Ground-to-Wall Interface Details (Slab-to-Wall Junction)
 
@@ -71,17 +71,17 @@
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Perimeter Drainage** | 200mm Wide French Drain | Trench filled with 20mm washed gravel | Ensures coastal wind-driven rain instantly drains away from the JACKODUR® XPS upstand. | ~14 linear meters |
+| **1. Perimeter Splash Margin** | 400mm Wide Gravel Border | Pour 20mm washed gravel into the existing 400mm over-excavation gap | Absorbs rain kinetic energy to prevent mud splashing onto the cladding, while draining surface water into the MOT. No extra digging required. | ~2.5 Bulk Bags (~2.1 tonnes) |
 | **2. Upstand Waterproofing**| Flexible Polymer-Cement Render | Trowelled over the exposed JACKODUR® upstand | Protects the XPS from UV degradation and mechanical damage above ground. | 1x 25kg bag |
 | **3. Base Drip Flashing** | Stainless Steel Drip Profile | Screwed to the base batten, kicking out over the XPS render | Prevents water from wicking back up into the rain-screen ventilation gap. | ~14 linear meters |
 | **4. Thermal Overlap** | 50mm Wood Fibre External Insulation | Extended downwards to cover the top 50mm of the JACKODUR® XPS upstand | **'Red Line' Continuity:** Locks the wall insulation directly to the foundation insulation, eliminating the cold bridge at the slab edge. | ~45m² coverage |
-| **5. Structural Thermal Break**| **Compacfoam CF200** Block | 140mm x 50mm, sits precisely on the concrete edge | **SIP Base Bearing:** Replaces the timber sole plate. Stops thermal flanking via concrete. | ~18 linear meters |
+| **5. Structural Thermal Break**| **Compacfoam CF200** Block | 140mm x 50mm, sits precisely on the concrete edge | **Door Threshold Bearing:** Supports the heavy door frame while maintaining the thermal break where the XPS upstand is cut away for level access. | ~2 linear meters |
 | **6. DPM / DPC Lapping** | 1200-gauge DPM & Polymeric DPC | DPM folded over slab edge, lapped beneath DPC by min 100mm, sealed with Butyl Tape | Completely seals the concrete slab moisture away from the SIP OSB skins and timber sole plate. | 1 Roll DPC |
 | **7. Structural Anchoring** | M12 A4 (316) Stainless Anchor Bolts | Embedded 100mm into concrete via chemical resin @ 1200mm centers | Passes through the sole plate and DPC to lock the frame against massive coastal wind uplift. | ~16 units |
 | **8. SIP to Plate Seal** | Expanding PU Foam & Sealant | Injected into the SIP rebate before dropping over the sole plate | Creates a permanent foam-to-timber airtight and thermal seal at the foundation junction. | 4 tubes |
 
 **Textual Cross-Section Description (Outside to Inside at Floor Level):**
-*(Outside)* 20mm Washed Gravel French Drain -> JACKODUR® XPS Upstand (Rendered) -> Stainless Drip Flashing -> 50mm Wood Fibre Insulation (overlapping XPS) -> Tyvek Breather Membrane -> 25mm Batten -> Fibre Cement Cladding -> 142mm SIP Panel (Outer skin bearing on concrete edge) dropped over 140x38mm Timber Sole Plate -> Polymeric DPC bonded to 1200g DPM -> 150mm Concrete Slab with single A252 mesh and zip-tied 16mm PEX pipe. *(Inside)*
+*(Outside)* 20mm Washed Gravel Splash Margin -> JACKODUR® XPS Upstand (Rendered) -> Stainless Drip Flashing -> 50mm Wood Fibre Insulation (overlapping XPS) -> Tyvek Breather Membrane -> 25mm Batten -> Fibre Cement Cladding -> 142mm SIP Panel (Outer skin bearing on concrete edge) dropped over 140x38mm Timber Sole Plate -> Polymeric DPC bonded to 1200g DPM -> 150mm Concrete Slab with single A252 mesh and zip-tied 16mm PEX pipe. *(Inside)*
 
 **3 Critical Failure Points During Pour & First Lift:**
 1.  **Concrete Blow-Out:** The JACKODUR® XPS upstand acts as the concrete formwork. If the external perimeter is not properly backfilled with gravel or braced during the pour, the hydrostatic pressure of the wet concrete will blow out the XPS, destroying the thermal tub.
@@ -119,13 +119,13 @@
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | **Wall Top Plate** | 140x38mm Timber C24 | Glued and screwed into the top rebate of the wall SIPs | Provides a continuous structural bearing plate for the roof panels/joists to distribute the roof and solar loads evenly into the wall skins. | ~18 linear meters |
-| **Roof Structure** | 172mm PUR-Core Roof SIPs | Spanning from wall to wall, joined via insulated splines | Provides extreme thermal resistance (Warm Roof by default) and massive structural strength across the 4m span capable of supporting solar arrays. | ~20m² coverage |
+| **Roof Structure** | 172mm PUR-Core Roof SIPs | Spanning from wall to wall, joined via insulated splines | Provides extreme thermal resistance (Warm Roof by default) and massive structural strength across the 3.6m span capable of supporting solar arrays. | ~18.7m² coverage |
 | **The 50cm Overhang** | Cantilevered SIP Roof Panel | Extended beyond the FFL wall | SIP panels inherently resist cantilever shear forces, providing a rigid 50cm overhang without the need for complex structural "outriggers". | (Part of Roof SIPs) |
 | **Vapour Control** | Pro Clima Intello Plus | Taped directly over the internal SIP roof joints | Ensures the internal VCL envelope is continuously connected from the walls across the ceiling. | 1 Roll |
 | **Waterproofing Deck** | 1.5mm EPDM Membrane | Fully adhered (glued) to the top OSB skin of the roof SIP | 50-year seamless weather protection. | ~25m² Sheet |
 
 ### 2.4 Flat Roof Drainage & Rainwater Harvesting (The Water Butt Strategy)
-**Objective:** A 20m² flat roof in Cowes will collect approximately 16,000 liters of water annually. Unmanaged runoff cascading off the roof will instantly overwhelm the local perimeter french drain, causing hydrostatic pressure buildup against the JACKODUR® raft upstand and potentially flooding neighboring boundaries.
+**Objective:** A ~18.7m² flat roof in Cowes will collect approximately 15,000 liters of water annually. Unmanaged runoff cascading off the roof will instantly overwhelm the local perimeter french drain, causing hydrostatic pressure buildup against the JACKODUR® raft upstand and potentially flooding neighboring boundaries.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
@@ -135,6 +135,11 @@
 | **Rainwater Diverter** | 68mm Downpipe Diverter Valve | Cut into the vertical downpipe | Channels rainwater into the water butt until full, then automatically redirects the excess. | 1 unit |
 | **Water Butt** | 200L to 250L Slimline Butt | Sitting on a stable block plinth | Eco-friendly harvesting for garden use, drastically reducing sudden shock loads on the ground drainage. | 1 unit |
 | **The Overflow (CRITICAL)**| 68mm UPVC Pipe | Piped from diverter to a Soakaway Crate | A 200L butt fills in a single heavy storm. The overflow **must not** dump at the base of the foundation. It must be piped to a dedicated soakaway located at least 3m-5m away from the foundation. | 1 crate + pipe |
+
+### 2.5 Door Access Strategy
+**Objective:** Provide secure entry while maintaining Passivhaus Q50 airtightness testing standards and rigorous acoustic dB reduction.
+*   **French Doors Forbidden:** Traditional French doors are strictly prohibited. They inherently fail Passivhaus airtightness standards and acoustic reduction due to the lack of a central mullion, leading to air and noise leakage down the meeting stiles.
+*   **Approved Mechanisms:** Specify an **Asymmetric 1.5 Door system** (e.g., a 1000mm active leaf combined with a 400-600mm slave leaf) or a high-performance **Lift-and-Slide door**. These systems use complex cam-action locks to physically compress robust continuous rubber gaskets, ensuring the thermal and acoustic envelope is not compromised at the entry point.
 
 ---
 
@@ -163,11 +168,11 @@
 *   *Wet UFH (Air Source Heat Pump):* The Passivhaus "Gold Standard." Because the building has a U-Value of 0.14 W/m²K, running a high-efficiency ASHP (COP of 3.0 to 4.0) to maintain a base 12-14°C costs almost nothing. In summer, the reversible ASHP can circulate 18°C-19°C chilled water through the slab to passively cool the room without reaching the dew point (preventing "sweating" and tool rust).
 
 ### 4.1 Heating Execution Strategy
-A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the thermal battery and provides passive summer cooling, while the IR Panel provides instant top-up heat for the occupant in winter. **Total estimated heat load for 20m² Passivhaus: 1.5kW - 2.0kW.**
+A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the thermal battery and provides passive summer cooling, while the IR Panel provides instant top-up heat for the occupant in winter. **Total estimated heat load for ~18.7m² Passivhaus: 1.3kW - 1.8kW.**
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Baseline Thermal Battery** | 16mm PEX-a Pipework (Wet UFH) + 3kW ASHP | Embedded within the 100mm concrete slab @ 150mm centers | Runs continuously via thermostat at 12-14°C (winter) or 19°C (summer). Costs pennies in a Passivhaus. Keeps cast-iron tools dry, mitigates the summer "oven effect," and provides the ultimate home-office comfort future-proof. | 1 system |
+| **Baseline Thermal Battery** | 16mm PEX-a Pipework (Wet UFH) + 3kW ASHP | Embedded within the 150mm concrete slab @ 150mm centers | Runs continuously via thermostat at 12-14°C (winter) or 19°C (summer). Costs pennies in a Passivhaus. Keeps cast-iron tools dry, mitigates the summer "oven effect," and provides the ultimate home-office comfort future-proof. | 1 system |
 | **Primary Occupant Heat** | 1.2kW Far-Infrared (FIR) Ceiling Panel | Suspended from ceiling joists over workbench | Switched on upon entry for weekend work. Provides instant radiant warmth directly to the user's body without waiting for room air to heat. | 1 panel |
 | **Dehumidification** | Smart Compressor Dehumidifier (e.g., MeacoDry Arete 1 12L) | Freestanding on floor. Relies on internal 2.5L-5L tank with Wi-Fi push notifications to the user's phone. | **Zero VCL Penetrations:** Because the Passivhaus envelope is airtight, moisture ingress from the outside is near zero. Once the initial construction moisture is extracted, the unit will rarely run when the room is unoccupied, making manual emptying highly infrequent. | 1 unit |
 
@@ -183,5 +188,6 @@ A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the 
 | **Sockets** | IP66 Double Switched 13A | Surface mounted to Fermacell | Flap-covers prevent conductive wood dust from bridging internal contacts (fire prevention). | ~6 units |
 | **Extraction Trunk** | 100mm Rigid Galvanized Steel Ducting | Rubber-lined acoustic pipe clamps to ceiling | Smooth bore maintains 25 m/s air velocity; metal prevents static electricity sparks (unlike PVC). | ~10 linear meters |
 | **Blast Gates** | 100mm Cast Aluminum body with steel slider | Hose-clamped onto vertical machine drops | Maximizes static pressure by isolating idle branches. | 3 units |
+| **Extractor Unit** | Internal Recirculation HEPA/Cyclone Extractor | Freestanding on 15mm SBR rubber isolation pads | Captures fine hardwood dust (<PM2.5) safely inside the airtight envelope without exhausting heated Passivhaus air outside. | 1 unit |
 
-> **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (100mm slab, 150mm splash zone, and Type C induction mapping) have been validated and integrated.
+> **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (150mm slab, 150mm splash zone, and Type C induction mapping) have been validated and integrated.
