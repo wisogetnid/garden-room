@@ -12,7 +12,7 @@
 *   **Step 1.2:** Screed 50mm blinding sand flat.
 *   **Step 1.3:** Assemble 150mm JACKODUR® Atlas XPS interlocking tub.
 *   **Step 1.4:** Loose-lay 1200-gauge DPM inside the XPS tub, tape all seams.
-*   **Step 1.5:** Place 50mm concrete chairs, lay the first layer of A252 steel mesh, zip-tie 16mm PEX-a UFH pipework @ 150mm centers, then lay the second layer of A252 steel mesh directly over the pipes (sandwiching them).
+*   **Step 1.5:** Place 50mm concrete chairs, lay a single layer of A252 steel mesh, zip-tie 16mm PEX-a UFH pipework @ 150mm centers directly to the top of the mesh.
 *   **Step 1.6:** Hire a concrete line pump and a small contractor crew to pour the ~3.5m³ of min 150mm C32/40 concrete slab. Power-float finish. Cure for 7-14 days.
 
 **Phase 2: Drainage & Threshold (Days 6-7)**
@@ -61,8 +61,8 @@
 | **Blinding Sand** | 50mm depth | Hand screeded flat | Provide a perfectly level bed for the XPS formwork. | ~2 Bulk Bags (approx. 1700kg) |
 | **Under-Slab Thermal Break** | 150mm JACKODUR® Atlas XPS System | Interlocking XPS panels assembled directly on the blinding sand | Prevent cold-bridging into the earth; serves as permanent insulated formwork. | 1 complete Atlas tub system |
 | **Damp Proof Membrane (DPM)** | 1200-gauge Polythene | Loose laid *inside* the XPS tub, taped seams | **Critical Placement:** Sits directly between the XPS insulation and the wet concrete to prevent capillary moisture rising through the slab. | 1 Roll (4m x 25m) |
-| **Steel Reinforcement** | A252 Steel Mesh (Two Layers) | First layer on 50mm plastic concrete 'chairs', second layer sandwiching the UFH pipes | Structural tensile strength. The double layer prevents thermal cracking and supports point loads. | 6 Sheets (4.8m x 2.4m) |
-| **Heating Integration** | 16mm PEX-a Wet UFH Pipework | Zip-tied to the bottom layer of A252 mesh @ 150mm centers, sandwiched by the top layer before pour | **Baseline heating/cooling:** Embedded into the thermal mass. Powered by an external Air Source Heat Pump (ASHP). | ~150 linear meters |
+| **Steel Reinforcement** | A252 Steel Mesh (Single Layer) | Placed on 50mm plastic concrete 'chairs' | Structural tensile strength. A single layer positioned in the bottom-third of the slab controls thermal cracking while eliminating the risk of breaching the concrete's top cover during power floating. | 3 Sheets (4.8m x 2.4m) |
+| **Heating Integration** | 16mm PEX-a Wet UFH Pipework | Zip-tied to the top of the A252 mesh @ 150mm centers before pour | **Baseline heating/cooling:** Embedded into the thermal mass. Powered by an external Air Source Heat Pump (ASHP). | ~150 linear meters |
 | **Concrete Slab** | Min 150mm thick (C32/40 mix) | Poured in-situ using a line pump and contractor crew, power-floated finish | Extreme high-mass structural base; dampens low-frequency machinery vibration and provides massive thermal battery capacity. The C32/40 mix is mandated by JACKODUR® BBA certification. | ~3.5 Cubic Meters |
 
 ### 1.3 Ground-to-Wall Interface Details (Slab-to-Wall Junction)
@@ -81,7 +81,7 @@
 | **8. SIP to Plate Seal** | Expanding PU Foam & Sealant | Injected into the SIP rebate before dropping over the sole plate | Creates a permanent foam-to-timber airtight and thermal seal at the foundation junction. | 4 tubes |
 
 **Textual Cross-Section Description (Outside to Inside at Floor Level):**
-*(Outside)* 20mm Washed Gravel French Drain -> JACKODUR® XPS Upstand (Rendered) -> Stainless Drip Flashing -> 50mm Wood Fibre Insulation (overlapping XPS) -> Tyvek Breather Membrane -> 25mm Batten -> Fibre Cement Cladding -> 142mm SIP Panel (Outer skin bearing on concrete edge) dropped over 140x38mm Timber Sole Plate -> Polymeric DPC bonded to 1200g DPM -> 150mm Concrete Slab with double A252 mesh sandwiching 16mm PEX pipe. *(Inside)*
+*(Outside)* 20mm Washed Gravel French Drain -> JACKODUR® XPS Upstand (Rendered) -> Stainless Drip Flashing -> 50mm Wood Fibre Insulation (overlapping XPS) -> Tyvek Breather Membrane -> 25mm Batten -> Fibre Cement Cladding -> 142mm SIP Panel (Outer skin bearing on concrete edge) dropped over 140x38mm Timber Sole Plate -> Polymeric DPC bonded to 1200g DPM -> 150mm Concrete Slab with single A252 mesh and zip-tied 16mm PEX pipe. *(Inside)*
 
 **3 Critical Failure Points During Pour & First Lift:**
 1.  **Concrete Blow-Out:** The JACKODUR® XPS upstand acts as the concrete formwork. If the external perimeter is not properly backfilled with gravel or braced during the pour, the hydrostatic pressure of the wet concrete will blow out the XPS, destroying the thermal tub.

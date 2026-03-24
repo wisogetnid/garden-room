@@ -153,3 +153,12 @@
 - **Concrete Grade Upgrade:** Replaced C25/30 with C32/40 in `WORKPLAN_SIPS.md` for "Weekend 3: The 150mm Concrete Pour" to satisfy the structural BBA certification for the 150mm JACKODUR tub.
 - **Contractor Logistics:** Updated Weekend 3 to mandate hiring a small contractor crew for the 3.5m³ line pump pour to prevent cold-joints and DIY exhaustion.
 - **Mesh Clearance Warning:** Inserted a fierce warning into "Weekend 2: The Tub & The Heavy Steel" regarding the 50mm plastic chairs. The "double steel sandwich" in a 150mm slab leaves almost zero tolerance (2mm). Instructed the user that perfect chair placement is critical to prevent the top mesh from breaching the power-floated surface.
+
+## Date: 2026-03-24
+**Foreman Notes: Workplan Updated for Single Mesh Ease**
+- Evaluated the Strategist's structural update from a double layer of steel mesh to a single layer of A252.
+- **Logistics Overhaul:** This massively simplifies Weekend 2!
+    - Removed the "Fierce Warning" regarding the impossible 2mm concrete cover tolerance.
+    - Removed the dangerous "Mid-Week Prep" task which required dragging heavy steel over pressurized UFH pipes.
+    - The task is downgraded from "Heavy/Dangerous" to simply "Heavy". 
+    - The power float on Weekend 3 now has a massive 68mm of safety clearance from the top of the concrete, eliminating the risk of striking steel.
