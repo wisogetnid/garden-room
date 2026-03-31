@@ -331,3 +331,18 @@
 - **Test 004 (Door Access):** Updated the Phase 3 Glazing installation (now Weekend 9) to explicitly forbid French doors and mandate the installation of the Asymmetric 1.5 Door system to meet Passivhaus airtightness and acoustic requirements.
 - **Test 006 (Dust Extraction):** Integrated the freestanding internal HEPA/Cyclone extraction unit (mounted on 15mm SBR rubber isolation pads) into the Phase 4 Service Cavity weekend (now Weekend 12).
 - **Test 007 (Timeline):** Introduced a strict 14-day concrete curing halt immediately following the slab pour. Inserted "Weekend 5 & 6: 🚨 THE 14-DAY CURING HALT" into the schedule, shifting all subsequent superstructure, exterior, and internal fit-out phases forward by two weeks to ensure the concrete reaches full compressive strength before anchor drilling.
+## Date: 2026-03-24
+**Foreman Notes: Skip Logistics Optimization**
+- The user suggested a brilliant cost-saving measure: separating the clean rubble (concrete pad) from the inert soil. "Clean Hardcore/Rubble" skips are significantly cheaper than mixed soil/muck skips because they go straight to a crusher to make MOT.
+- **Logistics Overhaul:** 
+    - The old concrete pad yields ~2 tonnes (~1.5m³ loose volume). This perfectly fits a small **4-yard Clean Hardcore/Rubble Skip**.
+    - The remaining soil dig yields ~12.6 tonnes (~11m³ loose volume). This will require **2 to 3 sequential 6-yard Inert Soil/Muck Skips**.
+    - Updated `WORKPLAN_SIPS.md` (Weekend 1 & 2) to instruct the DIYer to order the 4-yard Rubble Skip for Saturday to exclusively load the broken concrete, and then order the 6-yard Soil Skips sequentially starting Sunday.
+    - Explicitly warned the DIYer NOT to hire "Mixed Waste" skips to save a substantial amount on disposal fees.
+
+## Date: 2026-03-24
+**Foreman Notes: Skip Logistics Downgraded to 2-Yard Mini Skip**
+- The user correctly challenged the size of the 4-yard skip for the concrete pad demolition. (User accidentally typed ~100m³, but the math is 0.864m³ of solid concrete).
+- **The Math:** 2.4m x 3.6m x 0.1m = ~0.864m³. When broken up, rubble has a "fluff factor" of about 1.5, meaning it will expand to roughly **1.3 cubic meters** of loose rubble.
+- **The Skip Capacity:** 1 cubic yard is about 0.76 cubic meters. Therefore, a standard **2-yard "Mini Skip"** holds roughly 1.5 cubic meters, which is a perfect fit for the 1.3m³ of broken concrete. A 4-yard skip (~3 cubic meters) would indeed have been half-empty.
+- **Logistics Overhaul:** Updated `WORKPLAN_SIPS.md` Weekend 1 to replace the 4-yard Rubble Skip with a **2-yard Mini "Clean Hardcore" skip**. This will save the user even more money while easily accommodating the ~2 tonnes of weight. The sequential 6-yard skips for the 11m³ of soil remain unchanged.
