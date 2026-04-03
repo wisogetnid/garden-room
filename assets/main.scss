@@ -1,0 +1,11 @@
+---
+---
+@import "minima";
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #fdfdfd; /* Matches the default background color */
+  border-bottom: 1px solid #e8e8e8;
+}

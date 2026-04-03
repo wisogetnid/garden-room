@@ -4,8 +4,7 @@ layout: home
 
 Welcome to the Cowes Garden Room Project documentation site. This site hosts our high-fidelity Standard Operating Procedures (SOPs) for a Passivhaus inspired garden room construction in Cowes, UK.
 
-> [!WARNING]
-> ⚠️ **Warning:** This content is still a work in progress and things will change as we go. Hopefully mostly details though.
+> ⚠️ **Warning:** This content is still a work in progress and things will change as we go. Should mostly be details though.
 
 ## Construction Blueprints
 
