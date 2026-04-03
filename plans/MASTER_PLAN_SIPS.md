@@ -136,8 +136,14 @@
 | **Water Butt** | 200L to 250L Slimline Butt | Sitting on a stable block plinth | Eco-friendly harvesting for garden use, drastically reducing sudden shock loads on the ground drainage. | 1 unit |
 | **The Overflow (CRITICAL)**| 68mm UPVC Pipe | Piped from diverter to a Soakaway Crate | A 200L butt fills in a single heavy storm. The overflow **must not** dump at the base of the foundation. It must be piped to a dedicated soakaway located at least 3m-5m away from the foundation. | 1 crate + pipe |
 
-### 2.5 Door Access Strategy
-**Objective:** Provide secure entry while maintaining Passivhaus Q50 airtightness testing standards and rigorous acoustic dB reduction.
+### 2.5 Glazing & Door Access Strategy
+**Objective:** Provide secure entry and natural light while maintaining Passivhaus Q50 airtightness testing standards and rigorous acoustic dB reduction.
+*   **Window Specification:** All windows must utilize Vacuum-Insulated Glazing (VIG) housed within uPVC frames for maximum thermal efficiency and acoustic dampening.
+*   **Window Schedule:** 
+    *   **North Elevation:** 1x 1200x1200mm VIG uPVC window.
+    *   **West Elevation:** 1x 1200x1200mm VIG uPVC window.
+    *   **East Elevation:** 1x 600x900mm VIG uPVC window.
+    *   **South Elevation:** 2x 600x600mm VIG uPVC windows.
 *   **French Doors Forbidden:** Traditional French doors are strictly prohibited. They inherently fail Passivhaus airtightness standards and acoustic reduction due to the lack of a central mullion, leading to air and noise leakage down the meeting stiles.
 *   **Approved Mechanisms:** Specify an **Asymmetric 1.5 Door system** (e.g., a 1000mm active leaf combined with a 400-600mm slave leaf) or a high-performance **Lift-and-Slide door**. These systems use complex cam-action locks to physically compress robust continuous rubber gaskets, ensuring the thermal and acoustic envelope is not compromised at the entry point.
 

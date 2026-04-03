@@ -346,3 +346,23 @@
 - **The Math:** 2.4m x 3.6m x 0.1m = ~0.864m³. When broken up, rubble has a "fluff factor" of about 1.5, meaning it will expand to roughly **1.3 cubic meters** of loose rubble.
 - **The Skip Capacity:** 1 cubic yard is about 0.76 cubic meters. Therefore, a standard **2-yard "Mini Skip"** holds roughly 1.5 cubic meters, which is a perfect fit for the 1.3m³ of broken concrete. A 4-yard skip (~3 cubic meters) would indeed have been half-empty.
 - **Logistics Overhaul:** Updated `WORKPLAN_SIPS.md` Weekend 1 to replace the 4-yard Rubble Skip with a **2-yard Mini "Clean Hardcore" skip**. This will save the user even more money while easily accommodating the ~2 tonnes of weight. The sequential 6-yard skips for the 11m³ of soil remain unchanged.
+
+## Date: 2026-03-24
+**Strategist Notes: Validation of VIG Glazing Strategy**
+- Validated the new "2.5 Glazing & Door Access Strategy" in `MASTER_PLAN_SIPS.md`.
+- **Finding 1 (Thermal & Acoustic):** Vacuum-Insulated Glazing (VIG) is the absolute gold standard here. Sound waves cannot travel through a vacuum, providing extreme acoustic isolation (dB reduction) for the workshop tools compared to double or triple glazing. Thermally, VIG achieves U-values between 0.4 and 0.7 W/m²K, surpassing Passivhaus requirements.
+- **Finding 2 (Solar Gain):** The window schedule is extremely well-designed for a highly insulated Passivhaus structure. 
+    - Keeping the South windows small (two 600x600mm) prevents the "oven effect" from summer solar gain. 
+    - The large North window (1200x1200mm) provides perfect diffuse, shadow-free light for woodworking. 
+    - The large West window (1200x1200mm) provides evening light for a weekend/evening worker. 
+- **Result:** Wrote a clean pass and full validation of the glazing strategy to `thoughts/validation_results.md`. Handed off to the Foreman to schedule the installation.
+
+## Date: 2026-03-24
+**Foreman Notes: Workplan Updated with VIG Schedule**
+- Received the greenlit glazing schedule from the Architect and Strategist.
+- Updated `WORKPLAN_SIPS.md` (Weekend 9: Windows, Doors & Drainage).
+- **Logistics Alert:** While VIG glass is exceptionally thin (often just 8-12mm total thickness), it is extremely dense and heavy. 
+- **Actions:** 
+    - Updated Weekend 9 to explicitly list the locations and sizes of all 5 windows (North 1.2m, West 1.2m, East 0.6x0.9m, South 2x 0.6x0.6m).
+    - Added a "Finesse & Heavy Lift" warning to Saturday's task, instructing the DIYer to rent/buy suction cup lifters and use a helper specifically for the large 1200x1200mm VIG units. 
+    - Maintained the strict ban on French doors and required the use of expanding PU foam and Tescon Vana tape for the internal airtight seal.

@@ -69,7 +69,12 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
 ## 🗓️ Phase 3: Exterior Finish & Glazing (The Tidy Phase)
 
 ### Weekend 9: Windows, Doors & Drainage
-*   **Saturday (Finesse):** Install the UPVC/Aluminium windows and the **Asymmetric 1.5 Door system** (e.g., 1000mm active leaf + 400-600mm slave leaf). *Foreman Note:* Traditional French doors are strictly forbidden as they inherently fail Passivhaus airtightness and acoustic tests. Seal with expanding foam and airtight tape.
+*   **Saturday (Finesse & Heavy Lift):** Install the Vacuum-Insulated Glazing (VIG) uPVC windows into their respective factory-cut SIP openings:
+    *   *North:* 1x 1200x1200mm
+    *   *West:* 1x 1200x1200mm
+    *   *East:* 1x 600x900mm
+    *   *South:* 2x 600x600mm
+    *Foreman Note:* VIG units, while thinner than triple glazing, are extremely dense and heavy. Use suction cup lifters and a helper for the large 1.2m units! Install the **Asymmetric 1.5 Door system** (e.g., 1000mm active leaf + 400-600mm slave leaf). Traditional French doors are strictly forbidden. Seal all units with expanding PU foam and tape over the frame-to-OSB joints internally with airtight tape (e.g., Tescon Vana).
 *   **Sunday (Moderate):** Pour 20mm washed gravel directly into the existing 200mm perimeter gap left around the XPS tub to create a clean splash margin (no digging required!). Install the guttering and downpipe diverter, routing it to your 200L water butt.
 
 ### Weekends 10 & 11: The Exterior Cladding/Render (Dependent on specification)
