@@ -5,48 +5,6 @@
 
 ---
 
-## 0. Step-by-Step Construction Phases
-
-**Phase 1: Groundworks & Foundation (Days 1-5)**
-*   **Step 1.1:** Excavate footprint to 350mm depth + foundation perimeter. Per JACKODUR® BBA installation specs, excavate an additional 400mm working space all around the tub. For a 3.6m x 5.2m slab, you must dig a **4.4m x 6.0m** footprint. Lay and compact 150mm MOT Type 1 sub-base (6 passes).
-*   **Step 1.2:** Screed 50mm blinding sand flat.
-*   **Step 1.3:** Assemble the 150mm JACKODUR® Atlas XPS interlocking tub (3.6m x 5.2m). (The top of the 150mm XPS base will now sit exactly flush with the external ground level, while the perimeter upstands will protrude 150mm above ground).
-*   **Step 1.4:** Loose-lay 1200-gauge DPM inside the XPS tub, tape all seams.
-*   **Step 1.5:** Place 50mm concrete chairs, lay a single layer of A252 steel mesh, zip-tie 16mm PEX-a UFH pipework @ 150mm centers directly to the top of the mesh.
-*   **Step 1.6:** Hire a concrete line pump and a small contractor crew to pour the ~2.8m³ of min 150mm C32/40 concrete slab. The slab is poured *inside* the XPS upstands (on top of the XPS base), rising 150mm above ground level to create the required 150mm splash zone. Power-float finish. Cure for 14 days minimum before drilling anchors.
-
-**Phase 2: Drainage & Threshold (Days 6-7)**
-*   **Step 2.1:** Backfill the existing 200mm perimeter over-excavation gap with 20mm washed gravel to create a clean splash margin (no further digging required).
-*   **Step 2.2:** Trowel flexible polymer-cement render over exposed XPS upstand.
-*   **Step 2.3:** Install Compacfoam CF200 block at the threshold directly on the concrete edge. Lap DPM/DPC.
-
-**Phase 3: Superstructure Envelope (Days 20-24)**
-*   **Step 3.1:** Secure timber sole plates to the concrete/Compacfoam using M12 resin anchors @ 1200mm centers.
-*   **Step 3.2:** Coordinate delivery of 142mm PUR-Core SIP panels from New Forest SIPs (Lymington) via Yarmouth ferry, utilizing rigid shuttle vehicles for narrow island road access. Erect wall panels and join using insulated splines and structural adhesive.
-*   **Step 3.3:** Install continuous top-plate into the top rebate of the wall SIPs.
-*   **Step 3.4:** Install 172mm PUR-Core SIP roof panels. **CRITICAL LOGISTICS:** Due to the extreme weight of 172mm panels, utilize narrow 600mm width panels or hire a material lift for safe installation. Ensure the final roof pitch and coverings strictly maintain a total external height of ≤ 2.5m from ground level to comply with Permitted Development rules. Join via insulated splines. Tape internal joints with Tescon Vana.
-
-**Phase 4: Weatherproofing & Exterior (Days 25-29)**
-*   **Step 4.1:** Tape all internal SIP seams with Pro Clima Tescon Vana.
-*   **Step 4.2:** Install tapered PIR insulation boards on roof (1:60 fall). Fully adhere 1.5mm EPDM membrane and secure UPVC Drip Trim.
-*   **Step 4.3:** **CRITICAL:** Install Tyvek UV Facade breather membrane over OSB skins immediately to protect against coastal moisture degradation.
-*   **Step 4.4:** Install 50mm Wood Fibre external insulation and 25x50mm rainscreen battens.
-*   **Step 4.5:** Install James Hardie Fibre Cement Cladding. Install windows and doors. **DOOR SPECIFICATION:** Explicitly forbid the use of French Doors as they inherently fail Passivhaus Q50 airtightness and acoustic dB reduction tests. Specify and install an Asymmetric 1.5 Door system (e.g., 1000mm active leaf + 400-600mm slave leaf) or a high-performance Lift-and-Slide door.
-*   **Step 4.6:** Install guttering and rainwater diverter to 200L water butt (overflow to dedicated soakaway).
-
-**Phase 5: Internal Fit-Out & Services (Days 30-37)**
-*   **Step 5.1:** Install 25x50mm service cavity battens internally @ 400mm centers.
-*   **Step 5.2:** First-fix electrical wiring and ASHP pipework in the service cavity/ceiling.
-*   **Step 5.3:** Install 15mm Fermacell boards over battens (crucial for REI30/REI60 fire rating if <1m from boundary).
-*   **Step 5.4:** Fully bond engineered oak floor to slab.
-*   **Step 5.5:** Second-fix electrical (sockets, lighting, IR panel, consumer unit).
-*   **Step 5.6:** Connect and commission ASHP.
-
-## 0.1 Potential Risks (Logistics & Compliance)
-*   **Transportation Logistics:** Narrow rural roads on the Isle of Wight require a "shuttle" service. SIP panels must be transferred to smaller rigid vehicles from articulated lorries for the final mile. Ferry costs via Yarmouth (e.g., Wightlink) must be factored in. Sourcing from New Forest SIPs (Lymington) minimizes overall transit compared to national suppliers.
-*   **Fire Safety Boundary Compliance:** Approved Document B updates mandate that structures <1m from a boundary must be built with "substantially non-combustible materials". OSB-faced SIPs are not inherently non-combustible (Class 3 spread of flame). The specified 15mm Fermacell internal boarding acts as the equivalent of Type F fire-rated plasterboard to achieve the required REI30/REI60 rating.
-*   **Moisture Management:** The high salt content and wind-driven rain in Cowes mean OSB SIP skins can degrade rapidly if exposed during the build. The Tyvek breather membrane MUST be applied immediately after erection.
-
 ---
 
 ## 1. Foundation and Groundworks Specification
@@ -195,5 +153,49 @@ A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the 
 | **Extraction Trunk** | 100mm Rigid Galvanized Steel Ducting | Rubber-lined acoustic pipe clamps to ceiling | Smooth bore maintains 25 m/s air velocity; metal prevents static electricity sparks (unlike PVC). | ~10 linear meters |
 | **Blast Gates** | 100mm Cast Aluminum body with steel slider | Hose-clamped onto vertical machine drops | Maximizes static pressure by isolating idle branches. | 3 units |
 | **Extractor Unit** | Internal Recirculation HEPA/Cyclone Extractor | Freestanding on 15mm SBR rubber isolation pads | Captures fine hardwood dust (<PM2.5) safely inside the airtight envelope without exhausting heated Passivhaus air outside. | 1 unit |
+
+---
+
+## 6. Step-by-Step Construction Phases
+
+**Phase 1: Groundworks & Foundation (Days 1-5)**
+*   **Step 1.1:** Excavate footprint to 350mm depth + foundation perimeter. Per JACKODUR® BBA installation specs, excavate an additional 400mm working space all around the tub. For a 3.6m x 5.2m slab, you must dig a **4.4m x 6.0m** footprint. Lay and compact 150mm MOT Type 1 sub-base (6 passes).
+*   **Step 1.2:** Screed 50mm blinding sand flat.
+*   **Step 1.3:** Assemble the 150mm JACKODUR® Atlas XPS interlocking tub (3.6m x 5.2m). (The top of the 150mm XPS base will now sit exactly flush with the external ground level, while the perimeter upstands will protrude 150mm above ground).
+*   **Step 1.4:** Loose-lay 1200-gauge DPM inside the XPS tub, tape all seams.
+*   **Step 1.5:** Place 50mm concrete chairs, lay a single layer of A252 steel mesh, zip-tie 16mm PEX-a UFH pipework @ 150mm centers directly to the top of the mesh.
+*   **Step 1.6:** Hire a concrete line pump and a small contractor crew to pour the ~2.8m³ of min 150mm C32/40 concrete slab. The slab is poured *inside* the XPS upstands (on top of the XPS base), rising 150mm above ground level to create the required 150mm splash zone. Power-float finish. Cure for 14 days minimum before drilling anchors.
+
+**Phase 2: Drainage & Threshold (Days 6-7)**
+*   **Step 2.1:** Backfill the existing 200mm perimeter over-excavation gap with 20mm washed gravel to create a clean splash margin (no further digging required).
+*   **Step 2.2:** Trowel flexible polymer-cement render over exposed XPS upstand.
+*   **Step 2.3:** Install Compacfoam CF200 block at the threshold directly on the concrete edge. Lap DPM/DPC.
+
+**Phase 3: Superstructure Envelope (Days 20-24)**
+*   **Step 3.1:** Secure timber sole plates to the concrete/Compacfoam using M12 resin anchors @ 1200mm centers.
+*   **Step 3.2:** Coordinate delivery of 142mm PUR-Core SIP panels from New Forest SIPs (Lymington) via Yarmouth ferry, utilizing rigid shuttle vehicles for narrow island road access. Erect wall panels and join using insulated splines and structural adhesive.
+*   **Step 3.3:** Install continuous top-plate into the top rebate of the wall SIPs.
+*   **Step 3.4:** Install 172mm PUR-Core SIP roof panels. **CRITICAL LOGISTICS:** Due to the extreme weight of 172mm panels, utilize narrow 600mm width panels or hire a material lift for safe installation. Ensure the final roof pitch and coverings strictly maintain a total external height of ≤ 2.5m from ground level to comply with Permitted Development rules. Join via insulated splines. Tape internal joints with Tescon Vana.
+
+**Phase 4: Weatherproofing & Exterior (Days 25-29)**
+*   **Step 4.1:** Tape all internal SIP seams with Pro Clima Tescon Vana.
+*   **Step 4.2:** Install tapered PIR insulation boards on roof (1:60 fall). Fully adhere 1.5mm EPDM membrane and secure UPVC Drip Trim.
+*   **Step 4.3:** **CRITICAL:** Install Tyvek UV Facade breather membrane over OSB skins immediately to protect against coastal moisture degradation.
+*   **Step 4.4:** Install 50mm Wood Fibre external insulation and 25x50mm rainscreen battens.
+*   **Step 4.5:** Install James Hardie Fibre Cement Cladding. Install windows and doors. **DOOR SPECIFICATION:** Explicitly forbid the use of French Doors as they inherently fail Passivhaus Q50 airtightness and acoustic dB reduction tests. Specify and install an Asymmetric 1.5 Door system (e.g., 1000mm active leaf + 400-600mm slave leaf) or a high-performance Lift-and-Slide door.
+*   **Step 4.6:** Install guttering and rainwater diverter to 200L water butt (overflow to dedicated soakaway).
+
+**Phase 5: Internal Fit-Out & Services (Days 30-37)**
+*   **Step 5.1:** Install 25x50mm service cavity battens internally @ 400mm centers.
+*   **Step 5.2:** First-fix electrical wiring and ASHP pipework in the service cavity/ceiling.
+*   **Step 5.3:** Install 15mm Fermacell boards over battens (crucial for REI30/REI60 fire rating if <1m from boundary).
+*   **Step 5.4:** Fully bond engineered oak floor to slab.
+*   **Step 5.5:** Second-fix electrical (sockets, lighting, IR panel, consumer unit).
+*   **Step 5.6:** Connect and commission ASHP.
+
+## 6.1 Potential Risks (Logistics & Compliance)
+*   **Transportation Logistics:** Narrow rural roads on the Isle of Wight require a "shuttle" service. SIP panels must be transferred to smaller rigid vehicles from articulated lorries for the final mile. Ferry costs via Yarmouth (e.g., Wightlink) must be factored in. Sourcing from New Forest SIPs (Lymington) minimizes overall transit compared to national suppliers.
+*   **Fire Safety Boundary Compliance:** Approved Document B updates mandate that structures <1m from a boundary must be built with "substantially non-combustible materials". OSB-faced SIPs are not inherently non-combustible (Class 3 spread of flame). The specified 15mm Fermacell internal boarding acts as the equivalent of Type F fire-rated plasterboard to achieve the required REI30/REI60 rating.
+*   **Moisture Management:** The high salt content and wind-driven rain in Cowes mean OSB SIP skins can degrade rapidly if exposed during the build. The Tyvek breather membrane MUST be applied immediately after erection.
 
 > **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (150mm slab, 150mm splash zone, and Type C induction mapping) have been validated and integrated.
