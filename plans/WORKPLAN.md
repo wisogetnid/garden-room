@@ -1,5 +1,6 @@
 ---
 title: Workplan
+layout: default
 ---
 # SITE MANAGER'S WORKPLAN: Cowes High-Performance PUR-Core SIPS Workshop (3.6x5.2m)
 

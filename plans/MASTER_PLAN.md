@@ -1,5 +1,6 @@
 ---
 title: Master Plan
+layout: default
 ---
 # STANDARD OPERATING PROCEDURE (SOP): Cowes Passivhaus Woodworkshop (3.6m x 5.2m)
 
