@@ -2,12 +2,12 @@
 layout: home
 ---
 
-Welcome to the Garden Room Project documentation site. This site hosts our High-Fidelity Standard Operating Procedures (SOPs) for Passivhaus inspired garden room construction.
+Welcome to the Cowes Garden Room Project documentation site. This site hosts our high-fidelity Standard Operating Procedures (SOPs) for a Passivhaus inspired garden room construction in Cowes, UK.
 
 ## Construction Blueprints
 
-* [**SIPs Master Plan**](./plans/MASTER_PLAN_SIPS.html) - High-Fidelity Technical Specification & Construction SOP
-* [**SIPs Workplan**](./plans/WORKPLAN_SIPS.html) - Chronological execution schedule
+* [**Master Plan**](./plans/MASTER_PLAN.html) - High-Fidelity Technical Specification & Construction SOP
+* [**Workplan**](./plans/WORKPLAN.html) - Chronological execution schedule (slightly simplified)
 
 ---
 *Built with [GitHub Pages](https://pages.github.com/).*
