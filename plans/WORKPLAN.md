@@ -80,8 +80,9 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
     *Foreman Note:* VIG units, while thinner than triple glazing, are extremely dense and heavy. Use suction cup lifters and a helper for the large 1.2m units! Install the **Asymmetric 1.5 Door system** (e.g., 1000mm active leaf + 400-600mm slave leaf). Traditional French doors are strictly forbidden. Seal all units with expanding PU foam and tape over the frame-to-OSB joints internally with airtight tape (e.g., Tescon Vana).
 *   **Sunday (Moderate):** Pour 20mm washed gravel directly into the existing 200mm perimeter gap left around the XPS tub to create a clean splash margin (no digging required!). Install the guttering and downpipe diverter, routing it to your 200L water butt.
 
-### Weekends 10 & 11: The Exterior Cladding/Render (Dependent on specification)
-*   *Foreman Note:* With the Tyvek UV Facade in place, the OSB is safe. Proceed to install 25x50mm treated battens for your chosen external finish (timber cladding or render board).
+### Weekends 10 & 11: Insulation, Cladding & The Weather Shield
+*   **Saturday (Precision):** Install the **50mm Rigid Wood Fibre external insulation** across all exterior elevations. Friction-fit the boards and hold them temporarily before securing them with the **25x50mm treated rainscreen battens** (using 120mm A4 Stainless Steel EWI Screws driven at 60° through the batten, wood fibre, and into the SIPs OSB). Ensure a continuous thermal jacket that overlaps the XPS foundation upstand. Attach the **Stainless Steel Base Drip Flashing** to the bottom batten.
+*   **Sunday (Heavy Repetition):** Install the **James Hardie Fibre Cement Cladding** across the rainscreen battens using 40mm 316 Stainless annular ring shank nails. This provides your A2 Fire rated 'Cowes-Proof' weather shield.
 
 ---
 

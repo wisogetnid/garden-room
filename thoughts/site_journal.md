@@ -366,3 +366,17 @@
     - Updated Weekend 9 to explicitly list the locations and sizes of all 5 windows (North 1.2m, West 1.2m, East 0.6x0.9m, South 2x 0.6x0.6m).
     - Added a "Finesse & Heavy Lift" warning to Saturday's task, instructing the DIYer to rent/buy suction cup lifters and use a helper specifically for the large 1200x1200mm VIG units. 
     - Maintained the strict ban on French doors and required the use of expanding PU foam and Tescon Vana tape for the internal airtight seal.
+
+## Date: 2026-04-03
+**Foreman Notes: Master Plan Section 6 to Workplan Sync**
+- Reviewed Section 6 of `MASTER_PLAN.md` to ensure all details are represented in `WORKPLAN.md`.
+- Verified that the geotextile membrane for groundworks is accurately reflected in Weekend 2.
+- Found that Phase 4 explicitly specifies **50mm Rigid Wood Fibre external insulation** and **James Hardie Fibre Cement Cladding**, which were vaguely listed as "chosen external finish" in the Workplan.
+- Added **Stainless Steel Base Drip Flashing** to the bottom batten layer.
+- **Action:** Updated "Weekends 10 & 11" in `WORKPLAN.md` to explicitly instruct the friction-fitting of the 50mm wood fibre and the installation of the James Hardie cladding. 
+- **Next Steps:** The Workplan now perfectly matches the detailed chronology of the Master Plan. Handoff back to @architect to remove the now-redundant Section 6 from `MASTER_PLAN.md`.
+## Architect Log - 2026-04-03
+- Validated Section 6 against WORKPLAN.md via the @foreman.
+- The @foreman successfully migrated missing details (like 50mm Wood Fibre external insulation and Geotextile Membrane) into the WORKPLAN.
+- Removed the now redundant 'Step-by-Step Construction Phases' from MASTER_PLAN.md.
+- Retained the 'Potential Risks' section as 6. Potential Risks.
