@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 # Garden Room Project: Master Plans

@@ -1,3 +1,6 @@
+---
+title: Master Plan
+---
 # STANDARD OPERATING PROCEDURE (SOP): Cowes Passivhaus Woodworkshop (3.6m x 5.2m) - SIPs Version
 
 **Document Status:** High-Fidelity Technical Specification & Construction SOP (SIPs Alternative)  

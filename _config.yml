@@ -1,8 +1,15 @@
-theme: jekyll-theme-cayman
+theme: minima
 title: Garden Room Plans
 description: Passivhaus inspired garden room plans.
+author:
+  name: Tobi Vogel
+minima:
+  skin: classic
+  nav_pages:
+    - plans/MASTER_PLAN_SIPS.md
+    - plans/WORKPLAN_SIPS.md
 defaults:
   - scope:
       path: ""
     values:
-      layout: "default"
+      layout: "page"
