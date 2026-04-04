@@ -1,7 +1,7 @@
 theme: minima
 title: Cowes Garden Room
-description: Passivhaus inspired garden room plans.
-author: "tobi vogel"
+description: Passivhaus inspired garden room
+author: tobi vogel
 header_pages:
   - plans/MASTER_PLAN.md
   - plans/WORKPLAN.md
