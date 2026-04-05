@@ -380,3 +380,11 @@
 - The @foreman successfully migrated missing details (like 50mm Wood Fibre external insulation and Geotextile Membrane) into the WORKPLAN.
 - Removed the now redundant 'Step-by-Step Construction Phases' from MASTER_PLAN.md.
 - Retained the 'Potential Risks' section as 6. Potential Risks.
+
+## Date: 2026-04-05
+**Architect & Foreman Notes: James Hardie Cladding Spec Update**
+- **Datasheet Review:** Read the `specs/hardie_plank_plank-vl.pdf` technical datasheet.
+- **Fixing Method:** Upgraded the fastening spec from "40mm annular ring shank nails" to the official **Hardie™ Plank Screws (4.2Ø x 40mm, A2 Stainless, T15 Torx)**.
+- **Wind Load Adherence:** The datasheet specifies that maximum 600mm batten spacing provides 2.0 kPa wind load resistance, while **400mm centers** provides 2.53 kPa. Given the extreme coastal wind loading in Cowes, we have officially restricted the rainscreen battens to 400mm centers.
+- **Foreman Tooling Rules:** The manufacturer explicitly forbids the use of impact drivers and mandates a low torque setting to prevent board cracking. No pre-drilling is required. 
+- **Plan Updates:** Updated both `MASTER_PLAN.md` (Section 2.1) and `WORKPLAN.md` (Weekends 10 & 11) to reflect the 400mm batten spacing, the T15 Torx screws, and the strict tooling rules.

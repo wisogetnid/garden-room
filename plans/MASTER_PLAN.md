@@ -59,8 +59,8 @@ layout: default
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Cladding** | James Hardie Fibre Cement Plank (A2 Fire) | 40mm 316 Stainless annular ring shank nails | 'Cowes-Proof' weather shield. Complies with Part B Fire Safety for boundary proximity. | ~45m² coverage |
-| **2. Rainscreen Gap / Batten** | 25x50mm Treated Timber | 120mm A4 (316) Stainless Steel EWI Screws driven at 60° | Creates a strict **25mm ventilation path** from bottom to top, allowing saline moisture to evaporate. | ~180 linear meters |
+| **1. Cladding** | James Hardie Fibre Cement Plank (A2 Fire) | Hardie™ Plank Screws (4.2Ø x 40mm, A2 Stainless, T15 Torx). Low torque drill, NO impact drivers. | 'Cowes-Proof' weather shield. Complies with Part B Fire Safety for boundary proximity. | ~45m² coverage |
+| **2. Rainscreen Gap / Batten** | 25x50mm Treated Timber @ 400mm centers | 120mm A4 (316) Stainless Steel EWI Screws driven at 60° | Creates a strict **25mm ventilation path** from bottom to top. 400mm centers provides max 2.53 kPa wind load rating for coastal Cowes. | ~180 linear meters |
 | **3. Breather Membrane** | Tyvek UV Facade | Stainless staples; 150mm vertical overlaps | Repels wind-driven rain, allows internal vapour escape. | 1 Roll (50m) |
 | **4. External Insulation** | 50mm Rigid Wood Fibre Board | Friction fit; held by batten screws | Unbroken thermal jacket. Chosen for its high specific heat capacity (2,100 J/kgK), providing a massive 'decrement delay' to prevent summer overheating. | ~45m² coverage |
 | **5. Structural SIP Panel** | 142mm PUR-Core SIP (Structural Insulated Panel) | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Acts as the primary load-bearing structure and extreme continuous thermal barrier. | ~45m² wall coverage |
