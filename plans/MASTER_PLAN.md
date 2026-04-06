@@ -81,7 +81,7 @@ layout: default
 | :--- | :--- | :--- | :--- | :--- |
 | **Wall Top Plate** | 140x38mm Timber C24 | Glued and screwed into the top rebate of the wall SIPs | Provides a continuous structural bearing plate for the roof panels/joists to distribute the roof and solar loads evenly into the wall skins. | ~18 linear meters |
 | **Roof Structure** | 172mm PUR-Core Roof SIPs | Spanning from wall to wall, joined via insulated splines | Provides extreme thermal resistance (Warm Roof by default) and massive structural strength across the 3.6m span capable of supporting solar arrays. | ~18.7m² coverage |
-| **The 50cm Overhang** | Cantilevered SIP Roof Panel | Extended beyond the FFL wall | SIP panels inherently resist cantilever shear forces, providing a rigid 50cm overhang without the need for complex structural "outriggers". | (Part of Roof SIPs) |
+| **The Roof Profile** | Flush SIP Roof Panel | Ends flush with the FFL wall | SIP panels will be cut flush with the external wall insulation. | (Part of Roof SIPs) |
 | **Vapour Control** | Pro Clima Intello Plus | Taped directly over the internal SIP roof joints | Ensures the internal VCL envelope is continuously connected from the walls across the ceiling. | 1 Roll |
 | **Waterproofing Deck** | 1.5mm EPDM Membrane | Fully adhered (glued) to the top OSB skin of the roof SIP | 50-year seamless weather protection. | ~25m² Sheet |
 

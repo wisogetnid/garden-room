@@ -388,3 +388,11 @@
 - **Wind Load Adherence:** The datasheet specifies that maximum 600mm batten spacing provides 2.0 kPa wind load resistance, while **400mm centers** provides 2.53 kPa. Given the extreme coastal wind loading in Cowes, we have officially restricted the rainscreen battens to 400mm centers.
 - **Foreman Tooling Rules:** The manufacturer explicitly forbids the use of impact drivers and mandates a low torque setting to prevent board cracking. No pre-drilling is required. 
 - **Plan Updates:** Updated both `MASTER_PLAN.md` (Section 2.1) and `WORKPLAN.md` (Weekends 10 & 11) to reflect the 400mm batten spacing, the T15 Torx screws, and the strict tooling rules.
+
+## Date: 2026-04-06
+**Architect Notes: Removal of 50cm Roof Overhang**
+- **User Request:** The user pointed out the overhang would be on the North face (rendering the solar shading "oven effect" mitigation irrelevant) and they do not require outdoor soffit lighting. They requested removing the overhang entirely.
+- **Architectural Adjustment:** Reverted the roof to a completely flush SIP design.
+- **Master Plan Update:** Removed the 50cm overhang requirement from Section 2.3 of `MASTER_PLAN.md`.
+- **Workplan Update:** Updated Weekend 8 in `WORKPLAN.md` to instruct the Foreman to install the roof SIPs perfectly flush with the wall insulation instead of sliding them out for a cantilever.
+- **Alternative Seal Protection (Pending):** A flush roof removes the physical "umbrella" protection over the threshold. I will provide the user with high-performance Passivhaus threshold detailing options (e.g., Compacbond/Illbruck membranes) to compensate for the direct coastal rain exposure on the primary door seals.

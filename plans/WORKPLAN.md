@@ -64,7 +64,7 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
 *   **Sunday Lockdown & Weatherproofing:** Because these are OSB SIPs, **the Tyvek UV Facade breather membrane MUST be applied immediately after erection to prevent coastal moisture degradation.** You are on the coast; ZERO delay allowed. Staple and tape the membrane to all exposed exterior walls before stopping. Cover the open roof span with a massive heavy-duty tarp, tied down securely.
 
 ### Weekend 8: 🚨 BIG EVENT: The Roof Lift
-*   **Saturday (Heavy/Dangerous):** The 172mm PUR-Core Roof SIPs are extremely heavy. **CRITICAL LOGISTICS:** You MUST use narrow 600mm width panels or hire a material lift. Do not attempt this with just ladders. Get 3 strong mates to assist. Slide the panels up onto the wall plates. Glue and screw the splines exactly as you did the walls. Ensure the 50cm overhang is positioned correctly. Tape internal joints with Tescon Vana.
+*   **Saturday (Heavy/Dangerous):** The 172mm PUR-Core Roof SIPs are extremely heavy. **CRITICAL LOGISTICS:** You MUST use narrow 600mm width panels or hire a material lift. Do not attempt this with just ladders. Get 3 strong mates to assist. Slide the panels up onto the wall plates. Glue and screw the splines exactly as you did the walls. Ensure the roof panels sit perfectly flush with the external wall insulation. Tape internal joints with Tescon Vana.
 *   **Sunday (Weather-Tight):** Tape all external roof joints. Install tapered PIR insulation boards (1:60 fall). Apply the 1.5mm EPDM rubber membrane over the deck. Roll it flat to remove bubbles. 
 *   **Sunday Lockdown:** Install the UPVC drip edge trims. The building is now officially "Weather-Tight" and the OSB core is fully protected.
 
