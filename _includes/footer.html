@@ -1,40 +1,20 @@
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-        <p style="font-size: 0.85em; color: #828282; margin-top: 15px;">
-          <a href="{{ site.github.repository_url }}/commit/{{ site.github.build_revision }}" target="_blank" style="color: inherit; text-decoration: none;">
-            {{ site.github.build_revision | slice: 0, 7 }}
-          </a> - {{ site.time | date: "%Y-%m-%d %H:%M:%S %Z" }}
-        </p>
-      </div>
-    </div>
-
+  <div class="wrapper" style="text-align: center; font-size: 0.9em; color: #828282; padding: 20px 0;">
+    <p style="margin: 0;">
+      {%- if site.author -%}
+        {{ site.author | escape }}
+      {%- else -%}
+        {{ site.title | escape }}
+      {%- endif -%}
+      &nbsp; | &nbsp;
+      {{- site.description | escape -}}
+      &nbsp; | &nbsp;
+      Build: {{ site.time | date: "%Y-%m-%d %H:%M %Z" }}
+      &nbsp; | &nbsp;
+      Commit: <a href="{{ site.github.repository_url }}/commit/{{ site.github.build_revision }}" target="_blank" style="color: inherit; text-decoration: none;"><code>{{ site.github.build_revision | slice: 0, 7 | default: "Local" }}</code></a>
+    </p>
   </div>
 
 </footer>
