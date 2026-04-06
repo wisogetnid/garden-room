@@ -28,8 +28,7 @@
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
         <p style="font-size: 0.85em; color: #828282; margin-top: 15px;">
-          Build Time: {{ site.time | date: "%Y-%m-%d %H:%M:%S %Z" }}<br>
-          Commit: <code>{{ site.github.build_revision | slice: 0, 7 | default: "Local" }}</code>
+          <code>{{ site.github.build_revision | slice: 0, 7 | default: "Local" }}</code> - {{ site.time | date: "%Y-%m-%d %H:%M:%S %Z" }}
         </p>
       </div>
     </div>
