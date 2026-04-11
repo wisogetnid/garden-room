@@ -9,6 +9,15 @@ layout: default
 
 ---
 
+## Step-by-Step Construction Phases (Overview)
+1. **Phase 1: Groundworks & Foundation** (Days 1-5): Excavation, MOT Type 1 sub-base, blinding sand, JACKODUR tub assembly, mesh laying, and UFH pipe integration.
+2. **Phase 2: Concrete Pour & Curing Halt** (Day 6-30): Line pump pour. **CRITICAL:** Wait min 21-28 days before erecting walls to prevent slab moisture from locking into the SIPs.
+3. **Phase 3: Structural Envelope** (Days 31-35): Sole plate anchoring, SIP wall and roof erection, Tyvek wrapping, and window/door installation (achieving weather-tightness).
+4. **Phase 4: Cladding & Exterior Finish** (Days 36-40): Battening, Hardie plank cladding, and EPDM flat roof waterproofing.
+5. **Phase 5: Internal Fit-Out & MEP** (Days 41-50): Service battens, wiring, Fermacell boarding, hard-bonded floor, and final commissioning of Electric Flow Boiler and extraction.
+
+---
+
 ## 1. Foundation and Groundworks Specification
 
 **Objective:** Provide a damp-proof, vermin-proof, and thermally isolated base capable of distributing 2.5-tons of static building weight plus heavy dynamic machinery loads.
@@ -23,7 +32,7 @@ layout: default
 | **Under-Slab Thermal Break** | 150mm JACKODUR® Atlas XPS System | Interlocking XPS panels assembled directly on the blinding sand | Prevent cold-bridging into the earth; serves as permanent insulated formwork. | 1 complete Atlas tub system |
 | **Damp Proof Membrane (DPM)** | 1200-gauge Polythene | Loose laid *inside* the XPS tub, taped seams | **Critical Placement:** Sits directly between the XPS insulation and the wet concrete to prevent capillary moisture rising through the slab. | 1 Roll (4m x 25m) |
 | **Steel Reinforcement** | A252 Steel Mesh (Single Layer) | Placed on 50mm plastic concrete 'chairs' | Structural tensile strength. A single layer positioned in the bottom-third of the slab controls thermal cracking while eliminating the risk of breaching the concrete's top cover during power floating. | 3 Sheets (4.8m x 2.4m) |
-| **Heating Integration** | 16mm PEX-a Wet UFH Pipework | Zip-tied to the top of the A252 mesh @ 150mm centers before pour | **Baseline heating/cooling:** Embedded into the thermal mass. Powered by an external Air Source Heat Pump (ASHP). | ~150 linear meters |
+| **Heating Integration** | 16mm PEX-a Wet UFH Pipework | Zip-tied to the top of the A252 mesh @ 150mm centers before pour | **Baseline heating:** Embedded into the thermal mass. Powered by an internal Electric Flow Boiler (zero envelope penetrations). | ~150 linear meters |
 | **Concrete Slab** | Min 150mm thick (C32/40 mix) | Poured in-situ using a line pump and contractor crew, power-floated finish | Extreme high-mass structural base; dampens low-frequency machinery vibration and provides massive thermal battery capacity. The C32/40 mix is mandated by JACKODUR® BBA certification. | ~2.8 Cubic Meters |
 
 ### 1.3 Ground-to-Wall Interface Details (Slab-to-Wall Junction)
@@ -37,6 +46,8 @@ layout: default
 | **3. Base Drip Flashing** | Stainless Steel Drip Profile | Screwed to the base batten, kicking out over the XPS render | Prevents water from wicking back up into the rain-screen ventilation gap. | ~14 linear meters |
 | **4. Thermal Overlap** | 50mm Wood Fibre External Insulation | Extended downwards to cover the top 50mm of the JACKODUR® XPS upstand | **'Red Line' Continuity:** Locks the wall insulation directly to the foundation insulation, eliminating the cold bridge at the slab edge. | ~45m² coverage |
 | **5. Structural Thermal Break**| **Compacfoam CF200** Block | 140mm x 50mm, sits precisely on the concrete edge | **Door Threshold Bearing:** Supports the heavy door frame while maintaining the thermal break where the XPS upstand is cut away for level access. | ~2 linear meters |
+| **5a. Flush Threshold Drainage**| Aco HexDrain Channel | Set flush with external patio level | Intercepts water before it can pool against the door threshold. | ~2 linear meters |
+| **5b. Liquid Moisture Barrier**| RIW Flexiseal | Liquid-applied over threshold junction | Impermeable seal to stop water wicking into the timber at the flush threshold. | 1 tin |
 | **6. DPM / DPC Lapping** | 1200-gauge DPM & Polymeric DPC | DPM folded over slab edge, lapped beneath DPC by min 100mm, sealed with Butyl Tape | Completely seals the concrete slab moisture away from the SIP OSB skins and timber sole plate. | 1 Roll DPC |
 | **7. Structural Anchoring** | M12 A4 (316) Stainless Anchor Bolts | Embedded 100mm into concrete via chemical resin @ 1200mm centers | Passes through the sole plate and DPC to lock the frame against massive coastal wind uplift. | ~16 units |
 | **8. SIP to Plate Seal** | Expanding PU Foam & Sealant | Injected into the SIP rebate before dropping over the sole plate | Creates a permanent foam-to-timber airtight and thermal seal at the foundation junction. | 4 tubes |
@@ -132,14 +143,14 @@ layout: default
 **Context:** A 20m² wood workshop in coastal Cowes used primarily on evenings and weekends, with potential future conversion to a home office.
 *   *Low-Wattage Convection:* Good for background heat, but stirs up fine combustible dust (Rejected).
 *   *Infrared (IR) Panels:* Ideal for instant radiant heat (heats objects and the human directly).
-*   *Wet UFH (Air Source Heat Pump):* The Passivhaus "Gold Standard." Because the building has a U-Value of 0.14 W/m²K, running a high-efficiency ASHP (COP of 3.0 to 4.0) to maintain a base 12-14°C costs almost nothing. In summer, the reversible ASHP can circulate 18°C-19°C chilled water through the slab to passively cool the room without reaching the dew point (preventing "sweating" and tool rust).
+*   *Wet UFH (Internal Electric Flow Boiler):* Zero-penetration Passivhaus adaptation. An internal 3kW electric flow boiler heats the slab water. While the COP is 1.0 (compared to an ASHP's 3.5), the Passivhaus demand is so low that running costs remain trivial, and avoiding external refrigerant penetrations completely eliminates airtightness failure risks.
 
 ### 4.1 Heating Execution Strategy
 A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the thermal battery and provides passive summer cooling, while the IR Panel provides instant top-up heat for the occupant in winter. **Total estimated heat load for ~18.7m² Passivhaus: 1.3kW - 1.8kW.**
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Baseline Thermal Battery** | 16mm PEX-a Pipework (Wet UFH) + 3kW ASHP | Embedded within the 150mm concrete slab @ 150mm centers | Runs continuously via thermostat at 12-14°C (winter) or 19°C (summer). Costs pennies in a Passivhaus. Keeps cast-iron tools dry, mitigates the summer "oven effect," and provides the ultimate home-office comfort future-proof. | 1 system |
+| **Baseline Thermal Battery** | 16mm PEX-a Pipework (Wet UFH) + 3kW Internal Electric Flow Boiler | Embedded within the 150mm concrete slab @ 150mm centers | Runs continuously via thermostat at 12-14°C. Eliminates envelope penetrations. Keeps cast-iron tools dry and provides the ultimate home-office comfort future-proof. | 1 system |
 | **Primary Occupant Heat** | 1.2kW Far-Infrared (FIR) Ceiling Panel | Suspended from ceiling joists over workbench | Switched on upon entry for weekend work. Provides instant radiant warmth directly to the user's body without waiting for room air to heat. | 1 panel |
 | **Dehumidification** | Smart Compressor Dehumidifier (e.g., MeacoDry Arete 1 12L) | Freestanding on floor. Relies on internal 2.5L-5L tank with Wi-Fi push notifications to the user's phone. | **Zero VCL Penetrations:** Because the Passivhaus envelope is airtight, moisture ingress from the outside is near zero. Once the initial construction moisture is extracted, the unit will rarely run when the room is unoccupied, making manual emptying highly infrequent. | 1 unit |
 
@@ -154,6 +165,7 @@ A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the 
 | **Machine Breakers** | 20A **Type C** RCBOs | Mounted in workshop Consumer Unit | Type C magnetic trip curve withstands the 100A+ inrush surge of 3HP induction motors without nuisance tripping. | 4 units |
 | **Sockets** | IP66 Double Switched 13A | Surface mounted to Fermacell | Flap-covers prevent conductive wood dust from bridging internal contacts (fire prevention). | ~6 units |
 | **Extraction Trunk** | 100mm Rigid Galvanized Steel Ducting | Rubber-lined acoustic pipe clamps to ceiling | Smooth bore maintains 25 m/s air velocity; metal prevents static electricity sparks (unlike PVC). | ~10 linear meters |
+| **ATEX Grounding** | Copper Earth Bonding Strap | Bolted to metal ducting and wired to the workshop's earth terminal | **Explosion Prevention:** Safely grounds the static charge generated by fast-moving dust particles in the metal duct. | 1 unit + Earth Cable |
 | **Blast Gates** | 100mm Cast Aluminum body with steel slider | Hose-clamped onto vertical machine drops | Maximizes static pressure by isolating idle branches. | 3 units |
 | **Extractor Unit** | Internal Recirculation HEPA/Cyclone Extractor | Freestanding on 15mm SBR rubber isolation pads | Captures fine hardwood dust (<PM2.5) safely inside the airtight envelope without exhausting heated Passivhaus air outside. | 1 unit |
 
@@ -163,5 +175,34 @@ A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the 
 *   **Transportation Logistics:** Narrow rural roads on the Isle of Wight require a "shuttle" service. SIP panels must be transferred to smaller rigid vehicles from articulated lorries for the final mile. Ferry costs via Yarmouth (e.g., Wightlink) must be factored in. Sourcing from New Forest SIPs (Lymington) minimizes overall transit compared to national suppliers.
 *   **Fire Safety Boundary Compliance:** Approved Document B updates mandate that structures <1m from a boundary must be built with "substantially non-combustible materials". OSB-faced SIPs are not inherently non-combustible (Class 3 spread of flame). The specified 15mm Fermacell internal boarding acts as the equivalent of Type F fire-rated plasterboard to achieve the required REI30/REI60 rating.
 *   **Moisture Management:** The high salt content and wind-driven rain in Cowes mean OSB SIP skins can degrade rapidly if exposed during the build. The Tyvek breather membrane MUST be applied immediately after erection.
+
+---
+
+## 7. Insulation Values & Expected Heating Effort (kWh)
+
+**Objective:** Quantify the thermal resistance (U-values) of the structural envelope and calculate the expected annual heating demand to validate the Passivhaus standards.
+
+### 7.1 Certified U-Value Schedule
+The building envelope is designed to aggressively target the Passivhaus standard (≤ 0.15 W/m²K), significantly exceeding the UK 2025 Future Homes Standard.
+
+| Envelope Component | Material Composition | Target U-Value | Achieved U-Value | Notes / Potential Risks |
+| :--- | :--- | :--- | :--- | :--- |
+| **External Walls** | 142mm PUR-Core SIP + 50mm Wood Fibre | 0.15 W/m²K | **0.13 W/m²K** | Wood fibre breaks the thermal bridge at the SIP spline joints and provides decrement delay. |
+| **Roof Structure** | 172mm PUR-Core SIP | 0.13 W/m²K | **~0.13 W/m²K** | Warm roof design prevents interstitial condensation. |
+| **Floor Slab** | 150mm JACKODUR® Atlas XPS | 0.13 W/m²K | **0.22 W/m²K** | **[OPEN RISK FLAG: verify spanning distances and thickness]** 150mm XPS achieves ~0.22 W/m²K. Reaching 0.13 W/m²K requires ~260mm. |
+| **Glazing** | VIG (Vacuum Insulated Glazing) in uPVC | 0.80 W/m²K | **0.80 W/m²K** | Vastly outperforms double glazing (~1.4 W/m²K). |
+
+### 7.2 Expected Heating Effort (Annual kWh)
+By maintaining Passivhaus standards and Q50 airtightness, the garden room operates primarily as a "thermal battery" rather than a heat sink. 
+
+* **Peak Heating Load:** 1.3kW - 1.8kW (Required only during extreme cold snaps from a cold start).
+* **Passivhaus Heating Demand Limit:** ≤ 15 kWh/(m²a).
+* **Total Space Area:** ~18.7m².
+* **Estimated Annual Thermal Demand:** 18.7m² × 15 kWh/(m²a) = **~280 kWh/year** of raw heat energy required.
+
+**Electrical Effort (Running Costs):**
+Given the use of a 3kW Internal Electric Flow Boiler powering the 16mm Wet UFH, with a Coefficient of Performance (COP) of 1.0:
+* **Expected Annual Electrical Input:** 280 kWh / 1.0 COP = **280 kWh of electricity per year.**
+* **Cost Implication:** At £0.28/kWh, maintaining base Passivhaus temperatures (12-14°C) year-round will cost approximately **£78.40 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user, resulting in negligible additional kWh consumption over weekend usage.
 
 > **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (150mm slab, 150mm splash zone, and Type C induction mapping) have been validated and integrated.

@@ -24,7 +24,7 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
 *This is the worst of the physical labor. Pace yourself.*
 
 ### Weekend 1: Demolition & First Dig (The Heavy Slog)
-*   **Friday Logistics:** Waste removal calculation updated to match JACKODUR® specifications. The existing 2.4m x 3.6m x 0.1m concrete patch is ~0.9m³ of solid concrete (~2 tonnes). To accommodate the 3.6x5.2m tub, the manufacturer requires a 400mm working space all around. You must excavate a **4.4m x 6.0m footprint** down to a uniform 350mm depth (150mm MOT + 50mm sand + 150mm JACKODUR). You must dig out ~8.37m³ of solid soil (~12.6 tonnes) from beneath the pad and the rest of the garden. **Total waste: ~14.6 tonnes / ~12.5m³ (loose volume).** *Foreman Note:* Since you are digging manually, we are splitting this over two weekends. Do not hire expensive "Mixed Waste" skips. Separate your waste streams: Hire **1x 2-yard "Mini" Clean Hardcore skip** for the concrete, and **2x to 3x sequential 6-yard "Inert Soil/Muck" skips** for the earth. Order the 2-yard Mini Skip for today.
+*   **Friday Logistics:** Waste removal calculation updated to match JACKODUR® specifications. The existing 2.4m x 3.6m x 0.1m concrete patch is ~0.9m³ of solid concrete (~2 tonnes). To accommodate the 3.6x5.2m tub, the manufacturer requires a 400mm working space all around. You must excavate a **4.4m x 6.0m footprint** down to a uniform 350mm depth (150mm MOT + 50mm sand + 150mm JACKODUR). *Foreman Note:* By accepting a 0.22 W/m²K U-value with 150mm XPS instead of aiming for 0.13 W/m²K (which would require 260mm XPS and a 460mm deep hole), you've saved yourself from excavating an extra ~3 tonnes of heavy clay. Your back will thank the architect. You must dig out ~8.37m³ of solid soil (~12.6 tonnes) from beneath the pad and the rest of the garden. **Total waste: ~14.6 tonnes / ~12.5m³ (loose volume).** Since you are digging manually, we are splitting this over two weekends. Do not hire expensive "Mixed Waste" skips. Separate your waste streams: Hire **1x 2-yard "Mini" Clean Hardcore skip** for the concrete, and **2x to 3x sequential 6-yard "Inert Soil/Muck" skips** for the earth. Order the 2-yard Mini Skip for today.
 *   **Saturday (Brutal Heavy):** Demolish the wooden shed. Hire a concrete breaker to smash and remove the 100mm thick concrete pad. Load all ~2 tonnes (~1.3m³ loose volume) of concrete debris exclusively into the 2-yard Mini Skip. Mark out the new 4.4x6.0m footprint. Begin excavating the footprint down to exactly 350mm. Because the old pad was 100mm deep, you will only need to dig out another 250mm of soil *under* where the pad used to be, and 350mm across the rest.
 *   **Sunday (Heavy):** Ensure your first 6-yard "Inert Soil" skip has arrived. Continue the manual dig-out. Aim to fill the first soil skip. 
 *   **Sunday Lockdown (4 PM) - 🚨 OPEN EXCAVATION PROTOCOL:** You have an unfinished, exposed earthen trench. **DO NOT leave it unprotected.** A 350mm deep hole of this size will become a 9,240-liter swimming pool if it rains. If water saturates the bottom clay/soil (the 'formation level'), it will turn to mush and ruin the load-bearing capacity for your MOT. 
@@ -46,8 +46,9 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
 *   **Sunday (Rest):** Let the slab cure. Do nothing. Drink tea. 
 *   **Sunday Lockdown:** Check the UFH pressure gauge. Cover the slab with a tarp if heavy rain or frost is forecast.
 
-### Weekend 5 & 6: 🚨 THE 14-DAY CURING HALT
-*   **Protocol:** You MUST accommodate a strict 14-day concrete curing halt before Phase 3 (wall assembly) begins. Do not drill anchors or start superstructure assembly. Focus on tool maintenance and site cleanup.
+### Weekend 5, 6 & 7: 🚨 THE 21-28 DAY CURING HALT
+*   **Protocol:** You MUST accommodate a strict 21-28 day concrete curing halt before Phase 3 (wall assembly) begins to prevent massive slab moisture from locking into the SIPs. Do not drill anchors or start superstructure assembly. 
+*   **Evening/Weekend Task Triaging (Quiet/Low-Impact):** This is the perfect time for off-site SIP sorting, tool maintenance, prepping tapes and fasteners, and cleaning the site. Do not rush this curing phase!
 
 ---
 
@@ -55,15 +56,15 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
 *OSB SIPs must not get wet. The clock is ticking the moment these arrive.*
 
 ### Evening Prep: The Thermal Break
-*   **Mid-Week (Quiet):** Trowel flexible polymer-cement render heavily over the XPS upstand. Snap chalk lines on the cured concrete. Bed the Compacfoam CF200 thermal break block ONLY at the door threshold location (~2m). The remaining 15.6m of perimeter does NOT need Compacfoam. Set Aco HexDrain flush against the XPS upstand.
+*   **Mid-Week (Quiet):** Trowel flexible polymer-cement render heavily over the XPS upstand. Snap chalk lines on the cured concrete. Bed the Compacfoam CF200 thermal break block ONLY at the door threshold location (~2m). The remaining 15.6m of perimeter does NOT need Compacfoam. Set Aco HexDrain flush against the XPS upstand, and apply **RIW Flexiseal** liquid moisture barrier over the threshold junction to ensure water cannot wick into the timber.
 
-### Weekend 7: 🚨 BIG EVENT: Panel Delivery & Wall Assembly
+### Weekend 8: 🚨 BIG EVENT: Panel Delivery & Wall Assembly
 *   **Friday (Delivery):** The 142mm PUR-Core SIP delivery from New Forest SIPs (Lymington) arrives via Yarmouth ferry. *CRITICAL LOGISTICS:* The final mile to the Cowes site has narrow roads. Transfer the panels to a **rigid shuttle vehicle** from any articulated lorries before crossing/navigating the island. Stack the OSB panels flat on bearers under a completely waterproof tarp.
 *   **Saturday (High Focus):** Roll out the DPC directly onto the concrete perimeter. Secure standard timber sole plates directly to the DPC-covered concrete slab using M12 resin anchors at 1200mm centers (only at the 2m door threshold do they sit on the Compacfoam). Erect wall panels and join using insulated splines and structural polyurethane adhesive. *Foreman Note:* Huge time saver! Sitting straight on the concrete means you don't have to perfectly bed and level 17.6m of expensive Compacfoam. Plumb the base perfectly. If the corner is out by 2mm, the roof won't fit. 
 *   **Sunday (Repetitive):** Join the rest of the wall panels. Install the continuous top-plate into the top rebate.
 *   **Sunday Lockdown & Weatherproofing:** Because these are OSB SIPs, **the Tyvek UV Facade breather membrane MUST be applied immediately after erection to prevent coastal moisture degradation.** You are on the coast; ZERO delay allowed. Staple and tape the membrane to all exposed exterior walls before stopping. Cover the open roof span with a massive heavy-duty tarp, tied down securely.
 
-### Weekend 8: 🚨 BIG EVENT: The Roof Lift
+### Weekend 9: 🚨 BIG EVENT: The Roof Lift
 *   **Saturday (Heavy/Dangerous):** The 172mm PUR-Core Roof SIPs are extremely heavy. **CRITICAL LOGISTICS:** You MUST use narrow 600mm width panels or hire a material lift. Do not attempt this with just ladders. Get 3 strong mates to assist. Slide the panels up onto the wall plates. Glue and screw the splines exactly as you did the walls. Ensure the roof panels sit perfectly flush with the external wall insulation. Tape internal joints with Tescon Vana.
 *   **Sunday (Weather-Tight):** Tape all external roof joints. Install tapered PIR insulation boards (1:60 fall). Apply the 1.5mm EPDM rubber membrane over the deck. Roll it flat to remove bubbles. 
 *   **Sunday Lockdown:** Install the UPVC drip edge trims. The building is now officially "Weather-Tight" and the OSB core is fully protected.
@@ -72,7 +73,7 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
 
 ## 🗓️ Phase 3: Exterior Finish & Glazing (The Tidy Phase)
 
-### Weekend 9: Windows, Doors & Drainage
+### Weekend 10: Windows, Doors & Drainage
 *   **Saturday (Finesse & Heavy Lift):** Install the Vacuum-Insulated Glazing (VIG) uPVC windows into their respective factory-cut SIP openings:
     *   *North:* 1x 1200x1200mm
     *   *West:* 1x 1200x1200mm
@@ -81,7 +82,7 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
     *Foreman Note:* VIG units, while thinner than triple glazing, are extremely dense and heavy. Use suction cup lifters and a helper for the large 1.2m units! Install the **Asymmetric 1.5 Door system** (e.g., 1000mm active leaf + 400-600mm slave leaf). Traditional French doors are strictly forbidden. Seal all units with expanding PU foam and tape over the frame-to-OSB joints internally with airtight tape (e.g., Tescon Vana).
 *   **Sunday (Moderate):** Pour 20mm washed gravel directly into the existing 200mm perimeter gap left around the XPS tub to create a clean splash margin (no digging required!). Install the guttering and downpipe diverter, routing it to your 200L water butt.
 
-### Weekends 10 & 11: Insulation, Cladding & The Weather Shield
+### Weekends 11 & 12: Insulation, Cladding & The Weather Shield
 *   **Saturday (Precision):** Install the **50mm Rigid Wood Fibre external insulation** across all exterior elevations. Friction-fit the boards and hold them temporarily before securing them with the **25x50mm treated rainscreen battens @ 400mm centers** (using 120mm A4 Stainless Steel EWI Screws driven at 60° through the batten, wood fibre, and into the SIPs OSB). Ensure a continuous thermal jacket that overlaps the XPS foundation upstand. Attach the **Stainless Steel Base Drip Flashing** to the bottom batten.
 *   **Sunday (Heavy Repetition):** Install the **James Hardie Fibre Cement Cladding** across the rainscreen battens using Hardie™ Plank Screws (4.2x40mm T15 Torx). *Foreman Note:* DO NOT use your impact driver for this! Use a standard drill/driver on a low torque setting to avoid cracking the boards. No pre-drilling required. This provides your A2 Fire rated 'Cowes-Proof' weather shield.
 
@@ -93,16 +94,16 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
 ### Evening Tasks: The Airtight Envelope
 *   **Weeknights (Quiet):** Tape every single internal panel joint, floor junction, and ceiling junction with **Pro Clima Tescon Vana** tape. Tape the window frames to the OSB SIPs.
 
-### Weekend 12: The Service Cavity & Electrical Rough-In
+### Weekend 13: The Service Cavity & Electrical Rough-In
 *   **Saturday (Moderate):** Screw the 25x50mm treated timber battens horizontally at 400mm centers onto the internal SIP walls. 
-*   **Sunday (Technical):** Pull all your electrical cabling through the service cavity. Mount the airtight socket boxes. Install the dMVHR unit. Run the rigid galvanized steel ducting for dust extraction and integrate the internal **freestanding HEPA/Cyclone extraction unit** mounted on 15mm SBR rubber isolation pads.
+*   **Sunday (Technical):** Pull all your electrical cabling through the service cavity. Mount the airtight socket boxes. Install the dMVHR unit. Run the rigid galvanized steel ducting for dust extraction. **CRITICAL:** Bolt the **Copper Earth Bonding Strap** to the metal ducting and wire it to the workshop's earth terminal to achieve ATEX compliance against static explosion risks. Finally, integrate the internal **freestanding HEPA/Cyclone extraction unit** mounted on 15mm SBR rubber isolation pads.
 
-### Weekend 13: Internal Skin & Fire Safety
+### Weekend 14: Internal Skin & Fire Safety
 *   **Saturday (Heavy & CRITICAL FOR FIRE COMPLIANCE):** Screw the **15mm Fermacell boards** to the service battens using 30mm screws. Use Jointstik glue on the edges. *Fire Safety Check:* This is structurally mandatory. Because we are <1m from the boundary, building control requires REI30/REI60. The OSB is combustible, but this 15mm Fermacell acts as the Type F fire-board equivalent to pass regulations. Schedule your Building Control Inspection here!
 *   **Sunday (Finesse):** Fully bond the engineered oak floor to the slab. Leave a perimeter expansion gap.
 
 ### Final Evenings: Commissioning
-*   **Weeknights (Quiet):** Paint the Fermacell. Mount the 1.2kW IR heating panel to the ceiling. Call the electrician to terminate the consumer unit, sign off grounding, and issue the certificate. Hook up the ASHP to the UFH manifold outside.
+*   **Weeknights (Quiet):** Paint the Fermacell. Mount the 1.2kW IR heating panel to the ceiling. Mount the Internal 3kW Electric Flow Boiler internally on the Fermacell wall and plumb it directly into the UFH manifold. Call the electrician to terminate the consumer unit, wire the Flow Boiler, sign off grounding, and issue the certificate.
 
 ---
 

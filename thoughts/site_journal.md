@@ -396,3 +396,45 @@
 - **Master Plan Update:** Removed the 50cm overhang requirement from Section 2.3 of `MASTER_PLAN.md`.
 - **Workplan Update:** Updated Weekend 8 in `WORKPLAN.md` to instruct the Foreman to install the roof SIPs perfectly flush with the wall insulation instead of sliding them out for a cantilever.
 - **Alternative Seal Protection (Pending):** A flush roof removes the physical "umbrella" protection over the threshold. I will provide the user with high-performance Passivhaus threshold detailing options (e.g., Compacbond/Illbruck membranes) to compensate for the direct coastal rain exposure on the primary door seals.
+
+## [Date: 2026-04-11] - @architect Hand-off
+**Action:** Extended `plans/MASTER_PLAN.md` with a new section (7) detailing Insulation Values (U-values) and Expected Heating Effort (kWh).
+**Changes Made:** 
+- Formally documented U-values for walls (0.13 W/m²K), roof (~0.13 W/m²K), floor (0.22 W/m²K), and glazing (0.80 W/m²K).
+- Added an OPEN RISK FLAG for the floor slab (150mm XPS vs the required ~260mm for strict 0.13 W/m²K compliance).
+- Calculated expected annual electrical input for heating (approx ~80 kWh/year based on 15 kWh/m²a Passivhaus standard and 3.5 COP ASHP).
+
+**Next Steps:**
+1. **@strategist**: Please run the architectural validation tests against the updated `MASTER_PLAN.md` to ensure no constraints were violated by explicitly documenting these values (especially the floor XPS risk).
+2. **@foreman**: Once strategist verifies, review `plans/WORKPLAN.md`. Since we've explicitly highlighted the potential risk of 150mm vs 260mm XPS for the floor, verify that the current groundworks schedule accommodates the existing 150mm specification, or if adjustments/warnings are needed in the execution sequence.
+
+## Foreman's Update (Sat Apr 11 2026)
+
+**Updates applied to WORKPLAN.md based on MASTER_PLAN.md changes:**
+
+1. **Excavation Logistics:** Updated Phase 1 to note that accepting the 0.22 W/m²K U-value (150mm XPS instead of 260mm) saved ~3 tonnes of manual clay excavation. A big win for weekend-warrior endurance.
+2. **Moisture Control:** Added the RIW Flexiseal application at the door threshold junction (over the Aco HexDrain) to the Evening Prep phase just before panel delivery. 
+3. **Curing Halt Extended:** The 14-day curing halt has been officially extended to a strict **21-28 day curing halt** across Weekends 5, 6, and 7 to prevent slab moisture from blowing out the OSB SIPs. The subsequent phase weekends have been shifted back accordingly. Emphasized using this downtime for low-impact evening triaging tasks (tool maintenance, fastener sorting).
+4. **ATEX Compliance:** Included the critical installation of the Copper Earth Bonding Strap to the rigid galvanized steel dust extraction duct during Weekend 13 to neutralize static explosion risks.
+
+**Next Steps / Hand-off:**
+@strategist: Please run the validation tests on the newly updated timeline and specs to ensure the longer curing halt and the tradeoff values haven't violated any constraints.
+
+## [Date: 2026-04-11] - @architect Hand-off (ASHP Pivot)
+**Action:** Replaced the external Air Source Heat Pump (ASHP) with a 3kW Internal Electric Flow Boiler in `plans/MASTER_PLAN.md`.
+**Changes Made:** 
+- Updated Section 4.1 to reflect the Electric Flow Boiler and the associated Passivhaus adaptation (zero penetrations).
+- Updated the COP calculations in Section 7.2 (1.0 COP instead of 3.5 COP), resulting in an estimated ~£78/year running cost.
+- Removed ASHP from Phase 5 and groundworks references.
+
+**Next Steps:**
+1. **@strategist**: Re-run validation tests (specifically Test 005 and 01 if relevant) against `MASTER_PLAN.md` to ensure the Electric Boiler substitution doesn't violate heating W/m² or Passivhaus constraints.
+2. **@foreman**: Update `plans/WORKPLAN.md` to remove any tasks regarding external compressor mounting, drilling for refrigerant lines, or external F-gas commissioning. The boiler is now a simple internal plumbing/electrical task mounted to the Fermacell walls.
+## Date: 2026-04-11
+**Foreman Notes: Workplan ASHP Removal & Electric Flow Boiler Integration**
+- Hand-off received from Architect. Read the updated `plans/MASTER_PLAN.md` regarding the pivot from ASHP to an Internal 3kW Electric Flow Boiler.
+- **Removed ASHP Logistics:** Scanned and purged `plans/WORKPLAN.md` of any mentions of hooking up external heat pumps to the manifold. 
+- **Internal Commissioning:** Updated "Final Evenings: Commissioning" (Weeknights) to reflect mounting the 3kW Electric Flow Boiler internally directly onto the Fermacell walls and plumbing it into the UFH manifold without penetrating the Passivhaus envelope. Instructed the electrician to wire the Flow Boiler during the consumer unit termination.
+- **Zero Envelope Penetration:** This change significantly reduces the "Sunday Lockdown" weather-tightness risks and eliminates the need for any external F-gas commissioning or tricky refrigerant line routing through the SIPs.
+- **Status:** `WORKPLAN.md` is now aligned with the new heating specs.
+
