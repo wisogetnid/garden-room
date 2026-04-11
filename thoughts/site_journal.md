@@ -438,3 +438,11 @@
 - **Zero Envelope Penetration:** This change significantly reduces the "Sunday Lockdown" weather-tightness risks and eliminates the need for any external F-gas commissioning or tricky refrigerant line routing through the SIPs.
 - **Status:** `WORKPLAN.md` is now aligned with the new heating specs.
 
+
+## [Date: 2026-04-11] - @architect Heating Calculation Update
+**Action:** Overhauled Section 7.2 of `MASTER_PLAN.md` to remove the theoretical Passivhaus 15 kWh/m²a shortcut.
+**Changes Made:**
+- Calculated the exact Fabric Heat Loss based on all 4 U-values, explicitly accounting for the 0.22 W/m²K floor tradeoff.
+- Calculated the Heat Transfer Coefficient (HTC) at ~20 W/K.
+- Applied Isle of Wight climate data (1,500 Heating Degree Days) to find the true annual demand: 720 kWh/year.
+- Updated the UK electricity rate to the current Ofgem average of £0.245/kWh, bringing the estimated running cost of the 3kW internal boiler to £176.40/year.

@@ -192,17 +192,23 @@ The building envelope is designed to aggressively target the Passivhaus standard
 | **Floor Slab** | 150mm JACKODUR® Atlas XPS | 0.13 W/m²K | **0.22 W/m²K** | **[OPEN RISK FLAG: verify spanning distances and thickness]** 150mm XPS achieves ~0.22 W/m²K. Reaching 0.13 W/m²K requires ~260mm. |
 | **Glazing** | VIG (Vacuum Insulated Glazing) in uPVC | 0.80 W/m²K | **0.80 W/m²K** | Vastly outperforms double glazing (~1.4 W/m²K). |
 
-### 7.2 Expected Heating Effort (Annual kWh)
-By maintaining Passivhaus standards and Q50 airtightness, the garden room operates primarily as a "thermal battery" rather than a heat sink. 
+### 7.2 Expected Heating Effort (Calculated Annual kWh)
+Because the foundation U-value (0.22 W/m²K) intentionally misses the Passivhaus criteria (≤ 0.15) to save on excavation logistics, the theoretical Passivhaus shortcut (15 kWh/m²a) cannot be used. Instead, the heating effort is calculated using the real-world **Heat Transfer Coefficient (HTC)** and Isle of Wight climate data.
 
-* **Peak Heating Load:** 1.3kW - 1.8kW (Required only during extreme cold snaps from a cold start).
-* **Passivhaus Heating Demand Limit:** ≤ 15 kWh/(m²a).
-* **Total Space Area:** ~18.7m².
-* **Estimated Annual Thermal Demand:** 18.7m² × 15 kWh/(m²a) = **~280 kWh/year** of raw heat energy required.
+* **Fabric Heat Loss:** 
+  - Walls (42m² x 0.13) = 5.46 W/K
+  - Roof (18.7m² x 0.13) = 2.43 W/K
+  - Floor (18.7m² x 0.22) = 4.11 W/K
+  - Glazing (4m² x 0.80) = 3.20 W/K
+  - **Total Fabric Loss = 15.2 W/K**
+* **Ventilation/Air Leakage:** ~4.8 W/K (Assuming high Q50 airtightness with occasional door opening).
+* **Total Heat Transfer Coefficient (HTC): ~20 W/K** (The building loses 20 Watts per 1°C of temperature difference).
+* **Climate Data:** The Isle of Wight experiences roughly **1,500 Heating Degree Days (HDD)** per year to maintain a 14°C baseline.
 
-**Electrical Effort (Running Costs):**
-Given the use of a 3kW Internal Electric Flow Boiler powering the 16mm Wet UFH, with a Coefficient of Performance (COP) of 1.0:
-* **Expected Annual Electrical Input:** 280 kWh / 1.0 COP = **280 kWh of electricity per year.**
-* **Cost Implication:** At £0.28/kWh, maintaining base Passivhaus temperatures (12-14°C) year-round will cost approximately **£78.40 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user, resulting in negligible additional kWh consumption over weekend usage.
+**Electrical Effort & Running Costs:**
+Formula: `(HTC [20] × 24 hours × HDD [1500]) ÷ 1000` = **720 kWh/year thermal demand**.
+Given the use of a 3kW Internal Electric Flow Boiler with a Coefficient of Performance (COP) of 1.0:
+* **Expected Annual Electrical Input:** 720 kWh of electricity per year.
+* **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£176.40 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
 
 > **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (150mm slab, 150mm splash zone, and Type C induction mapping) have been validated and integrated.

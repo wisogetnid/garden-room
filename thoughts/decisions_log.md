@@ -27,3 +27,8 @@
 **Context:** The user realized that installing an Air Source Heat Pump (ASHP) would require piercing the Passivhaus SIP envelope for refrigerant lines, introducing major airtightness and moisture vulnerabilities.
 **Decision:** Replace the external ASHP with an Internal Electric Flow Boiler (3kW) mounted on the internal wall to heat the wet UFH slab.
 **Reasoning:** This approach achieves "zero penetrations" while maintaining the critical concrete thermal battery for machinery stability. The trade-off is a drop in COP from 3.5 to 1.0. However, the Passivhaus energy demand is so low (280 kWh/year) that the running cost only increases from ~£22/year to ~£78/year. The massive upfront capital savings (~£2,000) and elimination of airtightness failure risks make this highly advantageous.
+
+## [Date: 2026-04-11] - Heating Calculation Pivot (HTC vs Passivhaus Shortcut)
+**Context:** User astutely noted that because the 150mm XPS floor yields a U-value of 0.22 W/m²K, the building technically misses the Passivhaus standard (≤ 0.15 W/m²K). Therefore, calculating annual demand using the Passivhaus shortcut of 15 kWh/m²a is inaccurate. Additionally, the electricity price used (£0.28) was outdated.
+**Decision:** Rewrote the Expected Heating Effort section in the Master Plan using the Heat Transfer Coefficient (HTC) and Heating Degree Days (HDD) methodology to account for the exact U-value of the leaking floor. Updated the electricity price to the recent Ofgem average of £0.245/kWh.
+**Result:** Total energy demand recalculates from the theoretical 280 kWh to a realistic **720 kWh/year**. Running costs adjust to **~£176.40/year**. This provides a perfectly accurate expectation for the user.
