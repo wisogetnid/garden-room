@@ -96,16 +96,6 @@ To survive the 2.5m limit while keeping the +150mm concrete splash zone, we CANN
 4.  **15mm**: Fermacell Acoustic Board (Screwed directly to SIP; no service battens to save height).
 **Total Roof Thickness: 189mm.**
 
-#### 2.3.2 The 2.5m PD Vertical Math
-*   **Max Legal Height:** 2500mm.
-*   **Concrete FFL (Splash Zone):** Uses +150mm of the allowance.
-*   **Roof Buildup:** Uses 189mm of the allowance.
-*   **Remaining Wall Height (Front):** 2500 - 150 - 189 = **2161mm Internal Ceiling**.
-*   **Roof Fall (1:60):** A 60mm drop across the 3.6m span is required for water runoff.
-*   **Remaining Wall Height (Rear):** 2161 - 60 = **2101mm Internal Ceiling**.
-*(Note: A 2161mm front wall perfectly accommodates a standard 2040mm door leaf plus its 50mm frame, leaving a tight but structurally sound 71mm timber header).*
-
-| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | **Wall Top Plate** | 140x38mm Timber C24 | Glued and screwed into the top rebate of the wall SIPs | Provides a continuous structural bearing plate for the roof panels/joists to distribute the roof and solar loads evenly into the wall skins. | ~18 linear meters |
 | **Roof Structure** | 172mm PUR-Core Roof SIPs | Spanning from wall to wall, joined via insulated splines | Provides extreme thermal resistance (Warm Roof by default) and massive structural strength across the 3.6m span capable of supporting solar arrays. | ~18.7m² coverage |

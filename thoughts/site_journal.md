@@ -455,3 +455,11 @@
 - Added Section 2.3.2 explicit math showing how the 150mm FFL + 2161mm Wall + 189mm Roof achieves a total height of 2498.5mm, safely under the 2500mm limit.
 - Replaced the PIR slope with factory-pitched SIP walls to achieve the 1:60 fall.
 - Handed off to the @foreman to update `WORKPLAN.md` (Weekend 9), successfully removing the obsolete PIR bonding step to save the builder time and money.
+
+## [Date: 2026-04-12] - @architect Ceiling Height & Door Correction
+**Action:** Corrected Section 2.3.2 of `MASTER_PLAN.md` to factor the hard-bonded flooring into the internal ceiling height calculation.
+**Changes Made:**
+- Subtracted 22mm (20mm Engineered Oak + 2mm adhesive) from the SIP wall heights.
+- Updated front internal ceiling height to **2139mm**.
+- Updated rear internal ceiling height to **2079mm**.
+- Added a structural warning: due to the reduced ceiling height, the door specification must be restricted to a standard UK **1981mm door leaf** (rather than a 2040mm EU leaf) to ensure the rough opening (2045mm) leaves a structurally sound 116mm timber header to carry the roof load.
