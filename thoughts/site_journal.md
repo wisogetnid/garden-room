@@ -446,3 +446,12 @@
 - Calculated the Heat Transfer Coefficient (HTC) at ~20 W/K.
 - Applied Isle of Wight climate data (1,500 Heating Degree Days) to find the true annual demand: 720 kWh/year.
 - Updated the UK electricity rate to the current Ofgem average of £0.245/kWh, bringing the estimated running cost of the 3kW internal boiler to £176.40/year.
+
+## [Date: 2026-04-11] - @architect Roof Buildup Optimization
+**Action:** Overhauled Section 2.3 and 2.4 of `MASTER_PLAN.md` to ensure absolute compliance with the 2.5m Permitted Development (PD) limit while keeping the 150mm splash zone.
+**Changes Made:**
+- Deleted the requirement for Tapered PIR insulation and the 18mm OSB over-deck.
+- Documented the exact millimeter thickness of the new 4-layer roof buildup (EPDM, SIP, VCL, Fermacell) totaling 189mm.
+- Added Section 2.3.2 explicit math showing how the 150mm FFL + 2161mm Wall + 189mm Roof achieves a total height of 2498.5mm, safely under the 2500mm limit.
+- Replaced the PIR slope with factory-pitched SIP walls to achieve the 1:60 fall.
+- Handed off to the @foreman to update `WORKPLAN.md` (Weekend 9), successfully removing the obsolete PIR bonding step to save the builder time and money.

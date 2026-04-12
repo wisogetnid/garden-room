@@ -86,7 +86,24 @@ layout: default
 
 ### 2.3 Solar-Ready Roof Execution (SIPs Integration)
 
-**Context:** The roof structure must integrate seamlessly with the SIP walls, provide Passivhaus-level insulation, and support the dead/live loads of a future Solar PV array without deflection.
+**Context:** The roof structure must integrate seamlessly with the SIP walls, provide Passivhaus-level insulation, and strictly adhere to the **≤ 2.5m Permitted Development** height limit.
+
+#### 2.3.1 Roof Buildup (Top to Bottom Thickness)
+To survive the 2.5m limit while keeping the +150mm concrete splash zone, we CANNOT use extra tapered insulation or secondary roof decks. The total roof buildup is exactly **189mm**:
+1.  **1.5mm**: EPDM Rubber Membrane (Glued directly to SIP).
+2.  **172mm**: PUR-Core Roof SIP (11mm OSB + 150mm PUR + 11mm OSB).
+3.  **0.5mm**: Pro Clima Intello Plus VCL (Taped directly to internal OSB).
+4.  **15mm**: Fermacell Acoustic Board (Screwed directly to SIP; no service battens to save height).
+**Total Roof Thickness: 189mm.**
+
+#### 2.3.2 The 2.5m PD Vertical Math
+*   **Max Legal Height:** 2500mm.
+*   **Concrete FFL (Splash Zone):** Uses +150mm of the allowance.
+*   **Roof Buildup:** Uses 189mm of the allowance.
+*   **Remaining Wall Height (Front):** 2500 - 150 - 189 = **2161mm Internal Ceiling**.
+*   **Roof Fall (1:60):** A 60mm drop across the 3.6m span is required for water runoff.
+*   **Remaining Wall Height (Rear):** 2161 - 60 = **2101mm Internal Ceiling**.
+*(Note: A 2161mm front wall perfectly accommodates a standard 2040mm door leaf plus its 50mm frame, leaving a tight but structurally sound 71mm timber header).*
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
@@ -94,20 +111,20 @@ layout: default
 | **Roof Structure** | 172mm PUR-Core Roof SIPs | Spanning from wall to wall, joined via insulated splines | Provides extreme thermal resistance (Warm Roof by default) and massive structural strength across the 3.6m span capable of supporting solar arrays. | ~18.7m² coverage |
 | **The Roof Profile** | Flush SIP Roof Panel | Ends flush with the FFL wall | SIP panels will be cut flush with the external wall insulation. | (Part of Roof SIPs) |
 | **Vapour Control** | Pro Clima Intello Plus | Taped directly over the internal SIP roof joints | Ensures the internal VCL envelope is continuously connected from the walls across the ceiling. | 1 Roll |
-| **Waterproofing Deck** | 1.5mm EPDM Membrane | Fully adhered (glued) to the top OSB skin of the roof SIP | 50-year seamless weather protection. | ~25m² Sheet |
+| **Waterproofing Deck** | 1.5mm EPDM Membrane | Fully adhered (glued) directly to the top OSB skin of the roof SIP | 50-year seamless weather protection. Removes the need for an 18mm OSB over-deck, saving precious height. | ~25m² Sheet |
+| **Internal Ceiling** | 15mm Fermacell | Jointstik glue & screwed to SIP inner skin | High mass acoustic blocking. Fixed directly to the SIP to avoid losing 25mm to service battens. | ~10 boards |
 
 ### 2.4 Flat Roof Drainage & Rainwater Harvesting (The Water Butt Strategy)
-**Objective:** A ~18.7m² flat roof in Cowes will collect approximately 15,000 liters of water annually. Unmanaged runoff cascading off the roof will instantly overwhelm the local perimeter french drain, causing hydrostatic pressure buildup against the JACKODUR® raft upstand and potentially flooding neighboring boundaries.
+**Objective:** A ~18.7m² flat roof in Cowes will collect approximately 15,000 liters of water annually. Unmanaged runoff cascading off the roof will instantly overwhelm the local perimeter french drain.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Roof Fall Setup** | Tapered PIR Insulation Boards | Bonded over the 18mm OSB deck | Creates a permanent **1:60 fall** directing water toward a single designated low edge (e.g., the rear/West elevation). | ~20m² kit |
+| **Roof Fall Setup** | Factory-Pitched SIP Walls | The front SIP walls are cut to 2161mm, the rear to 2101mm | Creates a permanent **1:60 fall** directing water toward the rear without needing thick tapered PIR insulation on the roof. | Custom SIP Order |
 | **Drip Edge Trim** | Sure-Edge UPVC Drip Trim | Fixed clamping the EPDM membrane | Prevents water from running back under the EPDM and directs it cleanly into the gutter system. | ~6 linear meters |
 | **Guttering** | 112mm UPVC Deepflow (Black) | Standard fascia brackets | Higher capacity than half-round gutters to handle intense coastal downpours without overflowing the fascia. | ~6 linear meters |
 | **Rainwater Diverter** | 68mm Downpipe Diverter Valve | Cut into the vertical downpipe | Channels rainwater into the water butt until full, then automatically redirects the excess. | 1 unit |
 | **Water Butt** | 200L to 250L Slimline Butt | Sitting on a stable block plinth | Eco-friendly harvesting for garden use, drastically reducing sudden shock loads on the ground drainage. | 1 unit |
 | **The Overflow (CRITICAL)**| 68mm UPVC Pipe | Piped from diverter to a Soakaway Crate | A 200L butt fills in a single heavy storm. The overflow **must not** dump at the base of the foundation. It must be piped to a dedicated soakaway located at least 3m-5m away from the foundation. | 1 crate + pipe |
-
 ### 2.5 Glazing & Door Access Strategy
 **Objective:** Provide secure entry and natural light while maintaining Passivhaus Q50 airtightness testing standards and rigorous acoustic dB reduction.
 *   **Window Specification:** All windows must utilize Vacuum-Insulated Glazing (VIG) housed within uPVC frames for maximum thermal efficiency and acoustic dampening.
