@@ -91,14 +91,14 @@ layout: default
 #### 2.3.1 Roof Buildup (Top to Bottom Thickness)
 To survive the 2.5m limit while keeping the +150mm concrete splash zone, we CANNOT use extra tapered insulation or secondary roof decks. The total roof buildup is exactly **189mm**:
 1.  **1.5mm**: EPDM Rubber Membrane (Glued directly to SIP).
-2.  **172mm**: PUR-Core Roof SIP (11mm OSB + 150mm PUR + 11mm OSB).
+2.  **142mm**: PUR-Core Roof SIP (11mm OSB + 120mm PUR + 11mm OSB).
 3.  **0.5mm**: Pro Clima Intello Plus VCL (Taped directly to internal OSB).
 4.  **15mm**: Fermacell Acoustic Board (Screwed directly to SIP; no service battens to save height).
-**Total Roof Thickness: 189mm.**
+**Total Roof Thickness: 159mm.**
 
 | :--- | :--- | :--- | :--- | :--- |
 | **Wall Top Plate** | 140x38mm Timber C24 | Glued and screwed into the top rebate of the wall SIPs | Provides a continuous structural bearing plate for the roof panels/joists to distribute the roof and solar loads evenly into the wall skins. | ~18 linear meters |
-| **Roof Structure** | 172mm PUR-Core Roof SIPs | Spanning from wall to wall, joined via insulated splines | Provides extreme thermal resistance (Warm Roof by default) and massive structural strength across the 3.6m span capable of supporting solar arrays. | ~18.7m² coverage |
+| **Roof Structure** | 142mm PUR-Core Roof SIPs | Spanning from wall to wall, joined via insulated splines | Provides extreme thermal resistance (Warm Roof by default) and massive structural strength across the 3.6m span capable of supporting solar arrays. | ~18.7m² coverage |
 | **The Roof Profile** | Flush SIP Roof Panel | Ends flush with the FFL wall | SIP panels will be cut flush with the external wall insulation. | (Part of Roof SIPs) |
 | **Vapour Control** | Pro Clima Intello Plus | Taped directly over the internal SIP roof joints | Ensures the internal VCL envelope is continuously connected from the walls across the ceiling. | 1 Roll |
 | **Waterproofing Deck** | 1.5mm EPDM Membrane | Fully adhered (glued) directly to the top OSB skin of the roof SIP | 50-year seamless weather protection. Removes the need for an 18mm OSB over-deck, saving precious height. | ~25m² Sheet |
@@ -109,7 +109,7 @@ To survive the 2.5m limit while keeping the +150mm concrete splash zone, we CANN
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Roof Fall Setup** | Factory-Pitched SIP Walls | The front SIP walls are cut to 2161mm, the rear to 2101mm | Creates a permanent **1:60 fall** directing water toward the rear without needing thick tapered PIR insulation on the roof. | Custom SIP Order |
+| **Roof Fall Setup** | Factory-Pitched SIP Walls | The front SIP walls are cut to 2191mm, the rear to 2131mm | Creates a permanent **1:60 fall** directing water toward the rear without needing thick tapered PIR insulation on the roof. | Custom SIP Order |
 | **Drip Edge Trim** | Sure-Edge UPVC Drip Trim | Fixed clamping the EPDM membrane | Prevents water from running back under the EPDM and directs it cleanly into the gutter system. | ~6 linear meters |
 | **Guttering** | 112mm UPVC Deepflow (Black) | Standard fascia brackets | Higher capacity than half-round gutters to handle intense coastal downpours without overflowing the fascia. | ~6 linear meters |
 | **Rainwater Diverter** | 68mm Downpipe Diverter Valve | Cut into the vertical downpipe | Channels rainwater into the water butt until full, then automatically redirects the excess. | 1 unit |
@@ -195,7 +195,7 @@ The building envelope is designed to aggressively target the Passivhaus standard
 | Envelope Component | Material Composition | Target U-Value | Achieved U-Value | Notes / Potential Risks |
 | :--- | :--- | :--- | :--- | :--- |
 | **External Walls** | 142mm PUR-Core SIP + 50mm Wood Fibre | 0.15 W/m²K | **0.13 W/m²K** | Wood fibre breaks the thermal bridge at the SIP spline joints and provides decrement delay. |
-| **Roof Structure** | 172mm PUR-Core SIP | 0.13 W/m²K | **~0.13 W/m²K** | Warm roof design prevents interstitial condensation. |
+| **Roof Structure** | 142mm PUR-Core SIP | 0.13 W/m²K | **0.16 W/m²K** | **[TRADE-OFF]** Thickness reduced to gain internal height. Summer shading relies on PV solar array. |
 | **Floor Slab** | 150mm JACKODUR® Atlas XPS | 0.13 W/m²K | **0.22 W/m²K** | **[OPEN RISK FLAG: verify spanning distances and thickness]** 150mm XPS achieves ~0.22 W/m²K. Reaching 0.13 W/m²K requires ~260mm. |
 | **Glazing** | VIG (Vacuum Insulated Glazing) in uPVC | 0.80 W/m²K | **0.80 W/m²K** | Vastly outperforms double glazing (~1.4 W/m²K). |
 
@@ -204,18 +204,18 @@ Because the foundation U-value (0.22 W/m²K) intentionally misses the Passivhaus
 
 * **Fabric Heat Loss:** 
   - Walls (42m² x 0.13) = 5.46 W/K
-  - Roof (18.7m² x 0.13) = 2.43 W/K
+  - Roof (18.7m² x 0.16) = 2.99 W/K
   - Floor (18.7m² x 0.22) = 4.11 W/K
   - Glazing (4m² x 0.80) = 3.20 W/K
-  - **Total Fabric Loss = 15.2 W/K**
+  - **Total Fabric Loss = 15.8 W/K**
 * **Ventilation/Air Leakage:** ~4.8 W/K (Assuming high Q50 airtightness with occasional door opening).
-* **Total Heat Transfer Coefficient (HTC): ~20 W/K** (The building loses 20 Watts per 1°C of temperature difference).
+* **Total Heat Transfer Coefficient (HTC): ~20.6 W/K** (The building loses 20.6 Watts per 1°C of temperature difference).
 * **Climate Data:** The Isle of Wight experiences roughly **1,500 Heating Degree Days (HDD)** per year to maintain a 14°C baseline.
 
 **Electrical Effort & Running Costs:**
-Formula: `(HTC [20] × 24 hours × HDD [1500]) ÷ 1000` = **720 kWh/year thermal demand**.
+Formula: `(HTC [20.6] × 24 hours × HDD [1500]) ÷ 1000` = **742 kWh/year thermal demand**.
 Given the use of a 3kW Internal Electric Flow Boiler with a Coefficient of Performance (COP) of 1.0:
-* **Expected Annual Electrical Input:** 720 kWh of electricity per year.
-* **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£176.40 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
+* **Expected Annual Electrical Input:** 742 kWh of electricity per year.
+* **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£181.79 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
 
 > **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (150mm slab, 150mm splash zone, and Type C induction mapping) have been validated and integrated.

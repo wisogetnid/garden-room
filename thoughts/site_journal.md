@@ -463,3 +463,14 @@
 - Updated front internal ceiling height to **2139mm**.
 - Updated rear internal ceiling height to **2079mm**.
 - Added a structural warning: due to the reduced ceiling height, the door specification must be restricted to a standard UK **1981mm door leaf** (rather than a 2040mm EU leaf) to ensure the rough opening (2045mm) leaves a structurally sound 116mm timber header to carry the roof load.
+
+## [Date: 2026-04-12] - @architect Roof Profile Downgrade (142mm)
+**Action:** Overhauled `MASTER_PLAN.md` and `WORKPLAN.md` to reflect the downgrade from 172mm to 142mm roof SIPs.
+**Changes Made:**
+- Adjusted total roof thickness to 159mm.
+- Raised front wall structural height to 2191mm and rear to 2131mm.
+- Updated front internal ceiling height to 2169mm.
+- Removed the strict requirement for 1981mm doors; European 2040mm doors are now viable again due to the extra 30mm headroom granting a safe 96mm timber header.
+- Lowered the U-value of the roof in Section 7.1 from 0.13 to 0.16 W/m²K (logging the PV-shading tradeoff).
+- Recalculated the heating physics: Fabric loss climbs to 15.8 W/K, total HTC to 20.6 W/K, and annual kWh jumps from 720 to 742 kWh/year (~£182/year running cost).
+- Foreman updated `WORKPLAN.md` Weekend 9 to reflect the lighter 142mm panels.

@@ -42,3 +42,18 @@
 **Context:** The previous 2.5m vertical math calculation accurately determined the physical height of the SIP walls (2161mm) but failed to account for the 22mm aesthetic floor buildup (20mm engineered oak + 2mm adhesive) when defining the "Internal Ceiling Height". 
 **Decision:** Updated the calculation to explicitly subtract the 22mm floor buildup from the structural wall height to provide the *true* internal ceiling height.
 **Result:** The true front internal ceiling height is 2139mm, and the rear is 2079mm. This prompted a structural note change: a standard 2040mm European door leaf would require a ~2100mm rough opening, leaving an unsafe 61mm header. The plan now explicitly mandates a standard UK 1981mm door leaf (rough opening ~2045mm), which safely restores the load-bearing timber header above the door to 116mm.
+
+## [Date: 2026-04-12] - Solar Panel Shading & Roof Insulation Thickness Consideration
+**Context:** The Architect noted that downgrading from a 172mm to a 142mm roof SIP incurs a negligible winter heating penalty (~£5/year) but increases the risk of summer overheating. The User countered that planned Solar PV arrays will cover >80% of the flat roof.
+**Analysis:** The user is architecturally correct. Solar PV panels mounted on a flat roof act as a continuous primary sun-shield. They absorb the direct shortwave solar radiation and convert it to electricity/heat, while the necessary air gap between the solar panels and the EPDM roof membrane creates a shaded, ventilated buffer. This prevents the primary solar heat from ever reaching the structural roof deck, drastically reducing the required "decrement delay" of the SIP insulation in summer.
+**Decision:** Acknowledged that reducing the roof SIP thickness to 142mm (to gain 30mm of internal ceiling height) is a highly viable and safe structural pivot if 80%+ solar coverage is guaranteed. *No changes made to Master Plan currently per user request.*
+
+## [Date: 2026-04-12] - Downgrade Roof SIP to 142mm
+**Context:** User confirmed that >=80% of the flat roof will be covered by Solar PV panels. This guaranteed solar shading essentially negates the need for an ultra-thick 172mm SIP core to provide "decrement delay" against summer solar radiation. 
+**Decision:** Roof SIP specification downgraded from 172mm to the standard 142mm profile.
+**Result:** 
+- The physical roof buildup drops from 189mm to 159mm.
+- This allows the structural walls to be raised by 30mm while remaining under the 2.5m legal limit.
+- Internal ceiling height climbs from 2139mm back up to a comfortable 2169mm.
+- The 2191mm structural front wall creates enough clearance for a 96mm timber header, meaning a standard European 2040mm door leaf can be used again!
+- The heating requirement (HTC) slightly increases from 20 to 20.6 W/K, causing heating costs to rise trivially from ~£176/year to ~£182/year. This is an exceptional architectural trade-off.
