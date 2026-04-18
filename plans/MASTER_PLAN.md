@@ -114,7 +114,8 @@ To survive the 2.5m limit while keeping the +150mm concrete splash zone, we CANN
 | **Guttering** | 112mm UPVC Deepflow (Black) | Standard fascia brackets | Higher capacity than half-round gutters to handle intense coastal downpours without overflowing the fascia. | ~6 linear meters |
 | **Rainwater Diverter** | 68mm Downpipe Diverter Valve | Cut into the vertical downpipe | Channels rainwater into the water butt until full, then automatically redirects the excess. | 1 unit |
 | **Water Butt** | 200L to 250L Slimline Butt | Sitting on a stable block plinth | Eco-friendly harvesting for garden use, drastically reducing sudden shock loads on the ground drainage. | 1 unit |
-| **The Overflow (CRITICAL)**| 68mm UPVC Pipe | Piped from diverter to a Soakaway Crate | A 200L butt fills in a single heavy storm. The overflow **must not** dump at the base of the foundation. It must be piped to a dedicated soakaway located at least 3m-5m away from the foundation. | 1 crate + pipe |
+| **The Overflow (CRITICAL)** | 68mm UPVC Pipe | Piped from diverter to a Soakaway Crate | A 200L butt fills in a single heavy storm. The overflow **must not** dump at the base of the foundation. It must be piped to a dedicated soakaway located at least 3m-5m away from the foundation. | 1 crate + pipe |
+
 ### 2.5 Glazing & Door Access Strategy
 **Objective:** Provide secure entry and natural light while maintaining Passivhaus Q50 airtightness testing standards and rigorous acoustic dB reduction.
 *   **Window Specification:** All windows must utilize Vacuum-Insulated Glazing (VIG) housed within uPVC frames for maximum thermal efficiency and acoustic dampening.
