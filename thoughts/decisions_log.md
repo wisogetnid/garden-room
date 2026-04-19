@@ -57,3 +57,14 @@
 - Internal ceiling height climbs from 2139mm back up to a comfortable 2169mm.
 - The 2191mm structural front wall creates enough clearance for a 96mm timber header, meaning a standard European 2040mm door leaf can be used again!
 - The heating requirement (HTC) slightly increases from 20 to 20.6 W/K, causing heating costs to rise trivially from ~£176/year to ~£182/year. This is an exceptional architectural trade-off.
+
+## [Date: 2026-04-12] - Dimension Reduction (3.6m x 5.0m)
+**Context:** User requested the room depth be reduced from 5.2m to 5.0m. The footprint reduces from 18.72m² to exactly 18.0m². 
+**Decision:** All physical volumes, areas, and heating calculations must be adjusted downwards across both the `MASTER_PLAN.md` and `WORKPLAN.md`.
+**Result:** 
+- The excavation footprint tightens to 4.4m x 5.8m, saving roughly 0.5 tonnes of manual clay excavation.
+- Concrete slab volume required drops slightly to ~2.7m³.
+- Perimeter timber, DPC, and skirting lengths drop from 17.6m to 17.2m.
+- The external wall surface area drops from ~45m² to ~43m².
+- The Heat Transfer Coefficient (HTC) was recalculated with the new surface areas (Wall: 40m², Roof: 18m², Floor: 18m²). The HTC dropped from 20.6 W/K to 19.8 W/K.
+- The new expected heating effort drops from 742 kWh to 713 kWh per year, saving the user roughly ~£7/year on their energy bill (£174.68/year).

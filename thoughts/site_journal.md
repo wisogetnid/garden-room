@@ -474,3 +474,13 @@
 - Lowered the U-value of the roof in Section 7.1 from 0.13 to 0.16 W/m²K (logging the PV-shading tradeoff).
 - Recalculated the heating physics: Fabric loss climbs to 15.8 W/K, total HTC to 20.6 W/K, and annual kWh jumps from 720 to 742 kWh/year (~£182/year running cost).
 - Foreman updated `WORKPLAN.md` Weekend 9 to reflect the lighter 142mm panels.
+
+## [Date: 2026-04-12] - @architect & @foreman Dimension Pivot (3.6x5.0m)
+**Action:** Overhauled `MASTER_PLAN.md` and `WORKPLAN.md` to reflect a building depth reduction from 5.2m to 5.0m.
+**Changes Made:**
+- Reduced footprint reference to 18.0m².
+- Adjusted required concrete volume down to ~2.7m³.
+- Shrunk excavation dimensions (now 4.4 x 5.8m working footprint) and waste tonnage (down to 14.1 tonnes).
+- Reduced perimeter measurement to 17.2m (affecting timber plates, expansion gaps).
+- Reduced wall and cladding coverage requirements to ~43m².
+- Re-ran thermodynamics using 18.0m² for roof/floor and 40m² for the walls. HTC is now 19.8 W/K resulting in 713 kWh/year heating demand (~£174.68/year).
