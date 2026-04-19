@@ -9,6 +9,12 @@ layout: default
 
 ---
 
+## Table of Contents
+* TOC
+{:toc}
+
+---
+
 ## Step-by-Step Construction Phases (Overview)
 1. **Phase 1: Groundworks & Foundation** (Days 1-5): Excavation, MOT Type 1 sub-base, blinding sand, JACKODUR tub assembly, mesh laying, and UFH pipe integration.
 2. **Phase 2: Concrete Pour & Curing Halt** (Day 6-30): Line pump pour. **CRITICAL:** Wait min 21-28 days before erecting walls to prevent slab moisture from locking into the SIPs.
