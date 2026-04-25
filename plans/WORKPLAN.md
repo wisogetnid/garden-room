@@ -6,7 +6,7 @@ layout: default
 
 **Status:** ACTIVE BUILD SCHEDULE  
 **Foreman:** The DIY Project Coach  
-**Target:** 18.0m² Passivhaus-Standard Envelope via 142mm PUR-Core SIPs  
+**Target:** 18.0m² Passivhaus-Standard Envelope via 150mm Wall / 175mm Roof PUR-Core SIPs  
 
 ---
 
@@ -52,20 +52,20 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
 
 ---
 
-## 🗓️ Phase 2: The PUR-Core SIPs Superstructure (The Critical Timing Phase)
+## 🗓️ Phase 2: The 150mm & 175mm PUR-Core SIPs Superstructure (The Critical Timing Phase)
 *OSB SIPs must not get wet. The clock is ticking the moment these arrive.*
 
 ### Evening Prep: The Thermal Break
 *   **Mid-Week (Quiet):** Trowel flexible polymer-cement render heavily over the XPS upstand. Snap chalk lines on the cured concrete. Bed the Compacfoam CF200 thermal break block ONLY at the door threshold location (~2m). The remaining 15.2m of perimeter does NOT need Compacfoam. Set Aco HexDrain flush against the XPS upstand, and apply **RIW Flexiseal** liquid moisture barrier over the threshold junction to ensure water cannot wick into the timber.
 
 ### Weekend 8: 🚨 BIG EVENT: Panel Delivery & Wall Assembly
-*   **Friday (Delivery):** The 142mm PUR-Core SIP delivery from New Forest SIPs (Lymington) arrives via Yarmouth ferry. *CRITICAL LOGISTICS:* The final mile to the Cowes site has narrow roads. Transfer the panels to a **rigid shuttle vehicle** from any articulated lorries before crossing/navigating the island. Stack the OSB panels flat on bearers under a completely waterproof tarp.
-*   **Saturday (High Focus):** Roll out the DPC directly onto the concrete perimeter. Secure standard timber sole plates directly to the DPC-covered concrete slab using M12 resin anchors at 1200mm centers (only at the 2m door threshold do they sit on the Compacfoam). Erect wall panels and join using insulated splines and structural polyurethane adhesive. *Foreman Note:* Huge time saver! Sitting straight on the concrete means you don't have to perfectly bed and level 17.2m of expensive Compacfoam. Plumb the base perfectly. If the corner is out by 2mm, the roof won't fit. 
-*   **Sunday (Repetitive):** Join the rest of the wall panels. Install the continuous top-plate into the top rebate.
+*   **Friday (Delivery):** The 150mm wall and 175mm roof PUR-Core SIP delivery from New Forest SIPs (Lymington) arrives via Yarmouth ferry. *CRITICAL LOGISTICS:* Verify that your delivered timber top/sole plates are pre-machined by New Forest SIPs to perfectly match the internal PUR core rebate width. The final mile to the Cowes site has narrow roads. Transfer the panels to a **rigid shuttle vehicle** from any articulated lorries before crossing/navigating the island. Stack the OSB panels flat on bearers under a completely waterproof tarp.
+*   **Saturday (High Focus):** Roll out the DPC directly onto the concrete perimeter. Secure the pre-machined timber sole plates directly to the DPC-covered concrete slab using M12 resin anchors at 1200mm centers (only at the 2m door threshold do they sit on the Compacfoam). Erect the 150mm wall panels over the sole plates and join using insulated splines and structural polyurethane adhesive. *Foreman Note:* Huge time saver! Sitting straight on the concrete means you don't have to perfectly bed and level 17.2m of expensive Compacfoam. Plumb the base perfectly. If the corner is out by 2mm, the roof won't fit. 
+*   **Sunday (Repetitive):** Join the rest of the 150mm wall panels. Install the pre-machined continuous top-plate into the top rebate.
 *   **Sunday Lockdown & Weatherproofing:** Because these are OSB SIPs, **the Tyvek UV Facade breather membrane MUST be applied immediately after erection to prevent coastal moisture degradation.** You are on the coast; ZERO delay allowed. Staple and tape the membrane to all exposed exterior walls before stopping. Cover the open roof span with a massive heavy-duty tarp, tied down securely.
 
 ### Weekend 9: 🚨 BIG EVENT: The Roof Lift
-*   **Saturday (Heavy/Dangerous):** The 142mm PUR-Core Roof SIPs are extremely heavy. **CRITICAL LOGISTICS:** You MUST use narrow 600mm width panels or hire a material lift. Do not attempt this with just ladders. Get 3 strong mates to assist. Slide the panels up onto the pre-pitched (1:60) wall plates. Glue and screw the splines exactly as you did the walls. Ensure the roof panels sit perfectly flush with the external wall insulation. Tape internal joints with Tescon Vana.
+*   **Saturday (Heavy/Dangerous):** The 175mm PUR-Core Roof SIPs are extremely heavy due to the increased Passivhaus thickness. **CRITICAL LOGISTICS:** You MUST use narrow 600mm width panels and strongly consider hiring a manual material lift (Genie lift). Do not attempt this with just ladders. Get 3 strong mates to assist. Slide the panels up onto the pre-pitched (1:60) wall plates. Glue and screw the splines exactly as you did the walls. Ensure the roof panels sit perfectly flush with the external wall insulation. Tape internal joints with Tescon Vana.
 *   **Sunday (Weather-Tight):** Tape all external roof joints. Because the walls are pre-pitched, no tapered PIR or OSB deck is required. Directly glue the 1.5mm EPDM rubber membrane onto the top OSB skin of the roof SIP. Roll it flat to remove bubbles. 
 *   **Sunday Lockdown:** Install the UPVC drip edge trims. The building is now officially "Weather-Tight" and the OSB core is fully protected.
 

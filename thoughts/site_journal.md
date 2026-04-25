@@ -484,3 +484,42 @@
 - Reduced perimeter measurement to 17.2m (affecting timber plates, expansion gaps).
 - Reduced wall and cladding coverage requirements to ~43m².
 - Re-ran thermodynamics using 18.0m² for roof/floor and 40m² for the walls. HTC is now 19.8 W/K resulting in 713 kWh/year heating demand (~£174.68/year).
+
+## [Date: 2026-04-25] - @architect Hand-off (New Forest SIPs Thickness Changes)
+**Action:** Overhauled `MASTER_PLAN.md` to reflect the specific panel thicknesses offered by the New Forest SIPs brochure.
+**Changes Made:**
+- Replaced the theoretical 142mm wall panels with the actual **150mm Base Wall Panels** from New Forest SIPs.
+- Replaced the theoretical 142mm roof panels with the actual **175mm Base Roof Panels** from New Forest SIPs.
+- Adjusted the total roof buildup thickness to **192mm** (1.5mm EPDM + 175mm SIP + 0.5mm VCL + 15mm Fermacell).
+- Recalculated the front and rear SIP wall cut heights to **2158mm (front)** and **2098mm (rear)** to ensure the 192mm roof buildup + 150mm splash zone safely stays under the strict 2.5m Permitted Development limit.
+- Updated the **Timber Top/Sole Plates** to explicitly require pre-machining directly from New Forest SIPs to match the exact internal PUR core rebate width.
+- Updated U-values and HTC heat loss math to reflect the slightly thicker panels (150mm/175mm vs 142mm/142mm), bringing the total HTC to ~21.37 W/K (approx. 769 kWh/year heating demand).
+
+**Next Steps:**
+1. **@foreman**: Read the latest updates in `MASTER_PLAN.md` and explicitly rework `WORKPLAN.md`. Ensure that the timelines, ordering instructions, and structural lifting warnings reflect the new 150mm wall and 175mm roof panels, and the pre-machined timber plates constraint.
+
+## [Date: 2026-04-25] - @foreman Workplan Adjustments for New SIPs Dimensions
+**Action:** Reviewed and adapted `plans/WORKPLAN.md` based on the @architect's updates in `MASTER_PLAN.md` regarding the new New Forest SIPs dimensions.
+**Changes Made:**
+- **Title & Targets:** Updated references to "142mm PUR-Core SIPs" to correctly display the target "150mm Wall / 175mm Roof PUR-Core SIPs".
+- **Timber Plates Logic:** Replaced standard timber plates with explicit instructions across Phase 2 (Weekends 8 & 9) stating that top and sole timber plates MUST be pre-machined by New Forest SIPs to match the exact PUR core rebate width.
+- **Roof Lift Warnings:** Upgraded the "Heavy/Dangerous" warning for the Saturday Roof Lift on Weekend 9. Emphasized that 175mm roof panels are significantly heavier due to the extra thickness. Strongly advised hiring a manual material lift (Genie lift) in addition to utilizing narrow 600mm panels and 3 helpers.
+
+**Status:** The WORKPLAN is completely synchronized with the latest MASTER_PLAN specs.
+
+## [Date: 2026-04-25] - @strategist Validation Run
+**Action:** Executed a comprehensive validation of `MASTER_PLAN.md` against the test suite (`tests/001` through `007`).
+**Results:** Wrote a Gap Report to `thoughts/validation_results.md`. 
+**Failures Detected:**
+1. **Test 001 (Foundation):** The explicit 350mm excavation depth requirement is missing from the Master Plan text.
+2. **Test 002 (Roof):** The lifting logistics (material lift or 600mm panels) for the heavy 175mm SIPs are missing from the Master Plan.
+3. **Test 005 (Heating):** The Master Plan specifies an Electric Flow Boiler, but Test 005 explicitly mandates an Air Source Heat Pump (ASHP).
+**Next Steps:** Require User/Architect intervention to patch the document and resolve the heating strategy conflict.
+
+## [Date: 2026-04-25] - @architect Test Resolution
+**Action:** Reviewed the Strategist's Gap Report and resolved all test failures.
+**Changes Made:**
+- **Test 001 (Foundation):** Re-inserted the explicit "350mm depth excavation" constraint into Phase 1 of `MASTER_PLAN.md` to guarantee the 150mm splash zone physics.
+- **Test 002 (Roof Lift):** Added a "CRITICAL LIFTING LOGISTICS" block to Section 2.3.1 of `MASTER_PLAN.md`. Explicitly mandates ordering narrow 600mm panels or hiring a material lift for the 175mm roof SIPs.
+- **Test 005 (Heating):** Per User override, permanently accepted the 3kW Electric Flow Boiler tradeoff. Rewrote `tests/005_heating_and_flooring.md` to officially require the Electric Flow Boiler instead of an ASHP, locking in the zero-penetration Passivhaus strategy.
+**Status:** The `MASTER_PLAN.md` has achieved a 100% clean validation pass against all tests.

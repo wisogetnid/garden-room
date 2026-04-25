@@ -16,7 +16,7 @@ layout: default
 ---
 
 ## Step-by-Step Construction Phases (Overview)
-1. **Phase 1: Groundworks & Foundation** (Days 1-5): Excavation, MOT Type 1 sub-base, blinding sand, JACKODUR tub assembly, mesh laying, and UFH pipe integration.
+1. **Phase 1: Groundworks & Foundation** (Days 1-5): Exact 350mm depth excavation (to bury 150mm MOT, 50mm sand, and 150mm XPS), MOT Type 1 sub-base, blinding sand, JACKODUR tub assembly, mesh laying, and UFH pipe integration.
 2. **Phase 2: Concrete Pour & Curing Halt** (Day 6-30): Line pump pour. **CRITICAL:** Wait min 21-28 days before erecting walls to prevent slab moisture from locking into the SIPs.
 3. **Phase 3: Structural Envelope** (Days 31-35): Sole plate anchoring, SIP wall and roof erection, Tyvek wrapping, and window/door installation (achieving weather-tightness).
 4. **Phase 4: Cladding & Exterior Finish** (Days 36-40): Battening, Hardie plank cladding, and EPDM flat roof waterproofing.
@@ -59,7 +59,7 @@ layout: default
 | **8. SIP to Plate Seal** | Expanding PU Foam & Sealant | Injected into the SIP rebate before dropping over the sole plate | Creates a permanent foam-to-timber airtight and thermal seal at the foundation junction. | 4 tubes |
 
 **Textual Cross-Section Description (Outside to Inside at Floor Level):**
-*(Outside)* 20mm Washed Gravel Splash Margin -> JACKODUR® XPS Upstand (Rendered) -> Stainless Drip Flashing -> 50mm Wood Fibre Insulation (overlapping XPS) -> Tyvek Breather Membrane -> 25mm Batten -> Fibre Cement Cladding -> 142mm SIP Panel (Outer skin bearing on concrete edge) dropped over 140x38mm Timber Sole Plate -> Polymeric DPC bonded to 1200g DPM -> 150mm Concrete Slab with single A252 mesh and zip-tied 16mm PEX pipe. *(Inside)*
+*(Outside)* 20mm Washed Gravel Splash Margin -> JACKODUR® XPS Upstand (Rendered) -> Stainless Drip Flashing -> 50mm Wood Fibre Insulation (overlapping XPS) -> Tyvek Breather Membrane -> 25mm Batten -> Fibre Cement Cladding -> 150mm New Forest SIP Base Wall Panel (Outer skin bearing on concrete edge) dropped over Pre-Machined Timber Sole Plate (supplied by New Forest SIPs to match core rebate) -> Polymeric DPC bonded to 1200g DPM -> 150mm Concrete Slab with single A252 mesh and zip-tied 16mm PEX pipe. *(Inside)*
 
 **3 Critical Failure Points During Pour & First Lift:**
 1.  **Concrete Blow-Out:** The JACKODUR® XPS upstand acts as the concrete formwork. If the external perimeter is not properly backfilled with gravel or braced during the pour, the hydrostatic pressure of the wet concrete will blow out the XPS, destroying the thermal tub.
@@ -70,7 +70,7 @@ layout: default
 
 ## 2. Layered Thermal Envelope Schedule
 
-**U-Value Target Check:** The 142mm PUR-Core SIP combined with 50mm Wood Fibre yields an estimated U-value well below the **0.15 W/m²K** Passivhaus target (expected ~0.13 W/m²K for the PUR-Core).
+**U-Value Target Check:** The 150mm New Forest SIP Base Wall Panel (U=0.21) combined with 50mm Wood Fibre yields an estimated U-value of **~0.16 W/m²K**. This is an accepted trade-off just shy of the 0.15 Passivhaus target to preserve internal space within planning limits.
 
 ### 2.1 The Wall 'Sandwich' (Exterior to Interior)
 
@@ -80,7 +80,7 @@ layout: default
 | **2. Rainscreen Gap / Batten** | 25x50mm Treated Timber @ 400mm centers | 120mm A4 (316) Stainless Steel EWI Screws driven at 60° | Creates a strict **25mm ventilation path** from bottom to top. 400mm centers provides max 2.53 kPa wind load rating for coastal Cowes. | ~180 linear meters |
 | **3. Breather Membrane** | Tyvek UV Facade | Stainless staples; 150mm vertical overlaps | Repels wind-driven rain, allows internal vapour escape. | 1 Roll (50m) |
 | **4. External Insulation** | 50mm Rigid Wood Fibre Board | Friction fit; held by batten screws | Unbroken thermal jacket. Chosen for its high specific heat capacity (2,100 J/kgK), providing a massive 'decrement delay' to prevent summer overheating. | ~43m² coverage |
-| **5. Structural SIP Panel** | 142mm PUR-Core SIP (Structural Insulated Panel) | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Acts as the primary load-bearing structure and extreme continuous thermal barrier. | ~43m² wall coverage |
+| **5. Structural SIP Panel** | 150mm New Forest SIP Base Wall Panel | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Acts as the primary load-bearing structure and extreme continuous thermal barrier. | ~43m² wall coverage |
 | **6. Vapour Control Layer** | Pro Clima Intello Plus | Stainless staples; 100mm taped overlaps | Airtightness; stops interstitial condensation. *(Note: The inner OSB skin of the SIP acts as a primary air barrier, but the VCL guarantees Passivhaus airtightness across panel joints).* | 1 Roll (50m) |
 | **7. Service Cavity** | 25x50mm Treated Timber Battens | Screwed horizontally @ 400mm centers | Cable routing without piercing the VCL or the SIP skin. | ~120 linear meters |
 | **8. Internal Finish** | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking; fire resistance. | ~18 boards |
@@ -94,17 +94,19 @@ layout: default
 
 **Context:** The roof structure must integrate seamlessly with the SIP walls, provide Passivhaus-level insulation, and strictly adhere to the **≤ 2.5m Permitted Development** height limit.
 
-#### 2.3.1 Roof Buildup (Top to Bottom Thickness)
-To survive the 2.5m limit while keeping the +150mm concrete splash zone, we CANNOT use extra tapered insulation or secondary roof decks. The total roof buildup is exactly **189mm**:
+#### 2.3.1 Roof Buildup & Lifting Logistics
+To survive the 2.5m limit while keeping the +150mm concrete splash zone, we CANNOT use extra tapered insulation or secondary roof decks. The total roof buildup is exactly **192mm**:
 1.  **1.5mm**: EPDM Rubber Membrane (Glued directly to SIP).
-2.  **142mm**: PUR-Core Roof SIP (11mm OSB + 120mm PUR + 11mm OSB).
+2.  **175mm**: New Forest SIPs Base Roof Panel.
 3.  **0.5mm**: Pro Clima Intello Plus VCL (Taped directly to internal OSB).
 4.  **15mm**: Fermacell Acoustic Board (Screwed directly to SIP; no service battens to save height).
-**Total Roof Thickness: 159mm.**
+**Total Roof Thickness: 192mm.**
+
+**CRITICAL LIFTING LOGISTICS:** 175mm SIP panels are exceptionally heavy. The supply order MUST specify narrow-format 600mm panels for the roof to allow manual lifting, OR the site manager must hire a manual material lift (e.g., a Genie lift). Attempting to manually heave 1200mm wide 175mm SIPs overhead is a critical safety failure.
 
 | :--- | :--- | :--- | :--- | :--- |
-| **Wall Top Plate** | 140x38mm Timber C24 | Glued and screwed into the top rebate of the wall SIPs | Provides a continuous structural bearing plate for the roof panels/joists to distribute the roof and solar loads evenly into the wall skins. | ~17.2 linear meters |
-| **Roof Structure** | 142mm PUR-Core Roof SIPs | Spanning from wall to wall, joined via insulated splines | Provides extreme thermal resistance (Warm Roof by default) and massive structural strength across the 3.6m span capable of supporting solar arrays. | 18.0m² coverage |
+| **Wall Top Plate** | Pre-Machined Timber Plate (Supplied by New Forest SIPs to match core width) | Glued and screwed into the top rebate of the wall SIPs | Provides a continuous structural bearing plate for the roof panels/joists to distribute the roof and solar loads evenly into the wall skins. | ~17.2 linear meters |
+| **Roof Structure** | 175mm New Forest SIP Base Roof Panel | Spanning from wall to wall, joined via insulated splines | Provides thermal resistance (U=0.17) and massive structural strength across the 3.6m span capable of supporting solar arrays. | 18.0m² coverage |
 | **The Roof Profile** | Flush SIP Roof Panel | Ends flush with the FFL wall | SIP panels will be cut flush with the external wall insulation. | (Part of Roof SIPs) |
 | **Vapour Control** | Pro Clima Intello Plus | Taped directly over the internal SIP roof joints | Ensures the internal VCL envelope is continuously connected from the walls across the ceiling. | 1 Roll |
 | **Waterproofing Deck** | 1.5mm EPDM Membrane | Fully adhered (glued) directly to the top OSB skin of the roof SIP | 50-year seamless weather protection. Removes the need for an 18mm OSB over-deck, saving precious height. | ~25m² Sheet |
@@ -115,7 +117,7 @@ To survive the 2.5m limit while keeping the +150mm concrete splash zone, we CANN
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Roof Fall Setup** | Factory-Pitched SIP Walls | The front SIP walls are cut to 2191mm, the rear to 2131mm | Creates a permanent **1:60 fall** directing water toward the rear without needing thick tapered PIR insulation on the roof. | Custom SIP Order |
+| **Roof Fall Setup** | Factory-Pitched SIP Walls | The front SIP walls are cut to 2158mm, the rear to 2098mm | Creates a permanent **1:60 fall** directing water toward the rear without exceeding the 2.5m total structure height limit. | Custom SIP Order |
 | **Drip Edge Trim** | Sure-Edge UPVC Drip Trim | Fixed clamping the EPDM membrane | Prevents water from running back under the EPDM and directs it cleanly into the gutter system. | ~6 linear meters |
 | **Guttering** | 112mm UPVC Deepflow (Black) | Standard fascia brackets | Higher capacity than half-round gutters to handle intense coastal downpours without overflowing the fascia. | ~6 linear meters |
 | **Rainwater Diverter** | 68mm Downpipe Diverter Valve | Cut into the vertical downpipe | Channels rainwater into the water butt until full, then automatically redirects the excess. | 1 unit |
@@ -201,8 +203,8 @@ The building envelope is designed to aggressively target the Passivhaus standard
 
 | Envelope Component | Material Composition | Target U-Value | Achieved U-Value | Notes / Potential Risks |
 | :--- | :--- | :--- | :--- | :--- |
-| **External Walls** | 142mm PUR-Core SIP + 50mm Wood Fibre | 0.15 W/m²K | **0.13 W/m²K** | Wood fibre breaks the thermal bridge at the SIP spline joints and provides decrement delay. |
-| **Roof Structure** | 142mm PUR-Core SIP | 0.13 W/m²K | **0.16 W/m²K** | **[TRADE-OFF]** Thickness reduced to gain internal height. Summer shading relies on PV solar array. |
+| **External Walls** | 150mm New Forest SIP Base Wall + 50mm Wood Fibre | 0.15 W/m²K | **0.16 W/m²K** | **[TRADE-OFF]** Wall SIP reduced to 150mm to save footprint. Wood fibre breaks the thermal bridge at the spline joints and provides decrement delay. |
+| **Roof Structure** | 175mm New Forest SIP Base Roof Panel | 0.13 W/m²K | **0.17 W/m²K** | **[TRADE-OFF]** Thickness reduced to gain internal height. Summer shading relies on PV solar array. |
 | **Floor Slab** | 150mm JACKODUR® Atlas XPS | 0.13 W/m²K | **0.22 W/m²K** | **[OPEN RISK FLAG: verify spanning distances and thickness]** 150mm XPS achieves ~0.22 W/m²K. Reaching 0.13 W/m²K requires ~260mm. |
 | **Glazing** | VIG (Vacuum Insulated Glazing) in uPVC | 0.80 W/m²K | **0.80 W/m²K** | Vastly outperforms double glazing (~1.4 W/m²K). |
 
@@ -210,19 +212,19 @@ The building envelope is designed to aggressively target the Passivhaus standard
 Because the foundation U-value (0.22 W/m²K) intentionally misses the Passivhaus criteria (≤ 0.15) to save on excavation logistics, the theoretical Passivhaus shortcut (15 kWh/m²a) cannot be used. Instead, the heating effort is calculated using the real-world **Heat Transfer Coefficient (HTC)** and Isle of Wight climate data.
 
 * **Fabric Heat Loss:** 
-  - Walls (40m² x 0.13) = 5.20 W/K
-  - Roof (18.0m² x 0.16) = 2.99 W/K
+  - Walls (40m² x 0.16) = 6.40 W/K
+  - Roof (18.0m² x 0.17) = 3.06 W/K
   - Floor (18.0m² x 0.22) = 4.11 W/K
   - Glazing (4m² x 0.80) = 3.20 W/K
-  - **Total Fabric Loss = 15.24 W/K**
+  - **Total Fabric Loss = 16.77 W/K**
 * **Ventilation/Air Leakage:** ~4.6 W/K (Assuming high Q50 airtightness with occasional door opening).
-* **Total Heat Transfer Coefficient (HTC): ~19.8 W/K** (The building loses 19.8 Watts per 1°C of temperature difference).
+* **Total Heat Transfer Coefficient (HTC): ~21.37 W/K** (The building loses 21.37 Watts per 1°C of temperature difference).
 * **Climate Data:** The Isle of Wight experiences roughly **1,500 Heating Degree Days (HDD)** per year to maintain a 14°C baseline.
 
 **Electrical Effort & Running Costs:**
-Formula: `(HTC [19.8] × 24 hours × HDD [1500]) ÷ 1000` = **713 kWh/year thermal demand**.
+Formula: `(HTC [21.37] × 24 hours × HDD [1500]) ÷ 1000` = **769 kWh/year thermal demand**.
 Given the use of a 3kW Internal Electric Flow Boiler with a Coefficient of Performance (COP) of 1.0:
-* **Expected Annual Electrical Input:** 713 kWh of electricity per year.
-* **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£174.68 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
+* **Expected Annual Electrical Input:** 769 kWh of electricity per year.
+* **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£188.40 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
 
 > **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (150mm slab, 150mm splash zone, and Type C induction mapping) have been validated and integrated.
