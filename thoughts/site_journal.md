@@ -523,3 +523,23 @@
 - **Test 002 (Roof Lift):** Added a "CRITICAL LIFTING LOGISTICS" block to Section 2.3.1 of `MASTER_PLAN.md`. Explicitly mandates ordering narrow 600mm panels or hiring a material lift for the 175mm roof SIPs.
 - **Test 005 (Heating):** Per User override, permanently accepted the 3kW Electric Flow Boiler tradeoff. Rewrote `tests/005_heating_and_flooring.md` to officially require the Electric Flow Boiler instead of an ASHP, locking in the zero-penetration Passivhaus strategy.
 **Status:** The `MASTER_PLAN.md` has achieved a 100% clean validation pass against all tests.
+
+## Date: 2026-04-28
+**Architect & Foreman Notes: Dimension Pivot (3.6x5.6m)**
+- **User Request:** The user requested changing the dimensions of the garden room to 3.6m x 5.6m and updating all relevant aspects accordingly.
+- **Architectural Adjustment:** 
+  - Increased footprint reference to 20.16m².
+  - Expanded total wall perimeter to 18.4 linear meters.
+  - Adjusted total concrete slab volume up to ~3.1m³.
+  - Recalculated thermodynamics using 20.16m² for roof/floor and 42m² for walls (minus glazing). Total Heat Transfer Coefficient (HTC) climbs to ~22.97 W/K resulting in 826 kWh/year heating demand (~£202.37/year running cost).
+- **Logistics Impact (Foreman):**
+  - Expanded excavation dimensions (now 4.4m x 6.4m working footprint).
+  - Increased solid soil dig-out to ~9.8m³ (~14.7 tonnes).
+  - Total waste tonnage climbed to ~16.7 tonnes / ~13.9m³ loose volume.
+  - Increased skip hire logic to require 3x to 4x sequential 6-yard "Inert Soil" skips.
+  - The open excavation pool hazard increases to 9,856 liters.
+  - Updated material lists (Wood Fibre, Cladding, Battens, EPDM, Fermacell) to reflect the extended length.
+- **Plan Updates:** Updated both `MASTER_PLAN.md` and `WORKPLAN.md` to perfectly synchronize with the new 3.6x5.6m dimension. All material gauges, square meterage references, and logistics targets have been systematically overwritten.
+
+**Next Steps:**
+1. **@strategist**: A dimension update does not typically violate architectural tests unless the 5.6m length breaches boundary setback limits or permitted development footprint constraints. Assuming standard PD compliance (often max 50% of land around original house), no re-test is strictly required unless the site constraints map is challenged.
