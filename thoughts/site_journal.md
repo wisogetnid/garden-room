@@ -543,3 +543,14 @@
 
 **Next Steps:**
 1. **@strategist**: A dimension update does not typically violate architectural tests unless the 5.6m length breaches boundary setback limits or permitted development footprint constraints. Assuming standard PD compliance (often max 50% of land around original house), no re-test is strictly required unless the site constraints map is challenged.
+
+## Date: 2026-04-28
+**Architect Notes: Roof Pitch Axis Optimization**
+- **User Request:** The user astutely observed that sloping the roof 1:60 along the 5.6m length resulted in a severe 94mm drop, bringing the lowest internal ceiling height down to a highly restrictive 2042mm (approx. 6ft 8in).
+- **Architectural Adjustment:** Re-oriented the 1:60 structural fall to run across the short **3.6m width** of the building.
+- **Physics Implication:** 3600mm / 60 = **60mm drop**. The "High" side remains locked at 2158mm. The "Low" side drops to 2098mm.
+- **Spatial Win:** The internal ceiling height on the low side is now **2076mm (approx. 6 ft 9.7 in)**, salvaging an extra 34mm of critical headroom over the length axis fall.
+- **Master Plan Update:** 
+  - Inserted new Section `2.3.2 Internal Ceiling Height & Boundary Compliance` into `MASTER_PLAN.md` explicitly detailing the math. 
+  - Overwrote the Roof Fall Setup table to reflect the "High" and "Low" side cuts rather than Front/Rear, instructing the water to shed laterally. 
+- **Validation:** This geometry change maintains Passivhaus integrity, respects the ≤ 2.5m Permitted Development limit, and eliminates the risk of an un-headered rear door. The Master Plan remains 100% compliant with the test suite.

@@ -112,12 +112,25 @@ To survive the 2.5m limit while keeping the +150mm concrete splash zone, we CANN
 | **Waterproofing Deck** | 1.5mm EPDM Membrane | Fully adhered (glued) directly to the top OSB skin of the roof SIP | 50-year seamless weather protection. Removes the need for an 18mm OSB over-deck, saving precious height. | ~26m² Sheet |
 | **Internal Ceiling** | 15mm Fermacell | Jointstik glue & screwed to SIP inner skin | High mass acoustic blocking. Fixed directly to the SIP to avoid losing 25mm to service battens. | ~12 boards |
 
+#### 2.3.2 Internal Ceiling Height & Boundary Compliance
+**Objective:** Maintain strict compliance with the **≤ 2.5m Permitted Development** height limit while maximizing internal headroom. The 1:60 roof fall is oriented across the short **3.6m width** (rather than the 5.6m length) to minimize the total roof drop to just 60mm (3600 ÷ 60 = 60mm).
+
+*   **External Height Physics (The 2.5m Limit):**
+    *   Exposed Concrete Splash Zone: 150mm
+    *   Maximum 'High-Side' Wall Height: 2158mm
+    *   Total Roof Buildup: 192mm (1.5mm EPDM + 175mm SIP + 0.5mm VCL + 15mm Fermacell)
+    *   **Total Maximum External Height:** 2500mm (Legal Pass)
+*   **Internal Ceiling Heights (accounting for 22mm hard-bonded flooring):**
+    *   **High Side:** 2158mm wall - 22mm floor = **2136mm (approx. 7 ft 0 in)**
+    *   **Low Side:** 2158mm - 60mm drop = 2098mm wall. 2098mm - 22mm floor = **2076mm (approx. 6 ft 9.7 in)**
+*   **Structural Note:** Orienting the fall across the 3.6m width successfully prevents the ceiling from dropping to 2042mm, preserving usable headroom across the 5.6m length.
+
 ### 2.4 Flat Roof Drainage & Rainwater Harvesting (The Water Butt Strategy)
 **Objective:** A 20.16m² flat roof in Cowes will collect approximately 15,000 liters of water annually. Unmanaged runoff cascading off the roof will instantly overwhelm the local perimeter french drain.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Roof Fall Setup** | Factory-Pitched SIP Walls | The front SIP walls are cut to 2158mm, the rear to 2064mm | Creates a permanent **1:60 fall** directing water toward the rear without exceeding the 2.5m total structure height limit. | Custom SIP Order |
+| **Roof Fall Setup** | Factory-Pitched SIP Walls | The 'High' side SIP walls are cut to 2158mm, the 'Low' side to 2098mm | Creates a permanent **1:60 fall** directing water across the short 3.6m width without exceeding the 2.5m total structure height limit. | Custom SIP Order |
 | **Drip Edge Trim** | Sure-Edge UPVC Drip Trim | Fixed clamping the EPDM membrane | Prevents water from running back under the EPDM and directs it cleanly into the gutter system. | ~6 linear meters |
 | **Guttering** | 112mm UPVC Deepflow (Black) | Standard fascia brackets | Higher capacity than half-round gutters to handle intense coastal downpours without overflowing the fascia. | ~6 linear meters |
 | **Rainwater Diverter** | 68mm Downpipe Diverter Valve | Cut into the vertical downpipe | Channels rainwater into the water butt until full, then automatically redirects the excess. | 1 unit |
