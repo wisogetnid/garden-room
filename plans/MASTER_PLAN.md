@@ -154,10 +154,15 @@ To survive the 2.5m limit while keeping the +150mm concrete splash zone, we CANN
 **Objective:** Provide secure entry and natural light while maintaining Passivhaus Q50 airtightness testing standards and rigorous acoustic dB reduction.
 *   **Window Specification:** All windows must utilize Vacuum-Insulated Glazing (VIG) housed within uPVC frames for maximum thermal efficiency and acoustic dampening.
 *   **Window Schedule:** 
-    *   **North Elevation:** 1x 1200x1200mm VIG uPVC window.
-    *   **West Elevation:** 1x 1200x1200mm VIG uPVC window.
-    *   **East Elevation:** 1x 600x900mm VIG uPVC window.
-    *   **South Elevation:** 2x 600x600mm VIG uPVC windows.
+    *   **North Elevation (Short Wall):** 1x 300x1500mm Fixed Clerestory VIG uPVC window.
+    *   **South Elevation (Short Wall):** 1x 300x1500mm Fixed Clerestory VIG uPVC window.
+    *   **East Elevation (Long Wall):** 2x 300x1500mm Fixed Clerestory VIG uPVC windows (evenly spaced).
+    *   **West Elevation (Visible Façade):** 2x 1200x1200mm Fixed VIG uPVC windows + 1x Asymmetric 1.5 Door.
+*   **Clerestory Placement Logic:** The 300x1500mm fixed windows must be factory-cut into the SIPs at a high datum line (e.g., top edge aligned with the door header). This Passivhaus optimization (fixed panes = zero air leakage) relies entirely on the dMVHR for ventilation, while freeing up 100% of the internal wall space below 1.8m for tool racks and machinery.
+*   **West Façade 'Workbench Panorama' Layout:** To future-proof for a home office, the 5.6m West wall utilizes an asymmetric zoning layout. The 1.5m door is offset to the far left or right (leaving a 300mm structural corner). The two 1200x1200mm fixed windows are grouped on the remaining wall, separated by a ~400mm solid SIP mullion. 
+    *   *Sill Height:* Aligning the tops of these windows with the 2100mm door header places the bottom sills exactly at **900mm** off the floor, allowing a standard workbench or desk to sit perfectly flush beneath the glass without blocking light.
+*   **West Façade 'Workbench Panorama' Layout:** To future-proof for a home office, the 5.6m West wall utilizes an asymmetric zoning layout. The 1.5m door is offset to the far left or right (leaving a 300mm structural corner). The two 1200x1200mm fixed windows are grouped on the remaining wall, separated by a ~400mm solid SIP mullion. 
+    *   *Sill Height:* Aligning the tops of these windows with the 2100mm door header places the bottom sills exactly at **900mm** off the floor, allowing a standard workbench or desk to sit perfectly flush beneath the glass without blocking light.
 *   **French Doors Forbidden:** Traditional French doors are strictly prohibited. They inherently fail Passivhaus airtightness standards and acoustic reduction due to the lack of a central mullion, leading to air and noise leakage down the meeting stiles.
 *   **Approved Mechanisms:** Specify an **Asymmetric 1.5 Door system** (e.g., a 1000mm active leaf combined with a 400-600mm slave leaf) or a high-performance **Lift-and-Slide door**. These systems use complex cam-action locks to physically compress robust continuous rubber gaskets, ensuring the thermal and acoustic envelope is not compromised at the entry point.
 
