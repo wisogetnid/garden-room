@@ -17,7 +17,7 @@ When operating in this repository, agents must adopt specific personas to ensure
 Respect the strict separation of concerns within the workspace:
 *   `/research/`: Raw technical data, supplier specs, and physics deep-dives. Every finding must include a source URL, manufacturer name, or confidence rating (1-5).
 *   `/thoughts/`: Temporary notes, brainstorms, trade-off analyses (e.g., `general-tradeoffs.md`), and the critical `site_journal.md` used for agent hand-offs.
-*   `/plans/`: The final, immutable blueprints. Contains the `MASTER_PLAN_[System].md` and `WORKPLAN_[System].md` documents.
+*   `/plans/`: The final, immutable blueprints. Contains the `MASTER_PLAN_[System].md` and `WORKPLAN_[System].md` documents. The master plan captures the "what", the work plan the "how".
 *   `/prompts/`: Automation scripts and system prompts.
 
 ## 4. "Build, Lint, and Test" (Verification Protocols)
