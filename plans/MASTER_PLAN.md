@@ -15,15 +15,6 @@ layout: default
 
 ---
 
-## Step-by-Step Construction Phases (Overview)
-1. **Phase 1: Groundworks & Foundation** (Days 1-5): Exact 350mm depth excavation (to bury 150mm MOT, 50mm sand, and 150mm XPS), MOT Type 1 sub-base, blinding sand, JACKODUR tub assembly, mesh laying, and UFH pipe integration.
-2. **Phase 2: Concrete Pour & Curing Halt** (Day 6-30): Line pump pour. **CRITICAL:** Wait min 21-28 days before erecting walls to prevent slab moisture from locking into the SIPs.
-3. **Phase 3: Structural Envelope** (Days 31-35): Sole plate anchoring, SIP wall and roof erection, Tyvek wrapping, and window/door installation (achieving weather-tightness).
-4. **Phase 4: Cladding & Exterior Finish** (Days 36-40): Battening, Hardie plank cladding, and EPDM flat roof waterproofing.
-5. **Phase 5: Internal Fit-Out & MEP** (Days 41-50): Service battens, wiring, Fermacell boarding, hard-bonded floor, and final commissioning of Electric Flow Boiler and extraction.
-
----
-
 ## 1. Foundation and Groundworks Specification
 
 **Objective:** Provide a damp-proof, vermin-proof, and thermally isolated base capable of distributing 2.5-tons of static building weight plus heavy dynamic machinery loads.

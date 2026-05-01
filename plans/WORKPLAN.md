@@ -20,6 +20,15 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
 
 ---
 
+## Step-by-Step Construction Phases (Overview)
+1. **Phase 1: Groundworks & Foundation** (Days 1-5): Exact 350mm depth excavation (to bury 150mm MOT, 50mm sand, and 150mm XPS), MOT Type 1 sub-base, blinding sand, JACKODUR tub assembly, mesh laying, and UFH pipe integration.
+2. **Phase 2: Concrete Pour & Curing Halt** (Day 6-30): Line pump pour. **CRITICAL:** Wait min 21-28 days before erecting walls to prevent slab moisture from locking into the SIPs.
+3. **Phase 3: Structural Envelope** (Days 31-35): Sole plate anchoring, SIP wall and roof erection, Tyvek wrapping, and window/door installation (achieving weather-tightness).
+4. **Phase 4: Cladding & Exterior Finish** (Days 36-40): Battening, Hardie plank cladding, and EPDM flat roof waterproofing.
+5. **Phase 5: Internal Fit-Out & MEP** (Days 41-50): Service battens, wiring, Fermacell boarding, hard-bonded floor, and final commissioning of Electric Flow Boiler and extraction.
+
+---
+
 ## 🗓️ Phase 1: Groundworks & The Floating Raft (The Heavy Slog)
 *This is the worst of the physical labor. Pace yourself.*
 
@@ -60,7 +69,7 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
 
 ### Weekend 8: 🚨 BIG EVENT: Panel Delivery & Wall Assembly
 *   **Friday (Delivery):** The 150mm wall and 175mm roof PUR-Core SIP delivery from New Forest SIPs (Lymington) arrives via Yarmouth ferry. *CRITICAL LOGISTICS:* Verify that your delivered timber top/sole plates are pre-machined by New Forest SIPs to perfectly match the internal PUR core rebate width. The final mile to the Cowes site has narrow roads. Transfer the panels to a **rigid shuttle vehicle** from any articulated lorries before crossing/navigating the island. Stack the OSB panels flat on bearers under a completely waterproof tarp.
-*   **Saturday (High Focus):** Roll out the DPC directly onto the concrete perimeter. Secure the pre-machined timber sole plates directly to the DPC-covered concrete slab using M12 resin anchors at 1200mm centers (only at the 2m door threshold do they sit on the Compacfoam). Erect the 150mm wall panels over the sole plates and join using insulated splines and structural polyurethane adhesive. *Foreman Note:* Huge time saver! Sitting straight on the concrete means you don't have to perfectly bed and level 17.7m of expensive Compacfoam. Plumb the base perfectly. If the corner is out by 2mm, the roof won't fit. 
+*   **Saturday (High Focus):** Roll out the DPC directly onto the concrete perimeter. Secure the pre-machined timber sole plates directly to the DPC-covered concrete slab using M12 resin anchors at 1200mm centers (only at the 2m door threshold do they sit on the Compacfoam). Erect the 150mm wall panels over the sole plates and join using insulated splines and structural polyurethane adhesive. *Foreman Note:* Huge time saver! Sitting straight on the concrete means you don't have to perfectly bed and level 15.7m of sole plate. Plumb the base perfectly. If the corner is out by 2mm, the roof won't fit. 
 *   **Sunday (Repetitive):** Join the rest of the 150mm wall panels. Install the pre-machined continuous top-plate into the top rebate.
 *   **Sunday Lockdown & Weatherproofing:** Because these are OSB SIPs, **the Tyvek UV Facade breather membrane MUST be applied immediately after erection to prevent coastal moisture degradation.** You are on the coast; ZERO delay allowed. Staple and tape the membrane to all exposed exterior walls before stopping. Cover the open roof span with a massive heavy-duty tarp, tied down securely.
 

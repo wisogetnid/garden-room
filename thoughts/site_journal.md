@@ -570,3 +570,19 @@
   - Concrete order reduces to ~2.8m³ (order 3.0m³).
   - Thermodynamic Heating Demand drops to 735 kWh/year due to the smaller 18.6m² thermal envelope area.
 - **Plan Updates:** Injected a new `Section 1.0 Dimensional Reverse-Engineering` directly into `MASTER_PLAN.md` explicitly declaring this math so the manufacturer cuts the SIPs to the 3.43x5.43m slab limit. Scaled all values across `MASTER_PLAN.md` and `WORKPLAN.md` via Python parsing script. Validation pass holds.
+
+## Date: 2026-04-28
+**Strategist Notes: Validation Pass on Reverse-Engineered Dimensions**
+- Executed the full automated test suite (`tests/001-007` and `01-06`) against the reverse-engineered 3.43m x 5.43m core geometry.
+- **Structural Integrity:** Shrinking the SIP roof span from 3.6m to 3.43m actually *increases* the structural rigidity of the 175m SIP panels, making the 1:60 fall even less prone to deflection ponding.
+- **Door Clearances (Test 004):** The roof pitch calculation (3430 ÷ 60 = 57mm drop) ensures the lowest internal ceiling height is **2079mm**. A standard UK door requires a ~2045mm rough opening. The 2079mm ceiling provides 34mm of clearance for the internal finish, meaning doors can still legally and structurally be placed on the "Low Side" elevation.
+- **Thermal Boundaries:** The 50mm Wood Fibre specified in the reverse-engineering math perfectly maintains the 'Red Line' (Test 01) by overlapping the JACKODUR® XPS upstand. 
+- **Status:** 100% Compliant. Gap Report written to `thoughts/validation_results.md`.
+
+## Date: 2026-04-28
+**Architect & Foreman Notes: Blueprint Role Separation**
+- **User Request:** The user requested moving the `Step-by-Step Construction Phases (Overview)` out of the `MASTER_PLAN.md` and into the `WORKPLAN.md`, enforcing the principle that the Master Plan is strictly the "What" (Materials, specs, U-values) and the Workplan is the "How" (Chronology, sequencing).
+- **Execution:** 
+  - Extracted the Phase 1 through Phase 5 overview section from the Master Plan.
+  - Injected the overview directly into `WORKPLAN.md` below the *Foreman's Rules of Engagement* to serve as the high-level roadmap before diving into the granular weekend-by-weekend execution steps.
+- **Result:** The `MASTER_PLAN.md` is now a pure architectural/engineering specification document. The `WORKPLAN.md` serves as the complete operational chronology. Test 06 (SOP Fidelity) remains compliant as all chronological phasing is properly maintained in the Workplan.
