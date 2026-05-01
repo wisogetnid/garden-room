@@ -46,7 +46,7 @@ layout: default
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | **Geotextile Membrane** | Non-woven (e.g., Terram 1000) | Loose laid directly on excavated subgrade, 300mm overlapped seams | **Separation & Filtration:** Prevents the MOT Type 1 aggregate from sinking into the clay/soil over time, which would cause the slab to settle unevenly. | 1 Roll (4.5m x 10m) |
-| **MOT Type 1 Sub-base** | 150mm depth | Vibrating plate compactor (min 6 passes) | Distribute load to stable clay strata. Applied 400mm wider than tub as per JACKODUR® specs. | ~10 Bulk Bags (approx. 8.5 tonnes) |
+| **MOT Type 1 Sub-base** | 150mm depth | Mechanically compacted | Distribute load to stable clay strata. Applied 400mm wider than tub as per JACKODUR® specs. | ~10 Bulk Bags (approx. 8.5 tonnes) |
 | **Blinding Sand** | 50mm depth | Hand screeded flat | Provide a perfectly level bed for the XPS formwork. Applied 400mm wider than tub. | ~2.5 Bulk Bags (approx. 2.1 tonnes) |
 | **Under-Slab Thermal Break** | 150mm JACKODUR® Atlas XPS System | Interlocking XPS panels assembled directly on the blinding sand | Prevent cold-bridging into the earth; serves as permanent insulated formwork. | 1 complete Atlas tub system |
 | **Damp Proof Membrane (DPM)** | 1200-gauge Polythene | Loose laid *inside* the XPS tub, taped seams | **Critical Placement:** Sits directly between the XPS insulation and the wet concrete to prevent capillary moisture rising through the slab. | 1 Roll (4m x 25m) |
@@ -74,10 +74,6 @@ layout: default
 **Textual Cross-Section Description (Outside to Inside at Floor Level):**
 *(Outside)* 20mm Washed Gravel Splash Margin -> JACKODUR® XPS Upstand (Rendered) -> Stainless Drip Flashing -> 50mm Wood Fibre Insulation (overlapping XPS) -> Tyvek Breather Membrane -> 25mm Batten -> Fibre Cement Cladding -> 150mm New Forest SIP Base Wall Panel (Outer skin bearing on concrete edge) dropped over Pre-Machined Timber Sole Plate (supplied by New Forest SIPs to match core rebate) -> Polymeric DPC bonded to 1200g DPM -> 150mm Concrete Slab with single A252 mesh and zip-tied 16mm PEX pipe. *(Inside)*
 
-**3 Critical Failure Points During Pour & First Lift:**
-1.  **Concrete Blow-Out:** The JACKODUR® XPS upstand acts as the concrete formwork. If the external perimeter is not properly backfilled with gravel or braced during the pour, the hydrostatic pressure of the wet concrete will blow out the XPS, destroying the thermal tub.
-2.  **DPM Corner Tearing:** Folding the heavy 1200g DPM around the internal 90-degree corner of the XPS tub often leads to punctures. Any hole here ruins the radon and moisture seal.
-3.  **The 'Wicking' Gap:** If the Tyvek breather membrane is not perfectly taped to the rendered face of the JACKODUR® upstand (using a primer and Pro Clima Tescon Vana), coastal wind-driven rain will blow up under the cladding and rot the timber sole plate.
 
 ---
 
@@ -89,14 +85,14 @@ layout: default
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Cladding** | James Hardie VL Fibre Cement Plank (11mm, A2 Fire) | Hardie™ Plank Screws (4.2Ø x 40mm, A2 Stainless, T15 Torx). Low torque drill, NO impact drivers. | 'Cowes-Proof' weather shield. Complies with Part B Fire Safety for boundary proximity. | ~39m² coverage |
+| **1. Cladding** | James Hardie VL Fibre Cement Plank (11mm, A2 Fire) | Mechanical fixing via Hardie™ Plank Screws (4.2Ø x 40mm, A2 Stainless, T15 Torx). | 'Cowes-Proof' weather shield. Complies with Part B Fire Safety for boundary proximity (Requires A2 non-combustible classification). | ~39m² coverage |
 | **2. Rainscreen Gap / Batten** | 25x50mm Treated Timber @ 400mm centers | 120mm A4 (316) Stainless Steel EWI Screws driven at 60° | Creates a strict **25mm ventilation path** from bottom to top. 400mm centers provides max 2.53 kPa wind load rating for coastal Cowes. | ~180 linear meters |
 | **3. Breather Membrane** | Tyvek UV Facade | Stainless staples; 150mm vertical overlaps | Repels wind-driven rain, allows internal vapour escape. | 1 Roll (50m) |
 | **4. External Insulation** | 50mm Rigid Wood Fibre Board | Friction fit; held by batten screws | Unbroken thermal jacket. Chosen for its high specific heat capacity (2,100 J/kgK), providing a massive 'decrement delay' to prevent summer overheating. | ~39m² coverage |
 | **5. Structural SIP Panel** | 150mm New Forest SIP Base Wall Panel | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Acts as the primary load-bearing structure and extreme continuous thermal barrier. | ~39m² wall coverage |
 | **6. Vapour Control Layer** | Pro Clima Intello Plus | Stainless staples; 100mm taped overlaps | Airtightness; stops interstitial condensation. *(Note: The inner OSB skin of the SIP acts as a primary air barrier, but the VCL guarantees Passivhaus airtightness across panel joints).* | 1 Roll (50m) |
 | **7. Service Cavity** | 25x50mm Treated Timber Battens | Screwed horizontally @ 400mm centers | Cable routing without piercing the VCL or the SIP skin. | ~120 linear meters |
-| **8. Internal Finish** | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking; fire resistance. | ~26 boards |
+| **8. Internal Finish** | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking. **CRITICAL FIRE RATING:** Because the building is <1m from a boundary, Building Control mandates REI30/REI60. The 15mm Fermacell acts as the necessary Type F fire-board equivalent to protect the combustible OSB. | ~26 boards |
 
 ### 2.2 SIPs Sealing Strategy & Weak Point Continuity
 *   **Panel Joints (The Critical Weakness):** All SIP panels must be joined using **Insulated Splines** (miniature SIP strips) rather than timber C16 splines to prevent cold bridging at every 1200mm joint. The spline joints must be heavily sealed with structural polyurethane adhesive/expanding foam during assembly.
