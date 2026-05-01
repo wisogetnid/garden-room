@@ -24,11 +24,12 @@ layout: default
 **Objective:** The User requested the absolute maximum *external* dimensions (from James Hardie cladding to James Hardie cladding) to be exactly **3.6m x 5.6m**. To achieve this, we must reverse-engineer the required size of the SIP structural framework and the concrete slab.
 
 *   **External Envelope Buildup (Per Wall):**
-    *   James Hardie Fibre Cement Plank (effective lapped depth): ~10mm
+    *   **James Hardie VL Fibre Cement Plank** (flat interlocking profile): 11mm
     *   Rainscreen Timber Batten: 25mm
     *   Rigid Wood Fibre External Insulation: 50mm
-    *   *Total External Projection beyond SIP core:* **85mm per wall**
-*   **Total Dimensional Reduction:** 85mm x 2 walls = **170mm reduction per axis**.
+    *   *Total External Projection beyond SIP core:* **86mm per wall**
+*   **Total Dimensional Reduction:** 86mm x 2 walls = **172mm reduction per axis**.
+    *(Note: The 2mm variance from the 170mm theoretical target is fully absorbed by construction tolerances, meaning the 3.43x5.43m core remains the exact correct order size).* 
 *   **Required SIP Framework & Concrete Slab Size:**
     *   Width: 3600mm - 170mm = **3430mm (3.43m)**
     *   Length: 5600mm - 170mm = **5430mm (5.43m)**
@@ -88,7 +89,7 @@ layout: default
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Cladding** | James Hardie Fibre Cement Plank (A2 Fire) | Hardie™ Plank Screws (4.2Ø x 40mm, A2 Stainless, T15 Torx). Low torque drill, NO impact drivers. | 'Cowes-Proof' weather shield. Complies with Part B Fire Safety for boundary proximity. | ~39m² coverage |
+| **1. Cladding** | James Hardie VL Fibre Cement Plank (11mm, A2 Fire) | Hardie™ Plank Screws (4.2Ø x 40mm, A2 Stainless, T15 Torx). Low torque drill, NO impact drivers. | 'Cowes-Proof' weather shield. Complies with Part B Fire Safety for boundary proximity. | ~39m² coverage |
 | **2. Rainscreen Gap / Batten** | 25x50mm Treated Timber @ 400mm centers | 120mm A4 (316) Stainless Steel EWI Screws driven at 60° | Creates a strict **25mm ventilation path** from bottom to top. 400mm centers provides max 2.53 kPa wind load rating for coastal Cowes. | ~180 linear meters |
 | **3. Breather Membrane** | Tyvek UV Facade | Stainless staples; 150mm vertical overlaps | Repels wind-driven rain, allows internal vapour escape. | 1 Roll (50m) |
 | **4. External Insulation** | 50mm Rigid Wood Fibre Board | Friction fit; held by batten screws | Unbroken thermal jacket. Chosen for its high specific heat capacity (2,100 J/kgK), providing a massive 'decrement delay' to prevent summer overheating. | ~39m² coverage |

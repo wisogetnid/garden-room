@@ -24,7 +24,7 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
 1. **Phase 1: Groundworks & Foundation** (Days 1-5): Exact 350mm depth excavation (to bury 150mm MOT, 50mm sand, and 150mm XPS), MOT Type 1 sub-base, blinding sand, JACKODUR tub assembly, mesh laying, and UFH pipe integration.
 2. **Phase 2: Concrete Pour & Curing Halt** (Day 6-30): Line pump pour. **CRITICAL:** Wait min 21-28 days before erecting walls to prevent slab moisture from locking into the SIPs.
 3. **Phase 3: Structural Envelope** (Days 31-35): Sole plate anchoring, SIP wall and roof erection, Tyvek wrapping, and window/door installation (achieving weather-tightness).
-4. **Phase 4: Cladding & Exterior Finish** (Days 36-40): Battening, Hardie plank cladding, and EPDM flat roof waterproofing.
+4. **Phase 4: Cladding & Exterior Finish** (Days 36-40): Battening, Hardie VL plank cladding, and EPDM flat roof waterproofing.
 5. **Phase 5: Internal Fit-Out & MEP** (Days 41-50): Service battens, wiring, Fermacell boarding, hard-bonded floor, and final commissioning of Electric Flow Boiler and extraction.
 
 ---
@@ -93,7 +93,7 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
 
 ### Weekends 11 & 12: Insulation, Cladding & The Weather Shield
 *   **Saturday (Precision):** Install the **50mm Rigid Wood Fibre external insulation** across all exterior elevations. Friction-fit the boards and hold them temporarily before securing them with the **25x50mm treated rainscreen battens @ 400mm centers** (using 120mm A4 Stainless Steel EWI Screws driven at 60° through the batten, wood fibre, and into the SIPs OSB). Ensure a continuous thermal jacket that overlaps the XPS foundation upstand. Attach the **Stainless Steel Base Drip Flashing** to the bottom batten.
-*   **Sunday (Heavy Repetition):** Install the **James Hardie Fibre Cement Cladding** across the rainscreen battens using Hardie™ Plank Screws (4.2x40mm T15 Torx). *Foreman Note:* DO NOT use your impact driver for this! Use a standard drill/driver on a low torque setting to avoid cracking the boards. No pre-drilling required. This provides your A2 Fire rated 'Cowes-Proof' weather shield.
+*   **Sunday (Heavy Repetition):** Install the **James Hardie VL Fibre Cement Cladding** across the rainscreen battens using Hardie™ Plank Screws (4.2x40mm T15 Torx). *Foreman Note:* DO NOT use your impact driver for this! Use a standard drill/driver on a low torque setting to avoid cracking the boards. No pre-drilling required. This provides your A2 Fire rated 'Cowes-Proof' weather shield.
 
 ---
 
