@@ -103,27 +103,17 @@ layout: default
 *   **Tape Specification:** **Pro Clima Tescon Vana** is mandatory for taping the internal VCL over all SIP joints, seams, and corners. 
 *   **Socket Boxes:** Standard back-boxes will leak air. All electrical sockets must use **Airtight Grommet Boxes** (e.g., Kaiser airtight boxes) installed entirely within the 25mm service cavity, ensuring the SIP internal face is never pierced.
 
-### 2.3 Solar-Ready Roof Execution (SIPs Integration)
+### 2.3 The Roof 'Sandwich' (Exterior to Interior)
 
 **Context:** The roof structure must integrate seamlessly with the SIP walls, provide Passivhaus-level insulation, and strictly adhere to the **≤ 2.5m Permitted Development** height limit.
 
-#### 2.3.1 Roof Buildup & Lifting Logistics
-To survive the 2.5m limit while keeping the +150mm concrete splash zone, we CANNOT use extra tapered insulation or secondary roof decks. The total roof buildup is exactly **192mm**:
-1.  **1.5mm**: EPDM Rubber Membrane (Glued directly to SIP).
-2.  **175mm**: New Forest SIPs Base Roof Panel.
-3.  **0.5mm**: Pro Clima Intello Plus VCL (Taped directly to internal OSB).
-4.  **15mm**: Fermacell Acoustic Board (Screwed directly to SIP; no service battens to save height).
-**Total Roof Thickness: 192mm.**
-
-**CRITICAL LIFTING LOGISTICS:** 175mm SIP panels are exceptionally heavy. The supply order MUST specify narrow-format 600mm panels for the roof to allow manual lifting, OR the site manager must hire a manual material lift (e.g., a Genie lift). Attempting to manually heave 1200mm wide 175mm SIPs overhead is a critical safety failure.
-
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Wall Top Plate** | Pre-Machined Timber Plate (Supplied by New Forest SIPs to match core width) | Glued and screwed into the top rebate of the wall SIPs | Provides a continuous structural bearing plate for the roof panels/joists to distribute the roof and solar loads evenly into the wall skins. | ~17.7 linear meters |
-| **Roof Structure** | 175mm New Forest SIP Base Roof Panel | Spanning from wall to wall, joined via insulated splines | Provides thermal resistance (U=0.17) and massive structural strength across the 3.6m span capable of supporting solar arrays. | 18.6m² coverage |
-| **The Roof Profile** | Flush SIP Roof Panel | Ends flush with the FFL wall | SIP panels will be cut flush with the external wall insulation. | (Part of Roof SIPs) |
-| **Vapour Control** | Pro Clima Intello Plus | Taped directly over the internal SIP roof joints | Ensures the internal VCL envelope is continuously connected from the walls across the ceiling. | 1 Roll |
-| **Waterproofing Deck** | 1.5mm EPDM Membrane | Fully adhered (glued) directly to the top OSB skin of the roof SIP | 50-year seamless weather protection. Removes the need for an 18mm OSB over-deck, saving precious height. | ~22m² Sheet |
-| **Internal Ceiling** | 15mm Fermacell | Jointstik glue & screwed to SIP inner skin | High mass acoustic blocking. Fixed directly to the SIP to avoid losing 25mm to service battens. | ~14 boards |
+| **1. Waterproofing Deck** | 1.5mm EPDM Membrane | Fully adhered (glued) directly to the top OSB skin of the roof SIP | 50-year seamless weather protection. Removes the need for an 18mm OSB over-deck, saving precious height. | ~22m² Sheet |
+| **2. Roof Structure** | 175mm New Forest SIP Base Roof Panel | Spanning from wall to wall, joined via insulated splines | Provides thermal resistance (U=0.17) and massive structural strength across the 3.43m core span capable of supporting solar arrays. | 18.6m² coverage |
+| **3. Wall Top Plate** | Pre-Machined Timber Plate (Supplied by New Forest SIPs to match core width) | Glued and screwed into the top rebate of the wall SIPs | Provides a continuous structural bearing plate for the roof panels to distribute the roof and solar loads evenly into the wall skins. | ~17.7 linear meters |
+| **4. Vapour Control Layer** | Pro Clima Intello Plus | Taped directly over the internal SIP roof joints | Ensures the internal VCL envelope is continuously connected from the walls across the ceiling. | 1 Roll |
+| **5. Internal Ceiling** | 15mm Fermacell Acoustic Board | Jointstik glue & screwed directly to SIP inner skin | High mass acoustic blocking. Fixed directly to the SIP to avoid losing 25mm to service battens. | ~14 boards |
 
 #### 2.3.2 Internal Ceiling Height & Boundary Compliance
 **Objective:** Maintain strict compliance with the **≤ 2.5m Permitted Development** height limit while maximizing internal headroom. The 1:60 roof fall is oriented across the short **3.6m width** (rather than the 5.6m length) to minimize the total roof drop to just 60mm (3430 ÷ 60 = 57mm).

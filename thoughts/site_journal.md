@@ -31,3 +31,15 @@
   - *Sill Height Optimization:* Locked the window placement to align with the door header (2100mm). This explicitly places the window sill at **900mm** off the FFL (Finished Floor Level), perfectly accommodating a standard workbench or office desk underneath without blocking the light.
   - Re-ran validation tests: The 400mm SIP mullion provides the necessary structural shear and load-bearing strength to support the roof without requiring a complex, thermal-bridging steel lintel over the glass.
 - **Status:** Blueprints are 100% updated and verified.
+
+## Date: 2026-04-28
+**Architect & Foreman Notes: Blueprint Role Separation (Roofing Logistics)**
+- **User Request:** The user requested reformatting the Roof Section (2.3) in the Master Plan to match the tabular "Sandwich (Exterior to Interior)" layout of the Wall Section (2.1), and moving all "Lifting Logistics" over to the Workplan.
+- **Execution (Master Plan):**
+  - Renamed Section 2.3 to `The Roof 'Sandwich' (Exterior to Interior)`.
+  - Replaced the narrative breakdown of the 192mm thickness and the malformed table with a clean 5-point Markdown table matching the Wall specification (Waterproofing Deck, Roof Structure, Wall Top Plate, VCL, Internal Ceiling).
+  - Deleted the "Lifting Logistics" text from the Master Plan. (The 192mm thickness calculation remains safely documented in Section 2.3.2 below the table).
+- **Execution (Workplan):**
+  - Updated `Weekend 9: The Roof Lift` in `WORKPLAN.md`.
+  - Injected the explicit "CRITICAL LIFTING LOGISTICS" mandate (requiring 600mm panels or a Genie lift to prevent safety failures) directly into the Saturday execution instructions.
+- **Result:** The `MASTER_PLAN.md` is now purely the "What" (Material Sandwich), and the `WORKPLAN.md` is the "How" (Execution and Lifting Safety).
