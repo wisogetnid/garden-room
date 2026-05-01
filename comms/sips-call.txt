@@ -1,0 +1,25 @@
+Topics & Questions
+- roof
+ - solar panel readiness
+ - 1:60 slope
+- SIP dimensions & window size impacts
+ - 100mm > 225mm thickness
+  - 150mm > 1200mm > probably
+  - price: 5% change with SIP thickness change
+ - insulation above 
+- NFS support up to which stage (SIP only, waterproofing layer as well)
+ - breather membrane finish > rain proof but not completely water tight!
+- lead times 8-12 weeks > can be quicker if design is firmed up
+
+
+Todos
+- firm up openings
+ - glazing
+ - door specs
+ - MVHR setup
+- overhaul roof buildup
+ - rubber not directly on SIP
+ - SIPs don't come sloped
+ - recalculate height & u-values with 150mm SIP + top
+ - validate dew-point calcs
+
