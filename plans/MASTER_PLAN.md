@@ -28,18 +28,39 @@ layout: default
 
 **Objective:** Provide a damp-proof, vermin-proof, and thermally isolated base capable of distributing 2.5-tons of static building weight plus heavy dynamic machinery loads.
 
+
+### 1.0 Dimensional Reverse-Engineering (Outer Cladding to Core)
+**Objective:** The User requested the absolute maximum *external* dimensions (from James Hardie cladding to James Hardie cladding) to be exactly **3.6m x 5.6m**. To achieve this, we must reverse-engineer the required size of the SIP structural framework and the concrete slab.
+
+*   **External Envelope Buildup (Per Wall):**
+    *   James Hardie Fibre Cement Plank (effective lapped depth): ~10mm
+    *   Rainscreen Timber Batten: 25mm
+    *   Rigid Wood Fibre External Insulation: 50mm
+    *   *Total External Projection beyond SIP core:* **85mm per wall**
+*   **Total Dimensional Reduction:** 85mm x 2 walls = **170mm reduction per axis**.
+*   **Required SIP Framework & Concrete Slab Size:**
+    *   Width: 3600mm - 170mm = **3430mm (3.43m)**
+    *   Length: 5600mm - 170mm = **5430mm (5.43m)**
+*   **Final Usable Internal Space (Accounting for internal Fermacell & battens):**
+    *   SIP Core (150mm) + Service Batten (25mm) + Fermacell (15mm) = 190mm internal buildup per wall.
+    *   Usable Internal Width: 3430mm - (190mm x 2) = **3050mm (3.05m)**
+    *   Usable Internal Length: 5430mm - (190mm x 2) = **5050mm (5.05m)**
+    *   *Final Internal Usable Footprint:* **15.4 m²**
+
+*(Note: All structural orders—Concrete, SIPs, and XPS—must be executed to the 3.43 x 5.43m dimensions, NOT 3.6 x 5.6m).*
+
 ### 1.1 Groundworks & Slab Execution
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | **Geotextile Membrane** | Non-woven (e.g., Terram 1000) | Loose laid directly on excavated subgrade, 300mm overlapped seams | **Separation & Filtration:** Prevents the MOT Type 1 aggregate from sinking into the clay/soil over time, which would cause the slab to settle unevenly. | 1 Roll (4.5m x 10m) |
-| **MOT Type 1 Sub-base** | 150mm depth | Vibrating plate compactor (min 6 passes) | Distribute load to stable clay strata. Applied 400mm wider than tub as per JACKODUR® specs. | ~12 Bulk Bags (approx. 10.2 tonnes) |
-| **Blinding Sand** | 50mm depth | Hand screeded flat | Provide a perfectly level bed for the XPS formwork. Applied 400mm wider than tub. | ~3 Bulk Bags (approx. 2.5 tonnes) |
+| **MOT Type 1 Sub-base** | 150mm depth | Vibrating plate compactor (min 6 passes) | Distribute load to stable clay strata. Applied 400mm wider than tub as per JACKODUR® specs. | ~10 Bulk Bags (approx. 8.5 tonnes) |
+| **Blinding Sand** | 50mm depth | Hand screeded flat | Provide a perfectly level bed for the XPS formwork. Applied 400mm wider than tub. | ~2.5 Bulk Bags (approx. 2.1 tonnes) |
 | **Under-Slab Thermal Break** | 150mm JACKODUR® Atlas XPS System | Interlocking XPS panels assembled directly on the blinding sand | Prevent cold-bridging into the earth; serves as permanent insulated formwork. | 1 complete Atlas tub system |
 | **Damp Proof Membrane (DPM)** | 1200-gauge Polythene | Loose laid *inside* the XPS tub, taped seams | **Critical Placement:** Sits directly between the XPS insulation and the wet concrete to prevent capillary moisture rising through the slab. | 1 Roll (4m x 25m) |
 | **Steel Reinforcement** | A252 Steel Mesh (Single Layer) | Placed on 50mm plastic concrete 'chairs' | Structural tensile strength. A single layer positioned in the bottom-third of the slab controls thermal cracking while eliminating the risk of breaching the concrete's top cover during power floating. | 3 Sheets (4.8m x 2.4m) |
 | **Heating Integration** | 16mm PEX-a Wet UFH Pipework | Zip-tied to the top of the A252 mesh @ 150mm centers before pour | **Baseline heating:** Embedded into the thermal mass. Powered by an internal Electric Flow Boiler (zero envelope penetrations). | ~150 linear meters |
-| **Concrete Slab** | Min 150mm thick (C32/40 mix) | Poured in-situ using a line pump and contractor crew, power-floated finish | Extreme high-mass structural base; dampens low-frequency machinery vibration and provides massive thermal battery capacity. The C32/40 mix is mandated by JACKODUR® BBA certification. | ~3.1 Cubic Meters |
+| **Concrete Slab** | Min 150mm thick (C32/40 mix) | Poured in-situ using a line pump and contractor crew, power-floated finish | Extreme high-mass structural base; dampens low-frequency machinery vibration and provides massive thermal battery capacity. The C32/40 mix is mandated by JACKODUR® BBA certification. | ~2.8 Cubic Meters |
 
 ### 1.3 Ground-to-Wall Interface Details (Slab-to-Wall Junction)
 
@@ -50,7 +71,7 @@ layout: default
 | **1. Perimeter Splash Margin** | 400mm Wide Gravel Border | Pour 20mm washed gravel into the existing 400mm over-excavation gap | Absorbs rain kinetic energy to prevent mud splashing onto the cladding, while draining surface water into the MOT. No extra digging required. | ~2.5 Bulk Bags (~2.1 tonnes) |
 | **2. Upstand Waterproofing**| Flexible Polymer-Cement Render | Trowelled over the exposed JACKODUR® upstand | Protects the XPS from UV degradation and mechanical damage above ground. | 1x 25kg bag |
 | **3. Base Drip Flashing** | Stainless Steel Drip Profile | Screwed to the base batten, kicking out over the XPS render | Prevents water from wicking back up into the rain-screen ventilation gap. | ~14 linear meters |
-| **4. Thermal Overlap** | 50mm Wood Fibre External Insulation | Extended downwards to cover the top 50mm of the JACKODUR® XPS upstand | **'Red Line' Continuity:** Locks the wall insulation directly to the foundation insulation, eliminating the cold bridge at the slab edge. | ~46m² coverage |
+| **4. Thermal Overlap** | 50mm Wood Fibre External Insulation | Extended downwards to cover the top 50mm of the JACKODUR® XPS upstand | **'Red Line' Continuity:** Locks the wall insulation directly to the foundation insulation, eliminating the cold bridge at the slab edge. | ~39m² coverage |
 | **5. Structural Thermal Break**| **Compacfoam CF200** Block | 140mm x 50mm, sits precisely on the concrete edge | **Door Threshold Bearing:** Supports the heavy door frame while maintaining the thermal break where the XPS upstand is cut away for level access. | ~2 linear meters |
 | **5a. Flush Threshold Drainage**| Aco HexDrain Channel | Set flush with external patio level | Intercepts water before it can pool against the door threshold. | ~2 linear meters |
 | **5b. Liquid Moisture Barrier**| RIW Flexiseal | Liquid-applied over threshold junction | Impermeable seal to stop water wicking into the timber at the flush threshold. | 1 tin |
@@ -76,14 +97,14 @@ layout: default
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Cladding** | James Hardie Fibre Cement Plank (A2 Fire) | Hardie™ Plank Screws (4.2Ø x 40mm, A2 Stainless, T15 Torx). Low torque drill, NO impact drivers. | 'Cowes-Proof' weather shield. Complies with Part B Fire Safety for boundary proximity. | ~46m² coverage |
+| **1. Cladding** | James Hardie Fibre Cement Plank (A2 Fire) | Hardie™ Plank Screws (4.2Ø x 40mm, A2 Stainless, T15 Torx). Low torque drill, NO impact drivers. | 'Cowes-Proof' weather shield. Complies with Part B Fire Safety for boundary proximity. | ~39m² coverage |
 | **2. Rainscreen Gap / Batten** | 25x50mm Treated Timber @ 400mm centers | 120mm A4 (316) Stainless Steel EWI Screws driven at 60° | Creates a strict **25mm ventilation path** from bottom to top. 400mm centers provides max 2.53 kPa wind load rating for coastal Cowes. | ~180 linear meters |
 | **3. Breather Membrane** | Tyvek UV Facade | Stainless staples; 150mm vertical overlaps | Repels wind-driven rain, allows internal vapour escape. | 1 Roll (50m) |
-| **4. External Insulation** | 50mm Rigid Wood Fibre Board | Friction fit; held by batten screws | Unbroken thermal jacket. Chosen for its high specific heat capacity (2,100 J/kgK), providing a massive 'decrement delay' to prevent summer overheating. | ~46m² coverage |
-| **5. Structural SIP Panel** | 150mm New Forest SIP Base Wall Panel | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Acts as the primary load-bearing structure and extreme continuous thermal barrier. | ~46m² wall coverage |
+| **4. External Insulation** | 50mm Rigid Wood Fibre Board | Friction fit; held by batten screws | Unbroken thermal jacket. Chosen for its high specific heat capacity (2,100 J/kgK), providing a massive 'decrement delay' to prevent summer overheating. | ~39m² coverage |
+| **5. Structural SIP Panel** | 150mm New Forest SIP Base Wall Panel | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Acts as the primary load-bearing structure and extreme continuous thermal barrier. | ~39m² wall coverage |
 | **6. Vapour Control Layer** | Pro Clima Intello Plus | Stainless staples; 100mm taped overlaps | Airtightness; stops interstitial condensation. *(Note: The inner OSB skin of the SIP acts as a primary air barrier, but the VCL guarantees Passivhaus airtightness across panel joints).* | 1 Roll (50m) |
 | **7. Service Cavity** | 25x50mm Treated Timber Battens | Screwed horizontally @ 400mm centers | Cable routing without piercing the VCL or the SIP skin. | ~120 linear meters |
-| **8. Internal Finish** | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking; fire resistance. | ~20 boards |
+| **8. Internal Finish** | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking; fire resistance. | ~26 boards |
 
 ### 2.2 SIPs Sealing Strategy & Weak Point Continuity
 *   **Panel Joints (The Critical Weakness):** All SIP panels must be joined using **Insulated Splines** (miniature SIP strips) rather than timber C16 splines to prevent cold bridging at every 1200mm joint. The spline joints must be heavily sealed with structural polyurethane adhesive/expanding foam during assembly.
@@ -105,15 +126,15 @@ To survive the 2.5m limit while keeping the +150mm concrete splash zone, we CANN
 **CRITICAL LIFTING LOGISTICS:** 175mm SIP panels are exceptionally heavy. The supply order MUST specify narrow-format 600mm panels for the roof to allow manual lifting, OR the site manager must hire a manual material lift (e.g., a Genie lift). Attempting to manually heave 1200mm wide 175mm SIPs overhead is a critical safety failure.
 
 | :--- | :--- | :--- | :--- | :--- |
-| **Wall Top Plate** | Pre-Machined Timber Plate (Supplied by New Forest SIPs to match core width) | Glued and screwed into the top rebate of the wall SIPs | Provides a continuous structural bearing plate for the roof panels/joists to distribute the roof and solar loads evenly into the wall skins. | ~18.4 linear meters |
-| **Roof Structure** | 175mm New Forest SIP Base Roof Panel | Spanning from wall to wall, joined via insulated splines | Provides thermal resistance (U=0.17) and massive structural strength across the 3.6m span capable of supporting solar arrays. | 20.16m² coverage |
+| **Wall Top Plate** | Pre-Machined Timber Plate (Supplied by New Forest SIPs to match core width) | Glued and screwed into the top rebate of the wall SIPs | Provides a continuous structural bearing plate for the roof panels/joists to distribute the roof and solar loads evenly into the wall skins. | ~17.7 linear meters |
+| **Roof Structure** | 175mm New Forest SIP Base Roof Panel | Spanning from wall to wall, joined via insulated splines | Provides thermal resistance (U=0.17) and massive structural strength across the 3.6m span capable of supporting solar arrays. | 18.6m² coverage |
 | **The Roof Profile** | Flush SIP Roof Panel | Ends flush with the FFL wall | SIP panels will be cut flush with the external wall insulation. | (Part of Roof SIPs) |
 | **Vapour Control** | Pro Clima Intello Plus | Taped directly over the internal SIP roof joints | Ensures the internal VCL envelope is continuously connected from the walls across the ceiling. | 1 Roll |
-| **Waterproofing Deck** | 1.5mm EPDM Membrane | Fully adhered (glued) directly to the top OSB skin of the roof SIP | 50-year seamless weather protection. Removes the need for an 18mm OSB over-deck, saving precious height. | ~26m² Sheet |
-| **Internal Ceiling** | 15mm Fermacell | Jointstik glue & screwed to SIP inner skin | High mass acoustic blocking. Fixed directly to the SIP to avoid losing 25mm to service battens. | ~12 boards |
+| **Waterproofing Deck** | 1.5mm EPDM Membrane | Fully adhered (glued) directly to the top OSB skin of the roof SIP | 50-year seamless weather protection. Removes the need for an 18mm OSB over-deck, saving precious height. | ~22m² Sheet |
+| **Internal Ceiling** | 15mm Fermacell | Jointstik glue & screwed to SIP inner skin | High mass acoustic blocking. Fixed directly to the SIP to avoid losing 25mm to service battens. | ~14 boards |
 
 #### 2.3.2 Internal Ceiling Height & Boundary Compliance
-**Objective:** Maintain strict compliance with the **≤ 2.5m Permitted Development** height limit while maximizing internal headroom. The 1:60 roof fall is oriented across the short **3.6m width** (rather than the 5.6m length) to minimize the total roof drop to just 60mm (3600 ÷ 60 = 60mm).
+**Objective:** Maintain strict compliance with the **≤ 2.5m Permitted Development** height limit while maximizing internal headroom. The 1:60 roof fall is oriented across the short **3.6m width** (rather than the 5.6m length) to minimize the total roof drop to just 60mm (3430 ÷ 60 = 57mm).
 
 *   **External Height Physics (The 2.5m Limit):**
     *   Exposed Concrete Splash Zone: 150mm
@@ -122,15 +143,15 @@ To survive the 2.5m limit while keeping the +150mm concrete splash zone, we CANN
     *   **Total Maximum External Height:** 2500mm (Legal Pass)
 *   **Internal Ceiling Heights (accounting for 22mm hard-bonded flooring):**
     *   **High Side:** 2158mm wall - 22mm floor = **2136mm (approx. 7 ft 0 in)**
-    *   **Low Side:** 2158mm - 60mm drop = 2098mm wall. 2098mm - 22mm floor = **2076mm (approx. 6 ft 9.7 in)**
+    *   **Low Side:** 2158mm - 57mm drop = 2101mm wall. 2101mm - 22mm floor = **2079mm (approx. 6 ft 9.7 in)**
 *   **Structural Note:** Orienting the fall across the 3.6m width successfully prevents the ceiling from dropping to 2042mm, preserving usable headroom across the 5.6m length.
 
 ### 2.4 Flat Roof Drainage & Rainwater Harvesting (The Water Butt Strategy)
-**Objective:** A 20.16m² flat roof in Cowes will collect approximately 15,000 liters of water annually. Unmanaged runoff cascading off the roof will instantly overwhelm the local perimeter french drain.
+**Objective:** A 18.6m² flat roof in Cowes will collect approximately 15,000 liters of water annually. Unmanaged runoff cascading off the roof will instantly overwhelm the local perimeter french drain.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Roof Fall Setup** | Factory-Pitched SIP Walls | The 'High' side SIP walls are cut to 2158mm, the 'Low' side to 2098mm | Creates a permanent **1:60 fall** directing water across the short 3.6m width without exceeding the 2.5m total structure height limit. | Custom SIP Order |
+| **Roof Fall Setup** | Factory-Pitched SIP Walls | The 'High' side SIP walls are cut to 2158mm, the 'Low' side to 2101mm | Creates a permanent **1:60 fall** directing water across the short 3.43m SIP width without exceeding the 2.5m total structure height limit. | Custom SIP Order |
 | **Drip Edge Trim** | Sure-Edge UPVC Drip Trim | Fixed clamping the EPDM membrane | Prevents water from running back under the EPDM and directs it cleanly into the gutter system. | ~6 linear meters |
 | **Guttering** | 112mm UPVC Deepflow (Black) | Standard fascia brackets | Higher capacity than half-round gutters to handle intense coastal downpours without overflowing the fascia. | ~6 linear meters |
 | **Rainwater Diverter** | 68mm Downpipe Diverter Valve | Cut into the vertical downpipe | Channels rainwater into the water butt until full, then automatically redirects the excess. | 1 unit |
@@ -160,7 +181,7 @@ To survive the 2.5m limit while keeping the +150mm concrete splash zone, we CANN
 | :--- | :--- | :--- | :--- | :--- |
 | **Slab Priming** | Acrylic Concrete Primer | Rolled directly onto the cured, dust-free concrete slab | Seals the power-floated surface and prepares it for adhesive bonding. | 1x 5L tub |
 | **Aesthetic/Wear Deck** | Heavy-Duty Engineered Oak (e.g., 20mm total depth with 6mm wear layer) | **Fully Bonded** to the slab using flexible polyurethane wood-floor adhesive (e.g., SikaBond) | A hard-bonded floor ensures zero air-gaps, maximizing the radiant thermal transfer from the Wet UFH embedded in the concrete, while providing a durable, repairable, tool-safe surface. | ~20m² |
-| **Perimeter Expansion**| 10mm Cork Expansion Strip | Wedged between the floor edge and the Fermacell walls | Prevents the timber from buckling during seasonal humidity changes. | ~18.4 linear meters |
+| **Perimeter Expansion**| 10mm Cork Expansion Strip | Wedged between the floor edge and the Fermacell walls | Prevents the timber from buckling during seasonal humidity changes. | ~17.7 linear meters |
 
 ### 3.2 Specific Machine Isolation (Vibration Decoupling)
 *   **Table Saw & Planer Placement:** Because the machines are sitting on the solid concrete thermal mass, the concrete itself absorbs the low-frequency vibrations. However, to prevent high-frequency motor chatter from radiating into the room, industrial-grade **Sylomer® pads** (color-coded to the machine's static weight) or high-density 15mm ribbed SBR rubber mats must be placed exactly under the four contact feet of the Table Saw and the Planer-Thicknesser.
@@ -175,7 +196,7 @@ To survive the 2.5m limit while keeping the +150mm concrete splash zone, we CANN
 *   *Wet UFH (Internal Electric Flow Boiler):* Zero-penetration Passivhaus adaptation. An internal 3kW electric flow boiler heats the slab water. While the COP is 1.0 (compared to an ASHP's 3.5), the Passivhaus demand is so low that running costs remain trivial, and avoiding external refrigerant penetrations completely eliminates airtightness failure risks.
 
 ### 4.1 Heating Execution Strategy
-A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the thermal battery and provides passive summer cooling, while the IR Panel provides instant top-up heat for the occupant in winter. **Total estimated heat load for 20.16m² Passivhaus: 1.3kW - 1.8kW.**
+A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the thermal battery and provides passive summer cooling, while the IR Panel provides instant top-up heat for the occupant in winter. **Total estimated heat load for 18.6m² Passivhaus: 1.3kW - 1.8kW.**
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
@@ -225,19 +246,19 @@ The building envelope is designed to aggressively target the Passivhaus standard
 Because the foundation U-value (0.22 W/m²K) intentionally misses the Passivhaus criteria (≤ 0.15) to save on excavation logistics, the theoretical Passivhaus shortcut (15 kWh/m²a) cannot be used. Instead, the heating effort is calculated using the real-world **Heat Transfer Coefficient (HTC)** and Isle of Wight climate data.
 
 * **Fabric Heat Loss:** 
-  - Walls (42m² x 0.16) = 6.72 W/K
-  - Roof (20.16m² x 0.17) = 3.42 W/K
-  - Floor (20.16m² x 0.22) = 4.43 W/K
+  - Walls (34.1m² x 0.16) = 5.45 W/K
+  - Roof (18.6m² x 0.17) = 3.16 W/K
+  - Floor (18.6m² x 0.22) = 4.10 W/K
   - Glazing (4m² x 0.80) = 3.20 W/K
-  - **Total Fabric Loss = 17.77 W/K**
-* **Ventilation/Air Leakage:** ~5.2 W/K (Assuming high Q50 airtightness with occasional door opening).
-* **Total Heat Transfer Coefficient (HTC): ~22.97 W/K** (The building loses 22.97 Watts per 1°C of temperature difference).
+  - **Total Fabric Loss = 15.91 W/K**
+* **Ventilation/Air Leakage:** ~4.5 W/K (Assuming high Q50 airtightness with occasional door opening).
+* **Total Heat Transfer Coefficient (HTC): ~20.41 W/K** (The building loses 22.97 Watts per 1°C of temperature difference).
 * **Climate Data:** The Isle of Wight experiences roughly **1,500 Heating Degree Days (HDD)** per year to maintain a 14°C baseline.
 
 **Electrical Effort & Running Costs:**
-Formula: `(HTC [22.97] × 24 hours × HDD [1500]) ÷ 1000` = **826 kWh/year thermal demand**.
+Formula: `(HTC [20.41] × 24 hours × HDD [1500]) ÷ 1000` = **735 kWh/year thermal demand**.
 Given the use of a 3kW Internal Electric Flow Boiler with a Coefficient of Performance (COP) of 1.0:
-* **Expected Annual Electrical Input:** 826 kWh of electricity per year.
-* **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£202.37 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
+* **Expected Annual Electrical Input:** 735 kWh of electricity per year.
+* **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£180.07 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
 
 > **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (150mm slab, 150mm splash zone, and Type C induction mapping) have been validated and integrated.

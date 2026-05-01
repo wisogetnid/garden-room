@@ -554,3 +554,19 @@
   - Inserted new Section `2.3.2 Internal Ceiling Height & Boundary Compliance` into `MASTER_PLAN.md` explicitly detailing the math. 
   - Overwrote the Roof Fall Setup table to reflect the "High" and "Low" side cuts rather than Front/Rear, instructing the water to shed laterally. 
 - **Validation:** This geometry change maintains Passivhaus integrity, respects the ≤ 2.5m Permitted Development limit, and eliminates the risk of an un-headered rear door. The Master Plan remains 100% compliant with the test suite.
+
+## Date: 2026-04-28
+**Architect & Strategist Notes: Dimensional Reverse-Engineering**
+- **User Request:** The user clarified a critical constraint: The *Outer Cladding* must exactly hit the 3.6m x 5.6m dimension, rather than the concrete slab/SIP core.
+- **Physics Calibration:**
+  - Standard Hardie Plank cladding (effective lapped depth: ~10mm) + Batten (25mm) + Wood Fibre (50mm) creates an external buildup of **85mm per wall**.
+  - Total reduction is 170mm per axis.
+  - The SIP Framework and the Concrete Slab must therefore be exactly **3.43m x 5.43m**.
+- **Internal Spatial Impact:**
+  - Factoring in the 150mm SIP core, 25mm service cavity, and 15mm Fermacell, the final internal usable space is **3.05m x 5.05m** (~15.4 m²).
+- **Logistics Overhaul:**
+  - Excavation footprint shrinks to 4.23m x 6.23m.
+  - Solid soil removal drops back to ~9.2m³ (~13.8 tonnes).
+  - Concrete order reduces to ~2.8m³ (order 3.0m³).
+  - Thermodynamic Heating Demand drops to 735 kWh/year due to the smaller 18.6m² thermal envelope area.
+- **Plan Updates:** Injected a new `Section 1.0 Dimensional Reverse-Engineering` directly into `MASTER_PLAN.md` explicitly declaring this math so the manufacturer cuts the SIPs to the 3.43x5.43m slab limit. Scaled all values across `MASTER_PLAN.md` and `WORKPLAN.md` via Python parsing script. Validation pass holds.
