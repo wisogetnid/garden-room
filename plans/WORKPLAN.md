@@ -6,7 +6,7 @@ layout: default
 
 **Status:** ACTIVE BUILD SCHEDULE  
 **Foreman:** The DIY Project Coach  
-**Target:** 18.6m² Passivhaus-Standard Envelope via 150mm Wall / 175mm Roof PUR-Core SIPs  
+**Target:** 18.6m² Passivhaus-Standard Envelope via 150mm Wall / 150mm Roof PUR-Core SIPs  
 
 ---
 
@@ -75,9 +75,9 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
 
 ### Weekend 9: 🚨 BIG EVENT: The Roof Lift
 *   **Saturday (Heavy/Dangerous):** 
-    *   **CRITICAL LIFTING LOGISTICS:** 175mm SIP panels are exceptionally heavy. The supply order MUST specify narrow-format 600mm panels for the roof to allow manual lifting, OR the site manager must hire a manual material lift (e.g., a Genie lift). Attempting to manually heave 1200mm wide 175mm SIPs overhead is a critical safety failure. Do not attempt this with just ladders. Get 3 strong mates to assist.
-    *   **Execution:** Slide the panels up onto the pre-pitched (1:60) wall plates. Glue and screw the splines exactly as you did the walls. Ensure the roof panels sit perfectly flush with the external wall insulation. Tape internal joints with Tescon Vana.
-*   **Sunday (Weather-Tight):** Tape all external roof joints. Because the walls are pre-pitched, no tapered PIR or OSB deck is required. Directly glue the 1.5mm EPDM rubber membrane onto the top OSB skin of the roof SIP. Roll it flat to remove bubbles. 
+    *   **CRITICAL LIFTING LOGISTICS:** 150mm SIP panels are exceptionally heavy. The supply order MUST specify narrow-format 600mm panels for the roof to allow manual lifting, OR the site manager must hire a manual material lift (e.g., a Genie lift). Attempting to manually heave 1200mm wide 150mm SIPs overhead is a critical safety failure. Do not attempt this with just ladders. Get 3 strong mates to assist.
+    *   **Execution:** Slide the level panels up onto the level wall plates. Glue and screw the splines exactly as you did the walls. Ensure the roof panels sit perfectly flush with the external wall insulation. Tape internal joints with Tescon Vana.
+*   **Sunday (Weather-Tight):** Tape all external roof joints. Bond the Tapered PIR insulation boards directly to the top OSB skin of the level roof SIP using PU adhesive to create the 1:60 fall. Next, directly glue the 1.5mm EPDM rubber membrane onto the tissue-face of the PIR. Roll it flat to remove bubbles. 
 *   **Sunday Lockdown:** Install the UPVC drip edge trims. The building is now officially "Weather-Tight" and the OSB core is fully protected.
 
 ---

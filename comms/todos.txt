@@ -3,8 +3,6 @@ Todos
  - glazing
  - door specs
  - MVHR setup
-- walls + breather membrane around SIPs
- - splash guard position over membranes
 - overhaul roof buildup
  - rubber not directly on SIP
  - SIPs don't come sloped
