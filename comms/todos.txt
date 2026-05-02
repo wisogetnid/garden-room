@@ -1,0 +1,18 @@
+Todos
+- firm up openings
+ - glazing
+ - door specs
+ - MVHR setup
+- walls + breather membrane around SIPs
+ - splash guard position over membranes
+- overhaul roof buildup
+ - rubber not directly on SIP
+ - SIPs don't come sloped
+ - recalculate height & u-values with 150mm SIP + top
+ - validate dew-point calcs
+ - lights without battens?
+- door
+ - specifications
+- wall to ceiling transition
+ - SIP overhang > external insulation
+ - roof to cladding finish (fascia)

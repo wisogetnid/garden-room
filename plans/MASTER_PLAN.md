@@ -62,7 +62,8 @@ layout: default
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Perimeter Splash Margin** | 400mm Wide Gravel Border | Pour 20mm washed gravel into the existing 400mm over-excavation gap | Absorbs rain kinetic energy to prevent mud splashing onto the cladding, while draining surface water into the MOT. No extra digging required. | ~2.5 Bulk Bags (~2.1 tonnes) |
 | **2. Upstand Waterproofing**| Flexible Polymer-Cement Render | Trowelled over the exposed JACKODUR® upstand | Protects the XPS from UV degradation and mechanical damage above ground. | 1x 25kg bag |
-| **3. Base Drip Flashing** | Stainless Steel Drip Profile | Screwed to the base batten, kicking out over the XPS render | Prevents water from wicking back up into the rain-screen ventilation gap. | ~14 linear meters |
+| **3. Base Drip Flashing** | Stainless Steel Drip Profile | Screwed through the Tyvek directly into the Wood Fibre/SIP base. Tyvek overlaps the top lip. | Kicks water completely away from the XPS upstand. Creates the solid baseline for the battens to sit on. | ~17.7 linear meters |
+| **3a. Rainscreen Bug Mesh** | Perforated Aluminium Vent Trim | Stapled across the bottom 25mm gap between the vertical battens | Allows the 25mm rainscreen cavity to breathe and drain while permanently blocking wasps and vermin. | ~17.7 linear meters |
 | **4. Thermal Overlap** | 50mm Wood Fibre External Insulation | Extended downwards to cover the top 50mm of the JACKODUR® XPS upstand | **'Red Line' Continuity:** Locks the wall insulation directly to the foundation insulation, eliminating the cold bridge at the slab edge. | ~39m² coverage |
 | **5. Structural Thermal Break**| **Compacfoam CF200** Block | 140mm x 50mm, sits precisely on the concrete edge | **Door Threshold Bearing:** Supports the heavy door frame while maintaining the thermal break where the XPS upstand is cut away for level access. | ~2 linear meters |
 | **5a. Flush Threshold Drainage**| Aco HexDrain Channel | Set flush with external patio level | Intercepts water before it can pool against the door threshold. | ~2 linear meters |
@@ -72,7 +73,9 @@ layout: default
 | **8. SIP to Plate Seal** | Expanding PU Foam & Sealant | Injected into the SIP rebate before dropping over the sole plate | Creates a permanent foam-to-timber airtight and thermal seal at the foundation junction. | 4 tubes |
 
 **Textual Cross-Section Description (Outside to Inside at Floor Level):**
-*(Outside)* 20mm Washed Gravel Splash Margin -> JACKODUR® XPS Upstand (Rendered) -> Stainless Drip Flashing -> 50mm Wood Fibre Insulation (overlapping XPS) -> Tyvek Breather Membrane -> 25mm Batten -> Fibre Cement Cladding -> 150mm New Forest SIP Base Wall Panel (Outer skin bearing on concrete edge) dropped over Pre-Machined Timber Sole Plate (supplied by New Forest SIPs to match core rebate) -> Polymeric DPC bonded to 1200g DPM -> 150mm Concrete Slab with single A252 mesh and zip-tied 16mm PEX pipe. *(Inside)*
+*(Outside)* 20mm Washed Gravel Splash Margin -> JACKODUR® XPS Upstand (Rendered) -> Stainless Drip Flashing (screwed to Wood Fibre) -> Perforated Bug Mesh -> 25mm Batten -> Tyvek Breather Membrane -> 50mm Wood Fibre Insulation (overlapping XPS) -> 150mm New Forest SIP Base Wall Panel (Outer skin bearing on concrete edge) dropped over Pre-Machined Timber Sole Plate -> Polymeric DPC bonded to 1200g DPM -> 150mm Concrete Slab with single A252 mesh and zip-tied 16mm PEX pipe. *(Inside)*
+
+**CRITICAL VAPOUR INSTRUCTION:** SIP panels MUST be ordered WITHOUT a factory-fitted breather membrane. The Tyvek is applied solely over the external Wood Fibre layer to prevent trapping moisture between two membranes.
 
 
 ---

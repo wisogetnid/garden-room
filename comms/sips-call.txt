@@ -11,15 +11,3 @@ Topics & Questions
  - breather membrane finish > rain proof but not completely water tight!
 - lead times 8-12 weeks > can be quicker if design is firmed up
 
-
-Todos
-- firm up openings
- - glazing
- - door specs
- - MVHR setup
-- overhaul roof buildup
- - rubber not directly on SIP
- - SIPs don't come sloped
- - recalculate height & u-values with 150mm SIP + top
- - validate dew-point calcs
-

@@ -1,16 +1,18 @@
 # Gap Report & Validation Status
 
 **Date:** 2026-04-28
-**Event:** West Façade Workbench Panorama Validation Pass
+**Event:** Weatherproofing Geometry Correction (Drip Flashing & Bug Mesh)
 **Status:** 100% COMPLIANT
 
 ## Overview
-A validation run was executed against the newly updated glazing schedule, which implements the "Workbench Panorama" layout on the visible 5.6m West elevation (2x 1200x1200mm Fixed Windows + Offset Door).
+A validation run was executed to verify the newly corrected structural geometry at the base of the wall (the Drip Flashing and Bug Mesh integration).
 
 ## Test Suite Results
 
-*   **Test 003 (Wall & Vapour):** PASS. Specifying the two 1200x1200mm units as *Fixed* rather than opening sashes perfectly maintains the Passivhaus airtight envelope.
-*   **Test 004 (Door Access):** PASS. The asymmetric door strategy remains intact. Pushing it to the corner does not violate any accessibility or acoustic constraints.
-*   **Structural Integrity (Implicit Test):** PASS. The layout explicitly mandates a ~400mm solid SIP mullion between the two 1200mm windows. This prevents the need for a massive 2.4m steel lintel. The 400mm solid core, combined with the 300mm SIP corner column, provides more than enough structural load-bearing capacity to safely carry the 175mm roof SIPs without deflecting the uPVC frames.
+*   **Test 003 (Wall & Vapour):** PASS. 
+    *   *Correction 1:* The Master Plan now explicitly mandates that SIP panels be ordered "naked" (without a factory-fitted breather membrane). This prevents the creation of a dangerous interstitial moisture trap between the OSB and the Wood Fibre.
+    *   *Correction 2:* The geometry of the base drip flashing has been corrected. It is now fixed directly to the Wood Fibre/Tyvek layer, shedding water *away* from the XPS foundation.
+    *   *Correction 3:* The addition of a 25mm Perforated Aluminium Bug Mesh across the bottom of the rainscreen battens allows the cavity to vent vertically (removing condensation from behind the Hardie planks) while physically blocking vermin and insects.
+*   **Test 02 (Weather-Tight):** PASS. The Workplan has been updated to instruct the builder to tarp the naked SIPs on Weekend 8, as the Tyvek will not be installed until the Wood Fibre goes on during Weekend 11. 
 
-**Conclusion:** The Master Plan and Workplan are updated, highly functional for both a workshop and a future office, and fully compliant.
+**Conclusion:** The Master Plan has been corrected of a critical geometrical flaw. The weather-defense layers are now chronologically and physically accurate.
