@@ -1,19 +1,12 @@
 
 ## Date: 2026-04-28
-**Architect Notes: Ceiling Height Comparison (Pitched SIP vs. Tapered PIR)**
-- **User Query:** How much internal ceiling height was lost by switching from a pitched 175mm SIP to a flat 150mm SIP + Tapered PIR?
-- **Previous Geometry (Pitched 175mm SIP):**
-  - High Side Internal Ceiling: 2136mm
-  - Low Side Internal Ceiling: 2079mm
-  - *Average Ceiling Height:* **2107mm**
-- **New Geometry (Flat 150mm SIP + Tapered PIR):**
-  - Entire Room Internal Ceiling: **2074mm**
-- **The Mathematical Loss:**
-  - At the highest point (West wall): We lost **62mm**.
-  - At the lowest point (East wall): We lost **5mm**.
-  - On average across the room: We lost **33mm**.
-- **The Why (The 2.5m PD Limit Trap):**
-  - To stay under the strict 2.5m external limit, the *thickest* part of the roof dictates the maximum height of the walls. 
-  - The thickest part of the new roof is 254mm (1.5mm EPDM + 87mm PIR + 150mm SIP + 15mm Fermacell).
-  - 2500mm (Limit) - 150mm (Splash Zone) - 254mm (Roof) = **2096mm Max Wall Height**.
-  - Because the walls must be level to hold the flat SIP, all walls are forced down to 2096mm, causing the global ceiling drop.
+**Architect Notes: Clerestory Window Datum Line Calibration**
+- **User Query:** Are all clerestory windows at the same height?
+- **Current Blueprint Logic:** Yes. The Master Plan (Section 2.5) explicitly states: *"The 300x1500mm fixed windows must be factory-cut into the SIPs at a high datum line (e.g., top edge aligned with the door header)."* 
+- **The Door Header Height:** The door header is at 2100mm from Finished Floor Level (FFL).
+- **The Mathematics of the Clerestories:**
+  - Top Edge: 2100mm.
+  - Height of Window: 300mm.
+  - Bottom Sill: 2100mm - 300mm = **1800mm**.
+- **Aesthetic Continuity:** This means that the top edges of the two 1200x1200mm West windows, the top edge of the 1400mm door, and the top edges of all four clerestory windows across the East, North, and South facades form a single, unbroken horizontal ring (a "Datum Line") exactly 2100mm off the floor. The bottom sills of all the clerestories sit exactly at 1800mm off the floor, leaving 1.8m of solid usable wall space below them globally.
+- **Action:** Confirm this directly to the user, as the ASCII already perfectly reflects this (the top of the clerestories hits the 2.10m line, and the bottom hits the 1.80m line in the text drawings).

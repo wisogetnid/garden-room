@@ -89,8 +89,8 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
     *   *North:* 1x 300x1500mm (Fixed Clerestory)
     *   *South:* 1x 300x1500mm (Fixed Clerestory)
     *   *East:* 2x 300x1500mm (Fixed Clerestory, evenly spaced)
-    *   *West:* 2x 1200x1200mm (Fixed Panorama) + 1.5 Asymmetric Door offset to corner.
-    *Foreman Note:* VIG units, while thinner than triple glazing, are extremely dense and heavy. Use suction cup lifters and a helper for the long 1.5m clerestories AND the heavy 1.2m picture windows to prevent frame distortion! Install the **Asymmetric 1.5 Door system** (e.g., 1000mm active leaf + 400-600mm slave leaf). Traditional French doors are strictly forbidden. Seal all units with expanding PU foam and tape over the frame-to-OSB joints internally with airtight tape (e.g., Tescon Vana).
+    *   *West:* 2x 1200x1200mm (Fixed Panorama) + 1400mm x 2100mm Asymmetric Door offset to corner.
+    *Foreman Note:* VIG units, while thinner than triple glazing, are extremely dense and heavy. Use suction cup lifters and a helper for the long 1.5m clerestories AND the heavy 1.2m picture windows to prevent frame distortion! Install the **1400mm x 2100mm Asymmetric 1.5 Door system** (e.g., 900mm active leaf + 500mm slave leaf). Traditional French doors are strictly forbidden. Seal all units with expanding PU foam and tape over the frame-to-OSB joints internally with airtight tape (e.g., Tescon Vana).
 *   **Sunday (Moderate):** Pour 20mm washed gravel directly into the existing 200mm perimeter gap left around the XPS tub to create a clean splash margin (no digging required!). Install the guttering and downpipe diverter, routing it to your 200L water butt.
 
 ### Weekends 11 & 12: Insulation, Cladding & The Weather Shield
