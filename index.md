@@ -14,7 +14,7 @@ Welcome to the Cowes Garden Room Project documentation site. This site hosts our
 
 ```text
        ┌────────────────────────────────────────────────────────────┐
-2.50m  │==================== ROOF BUILDUP (254mm) ====================│
+2.50m  │=================== ROOF BUILDUP (254mm) ===================│
        ├────┬────────────┬────┬────────────┬────┬──────────────┬────┤
 2.10m  │    │            │    │            │    │              │    │
        │    │1200x1200mm │    │1200x1200mm │    │    1400mm    │    │
@@ -36,17 +36,17 @@ Welcome to the Cowes Garden Room Project documentation site. This site hosts our
 *Roof: Low-Side (2.44m External)*
 
 ```text
-       ┌──────────────────────────────────────────────────────┐
-2.44m  │================= ROOF BUILDUP (197mm) =================│
-       ├───────┬───────────────┬───────┬───────────────┬──────┤
-2.10m  │       │  300x1500mm   │       │  300x1500mm   │      │
-1.80m  │  SIP  │  Clerestory   │  SIP  │  Clerestory   │ SIP  │
-       │       ├───────────────┤       ├───────────────┤      │
-       │       │               │       │               │      │
-       │       │  (Solid SIP   │       │  (Solid SIP   │      │
-       │       │  below for    │       │  below for    │      │
-       │       │  tool racks)  │       │  tool racks)  │      │
-0.00m  ┴───────┴───────────────┴───────┴───────────────┴──────┴
+       ┌───────────────────────────────────────────────────────┐
+2.44m  │================ ROOF BUILDUP (197mm) =================│
+       ├───────┬───────────────┬───────┬───────────────┬───────┤
+2.10m  │       │  300x1500mm   │       │  300x1500mm   │       │
+1.80m  │  SIP  │  Clerestory   │  SIP  │  Clerestory   │ SIP   │
+       │       ├───────────────┤       ├───────────────┤       │
+       │       │               │       │               │       │
+       │       │  (Solid SIP   │       │  (Solid SIP   │       │
+       │       │  below for    │       │  below for    │       │
+       │       │  tool racks)  │       │  tool racks)  │       │
+0.00m  ┴───────┴───────────────┴───────┴───────────────┴───────┴
            ^           ^           ^           ^          ^
          0.81m       1.50m       0.81m       1.50m      0.81m
         (Wall)    (Clerestory) (Mullion)  (Clerestory)  (Wall)
@@ -57,15 +57,15 @@ Welcome to the Cowes Garden Room Project documentation site. This site hosts our
 *Roof: Slopes down from West (Right) to East (Left)*
 
 ```text
-       ┌──────────────────────────────────┐  2.50m (West/High)
-2.44m  │====== ROOF BUILDUP (SLOPE) ======│  
-(East) ├─────────┬───────────────┬────────┤  
-2.10m  │         │  300x1500mm   │        │
-1.80m  │   SIP   │  Clerestory   │  SIP   │
-       │         ├───────────────┤        │
-       │         │               │        │
-       │         │  (Solid SIP)  │        │
-0.00m  ┴─────────┴───────────────┴────────┴
+       ┌───────────────────────────────────┐  2.50m (West/High)
+2.44m  │====== ROOF BUILDUP (SLOPE) =======│  
+(East) ├─────────┬───────────────┬─────────┤  
+2.10m  │         │  300x1500mm   │         │
+1.80m  │   SIP   │  Clerestory   │  SIP    │
+       │         ├───────────────┤         │
+       │         │               │         │
+       │         │  (Solid SIP)  │         │
+0.00m  ┴─────────┴───────────────┴─────────┴
             ^            ^           ^
           0.96m        1.50m       0.97m
          (Wall)     (Clerestory)   (Wall)
@@ -76,15 +76,15 @@ Welcome to the Cowes Garden Room Project documentation site. This site hosts our
 *Roof: Slopes down from West (Left) to East (Right)*
 
 ```text
-       ┌──────────────────────────────────┐  
-2.50m  │====== ROOF BUILDUP (SLOPE) ======│  2.44m
-(West) ├────────┬───────────────┬─────────┤  (East)
-2.10m  │        │  300x1500mm   │         │
-1.80m  │  SIP   │  Clerestory   │   SIP   │
-       │        ├───────────────┤         │
-       │        │               │         │
-       │        │  (Solid SIP)  │         │
-0.00m  ┴────────┴───────────────┴─────────┴
+       ┌───────────────────────────────────┐  
+2.50m  │======= ROOF BUILDUP (SLOPE) ======│  2.44m
+(West) ├─────────┬───────────────┬─────────┤  (East)
+2.10m  │         │  300x1500mm   │         │
+1.80m  │  SIP    │  Clerestory   │   SIP   │
+       │         ├───────────────┤         │
+       │         │               │         │
+       │         │  (Solid SIP)  │         │
+0.00m  ┴─────────┴───────────────┴─────────┴
             ^           ^            ^
           0.97m       1.50m        0.96m
          (Wall)    (Clerestory)   (Wall)
