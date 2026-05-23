@@ -68,3 +68,13 @@
 - The external wall surface area drops from ~45m² to ~43m².
 - The Heat Transfer Coefficient (HTC) was recalculated with the new surface areas (Wall: 40m², Roof: 18m², Floor: 18m²). The HTC dropped from 20.6 W/K to 19.8 W/K.
 - The new expected heating effort drops from 742 kWh to 713 kWh per year, saving the user roughly ~£7/year on their energy bill (£174.68/year).
+
+## [Date: 2026-05-23] - Sloped SIP Roof with Flat 50mm PIR Warm-Over-Roof
+**Context:** User requested removal of the bespoke tapered PIR roof package. The roof slope is to be provided by the SIP construction/support geometry, with a flat 50mm PIR board installed above the SIP and EPDM glued directly to the PIR. The stated intent is lower cost and reduced damp risk at the SIP outer layer.
+**Decision:** `plans/MASTER_PLAN.md` now specifies a sloped 150mm roof SIP set to 1:60, topped by 50mm flat tissue-faced PIR and fully adhered 1.5mm EPDM. `plans/WORKPLAN.md` now requires verification of the sloped top plates/bearing geometry on delivery and installation of flat PIR rather than tapered PIR.
+**Result:** The upper SIP OSB skin is kept warmer and drier, reducing moisture risk. Roof U-value improves to approximately 0.12 W/m²K. The trade-off is reduced internal ceiling height; the 2100mm door/glazing datum now carries an open head-clearance risk requiring supplier verification before SIP fabrication.
+
+## [Date: 2026-05-23] - Glazing and Door Datum Reduction after Roof Recalculation
+**Context:** The sloped SIP plus 50mm PIR roof build-up leaves a high-side finished internal height of 2111mm and a low-side finished internal height of 2054mm. A 2100mm door/glazing datum is therefore structurally non-functional.
+**Decision:** West façade is fixed as the high side. Door outer-frame height reduces to 2000mm maximum. West panorama windows reduce from 1200x1200mm to 1200x1000mm, with heads at 2000mm and sills at 1000mm. North/South/East clerestories remain 300x1500mm but lower to a 1950mm top datum.
+**Result:** The design preserves approximately 100mm structural head zone above factory-cut openings while retaining functional access, workbench-compatible West sill height, and high-level clerestory lighting.

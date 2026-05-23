@@ -9,18 +9,18 @@ Welcome to the Cowes Garden Room Project documentation site. This site hosts our
 ## Architectural Visualizations (360° Façade Maps)
 
 ### 1. West Façade (Visible Garden Face)
-*The 5.6m "Workbench Panorama" Elevation (400mm Rhythm)*
+*The 5.602m finished / 5.430m core "Workbench Panorama" Elevation (400mm Rhythm)*
 *Roof: High-Side (2.50m External Limit)*
 
 ```text
        ┌────────────────────────────────────────────────────────────┐
-2.50m  │=================== ROOF BUILDUP (254mm) ===================│
+2.50m  │========= SLOPED SIP + 50mm PIR ROOF BUILDUP (217mm) =======│
        ├────┬────────────┬────┬────────────┬────┬──────────────┬────┤
-2.10m  │    │            │    │            │    │              │    │
-       │    │1200x1200mm │    │1200x1200mm │    │    1400mm    │    │
+2.00m  │    │            │    │            │    │              │    │
+       │    │1200x1000mm │    │1200x1000mm │    │    1400mm    │    │
        │    │Fixed Window│    │Fixed Window│    │  Asymmetric  │    │
-       │    │            │    │            │    │     Door     │    │
-0.90m  │SIP │            │SIP │            │SIP │              │SIP │
+       │    │            │    │            │    │  Door ≤2000  │    │
+1.00m  │SIP │            │SIP │            │SIP │              │SIP │
        │    ├────────────┤    ├────────────┤    │              │    │
        │    │ (Solid SIP │    │ (Solid SIP │    │              │    │
        │    │ below for  │    │ below for  │    │              │    │
@@ -32,15 +32,15 @@ Welcome to the Cowes Garden Room Project documentation site. This site hosts our
 ```
 
 ### 2. East Façade (Non-Visible / Fence-Facing)
-*The 5.6m Clerestory Elevation*
-*Roof: Low-Side (2.44m External)*
+*The 5.602m finished / 5.430m core Clerestory Elevation*
+*Roof: Low-Side (2.443m External)*
 
 ```text
        ┌───────────────────────────────────────────────────────┐
-2.44m  │================ ROOF BUILDUP (197mm) =================│
+2.44m  │========= SLOPED SIP + 50mm PIR ROOF (217mm) ==========│
        ├───────┬───────────────┬───────┬───────────────┬───────┤
-2.10m  │       │  300x1500mm   │       │  300x1500mm   │       │
-1.80m  │  SIP  │  Clerestory   │  SIP  │  Clerestory   │ SIP   │
+1.95m  │       │  300x1500mm   │       │  300x1500mm   │       │
+1.65m  │  SIP  │  Clerestory   │  SIP  │  Clerestory   │ SIP   │
        │       ├───────────────┤       ├───────────────┤       │
        │       │               │       │               │       │
        │       │  (Solid SIP   │       │  (Solid SIP   │       │
@@ -53,15 +53,15 @@ Welcome to the Cowes Garden Room Project documentation site. This site hosts our
 ```
 
 ### 3. North Façade (Short Wall)
-*The 3.6m Elevation (Facing South)*
+*The 3.602m finished / 3.430m core Elevation (Facing South)*
 *Roof: Slopes down from West (Right) to East (Left)*
 
 ```text
        ┌───────────────────────────────────┐  2.50m (West/High)
-2.44m  │====== ROOF BUILDUP (SLOPE) =======│  
+2.44m  │== SLOPED SIP + 50mm PIR ROOF =====│  
 (East) ├─────────┬───────────────┬─────────┤  
-2.10m  │         │  300x1500mm   │         │
-1.80m  │   SIP   │  Clerestory   │  SIP    │
+1.95m  │         │  300x1500mm   │         │
+1.65m  │   SIP   │  Clerestory   │  SIP    │
        │         ├───────────────┤         │
        │         │               │         │
        │         │  (Solid SIP)  │         │
@@ -72,15 +72,15 @@ Welcome to the Cowes Garden Room Project documentation site. This site hosts our
 ```
 
 ### 4. South Façade (Short Wall)
-*The 3.6m Elevation (Facing North)*
+*The 3.602m finished / 3.430m core Elevation (Facing North)*
 *Roof: Slopes down from West (Left) to East (Right)*
 
 ```text
        ┌───────────────────────────────────┐  
-2.50m  │======= ROOF BUILDUP (SLOPE) ======│  2.44m
+2.50m  │==== SLOPED SIP + 50mm PIR ROOF ===│  2.44m
 (West) ├─────────┬───────────────┬─────────┤  (East)
-2.10m  │         │  300x1500mm   │         │
-1.80m  │  SIP    │  Clerestory   │   SIP   │
+1.95m  │         │  300x1500mm   │         │
+1.65m  │  SIP    │  Clerestory   │   SIP   │
        │         ├───────────────┤         │
        │         │               │         │
        │         │  (Solid SIP)  │         │
