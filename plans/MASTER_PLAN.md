@@ -235,19 +235,21 @@ The building envelope is designed to aggressively target the Passivhaus standard
 Because the foundation U-value (0.22 W/m²K) intentionally misses the Passivhaus criteria (≤ 0.15) to save on excavation logistics, the theoretical Passivhaus shortcut (15 kWh/m²a) cannot be used. Instead, the heating effort is calculated using the real-world **Heat Transfer Coefficient (HTC)** and Isle of Wight climate data.
 
 * **Fabric Heat Loss:** 
-  - Walls (34.1m² x 0.16) = 5.45 W/K
-  - Roof (18.6m² x 0.12) = 2.23 W/K
-  - Floor (18.6m² x 0.22) = 4.10 W/K
-  - Glazing (4m² x 0.80) = 3.20 W/K
-  - **Total Fabric Loss = 14.98 W/K**
+  - Gross wall area: West high-side wall (5.43m x 2.133m) + East low-side wall (5.43m x 2.076m) + two sloped end walls (3.43m x 2.104m average height x 2) = **~37.29m²**.
+  - Glazing and door area: West fixed windows (2 x 1.2m x 1.0m = 2.40m²) + West asymmetric door (1.4m x 2.0m = 2.80m²) + clerestories (4 x 0.3m x 1.5m = 1.80m²) = **7.00m²**.
+  - Opaque Walls ((37.29m² - 7.00m²) x 0.16) = **4.85 W/K**
+  - Roof (18.62m² x 0.12) = **2.23 W/K**
+  - Floor (18.62m² x 0.22) = **4.10 W/K**
+  - Glazing / Door Assemblies (7.00m² x 0.80) = **5.60 W/K**
+  - **Total Fabric Loss = 16.78 W/K**
 * **Ventilation/Air Leakage:** ~4.5 W/K (Assuming high Q50 airtightness with occasional door opening).
-* **Total Heat Transfer Coefficient (HTC): ~19.48 W/K** (The building loses 19.48 Watts per 1°C of temperature difference).
+* **Total Heat Transfer Coefficient (HTC): ~21.28 W/K** (The building loses 21.28 Watts per 1°C of temperature difference).
 * **Climate Data:** The Isle of Wight experiences roughly **1,500 Heating Degree Days (HDD)** per year to maintain a 14°C baseline.
 
 **Electrical Effort & Running Costs:**
-Formula: `(HTC [19.48] × 24 hours × HDD [1500]) ÷ 1000` = **701 kWh/year thermal demand**.
+Formula: `(HTC [21.28] × 24 hours × HDD [1500]) ÷ 1000` = **766 kWh/year thermal demand**.
 Given the use of a 3kW Internal Electric Flow Boiler with a Coefficient of Performance (COP) of 1.0:
-* **Expected Annual Electrical Input:** 701 kWh of electricity per year.
-* **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£171.74 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
+* **Expected Annual Electrical Input:** 766 kWh of electricity per year.
+* **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£187.68 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
 
 > **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (150mm slab, 150mm splash zone, and Type C induction mapping) have been validated and integrated.

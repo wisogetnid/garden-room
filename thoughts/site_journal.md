@@ -43,3 +43,11 @@
 - **Opening Validation Result:** The previous **2100mm** door/window datum is not functional under the sloped-SIP/50mm-PIR roof. It leaves only ~11mm head zone at the high side and fails at the low side.
 - **Corrected Opening Strategy:** The West façade is designated as the high side. West door becomes **1400mm x 2000mm maximum outer-frame-height**. West panorama windows become **1200x1000mm**, with heads at **2000mm FFL** and sills at **1000mm FFL**. North/South/East clerestories remain **300x1500mm**, but their top datum lowers to **1950mm FFL** and sills to **1650mm FFL**.
 - **Workplan Synchronization:** `plans/WORKPLAN.md` now reflects the revised glazing and door sizes/datums and requires a ~100mm structural head zone above West openings.
+
+## Date: 2026-05-23
+**Architect Notes: Section 7.2 Heating Effort Recalculation**
+- **User Correction:** Section 7.2 retained outdated heat-loss inputs. The glazing area was still listed as 4m² despite the revised door/window schedule, and the HTC/cost figures did not fully reflect the sloped-SIP plus 50mm PIR roof change.
+- **Corrected Glazing Area:** West panorama windows = **2.40m²**; asymmetric door = **2.80m²**; four clerestories = **1.80m²**; total glazing/door assembly area = **7.00m²**.
+- **Corrected Fabric Loss Inputs:** Gross wall area is **~37.29m²**. Opaque wall area is **~30.29m²** after subtracting openings. Roof and floor area are **18.62m²** each.
+- **Corrected Thermal Result:** Total fabric heat loss is **16.78 W/K**. Adding **4.5 W/K** ventilation/air leakage gives a corrected HTC of **~21.28 W/K**.
+- **Corrected Heating Effort:** Annual thermal demand is now **~766 kWh/year**. At **£0.245/kWh**, annual baseline heating cost is **~£187.68/year**.
