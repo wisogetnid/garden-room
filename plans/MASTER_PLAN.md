@@ -21,7 +21,7 @@ layout: default
 
 
 ### 1.0 Dimensional Reverse-Engineering (Outer Cladding to Core)
-**Objective:** The User requested the absolute maximum *external* dimensions (from James Hardie cladding to James Hardie cladding) to be exactly **3.6m x 5.6m**. To achieve this, we must reverse-engineer the required size of the SIP structural framework and the concrete slab.
+**Objective:** The dimensional target is a nominal **3.6m x 5.6m** external envelope, measured from James Hardie cladding to James Hardie cladding. The accepted order size below deliberately allows a 2mm external oversail in each axis to use standard millimetre-rounded SIP, XPS, and concrete slab dimensions.
 
 *   **External Envelope Buildup (Per Wall):**
     *   **James Hardie VL Fibre Cement Plank** (flat interlocking profile): 11mm
@@ -29,17 +29,17 @@ layout: default
     *   Rigid Wood Fibre External Insulation: 50mm
     *   *Total External Projection beyond SIP core:* **86mm per wall**
 *   **Total Dimensional Reduction:** 86mm x 2 walls = **172mm reduction per axis**.
-    *(Note: The 2mm variance from the 170mm theoretical target is fully absorbed by construction tolerances, meaning the 3.43x5.43m core remains the exact correct order size).* 
+    *(Accepted tolerance note: A 3430mm core plus two 86mm external projections produces a **3602mm** finished external width. A 5430mm core plus two 86mm external projections produces a **5602mm** finished external length. The 2mm oversail per axis is explicitly accepted.)* 
 *   **Required SIP Framework & Concrete Slab Size:**
-    *   Width: 3600mm - 170mm = **3430mm (3.43m)**
-    *   Length: 5600mm - 170mm = **5430mm (5.43m)**
+    *   Width: **3430mm (3.43m)** core/slab order size; finished external width = 3430mm + 172mm = **3602mm**.
+    *   Length: **5430mm (5.43m)** core/slab order size; finished external length = 5430mm + 172mm = **5602mm**.
 *   **Final Usable Internal Space (Accounting for internal Fermacell & battens):**
     *   SIP Core (150mm) + Service Batten (25mm) + Fermacell (15mm) = 190mm internal buildup per wall.
     *   Usable Internal Width: 3430mm - (190mm x 2) = **3050mm (3.05m)**
     *   Usable Internal Length: 5430mm - (190mm x 2) = **5050mm (5.05m)**
     *   *Final Internal Usable Footprint:* **15.4 m²**
 
-*(Note: All structural orders—Concrete, SIPs, and XPS—must be executed to the 3.43 x 5.43m dimensions, NOT 3.6 x 5.6m).*
+*(Note: All structural orders—Concrete, SIPs, and XPS—must be executed to the accepted **3430mm x 5430mm** core/slab dimensions, NOT the finished external cladding dimensions of 3602mm x 5602mm.)*
 
 ### 1.1 Groundworks & Slab Execution
 
@@ -109,13 +109,13 @@ layout: default
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Waterproofing Deck** | 1.5mm EPDM Membrane | Fully adhered (glued) directly to the top OSB skin of the roof SIP | 50-year seamless weather protection. Removes the need for an 18mm OSB over-deck, saving precious height. | ~22m² Sheet |
-| **2. Roof Structure** | 150mm New Forest SIP Base Roof Panel + Tapered PIR | Spanning from wall to wall, joined via insulated splines | Provides thermal resistance (U=0.17) and massive structural strength across the 3.43m core span capable of supporting solar arrays. | 18.6m² coverage |
+| **2. Roof Structure** | 150mm New Forest SIP Base Roof Panel + Tapered PIR | Spanning from wall to wall, joined via insulated splines | Provides thermal resistance (U=0.17) and massive structural strength across the 3430mm core span capable of supporting solar arrays. | 18.6m² coverage |
 | **4. Wall Top Plate** | Pre-Machined Timber Plate (Supplied by New Forest SIPs to match core width) | Glued and screwed into the top rebate of the wall SIPs | Provides a continuous structural bearing plate for the roof panels to distribute the roof and solar loads evenly into the wall skins. | ~17.7 linear meters |
 | **5. Vapour Control Layer** | Pro Clima Intello Plus | Taped directly over the internal SIP roof joints | Ensures the internal VCL envelope is continuously connected from the walls across the ceiling. | 1 Roll |
 | **6. Internal Ceiling** | 15mm Fermacell Acoustic Board | Jointstik glue & screwed directly to SIP inner skin | High mass acoustic blocking. Fixed directly to the SIP to avoid losing 25mm to service battens. | ~14 boards |
 
 #### 2.3.2 Internal Ceiling Height & Boundary Compliance
-**Objective:** Maintain strict compliance with the **≤ 2.5m Permitted Development** height limit while maximizing internal headroom. The 1:60 roof fall is oriented across the short **3.6m width** (rather than the 5.6m length) to minimize the total roof drop to just 60mm (3430 ÷ 60 = 57mm).
+**Objective:** Maintain strict compliance with the **≤ 2.5m Permitted Development** height limit while maximizing internal headroom. The 1:60 roof fall is oriented across the short nominal **3.6m width** (rather than the 5.6m length) to minimize the total roof drop to just 57mm (3430 ÷ 60 = 57.2mm).
 
 *   **External Height Physics (The 2.5m Limit):**
     *   Exposed Concrete Splash Zone: 150mm
@@ -132,7 +132,7 @@ layout: default
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Roof Fall Setup** | Tapered PIR Insulation | Tissue-faced PIR starting at 30mm and rising to 87mm across the 3.43m width | Creates a permanent **1:60 fall** directing water across the width without exceeding the 2.5m total structure height limit. | ~18.6m² |
+| **Roof Fall Setup** | Tapered PIR Insulation | Tissue-faced PIR starting at 30mm and rising to 87mm across the 3430mm width | Creates a permanent **1:60 fall** directing water across the width without exceeding the 2.5m total structure height limit. | ~18.6m² |
 | **Drip Edge Trim** | Sure-Edge UPVC Drip Trim | Fixed clamping the EPDM membrane | Prevents water from running back under the EPDM and directs it cleanly into the gutter system. | ~6 linear meters |
 | **Guttering** | 112mm UPVC Deepflow (Black) | Standard fascia brackets | Higher capacity than half-round gutters to handle intense coastal downpours without overflowing the fascia. | ~6 linear meters |
 | **Rainwater Diverter** | 68mm Downpipe Diverter Valve | Cut into the vertical downpipe | Channels rainwater into the water butt until full, then automatically redirects the excess. | 1 unit |
@@ -148,8 +148,6 @@ layout: default
     *   **East Elevation (Long Wall):** 2x 300x1500mm Fixed Clerestory VIG uPVC windows (evenly spaced).
     *   **West Elevation (Visible Façade):** 2x 1200x1200mm Fixed VIG uPVC windows + 1x 1400mm x 2100mm Asymmetric 1.5 Door.
 *   **Clerestory Placement Logic:** The 300x1500mm fixed windows must be factory-cut into the SIPs at a high datum line (e.g., top edge aligned with the door header). This Passivhaus optimization (fixed panes = zero air leakage) relies entirely on the dMVHR for ventilation, while freeing up 100% of the internal wall space below 1.8m for tool racks and machinery.
-*   **West Façade 'Workbench Panorama' Layout:** To future-proof for a home office, the 5.6m West wall utilizes an asymmetric zoning layout. The West facade utilizes a '400mm Architectural Rhythm'. The 1400mm door is offset, anchored by a 400mm solid SIP corner on the far right and a 400mm SIP column on the left. The two 1200x1200mm fixed windows follow immediately, separated by a 400mm SIP mullion, leaving a ~430mm solid SIP wall on the far left. This creates a highly intentional, repeating geometric frame around all glazing. 
-    *   *Sill Height:* Aligning the tops of these windows with the 2100mm door header places the bottom sills exactly at **900mm** off the floor, allowing a standard workbench or desk to sit perfectly flush beneath the glass without blocking light.
 *   **West Façade 'Workbench Panorama' Layout:** To future-proof for a home office, the 5.6m West wall utilizes an asymmetric zoning layout. The West facade utilizes a '400mm Architectural Rhythm'. The 1400mm door is offset, anchored by a 400mm solid SIP corner on the far right and a 400mm SIP column on the left. The two 1200x1200mm fixed windows follow immediately, separated by a 400mm SIP mullion, leaving a ~430mm solid SIP wall on the far left. This creates a highly intentional, repeating geometric frame around all glazing. 
     *   *Sill Height:* Aligning the tops of these windows with the 2100mm door header places the bottom sills exactly at **900mm** off the floor, allowing a standard workbench or desk to sit perfectly flush beneath the glass without blocking light.
 *   **French Doors Forbidden:** Traditional French doors are strictly prohibited. They inherently fail Passivhaus airtightness standards and acoustic reduction due to the lack of a central mullion, leading to air and noise leakage down the meeting stiles.
