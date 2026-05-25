@@ -11,9 +11,9 @@
       &nbsp; | &nbsp;
       {{- site.description | escape -}}
       &nbsp; | &nbsp;
-      Build: {{ site.time | date: "%Y-%m-%d %H:%M %Z" }}
+      Last change: {{ site.time | date: "%Y-%m-%d %H:%M %Z" }}
       &nbsp; | &nbsp;
-      Commit: <a href="{{ site.github.repository_url }}/commit/{{ site.github.build_revision }}" target="_blank" style="color: inherit; text-decoration: none;"><code>{{ site.github.build_revision | slice: 0, 7 | default: "Local" }}</code></a>
+      Change Set: <a href="{{ site.github.repository_url }}/commit/{{ site.github.build_revision }}" target="_blank" style="color: inherit; text-decoration: none;"><code>{{ site.github.build_revision | slice: 0, 7 | default: "Local" }}</code></a>
     </p>
   </div>
 
