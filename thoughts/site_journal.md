@@ -51,3 +51,12 @@
 - **Corrected Fabric Loss Inputs:** Gross wall area is **~37.29m²**. Opaque wall area is **~30.29m²** after subtracting openings. Roof and floor area are **18.62m²** each.
 - **Corrected Thermal Result:** Total fabric heat loss is **16.78 W/K**. Adding **4.5 W/K** ventilation/air leakage gives a corrected HTC of **~21.28 W/K**.
 - **Corrected Heating Effort:** Annual thermal demand is now **~766 kWh/year**. At **£0.245/kWh**, annual baseline heating cost is **~£187.68/year**.
+
+## Date: 2026-05-23
+**Architect Notes: MVHR, Ventilation, and Electrical Integration Expansion**
+- **Research Source:** `research/mvhr-research.md` was integrated into `plans/MASTER_PLAN.md` and `plans/WORKPLAN.md`.
+- **Master Plan Update:** Added Section 4.2 for dMVHR strategy, including isolated workshop ventilation, Zehnder ComfoAir 70-class enthalpy dMVHR, factory-cut wall sleeve, G4/F7 pre-filtration, optional HEPA/carbon stage, ambient filtration, pressure-balance rules, and Part F commissioning targets.
+- **Ventilation Rates:** Revised internal volume is approximately **32m³**. Standby ventilation is **16-32m³/h** (0.5-1 ACH). Occupied/general dilution target is **60-70m³/h** (~2 ACH), with woodworking dust controlled by closed-loop extraction rather than outdoor exhaust.
+- **Electrical Update:** Section 5 now separates machine, heating, IR/control, MVHR/filtration, and socket circuits. It adds airtight back boxes, MVHR control wiring, and a labelled future makeup-air interlock provision.
+- **Workplan Synchronization:** Delivery checks now include dMVHR sleeve factory cut-out verification. Weekend 13 now includes MVHR sleeve sealing, G4/F7 inline extract filtration, segregated RCBO labelling, and explicit prohibition on outdoor dust-extractor discharge without interlocked makeup air. Final commissioning now includes BPEC/Part F airflow balancing and a filter/LEV maintenance log.
+- **Risk Control:** Added risks for MVHR core contamination, pressure imbalance from outdoor exhaust, and COSHH/Part F compliance duties.

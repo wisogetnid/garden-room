@@ -83,3 +83,8 @@
 **Context:** Revised glazing and door geometry increased the transparent/opening area to 7.00m², while the roof U-value improved to approximately 0.12 W/m²K. Section 7.2 still contained the previous 4m² glazing input and outdated HTC/cost values.
 **Decision:** Recalculate Section 7.2 using gross wall area ~37.29m², opaque wall area ~30.29m², roof/floor area 18.62m², glazing/door assembly area 7.00m², wall U=0.16, roof U=0.12, floor U=0.22, glazing U=0.80, and ventilation/air leakage allowance 4.5 W/K.
 **Result:** Fabric heat loss is now 16.78 W/K. Total HTC is **~21.28 W/K**. Annual thermal demand is **~766 kWh/year**, costing **~£187.68/year** at £0.245/kWh.
+
+## [Date: 2026-05-23] - MVHR and Electrical Integration Expansion
+**Context:** `research/mvhr-research.md` identified that an airtight woodworking workshop requires decoupled ventilation, multi-stage filtration, pressure-balance management, Part F commissioning, and COSHH-aware LEV maintenance.
+**Decision:** Add a dedicated dMVHR strategy to the Master Plan: Zehnder ComfoAir 70-class enthalpy dMVHR, factory-cut sleeve, G4/F7 inline extract filtration, optional HEPA/carbon stage, ambient filtration, closed-loop dust extraction, and explicit makeup-air requirement for any future outdoor exhaust mode. Expand electrical schedule with separated RCBOs for machines, heating, IR/controls, MVHR/filtration, and sockets.
+**Result:** The plan now preserves airtightness and pressure balance while providing fresh air, humidity control, and dust-core protection. Execution now requires Part F/BPEC balancing and filter/LEV maintenance logging.

@@ -193,20 +193,52 @@ A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the 
 | **Primary Occupant Heat** | 1.2kW Far-Infrared (FIR) Ceiling Panel | Suspended from ceiling joists over workbench | Switched on upon entry for weekend work. Provides instant radiant warmth directly to the user's body without waiting for room air to heat. | 1 panel |
 | **Dehumidification** | Smart Compressor Dehumidifier (e.g., MeacoDry Arete 1 12L) | Freestanding on floor. Relies on internal 2.5L-5L tank with Wi-Fi push notifications to the user's phone. | **Zero VCL Penetrations:** Because the Passivhaus envelope is airtight, moisture ingress from the outside is near zero. Once the initial construction moisture is extracted, the unit will rarely run when the room is unoccupied, making manual emptying highly infrequent. | 1 unit |
 
+### 4.2 Ventilation, Humidity Control & MVHR Strategy
+
+**Objective:** Provide controlled fresh air without defeating the airtight envelope, while preventing wood dust and VOCs from blinding the heat exchanger core. The workshop ventilation must be completely independent from the dwelling; it must never be connected to a whole-house MVHR loop.
+
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
+| :--- | :--- | :--- | :--- | :--- |
+| **Decentralized MVHR Unit** | Zehnder ComfoAir 70 or equivalent enthalpy dMVHR; nominal max flow ~70m³/h class | Factory pre-cut circular wall sleeve through SIP; sleeve sealed to VCL with Pro Clima tape and external EPDM-compatible flashing | Continuous balanced supply/extract ventilation with heat recovery. Enthalpy core is preferred because it recovers moisture, avoids a condensate drain penetration, and stabilizes timber equilibrium moisture content. | 1 unit |
+| **MVHR Wall Sleeve & Airtight Collar** | Manufacturer sleeve, approx. 250mm core-hole class; length matched to SIP + wood fibre + rainscreen buildup | Factory-cut before SIP delivery; do not site-core through splines | Preserves structural integrity and airtightness at the only intentional ventilation penetration. | 1 sleeve assembly |
+| **MVHR Extract Pre-Filter Box** | Galvanized inline filter box, oversized relative to duct diameter; G4/ISO Coarse disposable pre-filter | Installed on the stale-air extract path before the dMVHR core; accessible service hatch | Sacrificial coarse dust barrier. Protects the heat exchanger from sawdust accumulation and reduces fire/fungal contamination risk. | 1 unit + spare filters |
+| **Fine Dust Filter Stage** | F7 / ISO ePM1 pocket or bag filter in inline housing | Downstream of G4 pre-filter, before dMVHR extract inlet | Captures fine and respirable wood dust that bypasses source extraction. Prevents filter blinding and maintains airflow balance. | 1 unit + spare filters |
+| **Optional VOC / HEPA Stage** | H13 HEPA + activated carbon module | Installed only if static pressure remains within dMVHR fan limits | Provides additional control for finishing fumes and sub-micron particles. Must not be used if it causes unacceptable fan pressure drop. | 1 optional module |
+| **Ambient Air Filtration** | Ceiling-mounted recirculating air cleaner or DIY MERV 13 deep-pleat filter box | Suspended from ceiling or wall-mounted clear of machine travel paths | Secondary filtration for airborne dust that escapes tool source capture; runs during and after sanding/cutting. | 1 unit |
+
+**Ventilation Rate Basis:** The revised internal volume is approximately **32m³** (3.05m x 5.05m x ~2.08m average clear height). Standby ventilation at 0.5-1 ACH requires **16-32m³/h**. Active occupancy/general dilution at 2 ACH requires **~64m³/h**, which is within the practical range of a 70m³/h class dMVHR. Higher woodworking dust loads must be handled by closed-loop extraction and ambient filtration, not by increasing MVHR flow beyond its design range.
+
+**Pressure Balance Rule:** The fixed dust extractor must recirculate filtered air back into the workshop. Do not exhaust the primary dust collector outdoors; doing so would depressurize the airtight envelope, stall the dMVHR fans, and pull damp coastal air through uncontrolled leakage paths. If spray finishing or solvent work requires outdoor exhaust, install an interlocked motorized makeup-air damper and treat that operation as a separate, temporary purge mode.
+
+**Commissioning Rule:** A BPEC/Part F competent engineer must measure and balance actual supply and extract rates with a calibrated anemometer. Target settings: **Standby 16-32m³/h**, **Occupied 60-70m³/h**, with filter pressure drop checked after initial dusty commissioning.
+
 ---
 
-## 5. Electrical & Dust Integration 
+## 5. Electrical, Ventilation & Dust Integration 
 
 ### 5.1 Circuit Schedule & Ducting Geometry
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | **Machine Breakers** | 20A **Type C** RCBOs | Mounted in workshop Consumer Unit | Type C magnetic trip curve withstands the 100A+ inrush surge of 3HP induction motors without nuisance tripping. | 4 units |
+| **Dedicated Heating RCBO** | 16A Type B RCBO for 3kW Electric Flow Boiler | Workshop consumer unit, labelled circuit | Separates steady heating load from high-inrush machinery circuits. | 1 unit |
+| **IR Panel / Controls RCBO** | 10A Type B RCBO | Workshop consumer unit with local fused spur/timer | Supplies the 1.2kW IR panel, thermostatic controls, and low-load heating controls. | 1 unit |
+| **MVHR / Filtration RCBO** | 6A Type B RCBO | Workshop consumer unit with local lockable isolator adjacent to dMVHR | Keeps life-safety/background ventilation independent from machine circuits; allows filter servicing isolation. | 1 unit |
 | **Sockets** | IP66 Double Switched 13A | Surface mounted to Fermacell | Flap-covers prevent conductive wood dust from bridging internal contacts (fire prevention). | ~6 units |
+| **Airtight Back Boxes** | Airtight surface or grommeted back boxes | Mounted within 25mm service cavity without piercing SIP skin | Preserves the internal air barrier while allowing cable distribution. | ~8 units |
 | **Extraction Trunk** | 100mm Rigid Galvanized Steel Ducting | Rubber-lined acoustic pipe clamps to ceiling | Smooth bore maintains 25 m/s air velocity; metal prevents static electricity sparks (unlike PVC). | ~10 linear meters |
 | **ATEX Grounding** | Copper Earth Bonding Strap | Bolted to metal ducting and wired to the workshop's earth terminal | **Explosion Prevention:** Safely grounds the static charge generated by fast-moving dust particles in the metal duct. | 1 unit + Earth Cable |
 | **Blast Gates** | 100mm Cast Aluminum body with steel slider | Hose-clamped onto vertical machine drops | Maximizes static pressure by isolating idle branches. | 3 units |
 | **Extractor Unit** | Internal Recirculation HEPA/Cyclone Extractor | Freestanding on 15mm SBR rubber isolation pads | Captures fine hardwood dust (<PM2.5) safely inside the airtight envelope without exhausting heated Passivhaus air outside. | 1 unit |
+| **MVHR Control Wiring** | Low-voltage controller / boost switch / humidity sensor cabling | Routed within service cavity to dMVHR controller | Allows standby/occupied boost modes without penetrating the VCL. | 1 control set |
+| **Makeup Air Interlock Provision** | Spare relay way and labelled containment for future motorized damper | Consumer unit / controls enclosure; not normally connected | Reserved only for future solvent/spray purge mode if outdoor exhaust is later added. Prevents uncontrolled depressurization. | 1 spare provision |
+
+### 5.2 Electrical Zoning & Operating Logic
+
+*   **Background Mode:** dMVHR runs continuously at 16-32m³/h, UFH maintains 12-14°C, dehumidifier operates only on humidistat demand, and no dust extractor exhausts outdoors.
+*   **Occupied Woodworking Mode:** dMVHR boosts to 60-70m³/h, recirculating HEPA/cyclone extractor runs with machines, ambient air cleaner runs continuously, and blast gates isolate inactive branches.
+*   **Finishing / VOC Mode:** Avoid solvent spraying in the sealed workshop where possible. If unavoidable, use a temporary purge protocol with interlocked makeup air; do not rely on the dMVHR core to process concentrated solvent vapours.
+*   **Electrical Separation:** High-inrush induction motors, heating, MVHR/controls, and general sockets must be on separately labelled RCBO circuits to prevent nuisance trips from disabling background ventilation or freeze protection.
 
 ---
 
@@ -214,6 +246,9 @@ A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the 
 *   **Transportation Logistics:** Narrow rural roads on the Isle of Wight require a "shuttle" service. SIP panels must be transferred to smaller rigid vehicles from articulated lorries for the final mile. Ferry costs via Yarmouth (e.g., Wightlink) must be factored in. Sourcing from New Forest SIPs (Lymington) minimizes overall transit compared to national suppliers.
 *   **Fire Safety Boundary Compliance:** Approved Document B updates mandate that structures <1m from a boundary must be built with "substantially non-combustible materials". OSB-faced SIPs are not inherently non-combustible (Class 3 spread of flame). The specified 15mm Fermacell internal boarding acts as the equivalent of Type F fire-rated plasterboard to achieve the required REI30/REI60 rating.
 *   **Moisture Management:** The high salt content and wind-driven rain in Cowes mean OSB SIP skins can degrade rapidly if exposed during the build. The Tyvek breather membrane MUST be applied immediately after erection.
+*   **MVHR Contamination Risk:** Wood dust must be intercepted before it enters the dMVHR core. Failure to maintain G4/F7 pre-filtration will reduce heat recovery, increase fan load, and create a combustible dust reservoir inside the ventilation path.
+*   **Pressure Imbalance Risk:** Outdoor-exhaust dust collection is prohibited unless paired with interlocked makeup air. Otherwise the airtight structure will be depressurized, drawing damp air through joints and risking interstitial condensation.
+*   **COSHH / Part F Compliance:** If used commercially, LEV controls require documented inspection and Thorough Examination and Test at 12-14 month intervals. Mechanical ventilation must be commissioned and balanced for Part F compliance by a competent person.
 
 ---
 
