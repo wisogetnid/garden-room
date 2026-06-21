@@ -177,7 +177,14 @@
 - **Hand-off to @strategist:** @strategist, please run tests verifying the continuous thermal envelope with the new XPS Skirt inclusion.
 
 ## Date: 2026-06-21
-**Architect Notes: Document Inaccuracies & Contradictions Addressed**
+**Architect Notes: Master Plan Internal Contradiction Fixes**
+- **Trigger:** Cross-agent review flagged four specific, internal mechanical/mathematical contradictions within the Master Plan.
+- **Action Taken:**
+  1. **Anchor Bolt Length Deficit:** The previous 250mm anchor bolts were mathematically exhausted by the 100mm concrete embedment and 150mm Compacfoam block, leaving no thread for the sole plate. Upgraded hardware spec to **330mm long M12 Threaded Studs** (cut from standard 1m lengths) to provide ample thread for the timber sole plate, washer, and nut.
+  2. **Compacfoam Width Mismatch:** The CF200 block was listed as 140mm wide, creating a 10mm overhang under the 150mm SIP. Updated the Compacfoam spec to **150mm x 150mm** to perfectly match the SIP base profile.
+  3. **Volume & Height Recalculation:** Section 4.2 still relied on legacy ceiling heights (2.08m average) yielding 32m³. Updated the math to reflect the newly reclaimed ceiling height (~2.21m average). The true internal volume is now formally updated to **~34m³**, pushing the 2 ACH requirement up to ~68m³/h.
+  4. **MVHR Filter Incompatibility:** The plan erroneously mandated ducted "inline filter boxes" alongside a ductless, through-wall "Zehnder ComfoAir 70" unit. Removed the physically impossible inline filters. Added an explicit instruction to rely exclusively on OEM G4/F7 replacement cassettes for the through-wall unit, relying on the ceiling-mounted ambient air filter to handle the room's heavy woodworking dust.
+- **Hand-off:** Blueprint is mathematically and mechanically sound.
 - **Trigger:** Cross-agent review flagged discrepancies between the Master Plan and the Workplan.
 - **Action Taken:**
   1. **Door Dimensions:** The Workplan erroneously retained the old 1400mm x 2000mm door dimension. Updated `plans/WORKPLAN.md` to reflect the reclaimed headroom geometry: **1400mm x 2150mm**.
