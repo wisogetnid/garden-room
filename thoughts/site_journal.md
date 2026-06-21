@@ -73,4 +73,57 @@
   - Section 2.4: Updated roof fall setup table to specify 100mm glass tissue-faced PIR.
   - Section 7.1: Roof target U-value of 0.13 W/m²K remains, but achieved U-value is optimized from ~0.12 to **~0.11 W/m²K**. Added notes about glass tissue-facing and spline thermal-break capping.
   - Section 7.2: Recalculated fabric heat loss. Gross wall area is updated to ~36.91m² and opaque wall area to ~29.91m² due to wall height reduction. Recalculated roof heat loss to 2.05 W/K. Corrected Total Fabric Loss to **16.54 W/K** (down from 16.78 W/K) and Total Heat Transfer Coefficient (HTC) to **~21.04 W/K** (down from 21.28 W/K). Adjusted annual thermal demand to **757 kWh/year** (down from 766) and annual running cost to **£185.47/year**.
-- **Hand-off to @foreman:** The site manager must now rework `plans/WORKPLAN.md` (the physical build sequence, deliveries, weights, lifting considerations, and height metrics) to ensure complete alignment with these new specifications.
+## Date: 2026-06-20
+**Architect Notes: Dry Moat Strategy & 150mm Headroom Reclamation**
+- **User Request:** Sink the entire slab structure 150mm using a "dry moat" strategy to make the finished top of the concrete flush with the garden lawn, thereby reclaiming 150mm of internal headroom under the 2.5m Permitted Development limit.
+- **Master Plan Update:**
+  - Section 1.1: Replaced "150mm exposed splash zone" with "Dry Moat Strategy & Excavation Depth". The MOT Type 1, blinding sand, and XPS tub must be sunk an additional 150mm.
+  - Section 1.3: Updated the splash margin to explicitly mention the "Moat" and added a Terram 1000 Geotextile Buffer instruction. Updated the waterproofing sweep to require the DPM/EPDM skirt to drop down the external SIP wall and sweep horizontally across the top of the newly formed 350mm flat XPS projection, carved with a slight outward fall.
+  - Section 2.3.2: Re-calculated height physics. Splash zone is now 0mm (flush with garden lawn). Max 'High-Side' wall height increased by 150mm to **2261.5mm**. 'Low-Side' wall height increased to **2204.3mm**.
+  - Section 2.3.2 (Internal ceiling height): Internal ceiling heights increased to an ergonomic **~2239mm** (high side) and **~2182mm** (low side).
+  - Section 2.3.2 (Opening datums): Updated the theoretical maximum structural opening datums to **2150mm** and **2100mm**.
+  - Section 2.5: Re-specified glazing/door schedules to take advantage of the recovered height. The door and West fixed windows are now **2150mm top datum**. The North/South/East clerestory windows have been restored to a **2100mm top datum** (1800mm bottom sill).
+- **Hand-off to @foreman:** @foreman, you must now rework `plans/WORKPLAN.md` to reflect the updated excavation depth, new moat/drainage sequence (geotextile buffer, outward fall on XPS projection), and updated structural heights/lifting logistics.
+- **Hand-off to @strategist:** @strategist, please run the tests and validate this updated Master Plan against constraints (the 'Red Line' test, sequence logic, and PD limits).
+
+## Date: 2026-06-20
+**Architect Notes: Strategist Validation Fixes & Red Line Reversal**
+- **Validation Results Review:** The strategist flagged three critical conflicts. 1) Sinking the slab violates the 150mm *elevated* splash zone requirement in `001_foundation_strategy.md`. 2) The Compacfoam thermal break was only specified at the door threshold, causing a 'Red Line' failure. 3) The Workplan leaves SIPs exposed for 3 weeks, failing the weather-tight protocol.
+- **Master Plan Updates (Initial):**
+  - Added an **[OPEN RISK FLAG]** to Section 1.1 regarding the elimination of the 150mm elevated splash zone, officially highlighting the moisture bridging risk of the Dry Moat strategy.
+  - Section 1.3: Upgraded the **Compacfoam CF200** block from a 2-meter door threshold patch to an **~18 linear meter Continuous Perimeter Bearing** to support the SIP sole plate and close the thermal 'Red Line' gap.
+- **Hand-off to @foreman:** Handed over to the foreman to fix the Workplan timeline issues identified by the Strategist and integrate the continuous Compacfoam thermal break. The Foreman completed this.
+- **Master Plan Update (Reversal):**
+  - **User Catch:** The user correctly identified that the continuous Compacfoam perimeter is physically redundant. Because the 50mm external wood fibre extends down and overlaps the JACKODUR XPS upstand, the entire concrete slab is effectively wrapped *inside* the thermal envelope. Placing the sole plate directly on the concrete edge does not create a cold bridge to the outside, as the outside is already sealed.
+  - Section 1.3 reverted: The Compacfoam CF200 block is returned to a ~2 linear meter patch explicitly for the **Door Threshold Bearing**. At the door threshold, the XPS upstand is cut away for level access, exposing the concrete to the outside patio, making the Compacfoam essential *only* in that location.
+- **Workplan Reversal:** `plans/WORKPLAN.md` has been manually corrected by the Architect to remove the ~18m structural epoxy bedding of Compacfoam on Mid-Week prep, reverting to just the threshold.
+
+## Date: 2026-06-20
+**Architect Notes: The SIP XPS Plinth (Moisture Defence)**
+- **User Insight:** The user suggested replacing the bottom 150mm of the hygroscopic Wood Fibre external insulation with impermeable XPS.
+- **Physics Validation:** This is a structurally brilliant upgrade. Because the foundation is sunk into a Dry Moat, the bottom edge of the external insulation sits below the natural ground level. Wood fibre acts like a sponge and is highly susceptible to latent moat humidity and pooling failure. XPS is closed-cell, completely hydrophobic, and immune to moisture degradation.
+- **Master Plan Update:**
+  - Section 1.3: Replaced the bottom 150mm of the Wood Fibre thermal overlap with a **Rot-Proof XPS Plinth** (50mm thick x 150mm high XPS strip) mechanically fixed directly to the base of the external OSB SIP skin.
+  - The EPDM/DPM Waterproofing Sweep now drops down the face of this XPS Plinth before sweeping across the moat.
+  - The Wood Fibre starts strictly above the 150mm XPS Plinth.
+  - Updated the textual cross-section to reflect this change.
+- **Hand-off to @foreman:** Handing over to the foreman to update `plans/WORKPLAN.md`. The Weekend 8 Sunday Lockdown sequence needs to be adjusted so the 150mm XPS Plinth strip is installed at the base of the walls before the Wood Fibre is applied.
+## Date: 2026-06-20
+**Foreman Notes: Workplan Alignment & Strategist Validation Fixes**
+- **Trigger:** @architect updated Master Plan with a 150mm Dry Moat strategy and full perimeter Compacfoam CF200 thermal break. @strategist validation flagged critical failures in the Workplan regarding naked OSB exposure and continuous thermal breaks.
+- **Action Taken:** `plans/WORKPLAN.md` has been completely synchronized with the new Master Plan constraints.
+  - **Excavation Update:** Increased total excavation depth to **500mm** to sink the 150mm MOT, 50mm sand, and 150mm XPS flush with the lawn. Adjusted waste skip calculations to account for the ~12.3m³ of soil to be removed manually (~18.5 tonnes).
+  - **Thermal Break Continuity:** Weekend 8 prep now mandates bedding the **Compacfoam CF200 block continuously** around the entire 17.7m perimeter using structural epoxy, creating a 100% thermal break under the sole plate and fixing the 'Red Line' failure.
+  - **Zero-Delay Protocol (Weather-Tight Fix):** Brought forward the application of the 50mm Rigid Wood Fibre and Tyvek breather membrane to **Weekend 8 Sunday Lockdown**. Naked OSB SIPs are no longer left under tarps for 3 weeks; they are wrapped in Wood Fibre and Tyvek the exact same weekend the walls go up. This closes the weather-tight failure.
+  - **Moat Drainage Execution:** Weekend 10 now instructs the DIYer to carve a slight outward fall into the 350mm flat XPS projection, drop the EPDM/DPM skirt across it, lay the Terram 1000 buffer, and backfill with 20mm washed gravel to create the flush Dry Moat splash margin.
+  - **Height Synchronization:** Adjusted wall plate delivery checks and Sunday ceiling height checks to reflect the recovered +150mm headroom. Max High-Side wall is now verified at **2261.5mm** with a finished ceiling of **2239mm**.
+- **Hand-off:** All Workplan conflicts are resolved. The build logistics now match the structural physics and validation constraints.
+
+## Date: 2026-06-21
+**Foreman Notes: Integration of Rot-Proof XPS Plinth into Workplan**
+- **Trigger:** @architect updated the Master Plan with a new "XPS Plinth" detail to protect the base of the timber frame from the dry moat's humidity. 
+- **Action Taken:** `plans/WORKPLAN.md` has been updated in the "Weekend 8: Sunday Lockdown & Weatherproofing" section.
+  - Added instructions to mechanically fix a 50mm thick x 150mm high XPS Plinth to the bottom edge of the external OSB SIP skin.
+  - Ensured this step happens *before* installing the 50mm Rigid Wood Fibre, which now sits directly on top of the XPS Plinth.
+  - Added strict airtightness continuity and weather-tightness instructions: the Tyvek breather membrane must be taped perfectly over the Wood Fibre-to-XPS Plinth joint, down the plinth face, and sealed to the rendered JACKODUR® upstand using Tescon Vana.
+- **Hand-off:** Workplan is secure and accurately reflects the moisture defence requirements for the 9-5 DIYer.

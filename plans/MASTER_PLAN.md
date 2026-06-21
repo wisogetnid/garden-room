@@ -43,6 +43,8 @@ layout: default
 
 ### 1.1 Groundworks & Slab Execution
 
+**Dry Moat Strategy & Excavation Depth:** The MOT Type 1, blinding sand, and JACKODUR® Atlas tub must be sunk an additional 150mm. This ensures the finished top of the concrete slab is dead flush with the existing garden lawn level, allowing for increased internal headroom while remaining under the 2.5m Permitted Development limit. **[OPEN RISK FLAG: Sinking the slab eliminates the 150mm elevated splash zone above the garden lawn, increasing the risk of moisture bridging to the timber frame despite the dry moat.]**
+
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | **Geotextile Membrane** | Non-woven (e.g., Terram 1000) | Loose laid directly on excavated subgrade, 300mm overlapped seams | **Separation & Filtration:** Prevents the MOT Type 1 aggregate from sinking into the clay/soil over time, which would cause the slab to settle unevenly. | 1 Roll (4.5m x 10m) |
@@ -60,12 +62,15 @@ layout: default
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Perimeter Splash Margin** | 400mm Wide Gravel Border | Pour 20mm washed gravel into the existing 400mm over-excavation gap | Absorbs rain kinetic energy to prevent mud splashing onto the cladding, while draining surface water into the MOT. No extra digging required. | ~2.5 Bulk Bags (~2.1 tonnes) |
-| **2. Upstand Waterproofing**| Flexible Polymer-Cement Render | Trowelled over the exposed JACKODUR® upstand | Protects the XPS from UV degradation and mechanical damage above ground. | 1x 25kg bag |
-| **3. Base Drip Flashing** | Stainless Steel Drip Profile | Screwed through the Tyvek directly into the Wood Fibre/SIP base. Tyvek overlaps the top lip. | Kicks water completely away from the XPS upstand. Creates the solid baseline for the battens to sit on. | ~17.7 linear meters |
-| **3a. Rainscreen Bug Mesh** | Perforated Aluminium Vent Trim | Stapled across the bottom 25mm gap between the vertical battens | Allows the 25mm rainscreen cavity to breathe and drain while permanently blocking wasps and vermin. | ~17.7 linear meters |
-| **4. Thermal Overlap** | 50mm Wood Fibre External Insulation | Extended downwards to cover the top 50mm of the JACKODUR® XPS upstand | **'Red Line' Continuity:** Locks the wall insulation directly to the foundation insulation, eliminating the cold bridge at the slab edge. | ~39m² coverage |
-| **5. Structural Thermal Break**| **Compacfoam CF200** Block | 140mm x 50mm, sits precisely on the concrete edge | **Door Threshold Bearing:** Supports the heavy door frame while maintaining the thermal break where the XPS upstand is cut away for level access. | ~2 linear meters |
+| **1. Perimeter Splash Margin & Dry Moat** | 400mm Wide Gravel Border in Moat | Pour 20mm washed gravel into the existing 400mm over-excavation gap above the XPS shelf | Absorbs rain kinetic energy to prevent mud splashing onto the cladding, while draining surface water into the MOT. | ~2.5 Bulk Bags (~2.1 tonnes) |
+| **1a. Geotextile Buffer** | Terram 1000 Strip | Laid over the horizontal waterproofing in the moat | Placed before the 20mm washed gravel is poured, preventing the stones from puncturing the waterproofing membrane or the XPS foam. | 1 Roll |
+| **2. Edge Parging**| Flexible Polymer-Cement Render | Trowelled over the outer vertical edge of the 350mm XPS shelf | Applied to the outer edge of the XPS shelf facing the garden soil to prevent rodent damage and UV degradation. | 1x 25kg bag |
+| **2a. Waterproofing Sweep** | 1200g DPM or EPDM Skirt | Dropped down the face of the XPS Plinth, covering the 90-degree internal corner, sweeping across top of the flat 350mm XPS projection | Stops moisture bridging. A slight outward fall must be carved into the top of the XPS shelf before application. | 1 Roll |
+| **3. Rot-Proof XPS Plinth** | 50mm thick x 150mm high XPS Strip | Mechanically fixed to the bottom 150mm of the external SIP OSB skin, resting directly on the DPC/concrete edge | **Moisture Defence:** Replaces the bottom 150mm of hygroscopic wood fibre. Impermeable layer isolating the SIP base from latent dry moat humidity. | ~17.7 linear meters |
+| **3a. Base Drip Flashing** | Stainless Steel Drip Profile | Screwed through the Tyvek directly into the XPS Plinth. Tyvek overlaps the top lip. | Kicks water completely away from the base junction. Creates the solid baseline for the battens to sit on. | ~17.7 linear meters |
+| **3b. Rainscreen Bug Mesh** | Perforated Aluminium Vent Trim | Stapled across the bottom 25mm gap between the vertical battens | Allows the 25mm rainscreen cavity to breathe and drain while permanently blocking wasps and vermin. | ~17.7 linear meters |
+| **4. Thermal Overlap** | 50mm Wood Fibre External Insulation | Mechanically fixed; starts strictly above the 150mm XPS Plinth | **'Red Line' Continuity:** Completes the thermal envelope above the splash zone. The concrete itself remains entirely inside the combined XPS/Wood Fibre thermal envelope. | ~36m² coverage |
+| **5. Structural Thermal Break**| **Compacfoam CF200** Block | 140mm x 50mm, sits precisely on the concrete edge | **Door Threshold Bearing:** Supports the heavy door frame while maintaining the thermal break specifically where the XPS upstand is cut away for level access. | ~2 linear meters |
 | **5a. Flush Threshold Drainage**| Aco HexDrain Channel | Set flush with external patio level | Intercepts water before it can pool against the door threshold. | ~2 linear meters |
 | **5b. Liquid Moisture Barrier**| RIW Flexiseal | Liquid-applied over threshold junction | Impermeable seal to stop water wicking into the timber at the flush threshold. | 1 tin |
 | **6. DPM / DPC Lapping** | 1200-gauge DPM & Polymeric DPC | DPM folded over slab edge, lapped beneath DPC by min 100mm, sealed with Butyl Tape | Completely seals the concrete slab moisture away from the SIP OSB skins and timber sole plate. | 1 Roll DPC |
@@ -73,7 +78,7 @@ layout: default
 | **8. SIP to Plate Seal** | Expanding PU Foam & Sealant | Injected into the SIP rebate before dropping over the sole plate | Creates a permanent foam-to-timber airtight and thermal seal at the foundation junction. | 4 tubes |
 
 **Textual Cross-Section Description (Outside to Inside at Floor Level):**
-*(Outside)* 20mm Washed Gravel Splash Margin -> JACKODUR® XPS Upstand (Rendered) -> Stainless Drip Flashing (screwed to Wood Fibre) -> Perforated Bug Mesh -> 25mm Batten -> Tyvek Breather Membrane -> 50mm Wood Fibre Insulation (overlapping XPS) -> 150mm New Forest SIP Base Wall Panel (Outer skin bearing on concrete edge) dropped over Pre-Machined Timber Sole Plate -> Polymeric DPC bonded to 1200g DPM -> 150mm Concrete Slab with single A252 mesh and zip-tied 16mm PEX pipe. *(Inside)*
+*(Outside)* 20mm Washed Gravel Moat -> EPDM Sweep -> Stainless Drip Flashing -> Perforated Bug Mesh -> 25mm Batten -> Tyvek Breather Membrane -> 50mm x 150mm XPS Plinth (replacing base of Wood Fibre) -> 150mm New Forest SIP Base Wall Panel (Outer skin bearing on concrete edge) dropped over Pre-Machined Timber Sole Plate -> Polymeric DPC bonded to 1200g DPM -> 150mm Concrete Slab with single A252 mesh and zip-tied 16mm PEX pipe. *(Inside)*
 
 **CRITICAL VAPOUR INSTRUCTION:** SIP panels MUST be ordered WITHOUT a factory-fitted breather membrane. The Tyvek is applied solely over the external Wood Fibre layer to prevent trapping moisture between two membranes.
 
@@ -119,18 +124,19 @@ layout: default
 **Objective:** Maintain strict compliance with the **≤ 2.5m Permitted Development** height limit while maximizing internal headroom. The 1:60 roof fall is built into the SIP roof support geometry and oriented across the short nominal **3.6m width** (rather than the 5.6m length) to minimize the total roof drop to just 57mm (3430 ÷ 60 = 57.2mm).
 
 *   **External Height Physics (The 2.5m Limit):**
-    *   Exposed Concrete Splash Zone: 150mm
-    *   Maximum 'High-Side' Wall Height: **2111.5mm**
-    *   Low-Side Wall Height: 2111.5mm - 57.2mm fall = **2054.3mm**
+    *   Exposed Concrete Splash Zone: 0mm (Slab is sunk 150mm, flush with garden lawn)
+    *   Maximum 'High-Side' Wall Height: **2261.5mm**
+    *   Low-Side Wall Height: 2261.5mm - 57.2mm fall = **2204.3mm**
     *   Total Roof Buildup: **238.5mm** (1.5mm EPDM + 100mm flat tissue-faced PIR + 122mm true SIP + 15mm Fermacell)
     *   **Total Maximum External Height:** 2500mm high side / **2442.8mm** low side (Legal Pass)
 *   **Internal Ceiling Heights (accounting for 22mm hard-bonded flooring):**
-    *   **High Side:** 2111.5mm wall - 22mm floor = **2089.5mm (approx. 6 ft 10.3 in)**
-    *   **Low Side:** 2111.5mm - 57.2mm drop = 2054.3mm wall. 2054.3mm - 22mm floor = **2032.3mm (approx. 6 ft 8.0 in)**
+    *   **High Side:** 2261.5mm wall - 22mm floor = **~2239mm (approx. 7 ft 4 in)**
+    *   **Low Side:** 2261.5mm - 57.2mm drop = 2204.3mm wall. 2204.3mm - 22mm floor = **~2182mm (approx. 7 ft 2 in)**
+*   **Ergonomic Comfort:** Sinking the slab allows ordering the wall SIPs 150mm taller. This provides plenty of clearance for flipping sheet goods, maneuvering long boards, and safely hanging an ambient air filter without risking a head strike.
 *   **Structural Note:** Orienting the fall across the 3.6m width preserves usable headroom across the 5.6m length. The **West façade must be assigned as the high-side wall** because it contains the door and large panorama glazing.
 *   **Opening Validation Rule:** Maintain a minimum **~80mm - 90mm structural head zone** between the top of any factory-cut opening and the underside of the sloped roof SIP/top-plate bearing zone. This is fully validated as the SIP's engineered skins act as a continuous structural lintel.
-    *   High-side West wall maximum finished opening top datum: 2111.5mm wall - 22mm finished floor - 89.5mm head zone = **2000mm**. Adopt **2000mm** maximum finished opening top datum.
-    *   Low-side/East or sloped end-wall maximum finished opening top datum: 2054.3mm wall - 22mm finished floor - 82.3mm head zone = **1950mm**. Adopt **1950mm** maximum finished opening top datum.
+    *   High-side West wall maximum finished opening top datum: 2261.5mm wall - 22mm finished floor - 89.5mm head zone = **2150mm**. Adopt **2150mm** maximum finished opening top datum.
+    *   Low-side/East or sloped end-wall maximum finished opening top datum: 2204.3mm wall - 22mm finished floor - 82.3mm head zone = **2100mm**. Adopt **2100mm** maximum finished opening top datum.
 
 ### 2.4 Flat Roof Drainage & Rainwater Harvesting (The Water Butt Strategy)
 **Objective:** A 18.6m² flat roof in Cowes will collect approximately 15,000 liters of water annually. Unmanaged runoff cascading off the roof will instantly overwhelm the local perimeter french drain.
@@ -148,15 +154,15 @@ layout: default
 **Objective:** Provide secure entry and natural light while maintaining Passivhaus Q50 airtightness testing standards and rigorous acoustic dB reduction.
 *   **Window Specification:** All windows must utilize Vacuum-Insulated Glazing (VIG) housed within uPVC frames for maximum thermal efficiency and acoustic dampening.
 *   **Window Schedule:** 
-    *   **North Elevation (Short Wall):** 1x 300x1500mm Fixed Clerestory VIG uPVC window; top datum **1950mm FFL**, bottom sill **1650mm FFL**.
-    *   **South Elevation (Short Wall):** 1x 300x1500mm Fixed Clerestory VIG uPVC window; top datum **1950mm FFL**, bottom sill **1650mm FFL**.
-    *   **East Elevation (Long / Low-Side Wall):** 2x 300x1500mm Fixed Clerestory VIG uPVC windows (evenly spaced); top datum **1950mm FFL**, bottom sill **1650mm FFL**.
-    *   **West Elevation (Visible / High-Side Façade):** 2x **1200x1000mm** Fixed VIG uPVC windows + 1x **1400mm x 2000mm** Asymmetric 1.5 Door.
-*   **Clerestory Placement Logic:** The 300x1500mm fixed windows must be factory-cut into the SIPs with a **1950mm top datum**. This Passivhaus optimization (fixed panes = zero air leakage) relies entirely on the dMVHR for ventilation, while retaining 1650mm of uninterrupted wall height below for tool racks and machinery. The former 2100mm datum is no longer compatible with the sloped-SIP/50mm-PIR roof buildup.
+    *   **North Elevation (Short Wall):** 1x 300x1500mm Fixed Clerestory VIG uPVC window; top datum **2100mm FFL**, bottom sill **1800mm FFL**.
+    *   **South Elevation (Short Wall):** 1x 300x1500mm Fixed Clerestory VIG uPVC window; top datum **2100mm FFL**, bottom sill **1800mm FFL**.
+    *   **East Elevation (Long / Low-Side Wall):** 2x 300x1500mm Fixed Clerestory VIG uPVC windows (evenly spaced); top datum **2100mm FFL**, bottom sill **1800mm FFL**.
+    *   **West Elevation (Visible / High-Side Façade):** 2x **1200x1000mm** Fixed VIG uPVC windows + 1x **1400mm x 2150mm** Asymmetric 1.5 Door.
+*   **Clerestory Placement Logic:** The 300x1500mm fixed windows must be factory-cut into the SIPs with a **2100mm top datum**. This Passivhaus optimization (fixed panes = zero air leakage) relies entirely on the dMVHR for ventilation, while retaining 1800mm of uninterrupted wall height below for tool racks and machinery. The dry moat strategy successfully restored the ability to use a 2100mm datum.
 *   **West Façade 'Workbench Panorama' Layout:** To future-proof for a home office, the 5.6m West wall utilizes an asymmetric zoning layout and must be the **high-side wall** of the roof slope. The West facade retains the horizontal '400mm Architectural Rhythm'. The 1400mm door is offset, anchored by a 400mm solid SIP corner on the far right and a 400mm SIP column on the left. The two 1200mm-wide fixed windows follow immediately, separated by a 400mm SIP mullion, leaving a ~430mm solid SIP wall on the far left. 
-    *   *Revised Vertical Datum:* The door and West window heads align at **2000mm FFL**, preserving ~111mm of structural head zone above the openings. The revised 1200x1000mm fixed windows place the bottom sills at **1000mm FFL**, allowing a standard 900mm-high workbench or desk to sit beneath the glass with ~100mm clearance.
+    *   *Revised Vertical Datum:* The door and West window heads align at **2150mm FFL**, preserving ~89.5mm of structural head zone above the openings. The revised 1200x1000mm fixed windows place the bottom sills at **1150mm FFL**, allowing a standard 900mm-high workbench or desk to sit beneath the glass with ~250mm clearance.
 *   **French Doors Forbidden:** Traditional French doors are strictly prohibited. They inherently fail Passivhaus airtightness standards and acoustic reduction due to the lack of a central mullion, leading to air and noise leakage down the meeting stiles.
-*   **Approved Mechanisms:** Specify a **1400mm x 2000mm maximum outer-frame-height Asymmetric 1.5 Door system** (e.g., a 900mm active leaf combined with a 500mm slave leaf) or a high-performance **Lift-and-Slide door** only if the supplier can keep the total frame height at or below 2000mm FFL. These systems use complex cam-action locks to physically compress robust continuous rubber gaskets, ensuring the thermal and acoustic envelope is not compromised at the entry point.
+*   **Approved Mechanisms:** Specify a **1400mm x 2150mm maximum outer-frame-height Asymmetric 1.5 Door system** (e.g., a 900mm active leaf combined with a 500mm slave leaf) or a high-performance **Lift-and-Slide door** only if the supplier can keep the total frame height at or below 2150mm FFL. These systems use complex cam-action locks to physically compress robust continuous rubber gaskets, ensuring the thermal and acoustic envelope is not compromised at the entry point.
 
 ---
 
@@ -287,4 +293,4 @@ Given the use of a 3kW Internal Electric Flow Boiler with a Coefficient of Perfo
 * **Expected Annual Electrical Input:** 757 kWh of electricity per year.
 * **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£185.47 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
 
-> **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (150mm slab, 150mm splash zone, and Type C induction mapping) have been validated and integrated.
+> **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (150mm slab, dry moat strategy, and Type C induction mapping) have been validated and integrated.
