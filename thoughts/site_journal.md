@@ -99,7 +99,25 @@
 - **Workplan Reversal:** `plans/WORKPLAN.md` has been manually corrected by the Architect to remove the ~18m structural epoxy bedding of Compacfoam on Mid-Week prep, reverting to just the threshold.
 
 ## Date: 2026-06-20
-**Architect Notes: The SIP XPS Plinth (Moisture Defence)**
+**Architect Notes: Roof EPDM Clamping & Fascia Detailing (The "Hard Edge")**
+- **User Query:** If the roof PIR overhangs by 50mm to align with the wood fibre, and the batten/cladding is on the outside, how do we affix the roof EPDM membrane and fascia to create a neat finish?
+- **Physics Validation:** The user is exactly right regarding the Passivhaus geometry (the roof insulation must overhang to cap the wall insulation). However, raw PIR foam has zero structural pull-out strength. You cannot screw a fascia board or an EPDM edge trim into foam; coastal wind uplift will instantly rip it off.
+- **Architectural Solution (The Hard Edge):** 
+  - Instead of allowing the PIR foam itself to overhang, we install a continuous **Treated Timber Hard Edge** around the perimeter of the roof SIPs.
+  - *Dimensional Correction:* The previous note stated a 50mm width, which is physically impossible if the overhang is 86mm (it would be floating in mid-air). 
+  - The timber must be **200mm wide** and **100mm high** (achieved by stacking two 50x200mm treated timbers).
+  - It overhangs the SIP wall by exactly **86mm** (covering the 50mm Wood Fibre + 25mm Batten + 11mm Hardie Plank).
+  - This leaves **114mm** of timber bearing solidly on the roof SIP. Because the wall SIP beneath it is 150mm thick, heavy structural screws can be driven straight down through the 114mm bearing, through the roof SIP, and directly into the structural timber top-plate of the wall. This provides immense cantilever strength.
+  - A Fascia Board (marine ply or UPVC) is screwed into the outward face of this timber block.
+  - The EPDM rolls over this solid timber edge and is mechanically clamped in place using standard Check Kerb Trims (e.g., Sure-Edge).
+- **Master Plan Update:** Updated Section 2.4 to explicitly document the 200mm width, 86mm overhang, and 114mm bearing of the Timber Hard Edge.
+- **User Query:** How is the breather membrane attached to the wood-fibre and XPS boards?
+- **Correction:** The Master Plan incorrectly specified "Stainless staples" for the Tyvek. You cannot staple into 50mm rigid wood fibre or XPS boards; the staples will simply pull out or crush the foam.
+- **Architectural Solution:** 
+  - *Permanent Fixing:* The Tyvek is physically clamped to the building by the 25x50mm vertical rainscreen timber battens. These battens are secured using 120mm EWI (External Wall Insulation) screws that drive through the batten, through the Tyvek, through the 50mm insulation, and anchor deeply into the 15mm OSB skin of the SIP.
+  - *Temporary/Installation Fixing:* To hold the Tyvek up while unrolling it (before the battens are installed), the builder must use wide-headed plastic insulation dowels/washers (e.g., EJOT fixings) driven through the insulation into the OSB. 
+  - *Taping:* The Tyvek is adhered to the XPS plinth and to itself at the overlaps using Pro Clima Tescon Vana acrylic tape.
+- **Master Plan Update:** Section 2.1 (Breather Membrane) updated to remove staples and specify the Batten-Clamping and tape method.
 - **User Insight:** The user suggested replacing the bottom 150mm of the hygroscopic Wood Fibre external insulation with impermeable XPS.
 - **Physics Validation:** This is a structurally brilliant upgrade. Because the foundation is sunk into a Dry Moat, the bottom edge of the external insulation sits below the natural ground level. Wood fibre acts like a sponge and is highly susceptible to latent moat humidity and pooling failure. XPS is closed-cell, completely hydrophobic, and immune to moisture degradation.
 - **Master Plan Update:**

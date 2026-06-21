@@ -95,7 +95,7 @@ layout: default
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Cladding** | James Hardie VL Fibre Cement Plank (11mm, A2 Fire) | Mechanical fixing via Hardie™ Plank Screws (4.2Ø x 40mm, A2 Stainless, T15 Torx). | 'Cowes-Proof' weather shield. Complies with Part B Fire Safety for boundary proximity (Requires A2 non-combustible classification). | ~39m² coverage |
 | **2. Rainscreen Gap / Batten** | 25x50mm Treated Timber @ 400mm centers | 120mm A4 (316) Stainless Steel EWI Screws driven at 60° | Creates a strict **25mm ventilation path** from bottom to top. 400mm centers provides max 2.53 kPa wind load rating for coastal Cowes. | ~180 linear meters |
-| **3. Breather Membrane** | Tyvek UV Facade | Stainless staples; 150mm vertical overlaps | Repels wind-driven rain, allows internal vapour escape. | 1 Roll (50m) |
+| **3. Breather Membrane** | Tyvek UV Facade | **Clamped** by vertical rainscreen battens (permanent); held temporarily by wide-head plastic insulation dowels driven into OSB. Overlaps/XPS sealed with Pro Clima Tescon Vana tape. | Repels wind-driven rain, allows internal vapour escape. | 1 Roll (50m) |
 | **4. External Insulation** | 50mm Rigid Wood Fibre Board | Friction fit; held by batten screws | Unbroken thermal jacket. Chosen for its high specific heat capacity (2,100 J/kgK), providing a massive 'decrement delay' to prevent summer overheating. | ~39m² coverage |
 | **5. Structural SIP Panel** | 150mm New Forest SIP Base Wall Panel | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Acts as the primary load-bearing structure and extreme continuous thermal barrier. | ~39m² wall coverage |
 | **6. Vapour Control Layer** | Pro Clima Intello Plus | Stainless staples; 100mm taped overlaps | Airtightness; stops interstitial condensation. *(Note: The inner OSB skin of the SIP acts as a primary air barrier, but the VCL guarantees Passivhaus airtightness across panel joints).* | 1 Roll (50m) |
@@ -138,13 +138,24 @@ layout: default
     *   High-side West wall maximum finished opening top datum: 2261.5mm wall - 22mm finished floor - 89.5mm head zone = **2150mm**. Adopt **2150mm** maximum finished opening top datum.
     *   Low-side/East or sloped end-wall maximum finished opening top datum: 2204.3mm wall - 22mm finished floor - 82.3mm head zone = **2100mm**. Adopt **2100mm** maximum finished opening top datum.
 
-### 2.4 Flat Roof Drainage & Rainwater Harvesting (The Water Butt Strategy)
+### 2.4 Roof Edge & Fascia Detailing (The "Hard Edge")
+**Objective:** Provide a solid structural perimeter for the overhanging 100mm PIR to allow EPDM membrane clamping and continuous ventilation of the rainscreen cavity, without compromising the thermal envelope.
+
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Structural Hard Edge (The Kerb)** | Treated Timber (100mm high x **200mm wide**). *Execution: Two stacked 50x200mm treated timbers.* | Mechanically fixed with heavy timber screws driven straight down through the roof SIP and into the structural wall top-plate. | Replaces the outermost perimeter of the PIR foam. Foam has zero pull-out strength; this solid 200mm timber block provides massive cantilever strength and a solid anchor for the EPDM trims. | ~18.5 linear meters |
+| **2. Envelope Overhang & Bearing** | Timber Kerb Geometry | Built to overhang the SIP walls by **86mm** (leaving **114mm** of solid bearing resting on the SIP roof panel). | The 86mm overhang precisely covers the 50mm Wood Fibre + 25mm Batten + 11mm Hardie Plank. The 114mm bearing ensures screws hit the solid wall top-plate below. | N/A |
+| **3. Fascia Board** | 18mm Marine Ply or UPVC Fascia | Screwed directly into the outward face of the Timber Hard Edge | Drops down vertically to neatly cover the rainscreen gap and the top edge of the Hardie Planks. | ~18.5 linear meters |
+| **4. EPDM Clamping (High Sides)** | Sure-Edge Check Kerb Trim | Screwed through the EPDM directly into the Timber Hard Edge/Fascia | Mechanically clamps the EPDM over the roof edge to prevent wind-uplift and stops water rolling off the non-draining sides. | ~13 linear meters |
+| **5. Rainscreen Top Vent** | Over-Fascia Vent or Gap | Installed between the bottom of the Fascia and the top of the Hardie Planks | Allows air traveling up the 25mm batten cavity to escape safely at the roofline, preventing condensation behind the cladding. | ~18.5 linear meters |
+
+### 2.4.1 Flat Roof Drainage & Rainwater Harvesting (The Water Butt Strategy)
 **Objective:** A 18.6m² flat roof in Cowes will collect approximately 15,000 liters of water annually. Unmanaged runoff cascading off the roof will instantly overwhelm the local perimeter french drain.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | **Roof Fall Setup** | Sloped SIP roof support geometry | Factory-cut/sloped wall top plates and roof SIP bearing line set to 1:60 across the 3430mm width | Creates a permanent **1:60 fall** directing water across the width without purchasing a bespoke tapered PIR package. Flat 100mm glass tissue-faced PIR follows this slope above the SIP. | 1 roof set-out package |
-| **Drip Edge Trim** | Sure-Edge UPVC Drip Trim | Fixed clamping the EPDM membrane | Prevents water from running back under the EPDM and directs it cleanly into the gutter system. | ~6 linear meters |
+| **Drip Edge Trim** | Sure-Edge UPVC Drip Trim | Screwed through the EPDM into the low-side Timber Hard Edge/Fascia | Prevents water from running back under the EPDM and directs it cleanly into the gutter system. | ~6 linear meters |
 | **Guttering** | 112mm UPVC Deepflow (Black) | Standard fascia brackets | Higher capacity than half-round gutters to handle intense coastal downpours without overflowing the fascia. | ~6 linear meters |
 | **Rainwater Diverter** | 68mm Downpipe Diverter Valve | Cut into the vertical downpipe | Channels rainwater into the water butt until full, then automatically redirects the excess. | 1 unit |
 | **Water Butt** | 200L to 250L Slimline Butt | Sitting on a stable block plinth | Eco-friendly harvesting for garden use, drastically reducing sudden shock loads on the ground drainage. | 1 unit |
