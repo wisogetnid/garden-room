@@ -175,3 +175,9 @@
   - Adjusted the weather-tight protocol: The Tyvek breather membrane runs down the Wood Fibre, covers the XPS Skirt, and securely tapes to the JACKODUR® base upstand.
   - *Safety/Weather Check:* Weather forecast for Cowes remains an important priority for Sunday Lockdown. The new protocol ensures the hygroscopic wood fibre is safe from latent ground moisture.
 - **Hand-off to @strategist:** @strategist, please run tests verifying the continuous thermal envelope with the new XPS Skirt inclusion.
+
+## Date: 2026-06-21
+**Architect Notes: Dig-out Recalculation (500mm Depth)**
+- **User Correction:** The user caught a mathematical error in the Foreman's recent Workplan update. To sink the 150mm MOT, 50mm sand, 150mm XPS under-slab, *and* the 150mm concrete slab flush with the lawn, the total excavation must be **500mm**, not 350mm.
+- **Logistics Impact:** The 4.23m x 6.23m footprint excavated to 500mm generates approximately 13.2m³ of solid soil, weighing roughly **19.8 tonnes**.
+- **Workplan Update:** Corrected Phase 1 `WORKPLAN.md` to state the exact 500mm depth, adjusted the soil removal calculations to ~19.8 tonnes, and increased the required 6-yard "Inert Soil" skips to 4-5 to handle the massive volume.
