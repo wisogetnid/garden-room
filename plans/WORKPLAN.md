@@ -89,8 +89,8 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
     *   *North:* 1x 300x1500mm (Fixed Clerestory), top datum 2100mm FFL.
     *   *South:* 1x 300x1500mm (Fixed Clerestory), top datum 2100mm FFL.
     *   *East:* 2x 300x1500mm (Fixed Clerestory, evenly spaced), top datum 2100mm FFL.
-    *   *West:* 2x 1200x1000mm (Fixed Panorama) + 1400mm x 2000mm maximum outer-frame-height Asymmetric Door offset to corner, all heads aligned at 2150mm FFL.
-    *Foreman Note:* VIG units, while thinner than triple glazing, are extremely dense and heavy. Use suction cup lifters and a helper for the long 1.5m clerestories AND the 1.2m panorama windows to prevent frame distortion. Before installing the **1400mm x 2000mm Asymmetric 1.5 Door system** (e.g., 900mm active leaf + 500mm slave leaf), verify there is exactly **89.5mm** structural head zone above the West door and windows (beneath the 2261.5mm high-side wall plate). For the East/North/South clerestories, verify there is exactly **82.3mm** structural head zone beneath the low-side/sloped wall plate. If the manufacturer requires a taller outer frame, stop and resolve the door height or datum before cutting or forcing the frame. Traditional French doors are strictly forbidden. Seal all units with expanding PU foam and tape over the frame-to-OSB joints internally with airtight tape (e.g., Tescon Vana).
+    *   *West:* 2x 1200x1000mm (Fixed Panorama) + 1400mm x 2150mm maximum outer-frame-height Asymmetric Door offset to corner, all heads aligned at 2150mm FFL.
+    *Foreman Note:* VIG units, while thinner than triple glazing, are extremely dense and heavy. Use suction cup lifters and a helper for the long 1.5m clerestories AND the 1.2m panorama windows to prevent frame distortion. Before installing the **1400mm x 2150mm Asymmetric 1.5 Door system** (e.g., 900mm active leaf + 500mm slave leaf), verify there is exactly **89.5mm** structural head zone above the West door and windows (beneath the 2261.5mm high-side wall plate). For the East/North/South clerestories, verify there is exactly **82.3mm** structural head zone beneath the low-side/sloped wall plate. If the manufacturer requires a taller outer frame, stop and resolve the door height or datum before cutting or forcing the frame. Traditional French doors are strictly forbidden. Seal all units with expanding PU foam and tape over the frame-to-OSB joints internally with airtight tape (e.g., Tescon Vana).
 *   **Sunday (Moderate):** Install the guttering and downpipe diverter, routing it to your 200L water butt.
 
 ### Weekends 11 & 12: Insulation, Cladding & The Weather Shield
@@ -102,11 +102,11 @@ Listen up. You’re a weekend warrior with a 9-5 job. Burnout, not budget, is th
 ## 🗓️ Phase 4: Internal Passivhaus Detailing & Fit-Out
 *Now you are working inside, out of the weather. Evening work is highly effective here.*
 
-### Evening Tasks: The Airtight Envelope
-*   **Weeknights (Quiet):** Tape every single internal panel joint, floor junction, and ceiling junction with **Pro Clima Tescon Vana** tape. Tape the window frames to the OSB SIPs.
+### Evening Tasks: The Airtight Envelope & Vapour Control
+*   **Weeknights (Quiet):** First, tape every single internal panel joint, floor junction, and ceiling junction with **Pro Clima Tescon Vana** tape. Second, staple the **Pro Clima Intello Plus Vapour Control Layer (VCL)** sheet completely across the internal walls and ceiling. Tape all 100mm overlaps with Tescon Vana. Tape the VCL tightly to the window frames. This creates the continuous internal Passivhaus airtight/vapour barrier.
 
 ### Weekend 13: The Service Cavity & Electrical Rough-In
-*   **Saturday (Moderate):** Screw the 25x50mm treated timber battens horizontally at 400mm centers onto the internal SIP walls. 
+*   **Saturday (Moderate):** Screw the 25x50mm treated timber battens horizontally at 400mm centers onto the internal SIP walls directly through the Intello Plus VCL. The VCL is now safely behind the service cavity. 
 *   **Sunday (Technical):** Pull all your electrical cabling through the service cavity. Keep the circuits separated and labelled: 20A Type C RCBOs for machine loads, 16A Type B for the 3kW flow boiler, 10A Type B for IR/controls, 6A Type B for dMVHR/filtration, and general socket circuits as designed by the electrician. Mount the airtight socket boxes. Install the dMVHR unit into its factory-cut sleeve, tape the sleeve to the VCL, and fit the external weather hood/flashing. Install the oversized inline MVHR extract filter box with G4 pre-filter and F7 fine filter before the heat exchanger core. Run the rigid galvanized steel ducting for dust extraction. **CRITICAL:** Bolt the **Copper Earth Bonding Strap** to the metal ducting and wire it to the workshop's earth terminal to achieve ATEX compliance against static explosion risks. Finally, integrate the internal **freestanding HEPA/Cyclone extraction unit** mounted on 15mm SBR rubber isolation pads. Do not route the dust extractor outdoors; it must recirculate filtered air unless a future interlocked makeup-air damper is installed.
 
 ### Weekend 14: Internal Skin & Fire Safety

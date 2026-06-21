@@ -177,7 +177,14 @@
 - **Hand-off to @strategist:** @strategist, please run tests verifying the continuous thermal envelope with the new XPS Skirt inclusion.
 
 ## Date: 2026-06-21
-**Architect Notes: Dig-out Recalculation (500mm Depth)**
+**Architect Notes: Document Inaccuracies & Contradictions Addressed**
+- **Trigger:** Cross-agent review flagged discrepancies between the Master Plan and the Workplan.
+- **Action Taken:**
+  1. **Door Dimensions:** The Workplan erroneously retained the old 1400mm x 2000mm door dimension. Updated `plans/WORKPLAN.md` to reflect the reclaimed headroom geometry: **1400mm x 2150mm**.
+  2. **VCL Membrane Installation:** The Workplan previously omitted the physical hanging of the Pro Clima Intello Plus VCL sheet. Updated Phase 4 of `plans/WORKPLAN.md` to explicitly instruct the DIYer to staple the full Intello Plus sheet across walls/ceilings and tape the overlaps *before* the service battens go up.
+  3. **Concrete Volume Consistency:** The Master Plan stated "~2.8 Cubic Meters" while the Workplan told the user to order "2.8 to 3.0m³ for safety." The Master Plan (Section 1.1) has been updated to explicitly state: "Required: ~2.8m³. Order: 3.0 Cubic Meters (to account for line-pump priming and waste)." This aligns the exact ordering volumes.
+  4. **Title Naming:** The agent flagged that the Workplan title said "PUR-Core SIPS" while the Master Plan noted "OSB skin." This is standard SIP composition (OSB skins with a PUR core), but to ensure total clarity, both documents inherently agree on the material science.
+- **Hand-off:** All flagged contradictions between the Master Plan and Workplan are resolved.
 - **User Correction:** The user caught a mathematical error in the Foreman's recent Workplan update. To sink the 150mm MOT, 50mm sand, 150mm XPS under-slab, *and* the 150mm concrete slab flush with the lawn, the total excavation must be **500mm**, not 350mm.
 - **Logistics Impact:** The 4.23m x 6.23m footprint excavated to 500mm generates approximately 13.2m³ of solid soil, weighing roughly **19.8 tonnes**.
 - **Workplan Update:** Corrected Phase 1 `WORKPLAN.md` to state the exact 500mm depth, adjusted the soil removal calculations to ~19.8 tonnes, and increased the required 6-yard "Inert Soil" skips to 4-5 to handle the massive volume.
