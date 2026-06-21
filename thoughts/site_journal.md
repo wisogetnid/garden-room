@@ -177,7 +177,24 @@
 - **Hand-off to @strategist:** @strategist, please run tests verifying the continuous thermal envelope with the new XPS Skirt inclusion.
 
 ## Date: 2026-06-21
-**Architect Notes: Master Plan Internal Contradiction Fixes**
+**Architect Notes: Soakaway Overflow Reversal**
+- **User Query:** The user rejected the proposed upgrade to a 110mm pipe and Twin-Crate soakaway system (Flaw #5 from previous review), stating "that won't happen. remove that again."
+- **Action Taken:** Reverted Section 2.4.1 in `MASTER_PLAN.md` back to the original specification: a standard **68mm UPVC Pipe** routed to a **single Soakaway Crate** located 3m-5m away from the foundation. The twin-crate over-engineering has been purged from the blueprints.
+- **User Query:** The user challenged the OSB3 cover board addition on the roof, pointing out that certain high-compressive strength PIR boards are designed to handle foot traffic without crushing, thereby eliminating the need for (and rotting risk of) an external structural timber deck.
+- **Physics Validation:** The user is architecturally correct. Adding an external layer of OSB3 on a flat roof outside the warm envelope (just below the EPDM) introduces a severe rot/condensation risk if water ever penetrates the rubber. By utilizing a "Trafficable" high-compressive strength glass tissue-faced PIR board (minimum 150 kPa, e.g., Kingspan Thermaroof TR27), the foam itself acts as both the thermal jacket *and* the rigid structural deck, easily withstanding human foot traffic without denting.
+- **Master Plan Update:**
+  - Section 2.3: Removed the 11mm OSB3 Cover Board. 
+  - Restored the PIR insulation to **100mm**, explicitly specifying it must be **High-Compressive Strength (min 150 kPa) glass tissue-faced PIR**.
+  - Section 2.3.2: Re-verified height calculation. Total roof buildup returns to **238.5mm**. Total building height returns to exactly **2500mm** high side / 2442.8mm low side.
+- **Hand-off to @foreman:** Updated `plans/WORKPLAN.md` Weekend 9 to explicitly warn the DIYer that standard PIR will crush underfoot. They *must* procure the high-compressive structural variant to execute the EPDM adhesion safely.
+- **Trigger:** Cross-agent feedback identified 5 medium-to-high severity physical design flaws in the Master Plan and Workplan.
+- **Action Taken:**
+  1. **MVHR Hardware Contradiction (Fixed):** `WORKPLAN.md` Weekend 13 previously contained lingering instructions to install a ducted inline filter. This has been purged. The instructions now correctly direct the DIYer to insert the OEM G4/F7 replacement filter cassettes directly into the decentralized wall unit.
+  2. **Vulnerable Roof Structural Deck (Fixed):** The 100mm PIR foam would crush if walked on during gutter maintenance, tearing the EPDM. Added a structural **11mm OSB3 Flat Roof Deck** on top of the PIR. To mathematically offset this 11mm height increase and stay beneath the 2.5m PD limit, the PIR thickness was reduced from 100mm to **80mm**. The roof buildup is now 229.5mm, safely capping the building at 2491mm high.
+  3. **Cladding Fastener Mechanics (Fixed):** Updated the Rainscreen batten screw specification in `MASTER_PLAN.md`. Instead of exclusively using 60° angles, the builder must now use an alternating pattern: 60° downward (for shear weight) and 90° horizontal (for wind load/anti-compression), preventing the 50mm wood fibre from being crushed.
+  4. **Roof Edge Thermal Bridging (Fixed):** The massive 200mm solid timber "Hard Edge" created a severe linear cold bridge. Redesigned this edge: The highly-structural 120mm roof SIP itself now cantilevers the 86mm overhang. A much smaller 91mm x 50mm timber batten is screwed to the perimeter. This allows the 80mm PIR foam to continue almost entirely to the edge, virtually eliminating the thermal bridge while retaining the mechanical anchor for the EPDM.
+  5. **Inadequate Storm Overflow Drainage (Fixed):** A 68mm pipe to a single crate would bottleneck during Cowes coastal downpours. Upgraded the overflow specification to a **110mm underground drainage pipe** routed to a **Twin-Crate Soakaway System** (300L+ capacity) wrapped in geotextile, min 5m away from the foundation.
+- **Hand-off:** All 5 design flaws have been engineered out of the blueprints.
 - **Trigger:** Cross-agent review flagged four specific, internal mechanical/mathematical contradictions within the Master Plan.
 - **Action Taken:**
   1. **Anchor Bolt Length Deficit:** The previous 250mm anchor bolts were mathematically exhausted by the 100mm concrete embedment and 150mm Compacfoam block, leaving no thread for the sole plate. Upgraded hardware spec to **330mm long M12 Threaded Studs** (cut from standard 1m lengths) to provide ample thread for the timber sole plate, washer, and nut.
@@ -195,3 +212,28 @@
 - **User Correction:** The user caught a mathematical error in the Foreman's recent Workplan update. To sink the 150mm MOT, 50mm sand, 150mm XPS under-slab, *and* the 150mm concrete slab flush with the lawn, the total excavation must be **500mm**, not 350mm.
 - **Logistics Impact:** The 4.23m x 6.23m footprint excavated to 500mm generates approximately 13.2m³ of solid soil, weighing roughly **19.8 tonnes**.
 - **Workplan Update:** Corrected Phase 1 `WORKPLAN.md` to state the exact 500mm depth, adjusted the soil removal calculations to ~19.8 tonnes, and increased the required 6-yard "Inert Soil" skips to 4-5 to handle the massive volume.
+
+## Date: 2026-06-21
+**Architect Notes: Fascia Bug Mesh & Rainscreen Venting**
+- **User Query:** Does the gap between the bottom of the fascia and the top of the Hardie Planks need insect cover, or should it be mounted flush?
+- **Physics Validation:** The fascia must *never* be mounted perfectly flush or sealed tight against the Hardie Planks. The 25mm batten cavity behind the cladding is a dynamic "Rainscreen." It relies on the stack effect: cold air enters at the bottom and warm, moist air exhausts out the top. Sealing the top traps moisture and causes the battens to rot.
+- **Insect Intrusion:** Because there is an open exhaust gap at the top of the wall (under the fascia/overhang), it is a prime location for wasps, hornets, and solitary bees to enter and build nests in the warm, 25mm vertical cavities. 
+- **Architectural Solution:** 
+  - An insect mesh must be installed at the top of the cavity, mirroring the bottom.
+  - A Perforated Aluminium Vent Trim (or folded insect mesh) is tacked to the underside of the cantilevered SIP roof panel, bridging the 25mm batten cavity just before the uppermost Hardie Plank is installed. 
+  - The fascia board then drops down, visually hiding this mesh gap from the outside, while allowing air to flow freely.
+- **Master Plan Update:** Section 2.4 updated to explicitly mandate a "Rainscreen Top Bug Mesh" to preserve ventilation while blocking pests.
+- **User Query:** If the fascia is only 100mm high and covers the timber kerb, how do we stop water from dripping behind the Hardie Planks?
+- **Physics Validation:** The user caught a geometric oversight. If the fascia is only 100mm high, it terminates exactly at the bottom of the timber kerb. Because the 120mm roof SIP itself is doing the cantilevering (overhanging the 86mm wall buildup), the bottom of that kerb sits on top of the SIP roof panel. If water drips off a 100mm fascia, it will land on the exposed edge of the SIP panel or run horizontally back along the underside of the overhang and drop *behind* the cladding.
+- **Architectural Solution:**
+  - *Oversized Fascia Drop:* The fascia board must be significantly taller than the 100mm kerb. We specify a **min 150mm tall** (or deeper) fascia board.
+  - *The Drip Line:* The fascia screws into the 100mm timber kerb, but the remaining 50mm+ of the board extends downwards, covering the exposed 120mm edge of the cantilevered SIP roof panel. 
+  - *The Bellcast Effect:* Because the entire roof system (SIP + Kerb + Fascia) physically overhangs the 86mm wall buildup by a few millimeters, the bottom edge of the fascia hangs in mid-air *outside* the plane of the Hardie Planks. Water hits the fascia, runs down to the bottom lip, and drips harmlessly to the ground.
+- **Master Plan Update:** Section 2.4 updated to specify an oversized 150mm+ fascia board to ensure a clean external drip line.
+- **User Query:** Requested precise detailing of the roof edge layering and orientation of the 50x90mm batten (height vs. weight wise). Also noted a discrepancy as the PIR thickness was updated to 100mm earlier.
+- **Dimensional Correction:** Because we upgraded to **100mm** Trafficable PIR (without the 11mm OSB cover board), the perimeter timber kerb must stand **100mm tall** to perfectly match the insulation plane. Standard 47x100mm (nominal 2x4) treated timber is ideal.
+- **Orientation Mechanics:** The 47x100mm timber is placed **"on edge"** (standing 100mm tall, presenting a 47/50mm width when viewed from above). 
+  - It is screwed vertically straight down through the 100mm depth into the top OSB skin of the cantilevered 120mm roof SIP.
+  - The 100mm PIR insulation butts tight against the inside face of this timber kerb.
+  - The Fascia board is screwed horizontally into the outer 100mm-tall face of the kerb and drops downward.
+- **Master Plan Update:** Section 2.4 updated to clarify the 100mm height, 50mm width, "on edge" orientation, and exact mechanical screw path for the Perimeter Kerb.
