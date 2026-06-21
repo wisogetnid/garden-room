@@ -137,11 +137,41 @@
   - **Height Synchronization:** Adjusted wall plate delivery checks and Sunday ceiling height checks to reflect the recovered +150mm headroom. Max High-Side wall is now verified at **2261.5mm** with a finished ceiling of **2239mm**.
 - **Hand-off:** All Workplan conflicts are resolved. The build logistics now match the structural physics and validation constraints.
 
-## Date: 2026-06-21
-**Foreman Notes: Integration of Rot-Proof XPS Plinth into Workplan**
-- **Trigger:** @architect updated the Master Plan with a new "XPS Plinth" detail to protect the base of the timber frame from the dry moat's humidity. 
-- **Action Taken:** `plans/WORKPLAN.md` has been updated in the "Weekend 8: Sunday Lockdown & Weatherproofing" section.
-  - Added instructions to mechanically fix a 50mm thick x 150mm high XPS Plinth to the bottom edge of the external OSB SIP skin.
-  - Ensured this step happens *before* installing the 50mm Rigid Wood Fibre, which now sits directly on top of the XPS Plinth.
-  - Added strict airtightness continuity and weather-tightness instructions: the Tyvek breather membrane must be taped perfectly over the Wood Fibre-to-XPS Plinth joint, down the plinth face, and sealed to the rendered JACKODUR® upstand using Tescon Vana.
-- **Hand-off:** Workplan is secure and accurately reflects the moisture defence requirements for the 9-5 DIYer.
+## Date: 2026-06-20
+**Architect Notes: Fixing XPS Skirt to Compacfoam**
+- **User Query:** How can we mechanically fix the XPS skirt to the Compacfoam blocks?
+- **Physics Validation:** Compacfoam CF200 is dense enough (2.0 N/mm²) to accept and securely hold standard exterior wood screws without pre-drilling. However, the outer 50mm XPS foam has no pull-through resistance. Screw heads will simply crush the XPS.
+- **Architectural Solution:**
+  - *Fixings:* Use 100mm exterior-grade wood screws paired with wide 60mm plastic insulation washers (e.g., EJOT washers). The screws pass through the XPS and embed 50mm deep into the Compacfoam block, while the wide plastic head clamps the XPS securely without crushing it.
+  - *Adhesive Bond:* A bead of structural PU adhesive (e.g., Illbruck PU700) should be applied to the back of the XPS before screwing it, locking it permanently to the Compacfoam.
+  - *Final Structural Clamping:* Later in the build, the 25x50mm vertical rainscreen battens will drop down over the Tyvek and be screwed through the XPS directly into the Compacfoam, providing massive permanent vice-clamping against the building.
+- **Master Plan Update:** Updated Section 1.3, item 8 (Splash Zone Skirt) to explicitly define the fixing method (100mm wood screws + plastic washers + PU adhesive).
+- **User Insight:** The user correctly identified that the Dry Moat is a high-maintenance liability and requested to return to the 150mm upsplash requirement, but crucially, without losing the internal headroom. They also astutely noted a geometric flaw: if the Compacfoam ring is flush with the SIP, and the 50mm Wood Fibre extends down over the Compacfoam, the Wood Fibre sits in the 0-150mm splash zone and will rot.
+- **Physics Validation:** The Dry Moat has been completely abandoned. Sinking the concrete slab to 0mm (flush with the garden) successfully saves the 150mm of headroom. To restore the 150mm timber upsplash requirement without raising the concrete, we install a continuous 150mm tall x 140mm wide ring of **Compacfoam CF200** on top of the flush concrete slab.
+  - The timber SIPs sit on the Compacfoam, perfectly 150mm above the ground.
+  - The internal floor remains at 0mm, preserving the 2239mm ceiling height.
+  - **The XPS Skirt Fix:** To prevent the Wood Fibre from entering the splash zone, we apply a 50mm thick x 150mm high XPS Skirt directly to the *outer face* of the Compacfoam block. This maintains the flush 50mm external insulation plane for the cladding, is 100% waterproof, and allows the Wood Fibre to start safely at the +150mm mark.
+- **Master Plan Update:**
+  - Section 1.1: Removed the Dry Moat. Stated the slab is excavated flush with the lawn (0mm).
+  - Section 1.3: Removed all Moat details. Inserted "The Compacfoam Splash Zone" with long 250mm M12 resin anchors. Split the external insulation into an "XPS Splash Skirt (0mm to +150mm)" and "Thermal Overlap (Above +150mm)".
+- **Hand-off to @foreman:** Handing over to the foreman to update `plans/WORKPLAN.md`. The Wood Fibre must strictly start above the 150mm mark, with the XPS Skirt applied to the face of the Compacfoam.
+
+## Update: Foundation Flush with Lawn (No Moat)
+- **Date:** Sun Jun 21 2026
+- **Agent:** @foreman
+- **Action:** Updated `plans/WORKPLAN.md` following Master Plan pivot.
+  - Removed all references to the Dry Moat and XPS Plinth.
+  - Reduced excavation depth from 500mm to 350mm (flush with the lawn) and updated skip/soil volume calculations.
+  - Updated Mid-Week prep to instruct continuous 150mm x 140mm Compacfoam CF200 ring epoxy-bedded to the 17.7m perimeter.
+  - Updated Weekend 8 instructions to drill through the Compacfoam for 250mm M12 resin anchors to hold the sole plate.
+  - Simplified the Wood Fibre and Tyvek weatherproofing sequence (Sunday Lockdown) to wrap straight down the Compacfoam onto the Jackodur tub upstand.
+
+## Update: XPS Splash Skirt Fix (Weekend 8 Logistics)
+- **Date:** Sun Jun 21 2026
+- **Agent:** @foreman
+- **Action:** Updated `plans/WORKPLAN.md` (specifically Weekend 8 Lockdown Phase) to reflect the physics flaw caught by the user. 
+  - The DIYer is now instructed to attach a 50mm thick x 150mm high XPS Skirt directly to the outer face of the Compacfoam CF200 block.
+  - The 50mm Rigid Wood Fibre is strictly mandated to start *above* this XPS Skirt (+150mm mark), isolating it entirely from the splash zone.
+  - Adjusted the weather-tight protocol: The Tyvek breather membrane runs down the Wood Fibre, covers the XPS Skirt, and securely tapes to the JACKODUR® base upstand.
+  - *Safety/Weather Check:* Weather forecast for Cowes remains an important priority for Sunday Lockdown. The new protocol ensures the hygroscopic wood fibre is safe from latent ground moisture.
+- **Hand-off to @strategist:** @strategist, please run tests verifying the continuous thermal envelope with the new XPS Skirt inclusion.
