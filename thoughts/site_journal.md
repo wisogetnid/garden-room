@@ -246,3 +246,12 @@
   - The 100mm PIR insulation butts tight against the inside face of this timber kerb.
   - The Fascia board is screwed horizontally into the outer 100mm-tall face of the kerb and drops downward.
 - **Master Plan Update:** Section 2.4 updated to clarify the 100mm height, 50mm width, "on edge" orientation, and exact mechanical screw path for the Perimeter Kerb.
+
+## Date: 2026-06-21
+**Architect Notes: DPM/DPC Compacfoam Lapping Overlap**
+- **User Query:** How much overlap does the DPM from the raft insulation need to remain to lay it over the 150mm high Compacfoam blocks?
+- **Physics Validation:** The DPM sits under the concrete slab. If the Compacfoam sits *on top* of the concrete slab, the DPM must travel vertically up the 150mm inner face of the Compacfoam, and then horizontally across the 150mm top face to meet the sole plate. To achieve this without tension, plus provide an overlap for the DPC, the DPM requires a minimum **400mm excess tail**.
+- **Master Plan Update:**
+  - Section 1.1 (DPM): Explicitly mandated cutting the DPM with a **minimum 400mm excess tail** extending past the top of the XPS tub.
+  - Section 1.3 (DPM/DPC Lapping): Updated to detail the exact folding geometry (400mm tail folded up the inner face of the Compacfoam and across the top, sealed to the Polymeric DPC with butyl tape).
+- **Workplan Update:** Updated `WORKPLAN.md` Weekend 8 Saturday instructions to manually execute the folding and taping of the 400mm DPM tail before rolling out the DPC and drilling the sole plates.
