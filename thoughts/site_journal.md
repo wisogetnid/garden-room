@@ -214,7 +214,16 @@
 - **Workplan Update:** Corrected Phase 1 `WORKPLAN.md` to state the exact 500mm depth, adjusted the soil removal calculations to ~19.8 tonnes, and increased the required 6-yard "Inert Soil" skips to 4-5 to handle the massive volume.
 
 ## Date: 2026-06-21
-**Architect Notes: Fascia Bug Mesh & Rainscreen Venting**
+**Architect Notes: JACKODUR Dimensions & Dig-Out Adjustments**
+- **User Query:** The JACKODUR Atlas system only comes in 20mm increments. Requested reducing the specification from 150mm to 140mm.
+- **Physics Validation:** The user is correct regarding manufacturer specifications. Stepping down 10mm reduces the thermal performance slightly (from ~0.22 W/m²K to ~0.23 W/m²K), but this is mathematically trivial and well within our acceptable tradeoff parameters for a foundation, given the continuous UFH thermal battery above it.
+- **Master Plan Update:**
+  - Section 1.1: Updated under-slab thermal break to **140mm JACKODUR Atlas XPS**.
+  - Section 7.1: Updated foundation U-value to **~0.23 W/m²K**.
+- **Workplan Update (Logistics):**
+  - The total required manual dig-out depth reduces from 500mm to **490mm** (150mm MOT + 50mm Sand + 140mm XPS + 150mm Concrete = 490mm).
+  - The soil volume to be manually excavated drops from 13.2m³ to **~12.9m³** (~19.3 tonnes).
+  - Updated `WORKPLAN.md` Phase 1 metrics to reflect the exact 490mm depth target, saving the DIYer approximately 10mm of grueling clay excavation across the entire footprint!
 - **User Query:** Does the gap between the bottom of the fascia and the top of the Hardie Planks need insect cover, or should it be mounted flush?
 - **Physics Validation:** The fascia must *never* be mounted perfectly flush or sealed tight against the Hardie Planks. The 25mm batten cavity behind the cladding is a dynamic "Rainscreen." It relies on the stack effect: cold air enters at the bottom and warm, moist air exhausts out the top. Sealing the top traps moisture and causes the battens to rot.
 - **Insect Intrusion:** Because there is an open exhaust gap at the top of the wall (under the fascia/overhang), it is a prime location for wasps, hornets, and solitary bees to enter and build nests in the warm, 25mm vertical cavities. 

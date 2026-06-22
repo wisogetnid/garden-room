@@ -50,7 +50,7 @@ layout: default
 | **Geotextile Membrane** | Non-woven (e.g., Terram 1000) | Loose laid directly on excavated subgrade, 300mm overlapped seams | **Separation & Filtration:** Prevents the MOT Type 1 aggregate from sinking into the clay/soil over time, which would cause the slab to settle unevenly. | 1 Roll (4.5m x 10m) |
 | **MOT Type 1 Sub-base** | 150mm depth | Mechanically compacted | Distribute load to stable clay strata. Applied 400mm wider than tub as per JACKODUR® specs. | ~10 Bulk Bags (approx. 8.5 tonnes) |
 | **Blinding Sand** | 50mm depth | Hand screeded flat | Provide a perfectly level bed for the XPS formwork. Applied 400mm wider than tub. | ~2.5 Bulk Bags (approx. 2.1 tonnes) |
-| **Under-Slab Thermal Break** | 150mm JACKODUR® Atlas XPS System | Interlocking XPS panels assembled directly on the blinding sand | Prevent cold-bridging into the earth; serves as permanent insulated formwork. | 1 complete Atlas tub system |
+| **Under-Slab Thermal Break** | 140mm JACKODUR® Atlas XPS System | Interlocking XPS panels assembled directly on the blinding sand | Prevent cold-bridging into the earth; serves as permanent insulated formwork. Note: Atlas system scales in 20mm increments. | 1 complete Atlas tub system |
 | **Damp Proof Membrane (DPM)** | 1200-gauge Polythene | Loose laid *inside* the XPS tub, taped seams | **Critical Placement:** Sits directly between the XPS insulation and the wet concrete to prevent capillary moisture rising through the slab. | 1 Roll (4m x 25m) |
 | **Steel Reinforcement** | A252 Steel Mesh (Single Layer) | Placed on 50mm plastic concrete 'chairs' | Structural tensile strength. A single layer positioned in the bottom-third of the slab controls thermal cracking while eliminating the risk of breaching the concrete's top cover during power floating. | 3 Sheets (4.8m x 2.4m) |
 | **Heating Integration** | 16mm PEX-a Wet UFH Pipework | Zip-tied to the top of the A252 mesh @ 150mm centers before pour | **Baseline heating:** Embedded into the thermal mass. Powered by an internal Electric Flow Boiler (zero envelope penetrations). | ~150 linear meters |
@@ -276,7 +276,7 @@ The building envelope is designed to aggressively target the Passivhaus standard
 | :--- | :--- | :--- | :--- | :--- |
 | **External Walls** | 150mm New Forest SIP Base Wall + 50mm Wood Fibre | 0.15 W/m²K | **0.16 W/m²K** | **[TRADE-OFF]** Wall SIP reduced to 150mm to save footprint. Wood fibre breaks the thermal bridge at the spline joints and provides decrement delay. |
 | **Roof Structure** | Sloped 120mm (122mm true) New Forest SIP (600mm narrow-format) + 100mm Flat Glass Tissue-Faced PIR | 0.13 W/m²K | **~0.11 W/m²K** | Glass tissue-faced PIR allows direct EPDM adhesion without foil-faced delamination risk. Flat PIR over-roof completely caps the linear thermal bridge of the LVL splines, keeping the SIP OSB skins and splines warm and dry. |
-| **Floor Slab** | 150mm JACKODUR® Atlas XPS | 0.13 W/m²K | **0.22 W/m²K** | **[OPEN RISK FLAG: verify spanning distances and thickness]** 150mm XPS achieves ~0.22 W/m²K. Reaching 0.13 W/m²K requires ~260mm. |
+| **Floor Slab** | 140mm JACKODUR® Atlas XPS | 0.13 W/m²K | **~0.23 W/m²K** | **[OPEN RISK FLAG: verify spanning distances and thickness]** 140mm XPS achieves ~0.23 W/m²K. Reaching 0.13 W/m²K requires ~260mm. |
 | **Glazing** | VIG (Vacuum Insulated Glazing) in uPVC | 0.80 W/m²K | **0.80 W/m²K** | Vastly outperforms double glazing (~1.4 W/m²K). |
 
 ### 7.2 Expected Heating Effort (Calculated Annual kWh)
