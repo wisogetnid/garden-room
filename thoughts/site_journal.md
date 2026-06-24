@@ -259,9 +259,19 @@
   - They pull the Tyvek taut up the wall and staple/tape it exclusively into the exposed timber top-plate.
   - The Tyvek is now held flat against the wood fibre without a single temporary puncture in the main OSB wall face, awaiting the permanent clamping of the rainscreen battens.
 - **Updates:** `MASTER_PLAN.md` (Section 2.1) and `WORKPLAN.md` (Weekend 8 & Weekend 11) updated to remove insulation dowels, specify the Top-and-Tail method, and update the batten alternating screw pattern.
-- **User Query:** How much overlap does the DPM from the raft insulation need to remain to lay it over the 150mm high Compacfoam blocks?
-- **Physics Validation:** The DPM sits under the concrete slab. If the Compacfoam sits *on top* of the concrete slab, the DPM must travel vertically up the 150mm inner face of the Compacfoam, and then horizontally across the 150mm top face to meet the sole plate. To achieve this without tension, plus provide an overlap for the DPC, the DPM requires a minimum **400mm excess tail**.
+## Date: 2026-06-21
+**Architect Notes: DPC Execution Sequence**
+- **User Query:** Do I leave the DPC layer rolled up "outside" of the garden room until I installed the wood-fibre insulation?
+- **Physics Validation:** No. The DPC (Damp Proof Course) must be installed *before* the timber sole plate is bolted down, which means it happens before the SIP walls are even erected, let alone the wood fibre.
+  - The DPC is a 150mm wide strip of thick polymeric plastic. It does not wrap the outside of the building. It sits flat on *top* of the 150mm Compacfoam block.
+  - The sequence is: 1) Fold DPM up the outer face of Compacfoam and across the top. 2) Roll DPC flat along the top of the Compacfoam (over the DPM). 3) Place Timber Sole Plate on top. 4) Drill and bolt everything down.
+  - The DPC is now permanently sandwiched flat between the Compacfoam and the timber, completely isolated from the external wood fibre installation happening later that weekend.
+- **Architectural Clarification:** The user might be confusing the DPC (which goes under the wall) with the Tyvek Breather Membrane (which goes outside the wall/wood fibre). The DPC is fully installed and hidden by Saturday morning.
+- **User Query:** How much overlap does the DPM from the raft insulation need to remain to lay it over the 150mm high Compacfoam blocks? (And how to execute it before SIPs arrive).
+- **Physics Validation:** Caught a critical geometric error in my previous logic. The DPM is laid *inside* the JACKODUR tub, meaning the concrete is poured inside it. Therefore, the DPM emerges at the *outermost edge* of the concrete slab (sandwiched between the concrete and the XPS tub upstand). 
+  - If the DPM emerges at the outer edge, it cannot logically fold up the "inner" face of the Compacfoam block without crossing under the epoxy bed (which would ruin the structural bond to the concrete).
+  - The correct physics: The DPM tail must run straight up the **OUTER face** of the 150mm Compacfoam block, and fold **inwards** across the top.
 - **Master Plan Update:**
-  - Section 1.1 (DPM): Explicitly mandated cutting the DPM with a **minimum 400mm excess tail** extending past the top of the XPS tub.
-  - Section 1.3 (DPM/DPC Lapping): Updated to detail the exact folding geometry (400mm tail folded up the inner face of the Compacfoam and across the top, sealed to the Polymeric DPC with butyl tape).
-- **Workplan Update:** Updated `WORKPLAN.md` Weekend 8 Saturday instructions to manually execute the folding and taping of the 400mm DPM tail before rolling out the DPC and drilling the sole plates.
+  - Section 1.1 (DPM): Maintained the **minimum 400mm excess tail** extending past the top of the XPS tub.
+  - Section 1.3 (DPM/DPC Lapping): Corrected the folding geometry. The DPM folds up the *outer face* of the Compacfoam and *inwards* across the top, before being sealed to the DPC.
+- **Workplan Update:** Updated `WORKPLAN.md` Weekend 8 Saturday instructions. The DIYer takes the outer DPM tail, pulls it up the outer face, folds it in, seals it to the DPC, and bolts the timber sole plate down. All of this happens smoothly *before* a single SIP panel or piece of insulation is installed.
