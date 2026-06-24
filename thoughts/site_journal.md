@@ -248,7 +248,17 @@
 - **Master Plan Update:** Section 2.4 updated to clarify the 100mm height, 50mm width, "on edge" orientation, and exact mechanical screw path for the Perimeter Kerb.
 
 ## Date: 2026-06-21
-**Architect Notes: DPM/DPC Compacfoam Lapping Overlap**
+**Architect Notes: Tyvek "Top-and-Tail" Taping Method**
+- **User Query:** The user asked if the breather membrane could be held in place with tape to avoid penetrating the OSB layer with the temporary mechanical fixings (dowels). They subsequently asked if this method still works with the vertical battens later clamping it down.
+- **Physics Validation:** The user is correctly prioritizing airtightness by avoiding unnecessary penetrations through the SIP's OSB skin. 
+  - Standard airtight tape (Tescon Vana) will *not* stick to the fibrous face of the 50mm Wood Fibre board. However, it sticks aggressively to the closed-cell XPS Splash Skirt at the bottom, and to the timber top-plate at the top.
+  - The permanent fixing of the Tyvek is inherently mechanical. The "Top-and-Tail" taping method is perfectly compatible with the subsequent clamping stage. The tape merely holds the sheet taut and flat against the building like a canvas. When the 25x50mm timber battens are installed weeks later, the 120mm EWI screws punch straight through the suspended Tyvek, permanently clamping it flat against the Wood Fibre.
+- **Architectural Solution:**
+  - Implemented the **"Top-and-Tail"** taping method.
+  - The DIYer tapes the bottom of the Tyvek to the XPS Splash Skirt/JACKODUR upstand.
+  - They pull the Tyvek taut up the wall and staple/tape it exclusively into the exposed timber top-plate.
+  - The Tyvek is now held flat against the wood fibre without a single temporary puncture in the main OSB wall face, awaiting the permanent clamping of the rainscreen battens.
+- **Updates:** `MASTER_PLAN.md` (Section 2.1) and `WORKPLAN.md` (Weekend 8 & Weekend 11) updated to remove insulation dowels, specify the Top-and-Tail method, and update the batten alternating screw pattern.
 - **User Query:** How much overlap does the DPM from the raft insulation need to remain to lay it over the 150mm high Compacfoam blocks?
 - **Physics Validation:** The DPM sits under the concrete slab. If the Compacfoam sits *on top* of the concrete slab, the DPM must travel vertically up the 150mm inner face of the Compacfoam, and then horizontally across the 150mm top face to meet the sole plate. To achieve this without tension, plus provide an overlap for the DPC, the DPM requires a minimum **400mm excess tail**.
 - **Master Plan Update:**
