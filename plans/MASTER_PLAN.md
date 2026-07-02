@@ -43,12 +43,12 @@ layout: default
 
 ### 1.1 Groundworks & Slab Execution
 
-**Excavation Depth & Flush Slab:** The MOT Type 1, blinding sand, and JACKODUR® Atlas tub are excavated so the finished top of the concrete slab is dead flush with the existing garden lawn level (0mm). This maximizes internal headroom under the 2.5m Permitted Development limit. The required 150mm timber upsplash protection is provided by the Compacfoam ring detailed in Section 1.3.
+**Excavation Depth & Flush Slab:** The blinding sand and JACKODUR® Atlas tub are excavated so the finished top of the concrete slab is dead flush with the existing garden lawn level (0mm). This maximizes internal headroom under the 2.5m Permitted Development limit. Because the site consists of deeply compacted, stoney "made ground," the traditional 150mm MOT Type 1 sub-base has been engineered out. The excavation depth is reduced to **390mm** to accommodate a thin 50mm leveling aggregate, the sand, the XPS, and the slab.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Geotextile Membrane** | Non-woven (e.g., Terram 1000) | Loose laid directly on excavated subgrade, 300mm overlapped seams | **Separation & Filtration:** Prevents the MOT Type 1 aggregate from sinking into the clay/soil over time, which would cause the slab to settle unevenly. | 1 Roll (4.5m x 10m) |
-| **MOT Type 1 Sub-base** | 150mm depth | Mechanically compacted | Distribute load to stable clay strata. Applied 400mm wider than tub as per JACKODUR® specs. | ~10 Bulk Bags (approx. 8.5 tonnes) |
+| **Geotextile Membrane** | Non-woven (e.g., Terram 1000) | Loose laid directly on excavated subgrade, 300mm overlapped seams | **Separation & Filtration:** Prevents the leveling aggregate and sand from sinking into the clay/soil over time. | 1 Roll (4.5m x 10m) |
+| **Leveling Aggregate** | MOT Type 3 or 0-20mm All-in Ballast (50mm depth) | Mechanically compacted via hired wacker plate | Fills the jagged voids and craters left by hand-digging into the hard existing ground, creating a workable flat plane. Applied 400mm wider than tub as per JACKODUR® specs. | ~2.5 Bulk Bags (approx. 2.1 tonnes) |
 | **Blinding Sand** | 50mm depth | Hand screeded flat | Provide a perfectly level bed for the XPS formwork. Applied 400mm wider than tub. | ~2.5 Bulk Bags (approx. 2.1 tonnes) |
 | **Under-Slab Thermal Break** | 140mm JACKODUR® Atlas XPS System | Interlocking XPS panels assembled directly on the blinding sand | Prevent cold-bridging into the earth; serves as permanent insulated formwork. Note: Atlas system scales in 20mm increments. | 1 complete Atlas tub system |
 | **Damp Proof Membrane (DPM)** | 1200-gauge Polythene | Loose laid *inside* the XPS tub before pouring concrete. | **Critical Placement:** Sits directly between the XPS insulation and the wet concrete. **Must be cut with a minimum 400mm excess tail on all sides** extending past the top of the XPS tub. This excess is required later to fold up and over the 150mm Compacfoam block. | 1 Roll (4m x 25m) |
