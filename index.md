@@ -15,19 +15,27 @@ Welcome to the Cowes Garden Room Project documentation site. This site hosts our
 
 ### 3D Model
 
-![3D Complete Model](./plans/graphics/split-up/3d-complete.png)
+<object data="./plans/graphics/freecad_3d.pdf#page=1" type="application/pdf" width="100%" height="600px">
+  <p>Unable to display PDF. <a href="./plans/graphics/freecad_3d.pdf">Download 3D Model PDF</a>.</p>
+</object>
 
 ### 3D Model without roof
 
-![3D Model Without Roof](./plans/graphics/split-up/3d-without-roof.png)
+<object data="./plans/graphics/freecad_3d.pdf#page=2" type="application/pdf" width="100%" height="600px">
+  <p>Unable to display PDF. <a href="./plans/graphics/freecad_3d.pdf">Download 3D Model Without Roof PDF</a>.</p>
+</object>
 
 ### Floorplan
 
-![Floorplan](./plans/graphics/split-up/floorplan.png)
+<object data="./plans/graphics/freecad_floorplan.pdf" type="application/pdf" width="100%" height="600px">
+  <p>Unable to display PDF. <a href="./plans/graphics/freecad_floorplan.pdf">Download Floorplan PDF</a>.</p>
+</object>
 
-### Vertical Cut
+### Section Cut
 
-![Vertical Cut](./plans/graphics/split-up/vertical-cut.png)
+<object data="./plans/graphics/freecad_section_cut.pdf" type="application/pdf" width="100%" height="600px">
+  <p>Unable to display PDF. <a href="./plans/graphics/freecad_section_cut.pdf">Download Section Cut PDF</a>.</p>
+</object>
 
 ---
 *Built with [GitHub Pages](https://pages.github.com/).*
