@@ -19,12 +19,6 @@ Welcome to the Cowes Garden Room Project documentation site. This site hosts our
   <p>Unable to display PDF. <a href="./plans/graphics/freecad_3d.pdf">Download 3D Model PDF</a>.</p>
 </object>
 
-### 3D Model without roof
-
-<object data="./plans/graphics/freecad_3d.pdf#page=2" type="application/pdf" width="100%" height="600px">
-  <p>Unable to display PDF. <a href="./plans/graphics/freecad_3d.pdf">Download 3D Model Without Roof PDF</a>.</p>
-</object>
-
 ### Floorplan
 
 <object data="./plans/graphics/freecad_floorplan.pdf" type="application/pdf" width="100%" height="600px">
