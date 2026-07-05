@@ -13,9 +13,20 @@ Welcome to the Cowes Garden Room Project documentation site. This site hosts our
 
 ## Architectural Visualizations
 
+### 3D Model
+
 ![3D Complete Model](./plans/graphics/split-up/3d-complete.png)
+
+### 3D Model without roof
+
 ![3D Model Without Roof](./plans/graphics/split-up/3d-without-roof.png)
+
+### Floorplan
+
 ![Floorplan](./plans/graphics/split-up/floorplan.png)
+
+### Vertical Cut
+
 ![Vertical Cut](./plans/graphics/split-up/vertical-cut.png)
 
 ---
