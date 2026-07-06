@@ -18,6 +18,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 2.  **Evening Micro-Shifts:** Weeknights are for 45-minute "setup" or "finesse" tasks. Cowes has neighbors. Tuesday nights are for 'Quiet/Low-Impact' tasks: taping the VCL, measuring, cutting insulation, mixing a small bucket of mortar, or tool maintenance. No chop saws after 7 PM. 
 3.  **The "Stop-Loss" Rule:** If an evening task takes more than 90 minutes or you start making tired mistakes, put the tools down. Fatigue leads to injuries and ruined materials.
 4.  **The Sunday Lockdown:** At 4:00 PM every Sunday, tools go down. You execute a 'Weather-Tight & Secure' checklist to ensure the build stays dry and safe while you are at your desk from Monday to Friday. *With OSB SIPS, this means zero-delay on wrapping the breather membrane.*
+5.  **Statutory Checkpoints:** Do not cover up foundation or insulation work until Building Control has inspected it. Covering work without sign-off forces you to tear it back down.
 
 ---
 
@@ -48,10 +49,16 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 *   **Weekend 3 (Sub-Base):** Hire a heavy vibrating compactor plate. Run it over the raw excavated ground first to re-compact any soil loosened by your digging. Lay the geotextile membrane across the entire footprint. Wheelbarrow in **~2.5 bulk bags of Leveling Aggregate** (MOT Type 3 or Ballast) to a depth of roughly 50mm.
 *   **Sunday Lockdown (4 PM):** Run a minimum of 6 overlapping passes of the wacker plate over the new Leveling Aggregate to mechanically lock it flat. Return the wacker plate. Cover the compacted base with a tarp.
 
+### 🛑 STATUTORY MILESTONE 1: Submission of Building Notice
+Before you assemble the XPS tub or pour concrete, you **must submit a Building Notice** to the Isle of Wight Building Control (or an approved private inspector). Because your building is timber-framed and within 1m of a boundary, it is **not exempt** from Building Regulations (Part B - Fire Safety). A Building Notice allows you to start work 48 hours after submission without waiting for "Full Plans" approval.
+
 ### Week 4: The Tub & The Steel
 *   **Weeknight Shifts (45-90 mins):** Screed the 50mm bed of blinding sand perfectly level. Do this in sections over a few evenings. Take your time; if this isn't level, the whole building will be crooked. Assemble the Jackodur Atlas XPS perimeter L-elements and tape the joints.
 *   **Weekend 4 (Heavy):** Loose-lay the 1200-gauge DPM inside the XPS tub. Tape all seams with butyl tape. *Foreman Warning:* Be extremely careful not to tear or puncture the DPM when folding it into the 90-degree internal corners of the XPS tub. Drop in the 50mm plastic 'chairs'. Lay the single layer of structural A252 Steel Mesh directly onto the chairs. Trim with an angle grinder.
 *   **Weekend Task (Quiet):** Zip-tie the 16mm PEX-a Underfloor Heating pipe directly to the top of this single layer of steel mesh at 150mm centers. Pressure test the loop with an air compressor and leave the gauge on.
+
+### 🛑 STATUTORY MILESTONE 2: Foundation Inspection (Building Control)
+Call Building Control and arrange a site visit. They must visually inspect the DPM, the insulation tub, and the steel mesh *before* the concrete is poured. If you pour the concrete before they see it, they can legally force you to drill core samples to prove the DPM is there.
 
 ### Weekend 5: 🚨 BIG EVENT: The 150mm Concrete Pour
 *   **Saturday (All Hands):** The concrete lorry arrives equipped with a **mini line pump** to bypass the narrow 30m path constraint. Run the delivery hose down the path to entirely eliminate wheelbarrowing. Hire a small contractor crew to manage the hose and spread the ~2.8m³ (or ~3.0m³ for safety) of C32/40 mix (150mm depth) to avoid cold-joints and exhaustion. The JACKODUR® Atlas XPS interlocking tub is engineered to be entirely self-supporting during the pour, so no external timber bracing or gravel backfilling is required. *Foreman Warning:* Monitor the XPS corners continuously during the pour to ensure hydrostatic pressure does not cause a blowout. Power-float the massive 150mm slab perfectly level. *Foreman Note:* With only a single layer of steel mesh placed in the bottom 50mm, the power float has a massive 68mm safety clearance from the top.
@@ -114,11 +121,19 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 
 ### Week 14: Internal Skin & Fire Safety
 *   **Weeknights (Quiet, 45m-1.5h):** Pre-cut the 15mm Fermacell boards to size. Apply Jointstik glue to all board edges.
-*   **Saturday (Heavy):** Screw the **15mm Fermacell boards** to the service battens using 30mm screws. Schedule your Building Control Inspection for sign-off upon completion of this layer.
+*   **Saturday (Heavy):** Screw the **15mm Fermacell boards** to the service battens using 30mm screws. 
 *   **Sunday (Finesse):** Fully bond the engineered oak floor to the slab. Leave a perimeter expansion gap.
 
+### 🛑 STATUTORY MILESTONE 3: Fire & Structural Inspection (Building Control)
+Call Building Control for their second major inspection. They need to verify that the boundary-facing walls have the A2 non-combustible cladding on the outside and the REI30/60 rated 15mm Fermacell boards on the inside. This satisfies Part B (Fire Safety).
+
 ### Final Evenings: Commissioning
-*   **Weeknights (Quiet):** Paint the Fermacell. Mount the 1.2kW IR heating panel to the ceiling. Mount the Internal 3kW Electric Flow Boiler internally on the Fermacell wall and plumb it directly into the UFH manifold. Call the electrician to terminate the consumer unit, wire the Flow Boiler, sign off grounding, and issue the certificate. Run the rigid galvanized steel ducting for dust extraction. **CRITICAL:** Bolt the **Copper Earth Bonding Strap** to the metal ducting. Commission the dMVHR with a competent Part F/BPEC engineer.
+*   **Weeknights (Quiet):** Paint the Fermacell. Mount the 1.2kW IR heating panel to the ceiling. Mount the Internal 3kW Electric Flow Boiler internally on the Fermacell wall and plumb it directly into the UFH manifold. 
+*   **🛑 STATUTORY MILESTONE 4: Part P Electrical Sign-off:** You cannot legally connect the workshop to the main house consumer unit yourself. Hire a "Competent Person" registered electrician (NICEIC or NAPIT) to terminate the consumer unit, wire the Flow Boiler, sign off the grounding, and issue the Part P electrical certificate.
+*   **Final Tasks:** Run the rigid galvanized steel ducting for dust extraction. **CRITICAL:** Bolt the **Copper Earth Bonding Strap** to the metal ducting. Commission the dMVHR with a competent Part F/BPEC engineer. 
+
+### 🛑 STATUTORY MILESTONE 5: The Completion Certificate
+Once the Part P electrical certificate is in hand, you send copies to Building Control. They will likely do one final walkthrough. Once satisfied, they issue the **Building Control Completion Certificate**. Store this safely; you cannot legally sell your house as having a "usable outbuilding" without it.
 
 ---
 
