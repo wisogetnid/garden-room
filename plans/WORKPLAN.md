@@ -6,7 +6,7 @@ layout: default
 
 **Status:** ACTIVE BUILD SCHEDULE  
 **Foreman:** The DIY Project Coach  
-**Target:** 18.6m² Passivhaus-Standard Envelope via 150mm Wall / 120mm (122mm true) Roof PUR-Core SIPs  
+**Target:** 18.6m² Passivhaus-Standard Envelope via 150mm Wall / 120mm (122mm true [11mm OSB/100mm Core/11mm OSB]) Roof PUR-Core SIPs  
 
 ---
 
@@ -49,16 +49,29 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 *   **Weekend 3 (Sub-Base):** Hire a heavy vibrating compactor plate. Run it over the raw excavated ground first to re-compact any soil loosened by your digging. Lay the geotextile membrane across the entire footprint. Wheelbarrow in **~2.5 bulk bags of Leveling Aggregate** (MOT Type 3 or Ballast) to a depth of roughly 50mm.
 *   **Sunday Lockdown (4 PM):** Run a minimum of 6 overlapping passes of the wacker plate over the new Leveling Aggregate to mechanically lock it flat. Return the wacker plate. Cover the compacted base with a tarp.
 
-### 🛑 STATUTORY MILESTONE 1: Submission of Building Notice
-Before you assemble the XPS tub or pour concrete, you **must submit a Building Notice** to the Isle of Wight Building Control (or an approved private inspector). Because your building is timber-framed and within 1m of a boundary, it is **not exempt** from Building Regulations (Part B - Fire Safety). A Building Notice allows you to start work 48 hours after submission without waiting for "Full Plans" approval.
+### 🛑 STATUTORY MILESTONE 1: Start Notice & The Trench Inspection
+Before you lay the Geotextile and Leveling Aggregate, you **must email the "Start Notice Form"** to Building Control (Peter Millward) giving 48 hours notice. 
+*   **The Bottom-of-Trench Visit:** Once you have dug the hole to roughly 390mm and exposed the hard, stoney "made ground," call Peter and ask him to perform the **"Excavation for foundations"** inspection. You want his explicit agreement that the hard ground you have reached is sufficient to support the raft without needing 150mm of imported MOT Type 1. *Do not lay the geotextile or stone until he agrees.*
+
+### 🛑 STATUTORY MILESTONE 2: The Foundation / Pre-Pour Inspection (Consolidated)
+Because you are building an insulated raft, the next few inspection stages happen on the same day. 
+Once the JACKODUR tub is assembled, the DPM is taped inside, and the A252 steel mesh is sitting on its plastic chairs, **call Peter Millward (giving 24 hours notice) for the Pre-Pour Inspection**. 
+*When he arrives, he will check off:*
+1.  "Hardcore fill/oversite" (He will see the Jackodur/Sand).
+2.  "DPC bedded" (He will see the DPM plastic).
+3.  "Inspection of reinforcement" (He will see the steel mesh).
+*Do not pour the concrete until he has visually signed off on this.*
 
 ### Week 4: The Tub & The Steel
 *   **Weeknight Shifts (45-90 mins):** Screed the 50mm bed of blinding sand perfectly level. Do this in sections over a few evenings. Take your time; if this isn't level, the whole building will be crooked. Assemble the Jackodur Atlas XPS perimeter L-elements and tape the joints.
 *   **Weekend 4 (Heavy):** Loose-lay the 1200-gauge DPM inside the XPS tub. Tape all seams with butyl tape. *Foreman Warning:* Be extremely careful not to tear or puncture the DPM when folding it into the 90-degree internal corners of the XPS tub. Drop in the 50mm plastic 'chairs'. Lay the single layer of structural A252 Steel Mesh directly onto the chairs. Trim with an angle grinder.
 *   **Weekend Task (Quiet):** Zip-tie the 16mm PEX-a Underfloor Heating pipe directly to the top of this single layer of steel mesh at 150mm centers. Pressure test the loop with an air compressor and leave the gauge on.
 
-### 🛑 STATUTORY MILESTONE 2: Foundation Inspection (Building Control)
-Call Building Control and arrange a site visit. They must visually inspect the DPM, the insulation tub, and the steel mesh *before* the concrete is poured. If you pour the concrete before they see it, they can legally force you to drill core samples to prove the DPM is there.
+### 🛑 STATUTORY MILESTONE 3: The Commencement Form & Roof/Insulation Inspection
+*   **The "Notice of Commencement" Form:** Under the new rules, a project has "commenced" when 15% of the work is done. Once your concrete slab is poured and cured, email this form to the council. 
+*   **The "Roof & Insulation" Inspection:** Once the SIP walls and roof are erected, but **BEFORE** you cover the outside with Tyvek/Cladding and **BEFORE** you cover the inside with Fermacell, call Peter Millward. He needs to see:
+    1. "Roof structure prior to covering" (He will check the LVL splines).
+    2. "Insulation" (He will verify the SIP core thickness and Wood Fibre).
 
 ### Weekend 5: 🚨 BIG EVENT: The 150mm Concrete Pour
 *   **Saturday (All Hands):** The concrete lorry arrives equipped with a **mini line pump** to bypass the narrow 30m path constraint. Run the delivery hose down the path to entirely eliminate wheelbarrowing. Hire a small contractor crew to manage the hose and spread the ~2.8m³ (or ~3.0m³ for safety) of C32/40 mix (150mm depth) to avoid cold-joints and exhaustion. The JACKODUR® Atlas XPS interlocking tub is engineered to be entirely self-supporting during the pour, so no external timber bracing or gravel backfilling is required. *Foreman Warning:* Monitor the XPS corners continuously during the pour to ensure hydrostatic pressure does not cause a blowout. Power-float the massive 150mm slab perfectly level. *Foreman Note:* With only a single layer of steel mesh placed in the bottom 50mm, the power float has a massive 68mm safety clearance from the top.
@@ -124,16 +137,15 @@ Call Building Control and arrange a site visit. They must visually inspect the D
 *   **Saturday (Heavy):** Screw the **15mm Fermacell boards** to the service battens using 30mm screws. 
 *   **Sunday (Finesse):** Fully bond the engineered oak floor to the slab. Leave a perimeter expansion gap.
 
-### 🛑 STATUTORY MILESTONE 3: Fire & Structural Inspection (Building Control)
-Call Building Control for their second major inspection. They need to verify that the boundary-facing walls have the A2 non-combustible cladding on the outside and the REI30/60 rated 15mm Fermacell boards on the inside. This satisfies Part B (Fire Safety).
-
 ### Final Evenings: Commissioning
 *   **Weeknights (Quiet):** Paint the Fermacell. Mount the 1.2kW IR heating panel to the ceiling. Mount the Internal 3kW Electric Flow Boiler internally on the Fermacell wall and plumb it directly into the UFH manifold. 
-*   **🛑 STATUTORY MILESTONE 4: Part P Electrical Sign-off:** You cannot legally connect the workshop to the main house consumer unit yourself. Hire a "Competent Person" registered electrician (NICEIC or NAPIT) to terminate the consumer unit, wire the Flow Boiler, sign off the grounding, and issue the Part P electrical certificate.
+*   **Electrical Sign-off:** You cannot legally connect the workshop to the main house consumer unit yourself. Hire a "Competent Person" registered electrician (NICEIC or NAPIT) to terminate the consumer unit, wire the Flow Boiler, sign off the grounding, and issue the Part P electrical certificate.
 *   **Final Tasks:** Run the rigid galvanized steel ducting for dust extraction. **CRITICAL:** Bolt the **Copper Earth Bonding Strap** to the metal ducting. Commission the dMVHR with a competent Part F/BPEC engineer. 
 
-### 🛑 STATUTORY MILESTONE 5: The Completion Certificate
-Once the Part P electrical certificate is in hand, you send copies to Building Control. They will likely do one final walkthrough. Once satisfied, they issue the **Building Control Completion Certificate**. Store this safely; you cannot legally sell your house as having a "usable outbuilding" without it.
+### 🛑 STATUTORY MILESTONE 4: Final Completion
+Once the building is finished, the Fermacell is painted, and you have the Part P Electrical Certificate from your electrician:
+1. Email the **"Notice of Completion Declaration"** form to the council.
+2. Arrange the final walk-through with Peter Millward (giving 5 days notice). He will issue the final **Building Control Completion Certificate**.
 
 ---
 
