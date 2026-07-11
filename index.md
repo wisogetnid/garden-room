@@ -21,8 +21,12 @@ Welcome to the Cowes Garden Room Project documentation site. This site hosts our
 
 ### Floorplan
 
+![Floorplan](./plans/graphics/floorplan.svg)
+
+### Boundary Plan
+
 <object data="./plans/graphics/freecad_floorplan.pdf" type="application/pdf" width="100%" height="600px">
-  <p>Unable to display PDF. <a href="./plans/graphics/freecad_floorplan.pdf">Download Floorplan PDF</a>.</p>
+  <p>Unable to display PDF. <a href="./plans/graphics/freecad_floorplan.pdf">Download Boundary Plan PDF</a>.</p>
 </object>
 
 ### Section Cut

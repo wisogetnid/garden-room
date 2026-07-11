@@ -41,3 +41,9 @@
 **Architect Notes: West Facade Internal Symmetry Pivot**
 - **User Query:** User noted that the Left Corner Pillar on the West Facade felt too tight internally. The previous 430mm SIP cut, minus the 190mm internal wall buildup, left only ~240mm of visible wall space beside the window, causing internal claustrophobia.
 - **Action Taken:** Re-calculated the 5430mm West Facade SIP core using an "Internally Centered" layout. Shifted the window assembly to the right. Both the far-left and far-right SIP corner pillars are now identically cut to **590mm**. This creates a perfectly balanced internal experience, leaving exactly **400mm** of visible wall space on both corners once the 190mm side-wall buildups are factored in. `MASTER_PLAN.md` updated.
+
+## Date: 2026-07-10
+**Foreman Notes: Planning Authority Pre-App Response**
+- **Status:** The Isle of Wight Planning Authority advised the user to withdraw the formal pre-application enquiry. They stated they do not provide Permitted Development (PD) advice via the paid pre-application service.
+- **Council Alternative:** The council directed the user to their free, weekly "drop-in service" (Wednesdays, 2pm - 5pm) where a Planning Officer will check property restrictions (Article 4/Conservation Area) in person and advise if formal planning is required.
+- **Action Taken:** User will withdraw the paid application to secure a refund and attend the drop-in session.
