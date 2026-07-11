@@ -15,6 +15,15 @@ layout: default
 
 ---
 
+## Step-by-Step Construction Phases
+1. **Phase 1: Groundworks & Foundation (Days 1-14):** 390mm deep manual excavation, laying of 50mm leveling aggregate, Jackodur Atlas XPS tub assembly, DPM, steel mesh, and 150mm concrete raft pour.
+2. **Phase 2: Superstructure (Days 30-35):** After a 21-28 day concrete curing halt, application of continuous Compacfoam CF200 thermal break, erection of 150mm SIP walls and 122mm (true) LVL-splined sloped SIP roof.
+3. **Phase 3: Thermal Envelope & Weatherproofing (Days 36-40):** 50mm external rigid Wood Fibre insulation, Tyvek membrane wrap, EPDM flat roof waterproofing, and VIG window/door installation.
+4. **Phase 4: Cladding & Internal Fit-Out (Days 41-50+):** 25mm rainscreen battening, James Hardie VL cladding, internal Pro Clima Intello Plus VCL taping, 25mm service cavity, and 15mm Fermacell fire-rated internal boards.
+5. **Phase 5: Commissioning (Final):** Part P Electrical sign-off, internal 3kW Electric Flow Boiler activation, and dMVHR ventilation balancing.
+
+---
+
 ## 1. Foundation and Groundworks Specification
 
 **Objective:** Provide a damp-proof, vermin-proof, and thermally isolated base capable of distributing 2.5-tons of static building weight plus heavy dynamic machinery loads.
@@ -166,10 +175,17 @@ layout: default
     *   **North Elevation (Short Wall):** 1x 300x1500mm Fixed Clerestory VIG uPVC window; top datum **2100mm FFL**, bottom sill **1800mm FFL**.
     *   **South Elevation (Short Wall):** 1x 300x1500mm Fixed Clerestory VIG uPVC window; top datum **2100mm FFL**, bottom sill **1800mm FFL**.
     *   **East Elevation (Long / Low-Side Wall):** 2x 300x1500mm Fixed Clerestory VIG uPVC windows (evenly spaced); top datum **2100mm FFL**, bottom sill **1800mm FFL**.
-    *   **West Elevation (Visible / High-Side Façade):** 2x **1200x1000mm** Fixed VIG uPVC windows + 1x **1400mm x 2150mm** Asymmetric 1.5 Door.
+    *   **West Elevation (Visible / High-Side Façade):** 2x **1000x1000mm** Fixed VIG uPVC windows + 1x **1400mm x 2150mm** Asymmetric 1.5 Door.
 *   **Clerestory Placement Logic:** The 300x1500mm fixed windows must be factory-cut into the SIPs with a **2100mm top datum**. This Passivhaus optimization (fixed panes = zero air leakage) relies entirely on the dMVHR for ventilation, while retaining 1800mm of uninterrupted wall height below for tool racks and machinery. The dry moat strategy successfully restored the ability to use a 2100mm datum.
-*   **West Façade 'Workbench Panorama' Layout:** To future-proof for a home office, the 5.6m West wall utilizes an asymmetric zoning layout and must be the **high-side wall** of the roof slope. The West facade retains the horizontal '400mm Architectural Rhythm'. The 1400mm door is offset, anchored by a 400mm solid SIP corner on the far right and a 400mm SIP column on the left. The two 1200mm-wide fixed windows follow immediately, separated by a 400mm SIP mullion, leaving a ~430mm solid SIP wall on the far left. 
-    *   *Revised Vertical Datum:* The door and West window heads align at **2150mm FFL**, preserving ~89.5mm of structural head zone above the openings. The revised 1200x1000mm fixed windows place the bottom sills at **1150mm FFL**, allowing a standard 900mm-high workbench or desk to sit beneath the glass with ~250mm clearance.
+*   **West Façade 'Workbench Panorama' Layout:** To future-proof for a home office, the 5.6m West wall utilizes an asymmetric zoning layout and must be the **high-side wall** of the roof slope. To ensure internal visual symmetry and prevent the windows from feeling cramped against the side walls, the layout is "Internally Centered." Across the 5430mm SIP core length (viewed from the outside, Right to Left), the exact openings and solid wall dimensions are:
+    *   **Right Corner Pillar:** 590mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 190mm, this provides exactly 400mm of visible internal wall space beside the door*).
+    *   **Main Door:** 1400mm opening
+    *   **Door/Window Gap:** 420mm solid SIP
+    *   **Window 1:** 1000mm opening
+    *   **Central Mullion:** 430mm solid SIP
+    *   **Window 2:** 1000mm opening
+    *   **Left Corner Pillar:** 590mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 190mm, this provides exactly 400mm of visible internal wall space beside the window*).
+    *   *Revised Vertical Datum:* The door and West window heads align at **2150mm FFL**, preserving ~89.5mm of structural head zone above the openings. The revised 1000x1000mm fixed windows place the bottom sills at **1150mm FFL**, allowing a standard 900mm-high workbench or desk to sit beneath the glass with ~250mm clearance.
 *   **French Doors Forbidden:** Traditional French doors are strictly prohibited. They inherently fail Passivhaus airtightness standards and acoustic reduction due to the lack of a central mullion, leading to air and noise leakage down the meeting stiles.
 *   **Approved Mechanisms:** Specify a **1400mm x 2150mm maximum outer-frame-height Asymmetric 1.5 Door system** (e.g., a 900mm active leaf combined with a 500mm slave leaf) or a high-performance **Lift-and-Slide door** only if the supplier can keep the total frame height at or below 2150mm FFL. These systems use complex cam-action locks to physically compress robust continuous rubber gaskets, ensuring the thermal and acoustic envelope is not compromised at the entry point.
 
@@ -258,7 +274,7 @@ A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the 
 ## 6. Potential Risks (Logistics & Compliance)
 *   **Transportation Logistics:** Narrow rural roads on the Isle of Wight require a "shuttle" service. SIP panels must be transferred to smaller rigid vehicles from articulated lorries for the final mile. Ferry costs via Yarmouth (e.g., Wightlink) must be factored in. Sourcing from New Forest SIPs (Lymington) minimizes overall transit compared to national suppliers.
 *   **Fire Safety Boundary Compliance:** Approved Document B updates mandate that structures <1m from a boundary must be built with "substantially non-combustible materials". OSB-faced SIPs are not inherently non-combustible (Class 3 spread of flame). The specified 15mm Fermacell internal boarding acts as the equivalent of Type F fire-rated plasterboard to achieve the required REI30/REI60 rating.
-*   **Moisture Management:** The high salt content and wind-driven rain in Cowes mean OSB SIP skins can degrade rapidly if exposed during the build. The Tyvek breather membrane MUST be applied immediately after erection.
+*   **Moisture Management:** The high salt content and wind-driven rain in Cowes mean OSB SIP skins can degrade rapidly if exposed during the build. The structure must be temporarily protected with heavy-duty tarpaulins immediately after erection. The permanent Tyvek breather membrane MUST only be applied *after* the external Wood Fibre insulation is installed to prevent trapping moisture between the OSB and the Wood Fibre.
 *   **MVHR Contamination Risk:** Wood dust must be intercepted before it enters the dMVHR core. Failure to maintain G4/F7 pre-filtration will reduce heat recovery, increase fan load, and create a combustible dust reservoir inside the ventilation path.
 *   **Pressure Imbalance Risk:** Outdoor-exhaust dust collection is prohibited unless paired with interlocked makeup air. Otherwise the airtight structure will be depressurized, drawing damp air through joints and risking interstitial condensation.
 *   **COSHH / Part F Compliance:** If used commercially, LEV controls require documented inspection and Thorough Examination and Test at 12-14 month intervals. Mechanical ventilation must be commissioned and balanced for Part F compliance by a competent person.
@@ -284,18 +300,18 @@ Because the foundation U-value (0.22 W/m²K) intentionally misses the Passivhaus
 
 * **Fabric Heat Loss:** 
   - Gross wall area: West high-side wall (5.43m x 2.1115m) + East low-side wall (5.43m x 2.0543m) + two sloped end walls (3.43m x 2.0829m average height x 2) = **~36.91m²**.
-  - Glazing and door area: West fixed windows (2 x 1.2m x 1.0m = 2.40m²) + West asymmetric door (1.4m x 2.0m = 2.80m²) + clerestories (4 x 0.3m x 1.5m = 1.80m²) = **7.00m²**.
-  - Opaque Walls ((36.91m² - 7.00m²) x 0.16) = **4.79 W/K**
+  - Glazing and door area: West fixed windows (2 x 1.0m x 1.0m = 2.00m²) + West asymmetric door (1.4m x 2.0m = 2.80m²) + clerestories (4 x 0.3m x 1.5m = 1.80m²) = **6.60m²**.
+  - Opaque Walls ((36.91m² - 6.60m²) x 0.16) = **4.85 W/K**
   - Roof (18.62m² x 0.11) = **2.05 W/K**
   - Floor (18.62m² x 0.22) = **4.10 W/K**
-  - Glazing / Door Assemblies (7.00m² x 0.80) = **5.60 W/K**
-  - **Total Fabric Loss = 16.54 W/K**
+  - Glazing / Door Assemblies (6.60m² x 0.80) = **5.28 W/K**
+  - **Total Fabric Loss = 16.28 W/K**
 * **Ventilation/Air Leakage:** ~4.5 W/K (Assuming high Q50 airtightness with occasional door opening).
-* **Total Heat Transfer Coefficient (HTC): ~21.04 W/K** (The building loses 21.04 Watts per 1°C of temperature difference).
+* **Total Heat Transfer Coefficient (HTC): ~20.78 W/K** (The building loses 20.78 Watts per 1°C of temperature difference).
 * **Climate Data:** The Isle of Wight experiences roughly **1,500 Heating Degree Days (HDD)** per year to maintain a 14°C baseline.
 
 **Electrical Effort & Running Costs:**
-Formula: `(HTC [21.04] × 24 hours × HDD [1500]) ÷ 1000` = **757 kWh/year thermal demand**.
+Formula: `(HTC [20.78] × 24 hours × HDD [1500]) ÷ 1000` = **748 kWh/year thermal demand**.
 Given the use of a 3kW Internal Electric Flow Boiler with a Coefficient of Performance (COP) of 1.0:
 * **Expected Annual Electrical Input:** 757 kWh of electricity per year.
 * **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£185.47 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
