@@ -170,12 +170,12 @@ layout: default
 
 ### 2.5 Glazing & Door Access Strategy
 **Objective:** Provide secure entry and natural light while maintaining Passivhaus Q50 airtightness testing standards and rigorous acoustic dB reduction.
-*   **Window Specification:** All windows must utilize Vacuum-Insulated Glazing (VIG) housed within uPVC frames for maximum thermal efficiency and acoustic dampening.
+*   **Window Specification:** All windows must utilize Vacuum-Insulated Glazing (VIG) housed within uPVC frames for maximum thermal efficiency and acoustic dampening. The West-facing windows must be ordered with a factory-applied Solar Control Coating (g-value < 0.40) to mitigate summer overheating.
 *   **Window Schedule:** 
     *   **North Elevation (Short Wall):** 1x 300x1500mm Fixed Clerestory VIG uPVC window; top datum **2100mm FFL**, bottom sill **1800mm FFL**.
     *   **South Elevation (Short Wall):** 1x 300x1500mm Fixed Clerestory VIG uPVC window; top datum **2100mm FFL**, bottom sill **1800mm FFL**.
     *   **East Elevation (Long / Low-Side Wall):** 2x 300x1500mm Fixed Clerestory VIG uPVC windows (evenly spaced); top datum **2100mm FFL**, bottom sill **1800mm FFL**.
-    *   **West Elevation (Visible / High-Side Façade):** 2x **1000x1000mm** Fixed VIG uPVC windows + 1x **1400mm x 2150mm** Asymmetric 1.5 Door.
+    *   **West Elevation (Visible / High-Side Façade):** 2x **1000x1000mm** Fixed VIG uPVC windows (Factory-Applied Solar Control Coating) + 1x **1400mm x 2150mm** Asymmetric 1.5 Door.
 *   **Clerestory Placement Logic:** The 300x1500mm fixed windows must be factory-cut into the SIPs with a **2100mm top datum**. This Passivhaus optimization (fixed panes = zero air leakage) relies entirely on the dMVHR for ventilation, while retaining 1800mm of uninterrupted wall height below for tool racks and machinery. The dry moat strategy successfully restored the ability to use a 2100mm datum.
 *   **West Façade 'Workbench Panorama' Layout:** To future-proof for a home office, the 5.6m West wall utilizes an asymmetric zoning layout and must be the **high-side wall** of the roof slope. To ensure internal visual symmetry and prevent the windows from feeling cramped against the side walls, the layout is "Internally Centered." Across the 5430mm SIP core length (viewed from the outside, Right to Left), the exact openings and solid wall dimensions are:
     *   **Right Corner Pillar:** 590mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 190mm, this provides exactly 400mm of visible internal wall space beside the door*).
