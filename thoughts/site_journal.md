@@ -58,3 +58,17 @@
   1. Synchronize the Workplan's high-level phase overview dates (Days 1-5, etc.) to match the weekly breakdown (Phase 1: Weeks 1-5, Phase 2: Weeks 6-8 curing, Phase 3: Weeks 9-11, Phase 4: Weeks 12-13, Phase 5: Weeks 14-16+).
   2. Resolve the "Double Weekend 10" scheduling error (one of them needs to be Weekend 11, cascading the rest).
   3. Remove the duplicated VCL taping text block in Week 13.
+
+## Date: 2026-07-11
+**Architect Notes: Deep Engineering Flaws Resolution**
+- **Ceiling VCL Puncture Flaw:** Resolved the airtightness contradiction. Replaced the full sheet of Pro Clima Intello Plus membrane with self-sealing Pro Clima Tescon Vana Tape applied directly over the SIP joints. This self-sealing tape acts as the airtight gasket that will seal around the direct-to-SIP ceiling screws without tearing or blowing the Passivhaus envelope. `MASTER_PLAN.md` Section 2.1 and `WORKPLAN.md` Week 13/14 Evening Tasks updated.
+- **Hardware Impossibility (Summer Cooling):** Removed the reference to "passive summer cooling" in `MASTER_PLAN.md` Section 4.1. An electric resistance flow boiler cannot provide cooling, as it lacks a heat-rejection cycle. The UFH loop will exclusively serve as the thermal battery maintainer.
+- **Roof Math Correction:** Corrected the roof gross area calculation in `MASTER_PLAN.md` Section 7.2. The previous 18.62 m² area only represented the internal footprint. Factoring in the 86mm cantilever to cover the wood fibre/cladding buildup brings the true physical roof area to 20.18 m². Fabric Heat Loss math updated; annual energy demand shifted slightly to 781 kWh/year.
+- **Forgotten Ceiling Board Math:** Updated the internal clearance calculations in `MASTER_PLAN.md` Section 2.3.2 to deduct the 15mm Fermacell ceiling board that was missing from the equation. The revised high-side internal clearance is now ~2224.5mm and the low-side is ~2167.3mm, providing precise head zone validation data.
+
+## Date: 2026-07-11
+**Architect Notes: Lighting Strategy for Zero-Penetration Ceiling**
+- **User Query:** User inquired about routing electric cables for ceiling lighting without the 25mm counter batten cavity. They also clarified the space will double as a high-comfort home office, requiring bright, direct task lighting over the West-facing workbench.
+- **Architectural Solution:** Integrated the "Wall-Fed Surface" lighting strategy. The radial lighting circuit will run vertically up the 25mm wall service cavity and exit at the corner junction to feed a surface-mounted LED track over the West workbench zone. This provides the necessary 750-1000 lux for precision woodworking and office work while strictly maintaining the "no penetrations in the SIP roof" rule.
+- **Updates Made:** `MASTER_PLAN.md` Section 5.1 (Circuit Schedule) updated to include the Wall-Fed Surface-Mounted LED Track Lighting. Added a new bullet point to Section 5.2 detailing the Zero-Penetration Ceiling Lighting logic.
+- **Hand-off to @foreman:** @foreman, please update `plans/WORKPLAN.md` Phase 5 (Internal Fit-Out & MEP). Add an explicit step during the electrical rough-in (Week 14) for running the lighting cable up the wall cavity, and a step in Week 15/Commissioning to mount the surface LED track to the Fermacell ceiling over the West workbench zone.

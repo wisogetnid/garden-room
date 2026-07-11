@@ -125,11 +125,11 @@ Once the JACKODUR tub is assembled, the DPM is taped inside, and the A252 steel 
 *Now you are working inside, out of the weather. Evening work is highly effective here.*
 
 ### Evening Tasks: The Airtight Envelope & Vapour Control
-*   **Weeknights (Quiet):** First, tape every single internal panel joint, floor junction, and ceiling junction with **Pro Clima Tescon Vana** tape. Second, staple the **Pro Clima Intello Plus Vapour Control Layer (VCL)** sheet completely across the internal walls and ceiling. Tape all 100mm overlaps with Tescon Vana. Tape the VCL tightly to the window frames. This creates the continuous internal Passivhaus airtight/vapour barrier.
+*   **Weeknights (Quiet):** Tape every single internal wall and ceiling panel joint, floor junction, and ceiling junction with **Pro Clima Tescon Vana** tape. The self-sealing nature of this tape ensures any screws driven through it (e.g. for the ceiling boards) will not compromise the airtightness. Tape tightly to the window frames. This creates the continuous internal Passivhaus airtight/vapour barrier without requiring full VCL membrane sheets across the entire field.
 
 ### Week 14: The Service Cavity & Electrical Rough-In
-*   **Saturday (Moderate):** Screw the 25x50mm treated timber battens horizontally at 400mm centers onto the internal SIP walls directly through the Intello Plus VCL. The VCL is now safely behind the service cavity. 
-*   **Sunday (Technical):** Pull all your electrical cabling through the service cavity. Keep the circuits separated and labelled: 20A Type C RCBOs for machine loads, 16A Type B for the 3kW flow boiler, 10A Type B for IR/controls, 6A Type B for dMVHR/filtration, and general socket circuits as designed by the electrician. Mount the airtight socket boxes. Install the dMVHR unit into its factory-cut sleeve.
+*   **Saturday (Moderate):** Screw the 25x50mm treated timber battens horizontally at 400mm centers onto the internal SIP walls directly through the taped SIP seams. The primary airtight boundary is now safely behind the service cavity. 
+*   **Sunday (Technical):** Pull all your electrical cabling through the service cavity. Run the lighting circuit cable vertically up the 25mm wall service cavity and leave the tail safely exposed at the top corner junction. Keep the circuits separated and labelled: 20A Type C RCBOs for machine loads, 16A Type B for the 3kW flow boiler, 10A Type B for IR/controls, 6A Type B for dMVHR/filtration, and general socket circuits as designed by the electrician. Mount the airtight socket boxes. Install the dMVHR unit into its factory-cut sleeve.
 
 ### Week 15: Internal Skin & Fire Safety
 *   **Weeknights (Quiet, 45m-1.5h):** Pre-cut the 15mm Fermacell boards to size. Apply Jointstik glue to all board edges.
@@ -137,7 +137,7 @@ Once the JACKODUR tub is assembled, the DPM is taped inside, and the A252 steel 
 *   **Sunday (Finesse):** Fully bond the engineered oak floor to the slab. Leave a perimeter expansion gap.
 
 ### Final Evenings: Commissioning
-*   **Weeknights (Quiet):** Paint the Fermacell. Mount the 1.2kW IR heating panel to the ceiling. Mount the Internal 3kW Electric Flow Boiler internally on the Fermacell wall and plumb it directly into the UFH manifold. 
+*   **Weeknights (Quiet):** Paint the Fermacell. Mount the 1.2kW IR heating panel to the ceiling. Screw the surface-mounted LED track directly into the Fermacell ceiling over the West workbench zone, wiring it into the wall-fed tail. Mount the Internal 3kW Electric Flow Boiler internally on the Fermacell wall and plumb it directly into the UFH manifold. 
 *   **Electrical Sign-off:** You cannot legally connect the workshop to the main house consumer unit yourself. Hire a "Competent Person" registered electrician (NICEIC or NAPIT) to terminate the consumer unit, wire the Flow Boiler, sign off the grounding, and issue the Part P electrical certificate.
 *   **Final Tasks:** Run the rigid galvanized steel ducting for dust extraction. **CRITICAL:** Bolt the **Copper Earth Bonding Strap** to the metal ducting. Commission the dMVHR with a competent Part F/BPEC engineer. 
 
