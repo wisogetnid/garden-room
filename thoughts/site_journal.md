@@ -47,3 +47,14 @@
 - **Status:** The Isle of Wight Planning Authority advised the user to withdraw the formal pre-application enquiry. They stated they do not provide Permitted Development (PD) advice via the paid pre-application service.
 - **Council Alternative:** The council directed the user to their free, weekly "drop-in service" (Wednesdays, 2pm - 5pm) where a Planning Officer will check property restrictions (Article 4/Conservation Area) in person and advise if formal planning is required.
 - **Action Taken:** User will withdraw the paid application to secure a refund and attend the drop-in session.
+
+## Date: 2026-07-11
+**Architect Notes: Resolution of Master Plan & Workplan Inconsistencies**
+- **Timeline Overview Conflict:** Addressed the massive discrepancy between the Workplan's weekly breakdown and the high-level phase overviews. The `MASTER_PLAN.md` Phase timeline was updated from days (e.g. Days 1-14) to weeks (e.g. Weeks 1-5, Weeks 6-8 curing) to align with the realistic DIY weekend-warrior pacing mapped in the Workplan.
+- **Moat Strategy Contradiction:** Removed the erroneous reference to the "dry moat strategy" in `MASTER_PLAN.md` Section 2.5. The project is firmly using the 400mm gravel perimeter splash margin as established in Section 1.3.
+- **Clerestory Geometry Correction:** Addressed the physical impossibility of a uniform 82.3mm head zone above clerestory windows installed into sloped walls. `MASTER_PLAN.md` Section 2.3.2 was revised to specify that while the East wall clerestories maintain an exact 2100mm datum and 82.3mm head zone, the North and South sloped end-wall clerestories will have a variable head zone (82.3mm widening to ~111mm) to maintain the horizontal 2100mm datum below a sloping roof.
+- **Thermal Envelope Math Correction:** Recalculated the Fabric Heat Loss (Section 7.2) using the *full* structural wall heights (2.26m and 2.20m), accounting for the lower 150mm insulated Compacfoam wall segment that sits below the lawn line on the sunken slab. Additionally updated the floor U-value in the math to match the achieved target (0.23 W/m²K). The expected heating demand is slightly higher at ~775 kWh/year.
+- **Hand-off to @foreman:** @foreman, the `MASTER_PLAN.md` has been updated. You MUST rework `plans/WORKPLAN.md` to:
+  1. Synchronize the Workplan's high-level phase overview dates (Days 1-5, etc.) to match the weekly breakdown (Phase 1: Weeks 1-5, Phase 2: Weeks 6-8 curing, Phase 3: Weeks 9-11, Phase 4: Weeks 12-13, Phase 5: Weeks 14-16+).
+  2. Resolve the "Double Weekend 10" scheduling error (one of them needs to be Weekend 11, cascading the rest).
+  3. Remove the duplicated VCL taping text block in Week 13.

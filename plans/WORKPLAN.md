@@ -23,11 +23,11 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 ---
 
 ## Step-by-Step Construction Phases (Overview)
-1. **Phase 1: Groundworks & Foundation** (Days 1-5): Exact 390mm depth excavation (to sink 50mm leveling aggregate, 50mm sand, 140mm XPS tub, and the 150mm concrete slab flush with the lawn), leveling aggregate sub-base, blinding sand, JACKODUR tub assembly, mesh laying, and UFH pipe integration.
-2. **Phase 2: Concrete Pour & Curing Halt** (Day 6-30): Line pump pour. **CRITICAL:** Wait min 21-28 days before erecting walls to prevent slab moisture from locking into the SIPs.
-3. **Phase 3: Structural Envelope** (Days 31-35): Sole plate anchoring, SIP wall and roof erection, Tyvek wrapping, and window/door installation (achieving weather-tightness).
-4. **Phase 4: Cladding & Exterior Finish** (Days 36-40): Battening, Hardie VL plank cladding, and EPDM flat roof waterproofing.
-5. **Phase 5: Internal Fit-Out & MEP** (Days 41-50): Service battens, wiring, Fermacell boarding, hard-bonded floor, and final commissioning of Electric Flow Boiler and extraction.
+1. **Phase 1: Groundworks & Foundation** (Weeks 1-5): Exact 390mm depth excavation (to sink 50mm leveling aggregate, 50mm sand, 140mm XPS tub, and the 150mm concrete slab flush with the lawn), leveling aggregate sub-base, blinding sand, JACKODUR tub assembly, mesh laying, and UFH pipe integration.
+2. **Phase 2: Concrete Pour & Curing Halt** (Weeks 6-8 curing): Line pump pour. **CRITICAL:** Wait min 21-28 days before erecting walls to prevent slab moisture from locking into the SIPs.
+3. **Phase 3: Structural Envelope** (Weeks 9-11): Sole plate anchoring, SIP wall and roof erection, Tyvek wrapping, and window/door installation (achieving weather-tightness).
+4. **Phase 4: Cladding & Exterior Finish** (Weeks 12-13): Battening, Hardie VL plank cladding, and EPDM flat roof waterproofing.
+5. **Phase 5: Internal Fit-Out & MEP** (Weeks 14-16+): Service battens, wiring, Fermacell boarding, hard-bonded floor, and final commissioning of Electric Flow Boiler and extraction.
 
 ---
 
@@ -105,7 +105,7 @@ Once the JACKODUR tub is assembled, the DPM is taped inside, and the A252 steel 
 
 ## 🗓️ Phase 3: Exterior Finish & Glazing (The Tidy Phase)
 
-### Weekend 10: Windows, Doors & Drainage
+### Weekend 11: Windows, Doors & Drainage
 *   **Saturday (Finesse & Heavy Lift):** Install the Vacuum-Insulated Glazing (VIG) uPVC windows into their respective factory-cut SIP openings:
     *   *North:* 1x 300x1500mm (Fixed Clerestory), top datum 2100mm FFL.
     *   *South:* 1x 300x1500mm (Fixed Clerestory), top datum 2100mm FFL.
@@ -114,7 +114,7 @@ Once the JACKODUR tub is assembled, the DPM is taped inside, and the A252 steel 
     *Foreman Note:* VIG units, while thinner than triple glazing, are extremely dense and heavy. Use suction cup lifters and a helper for the long 1.5m clerestories AND the 1.2m panorama windows to prevent frame distortion. Before installing the **1400mm x 2150mm Asymmetric 1.5 Door system** (e.g., 900mm active leaf + 500mm slave leaf), verify there is exactly **89.5mm** structural head zone above the West door and windows (beneath the 2261.5mm high-side wall plate). For the East/North/South clerestories, verify there is exactly **82.3mm** structural head zone beneath the low-side/sloped wall plate. If the manufacturer requires a taller outer frame, stop and resolve the door height or datum before cutting or forcing the frame. Traditional French doors are strictly forbidden. Seal all units with expanding PU foam and tape over the frame-to-OSB joints internally with airtight tape (e.g., Tescon Vana).
 *   **Sunday (Moderate):** Install the guttering and downpipe diverter, routing it to your 200L water butt.
 
-### Week 11 & 12: External Insulation, Cladding & The Weather Shield
+### Week 12 & 13: External Insulation, Cladding & The Weather Shield
 *   **Weeknights (Quiet, 45m-1.5h):** Working under the new roof, remove the temporary wall tarps. Mechanically fix the **50mm Rigid Wood Fibre external insulation** directly to the exterior OSB of the SIP walls. This is clean, quiet work perfect for evenings. 
 *   **Saturday (Precision):** Wrap the entire building in the **Tyvek Breather Membrane** using the "Top-and-Tail" method (taped to the XPS skirt at the bottom and stapled to the top plate). Screw the **Stainless Steel Base Drip Flashing** directly through the Tyvek into the XPS Skirt. Secure the **25x50mm treated rainscreen battens @ 400mm centers** vertically over the Tyvek. Staple the **Perforated Bug Mesh** across the bottom 25mm gap between the battens.
 *   **Sunday (Heavy Repetition):** Install the **James Hardie VL Fibre Cement Cladding** across the rainscreen battens using Hardie™ Plank Screws (4.2x40mm T15 Torx). *Foreman Note:* DO NOT use your impact driver for this! Use a standard drill/driver on a low torque setting to avoid cracking the boards. No pre-drilling required. 
@@ -127,12 +127,11 @@ Once the JACKODUR tub is assembled, the DPM is taped inside, and the A252 steel 
 ### Evening Tasks: The Airtight Envelope & Vapour Control
 *   **Weeknights (Quiet):** First, tape every single internal panel joint, floor junction, and ceiling junction with **Pro Clima Tescon Vana** tape. Second, staple the **Pro Clima Intello Plus Vapour Control Layer (VCL)** sheet completely across the internal walls and ceiling. Tape all 100mm overlaps with Tescon Vana. Tape the VCL tightly to the window frames. This creates the continuous internal Passivhaus airtight/vapour barrier.
 
-### Week 13: The Service Cavity & Electrical Rough-In
-*   **Weeknights (Quiet, 45m-1.5h):** Tape every single internal panel joint, floor junction, and ceiling junction with **Pro Clima Tescon Vana** tape. Second, staple the **Pro Clima Intello Plus Vapour Control Layer (VCL)** sheet completely across the internal walls and ceiling.
+### Week 14: The Service Cavity & Electrical Rough-In
 *   **Saturday (Moderate):** Screw the 25x50mm treated timber battens horizontally at 400mm centers onto the internal SIP walls directly through the Intello Plus VCL. The VCL is now safely behind the service cavity. 
 *   **Sunday (Technical):** Pull all your electrical cabling through the service cavity. Keep the circuits separated and labelled: 20A Type C RCBOs for machine loads, 16A Type B for the 3kW flow boiler, 10A Type B for IR/controls, 6A Type B for dMVHR/filtration, and general socket circuits as designed by the electrician. Mount the airtight socket boxes. Install the dMVHR unit into its factory-cut sleeve.
 
-### Week 14: Internal Skin & Fire Safety
+### Week 15: Internal Skin & Fire Safety
 *   **Weeknights (Quiet, 45m-1.5h):** Pre-cut the 15mm Fermacell boards to size. Apply Jointstik glue to all board edges.
 *   **Saturday (Heavy):** Screw the **15mm Fermacell boards** to the service battens using 30mm screws. 
 *   **Sunday (Finesse):** Fully bond the engineered oak floor to the slab. Leave a perimeter expansion gap.

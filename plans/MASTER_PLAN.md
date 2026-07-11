@@ -16,11 +16,11 @@ layout: default
 ---
 
 ## Step-by-Step Construction Phases
-1. **Phase 1: Groundworks & Foundation (Days 1-14):** 390mm deep manual excavation, laying of 50mm leveling aggregate, Jackodur Atlas XPS tub assembly, DPM, steel mesh, and 150mm concrete raft pour.
-2. **Phase 2: Superstructure (Days 30-35):** After a 21-28 day concrete curing halt, application of continuous Compacfoam CF200 thermal break, erection of 150mm SIP walls and 122mm (true) LVL-splined sloped SIP roof.
-3. **Phase 3: Thermal Envelope & Weatherproofing (Days 36-40):** 50mm external rigid Wood Fibre insulation, Tyvek membrane wrap, EPDM flat roof waterproofing, and VIG window/door installation.
-4. **Phase 4: Cladding & Internal Fit-Out (Days 41-50+):** 25mm rainscreen battening, James Hardie VL cladding, internal Pro Clima Intello Plus VCL taping, 25mm service cavity, and 15mm Fermacell fire-rated internal boards.
-5. **Phase 5: Commissioning (Final):** Part P Electrical sign-off, internal 3kW Electric Flow Boiler activation, and dMVHR ventilation balancing.
+1. **Phase 1: Groundworks & Foundation (Weeks 1-5):** 390mm deep manual excavation, laying of 50mm leveling aggregate, Jackodur Atlas XPS tub assembly, DPM, steel mesh, and 150mm concrete raft pour.
+2. **Phase 2: Concrete Curing Halt (Weeks 6-8):** Mandatory 21-28 day concrete curing halt before superstructure erection to prevent massive slab moisture from locking into the SIPs.
+3. **Phase 3: Structural Envelope (Weeks 9-11):** Application of continuous Compacfoam CF200 thermal break, erection of 150mm SIP walls, 122mm (true) LVL-splined sloped SIP roof, and Tyvek membrane wrap.
+4. **Phase 4: Exterior Finish & Weatherproofing (Weeks 12-13):** 50mm external rigid Wood Fibre insulation, EPDM flat roof waterproofing, VIG window/door installation, and James Hardie VL cladding.
+5. **Phase 5: Internal Fit-Out & Commissioning (Weeks 14-16+):** 25mm rainscreen battening, internal Pro Clima Intello Plus VCL taping, 25mm service cavity, 15mm Fermacell fire-rated internal boards, Part P Electrical sign-off, internal 3kW Electric Flow Boiler activation, and dMVHR ventilation balancing.
 
 ---
 
@@ -143,7 +143,8 @@ layout: default
 *   **Structural Note:** Orienting the fall across the 3.6m width preserves usable headroom across the 5.6m length. The **West façade must be assigned as the high-side wall** because it contains the door and large panorama glazing.
 *   **Opening Validation Rule:** Maintain a minimum **~80mm - 90mm structural head zone** between the top of any factory-cut opening and the underside of the sloped roof SIP/top-plate bearing zone. This is fully validated as the SIP's engineered skins act as a continuous structural lintel.
     *   High-side West wall maximum finished opening top datum: 2261.5mm wall - 22mm finished floor - 89.5mm head zone = **2150mm**. Adopt **2150mm** maximum finished opening top datum.
-    *   Low-side/East or sloped end-wall maximum finished opening top datum: 2204.3mm wall - 22mm finished floor - 82.3mm head zone = **2100mm**. Adopt **2100mm** maximum finished opening top datum.
+    *   Low-side East wall maximum finished opening top datum: 2204.3mm wall - 22mm finished floor - 82.3mm head zone = **2100mm**. Adopt **2100mm** maximum finished opening top datum for the East wall.
+    *   Sloped end-walls (North and South) rise from 2204.3mm to 2261.5mm. Using a horizontal 2100mm top datum for the North and South clerestories means the head zone will be variable, gradually widening from 82.3mm on the low (East) side to approximately 111mm on the high (West) side of the 1500mm-wide window. This maintains the continuous top datum aesthetic while remaining structurally compliant.
 
 ### 2.4 Roof Edge & Fascia Detailing (The "Cantilevered SIP Edge")
 **Objective:** Provide a solid structural perimeter for EPDM membrane clamping and continuous ventilation of the rainscreen cavity, without creating a massive solid-timber cold bridge that compromises the thermal envelope.
@@ -176,7 +177,7 @@ layout: default
     *   **South Elevation (Short Wall):** 1x 300x1500mm Fixed Clerestory VIG uPVC window; top datum **2100mm FFL**, bottom sill **1800mm FFL**.
     *   **East Elevation (Long / Low-Side Wall):** 2x 300x1500mm Fixed Clerestory VIG uPVC windows (evenly spaced); top datum **2100mm FFL**, bottom sill **1800mm FFL**.
     *   **West Elevation (Visible / High-Side Façade):** 2x **1000x1000mm** Fixed VIG uPVC windows (Factory-Applied Solar Control Coating) + 1x **1400mm x 2150mm** Asymmetric 1.5 Door.
-*   **Clerestory Placement Logic:** The 300x1500mm fixed windows must be factory-cut into the SIPs with a **2100mm top datum**. This Passivhaus optimization (fixed panes = zero air leakage) relies entirely on the dMVHR for ventilation, while retaining 1800mm of uninterrupted wall height below for tool racks and machinery. The dry moat strategy successfully restored the ability to use a 2100mm datum.
+*   **Clerestory Placement Logic:** The 300x1500mm fixed windows must be factory-cut into the SIPs with a **2100mm top datum** on the East wall. This Passivhaus optimization (fixed panes = zero air leakage) relies entirely on the dMVHR for ventilation, while retaining 1800mm of uninterrupted wall height below for tool racks and machinery.
 *   **West Façade 'Workbench Panorama' Layout:** To future-proof for a home office, the 5.6m West wall utilizes an asymmetric zoning layout and must be the **high-side wall** of the roof slope. To ensure internal visual symmetry and prevent the windows from feeling cramped against the side walls, the layout is "Internally Centered." Across the 5430mm SIP core length (viewed from the outside, Right to Left), the exact openings and solid wall dimensions are:
     *   **Right Corner Pillar:** 590mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 190mm, this provides exactly 400mm of visible internal wall space beside the door*).
     *   **Main Door:** 1400mm opening
@@ -296,24 +297,24 @@ The building envelope is designed to aggressively target the Passivhaus standard
 | **Glazing** | VIG (Vacuum Insulated Glazing) in uPVC | 0.80 W/m²K | **0.80 W/m²K** | Vastly outperforms double glazing (~1.4 W/m²K). |
 
 ### 7.2 Expected Heating Effort (Calculated Annual kWh)
-Because the foundation U-value (0.22 W/m²K) intentionally misses the Passivhaus criteria (≤ 0.15) to save on excavation logistics, the theoretical Passivhaus shortcut (15 kWh/m²a) cannot be used. Instead, the heating effort is calculated using the real-world **Heat Transfer Coefficient (HTC)** and Isle of Wight climate data.
+Because the foundation U-value (0.23 W/m²K) intentionally misses the Passivhaus criteria (≤ 0.15) to save on excavation logistics, the theoretical Passivhaus shortcut (15 kWh/m²a) cannot be used. Instead, the heating effort is calculated using the real-world **Heat Transfer Coefficient (HTC)** and Isle of Wight climate data.
 
 * **Fabric Heat Loss:** 
-  - Gross wall area: West high-side wall (5.43m x 2.1115m) + East low-side wall (5.43m x 2.0543m) + two sloped end walls (3.43m x 2.0829m average height x 2) = **~36.91m²**.
-  - Glazing and door area: West fixed windows (2 x 1.0m x 1.0m = 2.00m²) + West asymmetric door (1.4m x 2.0m = 2.80m²) + clerestories (4 x 0.3m x 1.5m = 1.80m²) = **6.60m²**.
-  - Opaque Walls ((36.91m² - 6.60m²) x 0.16) = **4.85 W/K**
+  - Gross wall area: West high-side wall (5.43m x 2.2615m) + East low-side wall (5.43m x 2.2043m) + two sloped end walls (3.43m x 2.2329m average height x 2) = **~39.57m²**. (Note: includes full structural wall height down to the Compacfoam thermal break on the slab).
+  - Glazing and door area: West fixed windows (2 x 1.0m x 1.0m = 2.00m²) + West asymmetric door (1.4m x 2.15m = 3.01m²) + clerestories (4 x 0.3m x 1.5m = 1.80m²) = **6.81m²**.
+  - Opaque Walls ((39.57m² - 6.81m²) x 0.16) = **5.24 W/K**
   - Roof (18.62m² x 0.11) = **2.05 W/K**
-  - Floor (18.62m² x 0.22) = **4.10 W/K**
-  - Glazing / Door Assemblies (6.60m² x 0.80) = **5.28 W/K**
-  - **Total Fabric Loss = 16.28 W/K**
+  - Floor (18.62m² x 0.23) = **4.28 W/K**
+  - Glazing / Door Assemblies (6.81m² x 0.80) = **5.45 W/K**
+  - **Total Fabric Loss = 17.02 W/K**
 * **Ventilation/Air Leakage:** ~4.5 W/K (Assuming high Q50 airtightness with occasional door opening).
-* **Total Heat Transfer Coefficient (HTC): ~20.78 W/K** (The building loses 20.78 Watts per 1°C of temperature difference).
+* **Total Heat Transfer Coefficient (HTC): ~21.52 W/K** (The building loses 21.52 Watts per 1°C of temperature difference).
 * **Climate Data:** The Isle of Wight experiences roughly **1,500 Heating Degree Days (HDD)** per year to maintain a 14°C baseline.
 
 **Electrical Effort & Running Costs:**
-Formula: `(HTC [20.78] × 24 hours × HDD [1500]) ÷ 1000` = **748 kWh/year thermal demand**.
+Formula: `(HTC [21.52] × 24 hours × HDD [1500]) ÷ 1000` = **775 kWh/year thermal demand**.
 Given the use of a 3kW Internal Electric Flow Boiler with a Coefficient of Performance (COP) of 1.0:
-* **Expected Annual Electrical Input:** 757 kWh of electricity per year.
-* **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£185.47 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
+* **Expected Annual Electrical Input:** 775 kWh of electricity per year.
+* **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£189.88 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
 
-> **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (150mm slab, dry moat strategy, and Type C induction mapping) have been validated and integrated.
+> **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (150mm slab, perimeter splash margin, and Type C induction mapping) have been validated and integrated.
