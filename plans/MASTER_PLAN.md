@@ -242,6 +242,14 @@ A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the 
 
 **Commissioning Rule:** A BPEC/Part F competent engineer must measure and balance actual supply and extract rates with a calibrated anemometer. Target settings: **Standby 16-32m³/h**, **Occupied 60-70m³/h**, with filter pressure drop checked after initial dusty commissioning.
 
+### 4.2.1 dMVHR Spatial & Structural Integration
+To ensure structural compatibility with the SIP envelope, guard against tolerance variations, and fulfill Zehnder ComfoAir 70 manufacturer warranty clearances, the following integration rules apply:
+*   **Horizontal Positioning:** The dMVHR is mounted on the low-side **East wall**, centered horizontally within the 900mm solid SIP gap between the two clerestory windows. The unit's asymmetric layout envelope (740mm total: 320mm left / 420mm right from the pipe axis) fits comfortably within this 900mm buffer.
+*   **Core Hole Sizing:** A **270mm diameter circular hole** must be factory pre-cut through the East wall SIP core. This oversized hole provides the mandatory 20mm tolerance around the 250mm plastic sleeve for leveling shims and peripheral non-swelling airtight foam.
+*   **Vertical Geometry (Top-Down Referencing):** To prevent floor buildup variations (tolerance stack-up) from altering the required ceiling clearance, the core hole must be referenced from the top of the wall panel down. The center point of the 270mm core hole must be located exactly **535mm down from the top raw edge** of the East wall SIP panel.
+*   **Structural & Operational Clearances:** This 535mm top-down datum mathematically guarantees the manufacturer's required 550mm clear air space beneath the finished 15mm Fermacell ceiling. It also preserves a healthy ~48mm structural OSB margin beneath the 1800mm FFL clerestory window sills.
+*   **Internal Spatial Boundary:** A strict **800mm clear zone radius** must be maintained directly in front of the dMVHR internal fascia. This prevents aerodynamic "short-circuiting" of the airflow loop and provides the physical depth required to slide the internal enthalpy core straight forward out of the casing for maintenance.
+
 ---
 
 ## 5. Electrical, Ventilation & Dust Integration 

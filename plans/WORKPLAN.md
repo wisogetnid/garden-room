@@ -129,17 +129,17 @@ Once the JACKODUR tub is assembled, the DPM is taped inside, and the A252 steel 
 
 ### Week 14: The Service Cavity & Electrical Rough-In
 *   **Saturday (Moderate):** Screw the 25x50mm treated timber battens horizontally at 400mm centers onto the internal SIP walls directly through the taped SIP seams. The primary airtight boundary is now safely behind the service cavity. 
-*   **Sunday (Technical):** Pull all your electrical cabling through the service cavity. Run the lighting circuit cable vertically up the 25mm wall service cavity and leave the tail safely exposed at the top corner junction. Keep the circuits separated and labelled: 20A Type C RCBOs for machine loads, 16A Type B for the 3kW flow boiler, 10A Type B for IR/controls, 6A Type B for dMVHR/filtration, and general socket circuits as designed by the electrician. Mount the airtight socket boxes. Install the dMVHR unit into its factory-cut sleeve.
+*   **Sunday (Technical):** Pull all your electrical cabling through the service cavity. Run the lighting circuit cable vertically up the 25mm wall service cavity and leave the tail safely exposed at the top corner junction. Keep the circuits separated and labelled: 20A Type C RCBOs for machine loads, 16A Type B for the 3kW flow boiler, 10A Type B for IR/controls, 6A Type B for dMVHR/filtration, and general socket circuits as designed by the electrician. Mount the airtight socket boxes. Install the dMVHR unit by leveling the 250mm plastic sleeve inside the factory-cut 270mm core hole using shims and sealing the 20mm gap with non-swelling airtight foam.
 
 ### Week 15: Internal Skin & Fire Safety
 *   **Weeknights (Quiet, 45m-1.5h):** Pre-cut the 15mm Fermacell boards to size. Apply Jointstik glue to all board edges.
 *   **Saturday (Heavy):** Screw the **15mm Fermacell boards** to the service battens using 30mm screws. 
-*   **Sunday (Finesse):** Fully bond the engineered oak floor to the slab. Leave a perimeter expansion gap.
+*   **Sunday (Finesse):** Fully bond the engineered oak floor to the slab. Leave a perimeter expansion gap. Reminder during floor layout: mark/respect the strict 800mm clear zone radius in front of the East wall dMVHR to allow the enthalpy core to slide out for maintenance.
 
 ### Final Evenings: Commissioning
 *   **Weeknights (Quiet):** Paint the Fermacell. Mount the 1.2kW IR heating panel to the ceiling. Screw the surface-mounted LED track directly into the Fermacell ceiling over the West workbench zone, wiring it into the wall-fed tail. Mount the Internal 3kW Electric Flow Boiler internally on the Fermacell wall and plumb it directly into the UFH manifold. 
 *   **Electrical Sign-off:** You cannot legally connect the workshop to the main house consumer unit yourself. Hire a "Competent Person" registered electrician (NICEIC or NAPIT) to terminate the consumer unit, wire the Flow Boiler, sign off the grounding, and issue the Part P electrical certificate.
-*   **Final Tasks:** Run the rigid galvanized steel ducting for dust extraction. **CRITICAL:** Bolt the **Copper Earth Bonding Strap** to the metal ducting. Commission the dMVHR with a competent Part F/BPEC engineer. 
+*   **Final Tasks:** Run the rigid galvanized steel ducting for dust extraction. **CRITICAL:** Bolt the **Copper Earth Bonding Strap** to the metal ducting. Commission the dMVHR with a competent Part F/BPEC engineer. Ensure you mark and respect the strict 800mm clear zone radius in front of the East wall dMVHR (during floor layout and final checks) to allow the enthalpy core to slide out for maintenance. 
 
 ### 🛑 STATUTORY MILESTONE 4: Final Completion
 Once the building is finished, the Fermacell is painted, and you have the Part P Electrical Certificate from your electrician:
