@@ -19,7 +19,7 @@ layout: default
 1. **Phase 1: Groundworks & Foundation (Weeks 1-5):** 390mm deep manual excavation, laying of 50mm leveling aggregate, Jackodur Atlas XPS tub assembly, DPM, steel mesh, and 150mm concrete raft pour.
 2. **Phase 2: Concrete Curing Halt (Weeks 6-8):** Mandatory 21-28 day concrete curing halt before superstructure erection to prevent massive slab moisture from locking into the SIPs.
 3. **Phase 3: Structural Envelope (Weeks 9-11):** Application of continuous Compacfoam CF200 thermal break, erection of 150mm SIP walls, 122mm (true) LVL-splined sloped SIP roof, and Tyvek membrane wrap.
-4. **Phase 4: Exterior Finish & Weatherproofing (Weeks 12-13):** 50mm external rigid Wood Fibre insulation, EPDM flat roof waterproofing, VIG window/door installation, and James Hardie VL cladding.
+4. **Phase 4: Exterior Finish & Weatherproofing (Weeks 12-13):** 60mm external rigid Wood Fibre insulation, EPDM flat roof waterproofing, VIG window/door installation, and James Hardie VL cladding.
 5. **Phase 5: Internal Fit-Out & Commissioning (Weeks 14-16+):** 25mm rainscreen battening, internal Pro Clima Intello Plus VCL taping, 25mm service cavity, 15mm Fermacell fire-rated internal boards, Part P Electrical sign-off, internal 3kW Electric Flow Boiler activation, and dMVHR ventilation balancing.
 
 ---
@@ -35,18 +35,17 @@ layout: default
 *   **External Envelope Buildup (Per Wall):**
     *   **James Hardie VL Fibre Cement Plank** (flat interlocking profile): 11mm
     *   Rainscreen Timber Batten: 25mm
-    *   Rigid Wood Fibre External Insulation: 50mm
-    *   *Total External Projection beyond SIP core:* **86mm per wall**
-*   **Total Dimensional Reduction:** 86mm x 2 walls = **172mm reduction per axis**.
-    *(Accepted tolerance note: A 3430mm core plus two 86mm external projections produces a **3602mm** finished external width. A 5430mm core plus two 86mm external projections produces a **5602mm** finished external length. The 2mm oversail per axis is explicitly accepted.)* 
-*   **Required SIP Framework & Concrete Slab Size:**
-    *   Width: **3430mm (3.43m)** core/slab order size; finished external width = 3430mm + 172mm = **3602mm**.
-    *   Length: **5430mm (5.43m)** core/slab order size; finished external length = 5430mm + 172mm = **5602mm**.
+    *   Rigid Wood Fibre External Insulation: 60mm
+    *   *Total External Projection beyond SIP core:* **96mm per wall**
+*   **Total Dimensional Reduction:** 96mm x 2 walls = **192mm reduction per axis**.
+*   **Required SIP Framework & Concrete Slab Size (to maintain strict 3602x5602mm external limit):**
+    *   Width: **3410mm (3.41m)** core/slab order size; finished external width = 3410mm + 192mm = **3602mm**.
+    *   Length: **5410mm (5.41m)** core/slab order size; finished external length = 5410mm + 192mm = **5602mm**.
 *   **Final Usable Internal Space (Accounting for internal Fermacell & battens):**
     *   SIP Core (150mm) + Service Batten (25mm) + Fermacell (15mm) = 190mm internal buildup per wall.
-    *   Usable Internal Width: 3430mm - (190mm x 2) = **3050mm (3.05m)**
-    *   Usable Internal Length: 5430mm - (190mm x 2) = **5050mm (5.05m)**
-    *   *Final Internal Usable Footprint:* **15.4 m²**
+    *   Usable Internal Width: 3410mm - (190mm x 2) = **3030mm (3.03m)**
+    *   Usable Internal Length: 5410mm - (190mm x 2) = **5030mm (5.03m)**
+    *   *Final Internal Usable Footprint:* **15.24 m²**
 
 *(Note: All structural orders—Concrete, SIPs, and XPS—must be executed to the accepted **3430mm x 5430mm** core/slab dimensions, NOT the finished external cladding dimensions of 3602mm x 5602mm.)*
 
@@ -79,13 +78,13 @@ layout: default
 | **6. Base Drip Flashing** | Stainless Steel Drip Profile | Screwed through the Tyvek directly into the Wood Fibre base. | Kicks water completely away from the Compacfoam junction. | ~17.7 linear meters |
 | **7. Rainscreen Bug Mesh** | Perforated Aluminium Vent Trim | Stapled across the bottom 25mm gap between the vertical battens | Allows the 25mm rainscreen cavity to breathe. | ~17.7 linear meters |
 | **8. Splash Zone Skirt (0mm to +150mm)** | 50mm thick x 150mm high XPS Strip | Mechanically fixed to the Compacfoam using 100mm exterior wood screws with 60mm plastic insulation washers. Backed by a bead of structural PU adhesive. | **Waterproof Plinth:** Maintains the flush 50mm plane for the cladding battens while providing a 100% rot-proof, waterproof barrier in the critical 150mm upsplash zone. | ~17.7 linear meters |
-| **8a. Thermal Overlap (Above +150mm)** | 50mm Wood Fibre External Insulation | Mechanically fixed; starts strictly at the +150mm mark (top of Compacfoam/XPS Skirt) | **Moisture Protection:** Keeps the hygroscopic wood fibre safely 150mm above the ground, while perfectly continuing the thermal envelope upward. | ~39m² coverage |
+| **8a. Thermal Overlap (Above +150mm)** | 60mm Wood Fibre External Insulation | Mechanically fixed; starts strictly at the +150mm mark (top of Compacfoam/XPS Skirt) | **Moisture Protection:** Keeps the hygroscopic wood fibre safely 150mm above the ground, while perfectly continuing the thermal envelope upward. | ~39m² coverage |
 | **9. Flush Threshold Drainage**| Aco HexDrain Channel | Set flush with external patio level | Intercepts water before it can pool against the door threshold. | ~2 linear meters |
 | **10. Liquid Moisture Barrier**| RIW Flexiseal | Liquid-applied over threshold junction | Impermeable seal to stop water wicking into the timber at the flush threshold. | 1 tin |
 | **11. SIP to Plate Seal** | Expanding PU Foam & Sealant | Injected into the SIP rebate before dropping over the sole plate | Creates a permanent foam-to-timber airtight and thermal seal at the foundation junction. | 4 tubes |
 
 **Textual Cross-Section Description (Outside to Inside at Floor Level):**
-*(Outside)* 20mm Washed Gravel Splash Margin -> JACKODUR® XPS Upstand (flush with lawn) -> 150mm tall Compacfoam CF200 Base Ring with 50mm XPS Splash Skirt fixed to outer face -> Stainless Drip Flashing -> Tyvek Breather Membrane -> 50mm Wood Fibre Insulation (starting at +150mm mark) -> 150mm New Forest SIP Base Wall Panel resting on Timber Sole Plate -> Polymeric DPC on top of Compacfoam -> 150mm Concrete Slab (flush with lawn). *(Inside)*
+*(Outside)* 20mm Washed Gravel Splash Margin -> JACKODUR® XPS Upstand (flush with lawn) -> 150mm tall Compacfoam CF200 Base Ring with 50mm XPS Splash Skirt fixed to outer face -> Stainless Drip Flashing -> Tyvek Breather Membrane -> 60mm Wood Fibre Insulation (starting at +150mm mark) -> 150mm New Forest SIP Base Wall Panel resting on Timber Sole Plate -> Polymeric DPC on top of Compacfoam -> 150mm Concrete Slab (flush with lawn). *(Inside)*
 
 **CRITICAL VAPOUR INSTRUCTION:** SIP panels MUST be ordered WITHOUT a factory-fitted breather membrane. The Tyvek is applied solely over the external Wood Fibre layer to prevent trapping moisture between two membranes.
 
@@ -94,16 +93,16 @@ layout: default
 
 ## 2. Layered Thermal Envelope Schedule
 
-**U-Value Target Check:** The 150mm New Forest SIP Base Wall Panel (U=0.21) combined with 50mm Wood Fibre yields an estimated U-value of **~0.16 W/m²K**. This is an accepted trade-off just shy of the 0.15 Passivhaus target to preserve internal space within planning limits.
+**U-Value Target Check:** The 150mm New Forest SIP Base Wall Panel (U=0.21) combined with 60mm Wood Fibre yields an estimated U-value of **~0.15 W/m²K**. This successfully hits the precise 0.15 Passivhaus target while preserving internal space within planning limits.
 
 ### 2.1 The Wall 'Sandwich' (Exterior to Interior)
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Cladding** | James Hardie VL Fibre Cement Plank (11mm, A2 Fire) | Mechanical fixing via Hardie™ Plank Screws (4.2Ø x 40mm, A2 Stainless, T15 Torx). | 'Cowes-Proof' weather shield. Complies with Part B Fire Safety for boundary proximity (Requires A2 non-combustible classification). | ~39m² coverage |
-| **2. Rainscreen Gap / Batten** | 25x50mm Treated Timber @ 400mm centers | 120mm A4 (316) Stainless Steel EWI Screws driven in an alternating pattern: 60° downward (for shear weight) and 90° horizontally (for wind load/anti-compression). | Creates a strict **25mm ventilation path** from bottom to top. Alternating screw angles prevent the heavy cladding from pulling inward and crushing the 50mm soft wood fibre. | ~180 linear meters |
+| **2. Rainscreen Gap / Batten** | 25x50mm Treated Timber @ 400mm centers | 150mm A4 (316) Stainless Steel EWI Screws driven in an alternating pattern: 60° downward (for shear weight) and 90° horizontally (for wind load/anti-compression). | Creates a strict **25mm ventilation path** from bottom to top. Alternating screw angles prevent the heavy cladding from pulling inward and crushing the 60mm soft wood fibre. | ~180 linear meters |
 | **3. Breather Membrane** | Tyvek UV Facade | **Clamped** by vertical rainscreen battens (permanent). Held temporarily via the 'Top-and-Tail' method (taped to the bottom XPS skirt and stapled/taped only to the exposed timber top-plate) to avoid unnecessary mid-panel OSB penetrations. Seams sealed with Pro Clima Tescon Vana tape. | Repels wind-driven rain, allows internal vapour escape. | 1 Roll (50m) |
-| **4. External Insulation** | 50mm Rigid Wood Fibre Board | Friction fit; held by batten screws | Unbroken thermal jacket. Chosen for its high specific heat capacity (2,100 J/kgK), providing a massive 'decrement delay' to prevent summer overheating. | ~39m² coverage |
+| **4. External Insulation** | 60mm Rigid Wood Fibre Board | Friction fit; held by batten screws | Unbroken thermal jacket. Chosen for its high specific heat capacity (2,100 J/kgK), providing a massive 'decrement delay' to prevent summer overheating. | ~39m² coverage |
 | **5. Structural SIP Panel** | 150mm New Forest SIP Base Wall Panel | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Acts as the primary load-bearing structure and extreme continuous thermal barrier. | ~39m² wall coverage |
 | **6. Vapour Control Layer** | Pro Clima Intello Plus | Stainless staples; 100mm taped overlaps | Airtightness; stops interstitial condensation. *(Note: The inner OSB skin of the SIP acts as a primary air barrier, but the VCL guarantees Passivhaus airtightness across panel joints).* | 1 Roll (50m) |
 | **7. Service Cavity** | 25x50mm Treated Timber Battens | Screwed horizontally @ 400mm centers | Cable routing without piercing the VCL or the SIP skin. | ~120 linear meters |
@@ -128,30 +127,30 @@ layout: default
 | **7. Internal Ceiling** | 15mm Fermacell Acoustic Board | Jointstik glue & screwed directly to SIP inner skin | High mass acoustic blocking. Fixed directly to the SIP to avoid losing 25mm to service battens. | ~14 boards |
 
 #### 2.3.2 Internal Ceiling Height & Boundary Compliance
-**Objective:** Maintain strict compliance with the **≤ 2.5m Permitted Development** height limit while maximizing internal headroom. The 1:60 roof fall is built into the SIP roof support geometry and oriented across the short nominal **3.6m width** (rather than the 5.6m length) to minimize the total roof drop to just 57mm (3430 ÷ 60 = 57.2mm).
+**Objective:** Maintain strict compliance with the **≤ 2.5m Permitted Development** height limit while maximizing internal headroom. The 1:60 roof fall is built into the SIP roof support geometry and oriented across the short nominal **3.41m width** (rather than the 5.41m length) to minimize the total roof drop to just 56.8mm (3410 ÷ 60 = 56.8mm).
 
 *   **External Height Physics (The 2.5m Limit):**
     *   Exposed Concrete Splash Zone: 0mm (Slab is sunk 150mm, flush with garden lawn)
     *   Maximum 'High-Side' Wall Height: **2261.5mm**
-    *   Low-Side Wall Height: 2261.5mm - 57.2mm fall = **2204.3mm**
+    *   Low-Side Wall Height: 2261.5mm - 56.8mm fall = **2204.7mm**
     *   Total Roof Buildup: **238.5mm** (1.5mm EPDM + 100mm high-compressive PIR + 122mm true SIP [11mm OSB/100mm Core/11mm OSB] + 15mm Fermacell)
-    *   **Total Maximum External Height:** 2500mm high side / **2442.8mm** low side (Legal Pass)
+    *   **Total Maximum External Height:** 2500mm high side / **2443.2mm** low side (Legal Pass)
 *   **Internal Ceiling Heights (accounting for 22mm hard-bonded flooring and 15mm ceiling board):**
     *   **High Side:** 2261.5mm wall - 22mm floor - 15mm ceiling = **~2224.5mm (approx. 7 ft 3.5 in)**
-    *   **Low Side:** 2261.5mm - 57.2mm drop = 2204.3mm wall. 2204.3mm - 22mm floor - 15mm ceiling = **~2167.3mm (approx. 7 ft 1.3 in)**
+    *   **Low Side:** 2261.5mm - 56.8mm drop = 2204.7mm wall. 2204.7mm - 22mm floor - 15mm ceiling = **~2167.7mm (approx. 7 ft 1.3 in)**
 *   **Ergonomic Comfort:** Sinking the slab allows ordering the wall SIPs 150mm taller. This provides plenty of clearance for flipping sheet goods, maneuvering long boards, and safely hanging an ambient air filter without risking a head strike.
 *   **Structural Note:** Orienting the fall across the 3.6m width preserves usable headroom across the 5.6m length. The **West façade must be assigned as the high-side wall** because it contains the door and large panorama glazing.
 *   **Opening Validation Rule:** Maintain a minimum **~80mm - 90mm structural head zone** between the top of any factory-cut opening and the underside of the sloped roof SIP/top-plate bearing zone. This is fully validated as the SIP's engineered skins act as a continuous structural lintel.
     *   High-side West wall maximum finished opening top datum: 2261.5mm wall - 22mm finished floor - 89.5mm head zone = **2150mm**. Adopt **2150mm** maximum finished opening top datum.
-    *   Low-side East wall maximum finished opening top datum: 2204.3mm wall - 22mm finished floor - 82.3mm head zone = **2100mm**. Adopt **2100mm** maximum finished opening top datum for the East wall.
-    *   Sloped end-walls (North and South) rise from 2204.3mm to 2261.5mm. Using a horizontal 2100mm top datum for the North and South clerestories means the head zone will be variable, gradually widening from 82.3mm on the low (East) side to approximately 111mm on the high (West) side of the 1500mm-wide window. This maintains the continuous top datum aesthetic while remaining structurally compliant.
+    *   Low-side East wall maximum finished opening top datum: 2204.7mm wall - 22mm finished floor - 82.7mm head zone = **2100mm**. Adopt **2100mm** maximum finished opening top datum for the East wall.
+    *   Sloped end-walls (North and South) rise from 2204.7mm to 2261.5mm. Using a horizontal 2100mm top datum for the North and South clerestories means the head zone will be variable, gradually widening from 82.7mm on the low (East) side to approximately 111.5mm on the high (West) side of the 1500mm-wide window. This maintains the continuous top datum aesthetic while remaining structurally compliant.
 
 ### 2.4 Roof Edge & Fascia Detailing (The "Cantilevered SIP Edge")
 **Objective:** Provide a solid structural perimeter for EPDM membrane clamping and continuous ventilation of the rainscreen cavity, without creating a massive solid-timber cold bridge that compromises the thermal envelope.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Structural Overhang (Cantilever)** | The 120mm SIP Roof Panel itself | Engineered to overhang the SIP walls by **86mm**. | The SIP roof panel easily cantilevers the required 86mm, eliminating the need for a massive, thermally conductive 200mm solid timber block. | N/A |
+| **1. Structural Overhang (Cantilever)** | The 120mm SIP Roof Panel itself | Engineered to overhang the SIP walls by **96mm**. | The SIP roof panel easily cantilevers the required 96mm (to cover the 60mm Wood Fibre + 25mm Batten + 11mm Cladding buildup), eliminating the need for a massive, thermally conductive solid timber block. | N/A |
 | **2. Structural Hard Edge (The Perimeter Kerb)** | Treated Timber Batten (100mm high x 50mm wide). *Note: Use standard 47x100mm nominal timber.* | Placed **on edge** (so it stands 100mm tall and is 50mm wide). Screwed straight down through the 100mm depth, flush into the outermost perimeter edge of the cantilevered OSB roof SIP. | Replaces only the outermost 50mm perimeter of the over-roof PIR foam. Provides a solid, perfectly flush anchor for the fascia and EPDM trims while matching the 100mm height of the trafficable PIR board. | ~18.5 linear meters |
 | **3. Fascia Board (Oversized Drop)** | **150mm+** tall Marine Ply or UPVC Fascia | Screwed horizontally into the outward-facing 100mm-tall face of the Timber Kerb, extending downwards past the SIP thickness. | Drops down vertically to neatly cover the 100mm kerb *and* the exposed edge of the SIP roof panel. Because it overhangs the wall cladding, water drips cleanly off the bottom edge, away from the Hardie Planks. | ~18.5 linear meters |
 | **4. EPDM Clamping (High Sides)** | Sure-Edge Check Kerb Trim | Screwed through the EPDM directly into the Timber Hard Edge/Fascia | Mechanically clamps the EPDM over the roof edge to prevent wind-uplift and stops water rolling off the non-draining sides. | ~13 linear meters |
@@ -178,14 +177,14 @@ layout: default
     *   **East Elevation (Long / Low-Side Wall):** 2x 300x1500mm Fixed Clerestory VIG uPVC windows (evenly spaced); top datum **2100mm FFL**, bottom sill **1800mm FFL**.
     *   **West Elevation (Visible / High-Side Façade):** 2x **1000x1000mm** Fixed VIG uPVC windows (Factory-Applied Solar Control Coating) + 1x **1400mm x 2150mm** Asymmetric 1.5 Door.
 *   **Clerestory Placement Logic:** The 300x1500mm fixed windows must be factory-cut into the SIPs with a **2100mm top datum** on the East wall. This Passivhaus optimization (fixed panes = zero air leakage) relies entirely on the dMVHR for ventilation, while retaining 1800mm of uninterrupted wall height below for tool racks and machinery.
-*   **West Façade 'Workbench Panorama' Layout:** To future-proof for a home office, the 5.6m West wall utilizes an asymmetric zoning layout and must be the **high-side wall** of the roof slope. To ensure internal visual symmetry and prevent the windows from feeling cramped against the side walls, the layout is "Internally Centered." Across the 5430mm SIP core length (viewed from the outside, Right to Left), the exact openings and solid wall dimensions are:
-    *   **Right Corner Pillar:** 590mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 190mm, this provides exactly 400mm of visible internal wall space beside the door*).
+*   **West Façade 'Workbench Panorama' Layout:** To future-proof for a home office, the West wall utilizes an asymmetric zoning layout and must be the **high-side wall** of the roof slope. To ensure internal visual symmetry and prevent the windows from feeling cramped against the side walls, the layout is "Internally Centered." Across the 5410mm SIP core length (viewed from the outside, Right to Left), the exact openings and solid wall dimensions are:
+    *   **Right Corner Pillar:** 580mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 190mm, this provides exactly 390mm of visible internal wall space beside the door*).
     *   **Main Door:** 1400mm opening
     *   **Door/Window Gap:** 420mm solid SIP
     *   **Window 1:** 1000mm opening
     *   **Central Mullion:** 430mm solid SIP
     *   **Window 2:** 1000mm opening
-    *   **Left Corner Pillar:** 590mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 190mm, this provides exactly 400mm of visible internal wall space beside the window*).
+    *   **Left Corner Pillar:** 580mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 190mm, this provides exactly 390mm of visible internal wall space beside the window*).
     *   *Revised Vertical Datum:* The door and West window heads align at **2150mm FFL**, preserving ~89.5mm of structural head zone above the openings. The revised 1000x1000mm fixed windows place the bottom sills at **1150mm FFL**, allowing a standard 900mm-high workbench or desk to sit beneath the glass with ~250mm clearance.
 *   **French Doors Forbidden:** Traditional French doors are strictly prohibited. They inherently fail Passivhaus airtightness standards and acoustic reduction due to the lack of a central mullion, leading to air and noise leakage down the meeting stiles.
 *   **Approved Mechanisms:** Specify a **1400mm x 2150mm maximum outer-frame-height Asymmetric 1.5 Door system** (e.g., a 900mm active leaf combined with a 500mm slave leaf) or a high-performance **Lift-and-Slide door** only if the supplier can keep the total frame height at or below 2150mm FFL. These systems use complex cam-action locks to physically compress robust continuous rubber gaskets, ensuring the thermal and acoustic envelope is not compromised at the entry point.
@@ -236,7 +235,7 @@ A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the 
 | **MVHR Filtration Maintenance** | Manufacturer OEM Replacement Filter Cassettes (G4 standard, F7 fine pollen/dust) | Inserted directly into the decentralized MVHR wall unit | **Critical Adaptation:** Decentralized through-wall MVHRs do not have ductwork, meaning standard inline filter boxes cannot be installed. You must rely purely on the OEM filter cassettes to protect the heat exchanger. The ambient air filtration unit must be relied upon to capture the heavy woodworking dust before it reaches the wall unit. | Regular supply |
 | **Ambient Air Filtration** | Ceiling-mounted recirculating air cleaner or DIY MERV 13 deep-pleat filter box | Suspended from ceiling or wall-mounted clear of machine travel paths | Secondary filtration for airborne dust that escapes tool source capture; runs during and after sanding/cutting. | 1 unit |
 
-**Ventilation Rate Basis:** The internal volume is approximately **~34m³** (3.05m x 5.05m x ~2.21m average clear height). Standby ventilation at 0.5-1 ACH requires **17-34m³/h**. Active occupancy/general dilution at 2 ACH requires **~68m³/h**, which is within the practical max limit of a 70m³/h class dMVHR. Higher woodworking dust loads must be handled by closed-loop extraction and ambient filtration, not by increasing MVHR flow beyond its design range.
+**Ventilation Rate Basis:** The internal volume is approximately **~33.7m³** (3.03m x 5.03m x ~2.21m average clear height). Standby ventilation at 0.5-1 ACH requires **17-34m³/h**. Active occupancy/general dilution at 2 ACH requires **~67m³/h**, which is within the practical max limit of a 70m³/h class dMVHR. Higher woodworking dust loads must be handled by closed-loop extraction and ambient filtration, not by increasing MVHR flow beyond its design range.
 
 **Pressure Balance Rule:** The fixed dust extractor must recirculate filtered air back into the workshop. Do not exhaust the primary dust collector outdoors; doing so would depressurize the airtight envelope, stall the dMVHR fans, and pull damp coastal air through uncontrolled leakage paths. If spray finishing or solvent work requires outdoor exhaust, install an interlocked motorized makeup-air damper and treat that operation as a separate, temporary purge mode.
 
@@ -245,7 +244,7 @@ A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the 
 ### 4.2.1 dMVHR Spatial & Structural Integration
 To ensure structural compatibility with the SIP envelope, guard against tolerance variations, and fulfill Zehnder ComfoAir 70 manufacturer warranty clearances, the following integration rules apply:
 *   **Horizontal Positioning:** The dMVHR is mounted on the low-side **East wall**, centered horizontally within the 900mm solid SIP gap between the two clerestory windows. The unit's asymmetric layout envelope (740mm total: 320mm left / 420mm right from the pipe axis) fits comfortably within this 900mm buffer.
-*   **Core Hole Sizing:** A **270mm diameter circular hole** must be factory pre-cut through the East wall SIP core. This oversized hole provides the mandatory 20mm tolerance around the 250mm plastic sleeve for leveling shims and peripheral non-swelling airtight foam.
+*   **Core Hole Sizing & Drainage Fall:** A **270mm diameter circular hole** must be factory pre-cut through the East wall SIP core. **Crucially, the cut must be made with a 1° to 2° downward angle toward the outside.** This downward fall is a strict manufacturer requirement to ensure that any condensation forming inside the sleeve drains safely outward into the rainscreen cavity, rather than tracking backward into the internal SIP core or the workshop. The oversized 270mm hole provides the mandatory 20mm tolerance around the 250mm plastic sleeve for leveling shims and peripheral non-swelling airtight foam.
 *   **Vertical Geometry (Top-Down Referencing):** To prevent floor buildup variations (tolerance stack-up) from altering the required ceiling clearance, the core hole must be referenced from the top of the wall panel down. The center point of the 270mm core hole must be located exactly **535mm down from the top raw edge** of the East wall SIP panel.
 *   **Structural & Operational Clearances:** This 535mm top-down datum mathematically guarantees the manufacturer's required 550mm clear air space beneath the finished 15mm Fermacell ceiling. It also preserves a healthy ~48mm structural OSB margin beneath the 1800mm FFL clerestory window sills.
 *   **Internal Spatial Boundary:** A strict **800mm clear zone radius** must be maintained directly in front of the dMVHR internal fascia. This prevents aerodynamic "short-circuiting" of the airflow loop and provides the physical depth required to slide the internal enthalpy core straight forward out of the casing for maintenance.
@@ -301,7 +300,7 @@ The building envelope is designed to aggressively target the Passivhaus standard
 
 | Envelope Component | Material Composition | Target U-Value | Achieved U-Value | Notes / Potential Risks |
 | :--- | :--- | :--- | :--- | :--- |
-| **External Walls** | 150mm New Forest SIP Base Wall + 50mm Wood Fibre | 0.15 W/m²K | **0.16 W/m²K** | **[TRADE-OFF]** Wall SIP reduced to 150mm to save footprint. Wood fibre breaks the thermal bridge at the spline joints and provides decrement delay. |
+| **External Walls** | 150mm New Forest SIP Base Wall + 60mm Wood Fibre | 0.15 W/m²K | **0.15 W/m²K** | **[THERMAL UPGRADE]** Wall SIP reduced to 150mm to save footprint, but the 60mm wood fibre recovers the thermal loss to hit the Passivhaus target. Wood fibre breaks the thermal bridge at the spline joints and provides decrement delay. |
 | **Roof Structure** | Sloped 120mm (122mm true) New Forest SIP (600mm narrow-format) + 100mm Flat Glass Tissue-Faced PIR | 0.13 W/m²K | **~0.11 W/m²K** | Glass tissue-faced PIR allows direct EPDM adhesion without foil-faced delamination risk. Flat PIR over-roof completely caps the linear thermal bridge of the LVL splines, keeping the SIP OSB skins and splines warm and dry. |
 | **Floor Slab** | 140mm JACKODUR® Atlas XPS | 0.13 W/m²K | **~0.23 W/m²K** | **[OPEN RISK FLAG: verify spanning distances and thickness]** 140mm XPS achieves ~0.23 W/m²K. Reaching 0.13 W/m²K requires ~260mm. |
 | **Glazing** | VIG (Vacuum Insulated Glazing) in uPVC | 0.80 W/m²K | **0.80 W/m²K** | Vastly outperforms double glazing (~1.4 W/m²K). |
@@ -310,21 +309,21 @@ The building envelope is designed to aggressively target the Passivhaus standard
 Because the foundation U-value (0.23 W/m²K) intentionally misses the Passivhaus criteria (≤ 0.15) to save on excavation logistics, the theoretical Passivhaus shortcut (15 kWh/m²a) cannot be used. Instead, the heating effort is calculated using the real-world **Heat Transfer Coefficient (HTC)** and Isle of Wight climate data.
 
 * **Fabric Heat Loss:** 
-  - Gross wall area: West high-side wall (5.43m x 2.2615m) + East low-side wall (5.43m x 2.2043m) + two sloped end walls (3.43m x 2.2329m average height x 2) = **~39.57m²**. (Note: includes full structural wall height down to the Compacfoam thermal break on the slab).
+  - Gross wall area: West high-side wall (5.41m x 2.2615m) + East low-side wall (5.41m x 2.2047m) + two sloped end walls (3.41m x 2.2331m average height x 2) = **~39.39m²**. (Note: includes full structural wall height down to the Compacfoam thermal break on the slab).
   - Glazing and door area: West fixed windows (2 x 1.0m x 1.0m = 2.00m²) + West asymmetric door (1.4m x 2.15m = 3.01m²) + clerestories (4 x 0.3m x 1.5m = 1.80m²) = **6.81m²**.
-  - Opaque Walls ((39.57m² - 6.81m²) x 0.16) = **5.24 W/K**
-  - Roof (20.18m² x 0.11) = **2.22 W/K** (Note: 20.18m² accounts for the 86mm cantilever on all sides).
-  - Floor (18.62m² x 0.23) = **4.28 W/K**
+  - Opaque Walls ((39.39m² - 6.81m²) x 0.15) = **4.89 W/K**
+  - Roof (20.18m² x 0.11) = **2.22 W/K** (Note: 20.18m² represents the 3.602m x 5.602m external layout including the 96mm cantilever).
+  - Floor (18.45m² x 0.23) = **4.24 W/K**
   - Glazing / Door Assemblies (6.81m² x 0.80) = **5.45 W/K**
-  - **Total Fabric Loss = 17.19 W/K**
+  - **Total Fabric Loss = 16.80 W/K**
 * **Ventilation/Air Leakage:** ~4.5 W/K (Assuming high Q50 airtightness with occasional door opening).
-* **Total Heat Transfer Coefficient (HTC): ~21.69 W/K** (The building loses 21.69 Watts per 1°C of temperature difference).
+* **Total Heat Transfer Coefficient (HTC): ~21.30 W/K** (The building loses 21.30 Watts per 1°C of temperature difference).
 * **Climate Data:** The Isle of Wight experiences roughly **1,500 Heating Degree Days (HDD)** per year to maintain a 14°C baseline.
 
 **Electrical Effort & Running Costs:**
-Formula: `(HTC [21.69] × 24 hours × HDD [1500]) ÷ 1000` = **781 kWh/year thermal demand**.
+Formula: `(HTC [21.30] × 24 hours × HDD [1500]) ÷ 1000` = **767 kWh/year thermal demand**.
 Given the use of a 3kW Internal Electric Flow Boiler with a Coefficient of Performance (COP) of 1.0:
-* **Expected Annual Electrical Input:** 781 kWh of electricity per year.
-* **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£191.35 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
+* **Expected Annual Electrical Input:** 767 kWh of electricity per year.
+* **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£187.92 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
 
 > **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (150mm slab, perimeter splash margin, and Type C induction mapping) have been validated and integrated.

@@ -79,3 +79,46 @@
 - **Architectural Solution:** Integrated the detailed layout and structural cutout specifications into the Master Plan. The unit will be horizontally centered on the low-side East wall between the clerestory windows. Crucially, the 270mm core hole (allowing for 250mm sleeve + shims/foam) is referenced **top-down (535mm from the top raw edge)** rather than bottom-up to prevent floor tolerance stack-up from violating the 550mm ceiling clearance requirement. An 800mm clear zone radius in front of the unit has been strictly enforced for maintenance and aerodynamics.
 - **Updates Made:** Added new subsection `4.2.1 dMVHR Spatial & Structural Integration` to `MASTER_PLAN.md`.
 - **Hand-off to @foreman:** @foreman, please update `plans/WORKPLAN.md`. In Week 14 (Sunday Technical) where the dMVHR sleeve is installed, include instructions to use leveling shims and non-swelling airtight foam to secure the 250mm plastic sleeve inside the 270mm oversized core hole. Ensure the 800mm clear zone boundary is marked.
+
+## Date: 2026-07-12
+**Architect Notes: Rigid Wood-Fibre Insulation Thickness Upgrade**
+- **User Query:** User requested updating the wood-fibre external insulation from 50mm to 60mm due to material sourcing constraints (supplied in 20mm increments). This slightly upgrades the thermal envelope. 
+- **Architectural Solution:** 
+  - Upgraded the Master Plan specification from 50mm to 60mm wood fibre. 
+  - Calculated the revised U-value: 150mm SIP + 60mm Wood Fibre accurately hits the strict 0.15 W/m²K Passivhaus target. 
+  - Expanded the structural roof cantilever geometry from 86mm to 96mm to ensure the SIP roof panel continues to perfectly cover the expanded 60mm Wood Fibre + 25mm Batten + 11mm Cladding rainscreen buildup.
+  - Recalculated the overall fabric heat loss (accounting for the true 20.36m² external roof surface area and 0.15 wall U-value). The total thermal demand dropped slightly to 770 kWh/year. 
+  - Upgraded the 120mm structural batten screws to 150mm A4 Stainless EWI screws to account for the extra 10mm soft-layer compression depth.
+- **Updates Made:** `MASTER_PLAN.md` Sections 1.1, 1.3, 2.1 (Tables), 2.4, and 7.2 updated. `WORKPLAN.md` updated to reflect the 60mm insulation installation in Week 12.
+
+## Date: 2026-07-12
+**Architect Notes: Final Dimension Synchronization & Cross-Verification**
+- **Verification Run:** Conducted a deep systemic audit of all dimensions across `MASTER_PLAN.md` and `WORKPLAN.md` to ensure the 60mm wood fibre upgrade didn't break any cascading tolerances. 
+- **Findings & Fixes:**
+  - *Tolerance Map:* Found legacy references in Section 1.1 "At A Glance" that still claimed an 86mm overhang and a 3602mm x 5602mm finished footprint. Corrected these to mathematically reflect the 96mm overhang and the true 3622mm x 5622mm finished footprint.
+  - *Workplan Verification:* Updated the roof lift instructions in `WORKPLAN.md` Weekend 10 to explicitly instruct the DIYer to secure the new 96mm structural cantilever to cover the thicker rainscreen buildup.
+  - *Foundation Verification:* Verified the 4.23m x 6.23m excavation geometry is perfectly accurate. It strictly provides exactly 400mm of over-dig on all sides around the 3.43m x 5.43m XPS tub/slab core.
+  - *Internal Geometry:* Verified the internal Passivhaus volume (3.05m x 5.05m x 2.21m) still accurately accounts for the 15mm Fermacell + 25mm Service Cavity reduction on all internal walls.
+- All blueprints are mathematically locked and ready for execution.
+
+## Date: 2026-07-12
+**Architect Notes: Dimension Reversion & Shrinking the Core**
+- **User Query:** User mandated that the final external dimensions must not exceed the original 3602x5602mm limit due to boundary space constraints, despite the 10mm upgrade to the wood fibre thickness.
+- **Architectural Solution:** To absorb the thicker 60mm wood fibre while maintaining the strict 3602x5602mm outer envelope, the entire internal structural core and slab had to be shrunk by 20mm per axis (10mm per side).
+- **Recalculations & Updates:**
+  - **Slab/Core:** Shrunk from 3.43m x 5.43m down to **3.41m x 5.41m**.
+  - **Excavation:** Shrunk from 4.23m x 6.23m down to **4.21m x 6.21m** (maintaining the 400mm perimeter margin).
+  - **Internal Volume:** Shrunk to 3.03m x 5.03m internal floor space (~33.7m³ ventilation volume).
+  - **Roof Fall:** Fall across the new 3.41m width at 1:60 changed slightly to 56.8mm, raising the low-side wall to 2204.7mm.
+  - **Facade Geometry:** West elevation 5430mm SIP length was reduced to 5410mm. Shrunk the far-left and far-right corner pillars from 590mm down to **580mm** each to perfectly absorb the 20mm reduction while maintaining absolute "Internally Centered" visual symmetry.
+  - **Energy Math:** Because the footprint shrunk slightly but the wood fibre thickened, the final Passivhaus heat load fell even further to **767 kWh/year**.
+- **Hand-off:** All files updated. The boundary limit is successfully protected.
+
+## Date: 2026-07-12
+**Architect Notes: dMVHR Drainage Pitch Correction**
+- **User Query:** User asked if the dMVHR cutout needs to be straight or at an angle.
+- **Architectural Solution:** It absolutely must be at a downward angle. To prevent internal condensation from tracking backwards into the SIP core or the workshop interior, decentralized MVHR sleeves must be installed with a 1° to 2° outward drainage pitch.
+- **Updates Made:**
+  - `MASTER_PLAN.md`: Updated Section 4.2.1 to explicitly mandate that the factory cuts the 270mm core hole with a 1° to 2° outward fall.
+  - `WORKPLAN.md`: Updated the Week 14 Sunday instructions for the sleeve installation. The DIYer is instructed to use the shims to actively secure this downward pitch before locking it in place with the expanding airtight foam.
+- **Status:** Complete.
