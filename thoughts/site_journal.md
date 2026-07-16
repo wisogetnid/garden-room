@@ -122,3 +122,40 @@
   - `MASTER_PLAN.md`: Updated Section 4.2.1 to explicitly mandate that the factory cuts the 270mm core hole with a 1° to 2° outward fall.
   - `WORKPLAN.md`: Updated the Week 14 Sunday instructions for the sleeve installation. The DIYer is instructed to use the shims to actively secure this downward pitch before locking it in place with the expanding airtight foam.
 - **Status:** Complete.
+
+## Date: 2026-07-12
+**Architect Notes: Permitted Development Legal Certification**
+- **User Query:** User received verbal confirmation from Isle of Wight LPA that the 2.5m limit is measured from the "highest adjacent ground". Advised to apply for a Legal Development Certificate to formalize this. User asked how to apply and how to properly document topographical levels.
+- **Architectural Action:** 
+  - Updated `MASTER_PLAN.md` Section 2.3.2 to explicitly note the statutory measurement datum as "Highest Adjacent Ground", aligning the SOP with the legal standard.
+  - Advised user on the exact mechanics of a Lawful Development Certificate (Proposed) via the Planning Portal.
+  - Provided a drafting strategy (Relative Datums and Spot Heights) to visually force the planning officer to acknowledge the highest ground point on the submitted elevations.
+- **Status:** Legal strategy defined. No further agent hand-offs required for this step.
+
+## Date: 2026-07-12
+**Architect Notes: Retrospective Ground Level Validation for LDC**
+- **User Query:** User has already started the excavation phase, and the ground where the foundation will sit is already somewhat planar. User asked where to select the height spots for the LDC site plan since the natural ground inside the footprint is gone.
+- **Architectural Action:** 
+  - Advised the user on the legal definition of "natural ground" in planning law.
+  - Provided instructions to measure strictly from the *undisturbed* ground immediately outside the 4.21m x 6.21m excavated trench (the lip of the hole). 
+  - Warned the user that loose soil piles (spoil) cannot be used as a datum point, and they must measure from the original, hard natural ground profile.
+- **Status:** Strategic advice provided. No changes required to Master Plan or Workplan as this is an administrative site mapping exercise, not a structural alteration.
+
+## Date: 2026-07-12
+**Foreman Notes: Laser Level Tool Specification**
+- **User Query:** User needs a laser level for taking spot heights and general layout, but doesn't have one yet. Requested make/model recommendations suited for the current intensive project and occasional future DIY use.
+- **Foreman Action:** 
+  - Provided a tiered tool specification focusing on cost-to-value ratio for a serious DIYer.
+  - Excluded professional site surveyor rotary lasers (e.g., £800+ Topcon/Trimble) as overkill.
+  - Specified self-leveling 360-degree green line cross-line lasers, emphasizing the necessity of an optical receiver/detector for outdoor daylight use (critical for the foundation dig/ground level measuring).
+- **Status:** Tooling advice provided.
+
+## Date: 2026-07-12
+**Foreman Notes: Laser Level Tripod Setup**
+- **User Query:** User asked if a tripod/stand is necessary for the laser level or if it can be placed directly on the ground.
+- **Foreman Action:** 
+  - Explained the functional mechanics of self-leveling lasers (the internal pendulum system requires a roughly level surface to function within its +/- 4° compensation range).
+  - Clarified that while placing it on the ground is physically possible on flat surfaces (like the finished slab), it is highly impractical for the current excavation phase due to uneven mud/stones.
+  - Advised that a tripod is practically mandatory for establishing the "Zero Point" datums above the trench lip, as the laser needs to be elevated to shoot across the site.
+  - Suggested cost-effective alternatives (camera tripod or screwing the laser's magnetic bracket to a firmly planted timber stake).
+- **Status:** Practical execution advice provided.

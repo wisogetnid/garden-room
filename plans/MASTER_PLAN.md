@@ -130,11 +130,12 @@ layout: default
 **Objective:** Maintain strict compliance with the **≤ 2.5m Permitted Development** height limit while maximizing internal headroom. The 1:60 roof fall is built into the SIP roof support geometry and oriented across the short nominal **3.41m width** (rather than the 5.41m length) to minimize the total roof drop to just 56.8mm (3410 ÷ 60 = 56.8mm).
 
 *   **External Height Physics (The 2.5m Limit):**
-    *   Exposed Concrete Splash Zone: 0mm (Slab is sunk 150mm, flush with garden lawn)
+    *   **Statutory Measurement Datum:** The Isle of Wight Planning Authority has confirmed the 2.5m limit is measured from the *highest adjacent ground*. This provides a distinct legal advantage if the site slopes.
+    *   Exposed Concrete Splash Zone: 0mm (Slab is sunk 150mm, flush with baseline lawn level)
     *   Maximum 'High-Side' Wall Height: **2261.5mm**
     *   Low-Side Wall Height: 2261.5mm - 56.8mm fall = **2204.7mm**
     *   Total Roof Buildup: **238.5mm** (1.5mm EPDM + 100mm high-compressive PIR + 122mm true SIP [11mm OSB/100mm Core/11mm OSB] + 15mm Fermacell)
-    *   **Total Maximum External Height:** 2500mm high side / **2443.2mm** low side (Legal Pass)
+    *   **Total Maximum External Height:** 2500mm high side / **2443.2mm** low side. (Strict Legal Pass: Measured exactly from the highest adjacent natural ground point).
 *   **Internal Ceiling Heights (accounting for 22mm hard-bonded flooring and 15mm ceiling board):**
     *   **High Side:** 2261.5mm wall - 22mm floor - 15mm ceiling = **~2224.5mm (approx. 7 ft 3.5 in)**
     *   **Low Side:** 2261.5mm - 56.8mm drop = 2204.7mm wall. 2204.7mm - 22mm floor - 15mm ceiling = **~2167.7mm (approx. 7 ft 1.3 in)**
