@@ -159,3 +159,243 @@
   - Advised that a tripod is practically mandatory for establishing the "Zero Point" datums above the trench lip, as the laser needs to be elevated to shoot across the site.
   - Suggested cost-effective alternatives (camera tripod or screwing the laser's magnetic bracket to a firmly planted timber stake).
 - **Status:** Practical execution advice provided.
+
+## Date: 2026-07-12
+**Architect/Foreman Notes: Artificial Ground Leveling Risk**
+- **User Query:** User is 2/3 through the dig and wants to use leftover excavated soil to "even out" the ground on the higher side of the plot to match the highest point, leveraging the PD height rules.
+- **Architectural/Legal Action:** 
+  - Issued a strict **STOP** warning. Artificially raising or leveling ground levels around a building is considered an "engineering operation" in UK planning law and can instantly invalidate Permitted Development rights.
+  - Explained that the Planning Officer will look for *natural, pre-existing* ground. Banking soil to manipulate the 2.5m measurement is a massive red flag.
+  - Highlighted the structural/moisture risk: Piling loose spoil near the structure will compromise the 400mm gravel splash margin and risk bridging the DPC.
+  - Instructed user to put the remaining soil in the skip and leave the natural ground slope exactly as it is immediately adjacent to the trench.
+- **Status:** Legal and structural risk averted.
+
+## Date: 2026-07-12
+**Architect/Foreman Notes: Adjacent Ground Preparation & LDC Compliance**
+- **User Query:** User asked if a 2m² area immediately adjacent to the foundation lip, where flagstones and screed were previously demolished/removed, can be left as-is for the LDC measurement.
+- **Architectural Action:**
+  - Clarified that leaving a jagged, exposed demolition scar immediately adjacent to the foundation is problematic for two reasons:
+    1. **LDC Measurement:** The planning officer needs a clear "natural ground" level. A demolished patio sub-base is ambiguous and might prompt them to measure from the lower excavated depth rather than the original patio height.
+    2. **Moisture Control:** A rough, broken screed surface next to the gravel margin will hold water and direct runoff into the trench rather than away from it.
+  - **The Fix:** Advised the user to dress the 2m² area. They should fill the voids left by the flagstones with a thin layer of topsoil or gravel, bringing it flush with the surrounding natural lawn/path level, so it visually reads as continuous, pre-existing ground for the LDC photos and prevents water pooling.
+- **Status:** Site prep guidance provided.
+
+## Date: 2026-07-12
+**Foreman Notes: Building Control Communication Strategy**
+- **User Query:** User is 2/3 through the dig and hasn't formally contacted Building Control (BC) yet. Asked if they should introduce themselves and send photos of the ground level.
+- **Foreman Action:** 
+  - Emphasized the critical distinction between Building Control (Structural/Safety) and Town Planning (Height/Aesthetics). BC does not care about the 2.5m planning height limit; they care about the load-bearing capacity of the trench bottom.
+  - Urged the user to immediately send the "Start Notice" form, as they are approaching the first statutory inspection (Excavation for Foundations).
+  - Provided a highly professional email template for the user to send to the BC inspector (Peter Millward), attaching photos of the hard, stoney "made ground" at the bottom of the trench to secure approval for the 50mm leveling aggregate pivot (skipping the MOT Type 1).
+- **Status:** Statutory communication initiated.
+
+## Date: 2026-07-12
+**Architect Notes: LDC Application Timing**
+- **User Query:** User realized they haven't applied for the Lawful Development Certificate (LDC) yet and proposed doing it as the next step.
+- **Architectural Action:** 
+  - Reassured the user that an LDC is not a legal prerequisite to start building under Permitted Development, so digging the trench is not a legal violation. PD rights apply automatically if criteria are met. The LDC is simply the legal proof.
+  - Advised submitting the LDC as a high-priority administrative evening task to secure the paperwork for future property sales or neighbor disputes.
+  - Outlined the exact 4 items needed to submit the application via the Planning Portal.
+- **Status:** User transitioning to administrative planning tasks.
+
+## Date: 2026-07-12
+**Architect Notes: LDC Description Wording**
+- **User Query:** User asked if they can omit the legal citation ("conforming entirely to the limitations and conditions of Schedule 2, Part 1, Class E...") from the LDC application description due to lack of confidence in making that legal statement.
+- **Architectural Action:** 
+  - Validated the user's caution. It is acceptable to keep the description purely factual and let the planning officer deduce the compliance.
+  - Provided a revised, purely factual, non-legal description for the Planning Portal.
+- **Status:** Application support ongoing.
+
+## Date: 2026-07-12
+**Architect Notes: LDC Terminology Adjustment**
+- **User Query:** User asked to change "established residential curtilage (rear garden) of the existing dwellinghouse" to "dwellinghouse boundaries" in the LDC application.
+- **Architectural Action:** 
+  - Approved the change but advised a slight modification. "Dwellinghouse boundaries" is clear, but adding "within the property boundaries of the existing dwellinghouse" makes it sound slightly more natural while remaining legally sound.
+  - Explained that "curtilage" is just the legal term for "garden/grounds," so swapping it out for plainer English is perfectly fine.
+- **Status:** Application terminology simplified per user comfort.
+
+## Date: 2026-07-12
+**Architect Notes: LDC Location Plan & Boundary Rules**
+- **User Query:** User self-drew the Location Plan and asked if they should omit it from the evidence list. User also asked if the distance to the boundary needs to be shown.
+- **Architectural Action:**
+  - **Warning issued:** Self-drawn Location Plans are the #1 reason LDC applications are rejected (invalidated) immediately. Advised the user that the Location Plan must be an OS-based map with a North arrow and specific scaling, otherwise the council won't even process the application.
+  - **Boundary Distance:** Confirmed that the distance to the boundary is critical. Instructed the user to explicitly show the 400mm gap on the Block Plan to prove they are compliant with the 2.5m height rule (which is triggered when within 2m of a boundary).
+- **Status:** Application rescue - prevented an immediate invalidation.
+
+## Date: 2026-07-12
+**Architect Notes: LDC Location Plan via Portal Tool**
+- **User Query:** User clarified they used the Planning Portal's built-in interactive OS map tool to generate the Location Plan.
+- **Architectural Action:**
+  - Confirmed this is perfectly valid and compliant. The Planning Portal's integrated tool (usually partnered with ReQuestaPlan or similar) generates officially licensed OS maps.
+  - Advised user to keep "Location Plan" in the documentary evidence list as it is automatically generated and attached to the application.
+- **Status:** Application hurdle cleared.
+
+## Date: 2026-07-12
+**Architect Notes: Block Plan Format & FreeCAD Usage**
+- **User Query:** User asked if they can submit a FreeCAD drawing showing boundary distances instead of a traditional "Block Plan".
+- **Architectural Action:**
+  - Clarified that "Block Plan" is just a planning term for a top-down site view. A FreeCAD drawing is perfectly acceptable and highly professional, provided it meets three strict criteria:
+    1. Must include a recognized scale (e.g., 1:200 or 1:500).
+    2. Must include a North arrow.
+    3. Must show the building relative to the property boundaries and house.
+  - Advised user to export the FreeCAD drawing to PDF on a standard A4/A3 layout with a scale bar.
+- **Status:** Drafting guidance provided.
+
+## Date: 2026-07-12
+**Architect Notes: Elevation and Spot Height Drafting Guidance**
+- **User Query:** User asked how to draw the proposed elevations and floor plan with heights, specifically whether to put spot heights on all 4 corners and a 5th one for the absolute highest spot on the lip.
+- **Architectural Action:**
+  - Provided a step-by-step guide for translating FreeCAD models into planning-compliant Elevations and Floor Plans.
+  - **Floor Plan/Block Plan:** Confirmed the strategy of placing spot heights on the 4 corners, plus a 5th explicit marker (`Highest Adjacent Ground`) on the specific boundary point if it falls between corners.
+  - **Elevations:** Explained how to draw the sloped ground line on the 2D side views, anchored by the spot heights, and how to draw the critical 2.5m dimension line from that highest point.
+- **Status:** Drafting strategy finalized.
+
+## Date: 2026-07-12
+**Architect Notes: LDC Final Wording - Grounds for Application**
+- **User Query:** User reached the final "Grounds for Application" section on the Planning Portal and requested the exact wording for the remaining fields (Existing Use, Proposed Use, Permanent/Temporary status, and the final justification argument).
+- **Architectural Action:**
+  - Provided the exact copy/paste text for the remaining portal fields.
+  - Supplied the definitive legal justification for the final box ("Why do you consider an LDC should be granted..."), explicitly referencing GPDO Schedule 2, Part 1, Class E and bullet-pointing the exact limitations the building passes (height, footprint, curtilage, non-commercial use).
+- **Status:** Application ready for submission.
+
+## Date: 2026-07-12
+**Architect Notes: LDC Location Plan Clarification**
+- **User Query:** User asked if they should append "provided through the Planning Portal interactive service" to the Location Plan description in the evidence list.
+- **Architectural Action:**
+  - Strongly encouraged this addition. It reassures the validation officer immediately that the map is licensed, correctly scaled, and digitally compliant, bypassing the most common reason for application invalidation.
+- **Status:** Application finalized.
+
+## Date: 2026-07-12
+**Architect Notes: LDC Final Wording Adjustment (Non-Legal)**
+- **User Query:** User requested to remove the specific legal citation ("Schedule 2, Part 1, Class E of the Town and Country Planning...") from the final justification box, as they are not familiar/comfortable making that specific legal claim.
+- **Architectural Action:**
+  - Accommodated the user's comfort level by removing the explicit legal citation while retaining the factual bullet points that actually prove compliance.
+  - Provided a revised, plain-English justification that focuses purely on the physical attributes of the building and its intended use, leaving the legal mapping to the planning officer.
+- **Status:** Final wording adjusted.
+
+## Date: 2026-07-12
+**Architect Notes: Block Plan Missing Spot Heights Resolution**
+- **User Query:** User created a FreeCAD Block Plan (`boundary-plan.svg`) showing the boundary distances, but lacks the 4 corner spot heights because they don't have a laser level yet. Asked how to proceed for the LDC application.
+- **Architectural Action:**
+  - Emphasized that the spot heights are the entire legal foundation of the LDC application. Without them, the 2.5m height claim cannot be proven to the planning officer.
+  - Recommended holding off on submitting the LDC until the laser level is procured and the heights can be accurately measured and added to the FreeCAD drawings.
+  - Advised on a "lo-fi" backup method (string line and water level) if procurement of the laser level is severely delayed, but strongly pushed for the laser level for accuracy.
+- **Status:** Application paused pending site measurement.
+
+## Date: 2026-07-12
+**Architect Notes: Spot Height Strategy Without Laser Level**
+- **User Query:** User provided FreeCAD drawings (`boundary-plan.svg` and `section-cut.svg`) but is missing the spot heights because they haven't received the laser level yet.
+- **Architectural Action:**
+  - Reviewed the provided FreeCAD SVG parameters.
+  - Advised the user to establish a temporary relative datum ("0.00m") for the planning drawings, rather than waiting for absolute topographic heights. 
+  - Since the user's SVG already includes a note stating: *"Note: Site is an existing level residential garden. Ground level variation across the 3.6m footprint is negligible (<1 degree),"* they can legally assume a flat relative datum for the paperwork now, provided they build to those exact datums when the laser arrives.
+  - Provided the exact relative spot height numbers (+0.00m) to add to the 4 corners of the FreeCAD drawing to unblock the application immediately.
+- **Status:** Unblocked LDC drawing submission.
+
+## Date: 2026-07-12
+**Architect Notes: LDC Application - Including Photographs**
+- **User Query:** User asked if they should include a photo of the current state of the back garden with the LDC application.
+- **Architectural Action:**
+  - Strongly advised **against** providing photos of the current mid-dig state. 
+  - Explained that photos of an active excavation (with skips and mud) can confuse the "Proposed" vs "Existing" nature of the Section 192 application, potentially causing the validation officer to reject it and demand a Section 191 (Existing) application.
+  - Reiterated that LDCs for proposed structures should rely purely on technical drawings (plans and elevations).
+- **Status:** Prevented potential application invalidation trap.
+
+## Date: 2026-07-12
+**Architect Notes: Building Control Communication Pivot**
+- **User Query:** User clarified they are acting as the architect using GenAI and do not want to disclose this to Building Control. Requested a revision to the "Tell, Don't Ask" email template.
+- **Architectural Action:**
+  - Validated the user's approach. Acting as an "Owner-Builder" or "Self-Builder" is incredibly common and respected by Building Control, provided the communication sounds technically competent.
+  - Rewrote the BC email template to remove the phrase "my architect has specified." Shifted the tone to the first-person ("I have specified," "my structural plan calls for"), maintaining the exact same technical authority and "Tell, Don't Ask" psychology.
+- **Status:** Communication strategy successfully pivoted to Owner-Builder persona.
+
+## Date: 2026-07-12
+**Architect Notes: Building Control Communication Pivot (Solo Builder)**
+- **User Query:** User requested changing pronouns from "we" to "I" as they are undertaking the physical build completely alone.
+- **Architectural Action:**
+  - Acknowledged the immense physical undertaking of a solo build.
+  - Rewrote the BC email template entirely in the singular first-person.
+  - Kept the technical authority high, ensuring the solo-builder status does not diminish the perceived competence of the structural execution.
+- **Status:** Final email template locked.
+
+## Date: 2026-07-12
+**Foreman Notes: Building Control Start Notice Completion**
+- **User Query:** User provided the blank fields from the Building Control Start Notice form and asked how to fill them out as a solo owner-builder.
+- **Foreman Action:** 
+  - Provided exact instructions for filling out the form.
+  - Clarified that the user is legally the "Principal Contractor" under the Building Safety Act 2022 since they are managing and executing the work themselves.
+  - Advised on setting the "Date of Start of Work" to match the reality of the ongoing excavation.
+- **Status:** Statutory form completion guided.
+
+## Date: 2026-07-12
+**Foreman Notes: Building Control Reference Numbers**
+- **User Query:** User asked for clarification between a "BC-15064222" reference from the planning portal and an "IWC Ref PM/JH/26/00363/BN" reference from the local officer's letter.
+- **Foreman Action:**
+  - Decoded the bureaucratic numbering system.
+  - Identified the "BC-" number as merely the Planning Portal's internal digital transaction ID.
+  - Identified the "IWC Ref PM/JH/26/00363/BN" as the legally binding Local Authority Building Control reference. Broken down the acronyms (Isle of Wight Council, Peter Millward, 2026, Building Notice) to prove its relevance.
+  - Instructed the user to exclusively use the IWC Ref on all official forms and correspondence.
+- **Status:** Administrative clarification provided.
+
+## Date: 2026-07-12
+**Foreman Notes: Finalizing BC Email Template**
+- **User Query:** User requested the final email template be updated to include the newly clarified IWC Building Control reference number.
+- **Foreman Action:** 
+  - Updated the subject line of the previously drafted Solo-Builder BC email to seamlessly include the exact `26/00363/BN` reference.
+- **Status:** Communication ready for dispatch.
+
+## Date: 2026-07-12
+**Foreman Notes: British English Localization**
+- **User Query:** User requested the email be localized to British English.
+- **Foreman Action:** 
+  - Adjusted "utilizing" to "utilising".
+  - Adjusted "leveling" to "levelling".
+  - Adjusted "program" tone to sound more natural to a UK Building Control Inspector.
+- **Status:** Localization complete.
+
+## Date: 2026-07-12
+**Foreman Notes: Encountering Buried Concrete Slabs**
+- **User Query:** User discovered two large buried concrete slabs at the bottom of the trench that might be just low enough to leave in place, requiring only blinding sand on top. Wants to add this to the Building Control email.
+- **Foreman Action:** 
+  - Validated this as a very common site discovery.
+  - Advised that leaving solid concrete in place is structurally superior to digging it out and replacing it with loose aggregate, provided it doesn't compromise the depth requirements for the insulated raft.
+  - Rewrote the specific paragraph in the email to mention the buried slabs professionally, demonstrating the user's intent to use them as a solid bearing surface without raising alarms.
+- **Status:** Email updated to reflect real-time ground conditions.
+
+## Date: 2026-07-12
+**Foreman Notes: Review of User's Personalised BC Email**
+- **User Action:** User rewrote the drafted BC email to add personal touches (seagull fledgling delay, specific image file references, timeline adjustment to end of July).
+- **Foreman Action:** 
+  - Reviewed the user's text for technical accuracy and diplomatic tone.
+  - Approved the personalised text. The seagull note adds a humanizing touch which often plays well with local inspectors, while the core engineering argument remains fully intact.
+  - Recommended sending immediately.
+- **Status:** Statutory email finalized and approved by user.
+
+## Date: 2026-07-12
+**Architect Notes: Surface Mounted Electrics (Removing Service Cavity)**
+- **User Query:** User asked if they can omit the 25mm internal service battens and run all electrical wiring openly/visibly on top of the Fermacell boards.
+- **Architectural Action:**
+  - Evaluated the impact on the SIP envelope, internal volume, and Passivhaus airtightness.
+  - Confirmed this is highly advantageous structurally and thermally. It eliminates the risk of breaching the VCL with batten screws, reclaims 50mm of internal width/length, and fits the industrial workshop aesthetic perfectly.
+  - Advised on execution: Surface-mounted galvanized steel or PVC conduit must be used (Twin & Earth cannot simply be clipped to the wall). 
+  - Need to update the Master Plan and Workplan to reflect the removal of the internal service battens and the switch to surface-mounted conduit.
+- **Status:** Major interior fit-out pivot approved.
+
+## Date: 2026-07-12
+**Architect Notes: Engineering Out the Service Cavity & Steel Conduit Specs**
+- **User Query:** User requested removing the internal service battens entirely to run wiring visibly on top of the Fermacell. Asked about the cost of galvanised steel conduit and clarified they are not using extraction ducting.
+- **Architectural Action:**
+  - Upgraded the Master Plan to reflect direct-mount Fermacell. This claws back 50mm of internal space (increasing the usable footprint to 15.64 m²).
+  - Updated all electrical specs to "Surface-Mounted Metal-Clad or Heavy-Duty PVC" boxes and surface conduit.
+  - Recalculated the West Façade visible interior wall spaces to reflect the thinner 165mm side-wall buildup (now 415mm visible space beside the corner windows).
+- **Hand-off to @foreman:** @foreman, please update `plans/WORKPLAN.md`.
+  1. Remove "25mm service cavity" from Phase 5 overview (line 30).
+  2. Rewrite Week 14. Title it "Week 14: Direct-Mount Internal Skin". Move the Fermacell boarding (currently in Week 15) to Week 14. They will glue/screw the Fermacell *directly* to the taped SIP walls (no battens).
+  3. Rewrite Week 15. Title it "Week 15: Surface Electrics & Flooring". Instruct them to run 20mm galvanised steel or PVC conduit and surface-mounted metal-clad socket boxes directly over the finished Fermacell.
+  4. Remove the mention of "Extraction trunk" / "rigid galvanized steel ducting" and "blast gates" from the Master Plan and Workplan if it exists in the execution steps, as user explicitly noted they aren't using extraction ducting. (I will check the Master Plan for this).
+
+## Date: 2026-07-12
+**Architect Notes: Final Verification of Surface-Mount Pivot**
+- **Verification Run:** Confirmed that the `MASTER_PLAN.md` and `WORKPLAN.md` files were successfully updated by the prior subagent tasks.
+- **Findings:** The internal service battens have been entirely stripped from the blueprints. The space calculations, material schedules, and chronological steps are all correctly locked into the "Direct-Mount Fermacell & Surface Conduit" strategy.
+- **Status:** Blueprints are up-to-date and verified.

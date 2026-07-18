@@ -41,11 +41,11 @@ layout: default
 *   **Required SIP Framework & Concrete Slab Size (to maintain strict 3602x5602mm external limit):**
     *   Width: **3410mm (3.41m)** core/slab order size; finished external width = 3410mm + 192mm = **3602mm**.
     *   Length: **5410mm (5.41m)** core/slab order size; finished external length = 5410mm + 192mm = **5602mm**.
-*   **Final Usable Internal Space (Accounting for internal Fermacell & battens):**
-    *   SIP Core (150mm) + Service Batten (25mm) + Fermacell (15mm) = 190mm internal buildup per wall.
-    *   Usable Internal Width: 3410mm - (190mm x 2) = **3030mm (3.03m)**
-    *   Usable Internal Length: 5410mm - (190mm x 2) = **5030mm (5.03m)**
-    *   *Final Internal Usable Footprint:* **15.24 m²**
+*   **Final Usable Internal Space (Accounting for direct-mount Fermacell):**
+    *   SIP Core (150mm) + Fermacell (15mm) = 165mm internal buildup per wall.
+    *   Usable Internal Width: 3410mm - (165mm x 2) = **3080mm (3.08m)**
+    *   Usable Internal Length: 5410mm - (165mm x 2) = **5080mm (5.08m)**
+    *   *Final Internal Usable Footprint:* **15.64 m²**
 
 *(Note: All structural orders—Concrete, SIPs, and XPS—must be executed to the accepted **3430mm x 5430mm** core/slab dimensions, NOT the finished external cladding dimensions of 3602mm x 5602mm.)*
 
@@ -105,13 +105,12 @@ layout: default
 | **4. External Insulation** | 60mm Rigid Wood Fibre Board | Friction fit; held by batten screws | Unbroken thermal jacket. Chosen for its high specific heat capacity (2,100 J/kgK), providing a massive 'decrement delay' to prevent summer overheating. | ~39m² coverage |
 | **5. Structural SIP Panel** | 150mm New Forest SIP Base Wall Panel | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Acts as the primary load-bearing structure and extreme continuous thermal barrier. | ~39m² wall coverage |
 | **6. Vapour Control Layer** | Pro Clima Intello Plus | Stainless staples; 100mm taped overlaps | Airtightness; stops interstitial condensation. *(Note: The inner OSB skin of the SIP acts as a primary air barrier, but the VCL guarantees Passivhaus airtightness across panel joints).* | 1 Roll (50m) |
-| **7. Service Cavity** | 25x50mm Treated Timber Battens | Screwed horizontally @ 400mm centers | Cable routing without piercing the VCL or the SIP skin. | ~120 linear meters |
-| **8. Internal Finish** | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking. **CRITICAL FIRE RATING:** Because the building is <1m from a boundary, Building Control mandates REI30/REI60. The 15mm Fermacell acts as the necessary Type F fire-board equivalent to protect the combustible OSB. | ~26 boards |
+| **7. Internal Finish** | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking. Fixed *directly* to the internal SIP OSB face. **CRITICAL FIRE RATING:** Because the building is <1m from a boundary, Building Control mandates REI30/REI60. The 15mm Fermacell acts as the necessary Type F fire-board equivalent to protect the combustible OSB. | ~26 boards |
 
 ### 2.2 SIPs Sealing Strategy & Weak Point Continuity
 *   **Panel Joints (The Critical Weakness):** All SIP panels must be joined using **Insulated Splines** (miniature SIP strips) rather than timber C16 splines to prevent cold bridging at every 1200mm joint. The spline joints must be heavily sealed with structural polyurethane adhesive/expanding foam during assembly.
 *   **Tape Specification:** **Pro Clima Tescon Vana** is mandatory for taping the internal VCL over all SIP joints, seams, and corners. 
-*   **Socket Boxes:** Standard back-boxes will leak air. All electrical sockets must use **Airtight Grommet Boxes** (e.g., Kaiser airtight boxes) installed entirely within the 25mm service cavity, ensuring the SIP internal face is never pierced.
+*   **Socket Boxes:** Because the 25mm service cavity has been engineered out to maximize internal footprint, flush-mount back-boxes cannot be used. All electrical sockets and switches must be **Surface-Mounted Metal-Clad or Heavy-Duty PVC** boxes, screwed directly to the Fermacell. This ensures the internal SIP structural and airtight skin is strictly never pierced.
 
 ### 2.3 The Roof 'Sandwich' (Exterior to Interior)
 
@@ -179,13 +178,13 @@ layout: default
     *   **West Elevation (Visible / High-Side Façade):** 2x **1000x1000mm** Fixed VIG uPVC windows (Factory-Applied Solar Control Coating) + 1x **1400mm x 2150mm** Asymmetric 1.5 Door.
 *   **Clerestory Placement Logic:** The 300x1500mm fixed windows must be factory-cut into the SIPs with a **2100mm top datum** on the East wall. This Passivhaus optimization (fixed panes = zero air leakage) relies entirely on the dMVHR for ventilation, while retaining 1800mm of uninterrupted wall height below for tool racks and machinery.
 *   **West Façade 'Workbench Panorama' Layout:** To future-proof for a home office, the West wall utilizes an asymmetric zoning layout and must be the **high-side wall** of the roof slope. To ensure internal visual symmetry and prevent the windows from feeling cramped against the side walls, the layout is "Internally Centered." Across the 5410mm SIP core length (viewed from the outside, Right to Left), the exact openings and solid wall dimensions are:
-    *   **Right Corner Pillar:** 580mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 190mm, this provides exactly 390mm of visible internal wall space beside the door*).
+    *   **Right Corner Pillar:** 580mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 165mm, this provides exactly 415mm of visible internal wall space beside the door*).
     *   **Main Door:** 1400mm opening
     *   **Door/Window Gap:** 420mm solid SIP
     *   **Window 1:** 1000mm opening
     *   **Central Mullion:** 430mm solid SIP
     *   **Window 2:** 1000mm opening
-    *   **Left Corner Pillar:** 580mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 190mm, this provides exactly 390mm of visible internal wall space beside the window*).
+    *   **Left Corner Pillar:** 580mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 165mm, this provides exactly 415mm of visible internal wall space beside the window*).
     *   *Revised Vertical Datum:* The door and West window heads align at **2150mm FFL**, preserving ~89.5mm of structural head zone above the openings. The revised 1000x1000mm fixed windows place the bottom sills at **1150mm FFL**, allowing a standard 900mm-high workbench or desk to sit beneath the glass with ~250mm clearance.
 *   **French Doors Forbidden:** Traditional French doors are strictly prohibited. They inherently fail Passivhaus airtightness standards and acoustic reduction due to the lack of a central mullion, leading to air and noise leakage down the meeting stiles.
 *   **Approved Mechanisms:** Specify a **1400mm x 2150mm maximum outer-frame-height Asymmetric 1.5 Door system** (e.g., a 900mm active leaf combined with a 500mm slave leaf) or a high-performance **Lift-and-Slide door** only if the supplier can keep the total frame height at or below 2150mm FFL. These systems use complex cam-action locks to physically compress robust continuous rubber gaskets, ensuring the thermal and acoustic envelope is not compromised at the entry point.
@@ -262,21 +261,19 @@ To ensure structural compatibility with the SIP envelope, guard against toleranc
 | **Dedicated Heating RCBO** | 16A Type B RCBO for 3kW Electric Flow Boiler | Workshop consumer unit, labelled circuit | Separates steady heating load from high-inrush machinery circuits. | 1 unit |
 | **IR Panel / Controls RCBO** | 10A Type B RCBO | Workshop consumer unit with local fused spur/timer | Supplies the 1.2kW IR panel, thermostatic controls, and low-load heating controls. | 1 unit |
 | **MVHR / Filtration RCBO** | 6A Type B RCBO | Workshop consumer unit with local lockable isolator adjacent to dMVHR | Keeps life-safety/background ventilation independent from machine circuits; allows filter servicing isolation. | 1 unit |
-| **Sockets** | IP66 Double Switched 13A | Surface mounted to Fermacell | Flap-covers prevent conductive wood dust from bridging internal contacts (fire prevention). | ~6 units |
-| **Airtight Back Boxes** | Airtight surface or grommeted back boxes | Mounted within 25mm service cavity without piercing SIP skin | Preserves the internal air barrier while allowing cable distribution. | ~8 units |
-| **Extraction Trunk** | 100mm Rigid Galvanized Steel Ducting | Rubber-lined acoustic pipe clamps to ceiling | Smooth bore maintains 25 m/s air velocity; metal prevents static electricity sparks (unlike PVC). | ~10 linear meters |
-| **ATEX Grounding** | Copper Earth Bonding Strap | Bolted to metal ducting and wired to the workshop's earth terminal | **Explosion Prevention:** Safely grounds the static charge generated by fast-moving dust particles in the metal duct. | 1 unit + Earth Cable |
-| **Blast Gates** | 100mm Cast Aluminum body with steel slider | Hose-clamped onto vertical machine drops | Maximizes static pressure by isolating idle branches. | 3 units |
-| **Extractor Unit** | Internal Recirculation HEPA/Cyclone Extractor | Freestanding on 15mm SBR rubber isolation pads | Captures fine hardwood dust (<PM2.5) safely inside the airtight envelope without exhausting heated Passivhaus air outside. | 1 unit |
-| **Workspace Lighting** | Surface-Mounted LED Track Lighting (Wall-Fed) | Screwed directly to 15mm Fermacell ceiling board | High-lux task lighting (~750-1000 lux) over the West workbench/home office zone. Driven by a cable running up the 25mm wall service cavity and exiting at the ceiling corner, ensuring **zero penetrations** into the structural SIP roof core. | 1 system (Track + Spots/Linear LED) |
-| **MVHR Control Wiring** | Low-voltage controller / boost switch / humidity sensor cabling | Routed within service cavity to dMVHR controller | Allows standby/occupied boost modes without penetrating the VCL. | 1 control set |
+| **Sockets** | Metal-Clad Double Switched 13A | Surface mounted directly to Fermacell board | Robust industrial protection against impact. | ~6 units |
+| **Surface Conduit** | 20mm Galvanised Steel or Heavy-Duty PVC | Saddles screwed into Fermacell/SIP OSB | Protects electrical cables. Eliminates the need for a timber service cavity. | ~30 linear meters |
+| **Extractor Unit** | Internal Recirculation HEPA/Cyclone Extractor (Standalone) | Freestanding on 15mm SBR rubber isolation pads | Captures fine hardwood dust (<PM2.5) safely inside the airtight envelope without exhausting heated Passivhaus air outside. No fixed ducting network required. | 1 unit |
+| **Workspace Lighting** | Surface-Mounted LED Track Lighting (Wall-Fed) | Screwed directly to 15mm Fermacell ceiling board | High-lux task lighting (~750-1000 lux) over the West workbench/home office zone. Driven by a cable running up the wall in surface-mounted conduit and exiting at the ceiling corner, ensuring **zero penetrations** into the structural SIP core. | 1 system (Track + Spots/Linear LED) |
+| **MVHR Control Wiring** | Low-voltage controller / boost switch / humidity sensor cabling | Routed within surface conduit to dMVHR controller | Allows standby/occupied boost modes without penetrating the airtight envelope. | 1 control set |
 | **Makeup Air Interlock Provision** | Spare relay way and labelled containment for future motorized damper | Consumer unit / controls enclosure; not normally connected | Reserved only for future solvent/spray purge mode if outdoor exhaust is later added. Prevents uncontrolled depressurization. | 1 spare provision |
 
 ### 5.2 Electrical Zoning & Operating Logic
 
-*   **Zero-Penetration Ceiling Lighting:** Because the ceiling lacks a service cavity to preserve internal headroom, electrical cables for lighting must never puncture the SIP roof core. The lighting strategy utilizes a "Wall-Fed Surface" method: a radial lighting circuit runs vertically within the wall's 25mm service cavity, exits the Fermacell at the top corner junction, and feeds directly into the end-feed of a surface-mounted track lighting system. This guarantees Passivhaus airtightness while delivering high-lumen, focused light over the West-facing workbench/office zone.
+*   **Surface-Mounted Infrastructure:** To maximize the internal footprint and guarantee Passivhaus airtightness, the traditional internal 25mm timber service cavity has been entirely engineered out. All electrical cables (lighting, sockets, machinery, and MVHR controls) must be run in **Surface-Mounted Conduit** (e.g., 20mm Galvanised Steel or heavy-duty PVC). This ensures the continuous airtight envelope (Tescon Vana taped SIP joints) and structural OSB are never compromised by blind screws or flush-mount box cutouts.
+*   **Zero-Penetration Ceiling Lighting:** Electrical cables for lighting must never puncture the SIP roof core. The lighting circuit runs vertically up the wall in surface conduit, enters an industrial 90-degree corner junction box, and feeds directly into the end-feed of a surface-mounted track lighting system on the ceiling. 
 *   **Background Mode:** dMVHR runs continuously at 16-32m³/h, UFH maintains 12-14°C, dehumidifier operates only on humidistat demand, and no dust extractor exhausts outdoors.
-*   **Occupied Woodworking Mode:** dMVHR boosts to 60-70m³/h, recirculating HEPA/cyclone extractor runs with machines, ambient air cleaner runs continuously, and blast gates isolate inactive branches.
+*   **Occupied Woodworking Mode:** dMVHR boosts to 60-70m³/h, standalone HEPA/cyclone extractor runs with machines, and ambient air cleaner runs continuously.
 *   **Finishing / VOC Mode:** Avoid solvent spraying in the sealed workshop where possible. If unavoidable, use a temporary purge protocol with interlocked makeup air; do not rely on the dMVHR core to process concentrated solvent vapours.
 *   **Electrical Separation:** High-inrush induction motors, heating, MVHR/controls, and general sockets must be on separately labelled RCBO circuits to prevent nuisance trips from disabling background ventilation or freeze protection.
 

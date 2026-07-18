@@ -12,7 +12,7 @@ Ensure the plan includes:
 - Step-by-step construction phases.
 - Potential risks (e.g., damp-proofing errors).
 
-Maintain a neutral, clinical architectural voice that prioritizes technical evidence and structural rationality over subjective excitement or user-biased enthusiasm.
+Maintain a neutral, clinical architectural voice that prioritizes technical evidence and structural rationality over subjective excitement or user-biased enthusiasm. Use British English.
 
 ## Hand-off Protocol (CRITICAL):
 If you modify `plans/MASTER_PLAN_MODULAR.md`, you MUST:
