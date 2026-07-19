@@ -23,7 +23,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 ---
 
 ## Step-by-Step Construction Phases (Overview)
-1. **Phase 1: Groundworks & Foundation** (Weeks 1-5): Exact 390mm depth excavation (to sink 50mm leveling aggregate, 50mm sand, 140mm XPS tub, and the 150mm concrete slab flush with the lawn), leveling aggregate sub-base, blinding sand, JACKODUR tub assembly, mesh laying, and UFH pipe integration.
+1. **Phase 1: Groundworks & Foundation** (Weeks 1-5): Exact 390mm depth excavation (to sink 50mm leveling aggregate, 50mm sand, 140mm XPS tub, and the 150mm concrete slab flush with the lawn), leveling aggregate sub-base, blinding sand, dual-duct service trenching, JACKODUR tub assembly, mesh laying, and UFH pipe integration.
 2. **Phase 2: Concrete Pour & Curing Halt** (Weeks 6-8 curing): Line pump pour. **CRITICAL:** Wait min 21-28 days before erecting walls to prevent slab moisture from locking into the SIPs.
 3. **Phase 3: Structural Envelope** (Weeks 9-11): Sole plate anchoring, SIP wall and roof erection, Tyvek wrapping, and window/door installation (achieving weather-tightness).
 4. **Phase 4: Cladding & Exterior Finish** (Weeks 12-13): Battening, Hardie VL plank cladding, and EPDM flat roof waterproofing.
@@ -48,6 +48,12 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 *   **Weeknight Shifts (45-90 mins):** Final leveling of the soil floor to the 390mm depth. Use a laser level or long spirit level to ensure the trench base is relatively flat, but don't obsess over mm-perfection yet.
 *   **Weekend 3 (Sub-Base):** Hire a heavy vibrating compactor plate. Run it over the raw excavated ground first to re-compact any soil loosened by your digging. Lay the geotextile membrane across the entire footprint. Wheelbarrow in **~2.5 bulk bags of Leveling Aggregate** (MOT Type 3 or Ballast) to a depth of roughly 50mm.
 *   **Sunday Lockdown (4 PM):** Run a minimum of 6 overlapping passes of the wacker plate over the new Leveling Aggregate to mechanically lock it flat. Return the wacker plate. Cover the compacted base with a tarp.
+
+### Week 3 (Parallel Task): The Dual-Duct Service Trench
+*   **The Trenching:** Dig a 600mm deep narrow trench from the house to the foundation footprint.
+*   **The Dual-Duct Install:** Lay two 50mm Twin-Wall HDPE pipes side-by-side in the bottom of the trench: one **BLACK** (for 230V power) and one **GREEN** (for Data/Cat6a).
+*   **Backfill & Warning Tape:** Backfill slightly, then lay yellow "Caution: Electrical Cable Below" tape above the black duct before fully backfilling to the lawn level.
+*   **Duct Termination:** Leave the duct ends protruding up through the 400mm gravel margin or directly into the XPS tub, depending on where your internal service wall will be.
 
 ### 🛑 STATUTORY MILESTONE 1: Start Notice & The Trench Inspection
 Before you lay the Geotextile and Leveling Aggregate, you **must email the "Start Notice Form"** to Building Control (Peter Millward) giving 48 hours notice. 

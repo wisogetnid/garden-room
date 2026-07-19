@@ -399,3 +399,28 @@
 - **Verification Run:** Confirmed that the `MASTER_PLAN.md` and `WORKPLAN.md` files were successfully updated by the prior subagent tasks.
 - **Findings:** The internal service battens have been entirely stripped from the blueprints. The space calculations, material schedules, and chronological steps are all correctly locked into the "Direct-Mount Fermacell & Surface Conduit" strategy.
 - **Status:** Blueprints are up-to-date and verified.
+
+## Date: 2026-07-12
+**Foreman Notes: Underground Ducting Cost Analysis**
+- **User Query:** User asked about the pricing for the recommended 50mm Black and Green Twin-Wall HDPE underground ducting.
+- **Foreman Action:** 
+  - Provided a highly specific, localized cost breakdown based on current UK building supply rates (Screwfix, Toolstation, specialist plastics suppliers).
+  - Contrasted the cost of the raw ducting against the cost of the SWA cable to provide perspective on the overall trenching budget.
+- **Status:** Procurement advice delivered.
+
+## Date: 2026-07-12
+**Architect Notes: Incoming Service Ducts & Airtightness**
+- **User Query:** User asked if the twin-wall ducts should be site-drilled through the completed walls or factory-cut during SIP production. They also asked how to seal them without creating air gaps.
+- **Architectural Action:**
+  - **Correction:** Advised against penetrating the SIP walls entirely for ground-level services. It creates massive thermal/airtight weaknesses and leaves ugly pipes rising externally.
+  - **Solution:** Specified the "Sweep Bend" method. Ducts must route *under* the XPS tub and sweep vertically upwards to protrude through the XPS floor insulation and DPM *before* the concrete is poured. They will emerge directly from the finished internal floor.
+  - **Airtightness (Two-Part Seal):**
+    - *External Seal:* Pro Clima Roflex EPDM grommet sealing the outside of the duct to the 1200-gauge DPM.
+    - *Internal Seal:* Duct seal putty (e.g., FiloSeal+) pumped into the duct mouth *after* cables are pulled, stopping air blowing through the core of the pipe.
+- **Status:** Advised user; pending confirmation to update documents.
+
+## Date: 2026-07-12
+**Architect Notes: VCL Removal on Walls due to Direct-Mount Fermacell**
+- **System Check:** Realized that by eliminating the 25mm wall service cavity, the `Pro Clima Intello Plus` full VCL membrane sheet on the walls became a structural hazard (Fermacell screws would pierce it hundreds of times, destroying the air barrier).
+- **Architectural Action:** Removed the Intello Plus sheet from the Master Plan wall schedule. Extended the ceiling tape strategy to the walls. The internal Passivhaus airtight barrier will now rely entirely on the continuous inner OSB face, with the critical joints sealed by the self-sealing Pro Clima Tescon Vana tape.
+- **Status:** Airtightness strategy realigned with surface-mount pivot.
