@@ -424,3 +424,13 @@
 - **System Check:** Realized that by eliminating the 25mm wall service cavity, the `Pro Clima Intello Plus` full VCL membrane sheet on the walls became a structural hazard (Fermacell screws would pierce it hundreds of times, destroying the air barrier).
 - **Architectural Action:** Removed the Intello Plus sheet from the Master Plan wall schedule. Extended the ceiling tape strategy to the walls. The internal Passivhaus airtight barrier will now rely entirely on the continuous inner OSB face, with the critical joints sealed by the self-sealing Pro Clima Tescon Vana tape.
 - **Status:** Airtightness strategy realigned with surface-mount pivot.
+
+## Date: 2026-07-12
+**Architect Notes: Outbuilding Earthing Strategy (TT Island)**
+- **User Query:** User asked if they need an electric earth rod, and if so, how to install it and wire the grounding.
+- **Architectural Action:**
+  - Diagnosed the requirement based on UK BS 7671 (Wiring Regulations). Exporting a PME (TN-C-S) earth from the main house to an outbuilding with heavy machinery and wet UFH is highly restricted/prohibited. The workshop must be a "TT Island".
+  - Explained that the user will install a local copper earth rod. The electrician will terminate the SWA earth wire at the outbuilding, relying exclusively on the local rod for the workshop's earth fault path.
+  - Added the TT Island (Earth Rod, Pit, 16mm² Cable) to the `MASTER_PLAN.md` Electrical schedule.
+  - Added the physical installation step to `WORKPLAN.md` Week 15.
+- **Status:** UK Electrical regulation compliance assured.

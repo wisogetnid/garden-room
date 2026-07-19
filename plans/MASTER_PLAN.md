@@ -257,6 +257,7 @@ To ensure structural compatibility with the SIP envelope, guard against toleranc
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
+| **Outbuilding Earthing (TT Island)** | 1.2m Copper-Bonded Earth Rod, Brass Clamp, Inspection Pit, & 16mm² Earth Cable | Driven vertically into natural soil outside the building; connected to Consumer Unit Earth Bar | **Legal/Safety:** Because exporting a PME (TN-C-S) earth from the main house to an outbuilding with extraneous conductive parts (machinery/wet heating) is prohibited under BS 7671, the garden room must act as its own "TT Island." | 1 system |
 | **Machine Breakers** | 20A **Type C** RCBOs | Mounted in workshop Consumer Unit | Type C magnetic trip curve withstands the 100A+ inrush surge of 3HP induction motors without nuisance tripping. | 4 units |
 | **Dedicated Heating RCBO** | 16A Type B RCBO for 3kW Electric Flow Boiler | Workshop consumer unit, labelled circuit | Separates steady heating load from high-inrush machinery circuits. | 1 unit |
 | **IR Panel / Controls RCBO** | 10A Type B RCBO | Workshop consumer unit with local fused spur/timer | Supplies the 1.2kW IR panel, thermostatic controls, and low-load heating controls. | 1 unit |
