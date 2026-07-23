@@ -434,3 +434,60 @@
   - Added the TT Island (Earth Rod, Pit, 16mm² Cable) to the `MASTER_PLAN.md` Electrical schedule.
   - Added the physical installation step to `WORKPLAN.md` Week 15.
 - **Status:** UK Electrical regulation compliance assured.
+
+## Date: 2026-07-12
+**Foreman Notes: Geotextile Penetration for Ducting**
+- **User Query:** User asked how to pass the dual twin-wall ducts through the geotextile membrane during the groundworks phase, specifically if cutting an "X" and looping them through is acceptable.
+- **Foreman Action:**
+  - Confirmed that cutting an "X" in the geotextile is perfectly acceptable.
+  - Clarified the physical purpose of the geotextile (preventing aggregate from sinking into the clay/soil) versus the DPM (stopping moisture). 
+  - Emphasized that while the geotextile can be loosely cut without consequence, the DPM layer above it must be perfectly sealed with airtight grommets.
+- **Status:** Practical site query resolved.
+
+## Date: 2026-07-12
+**Architect Notes: Dual-Duct Spacing & EMI Clarification**
+- **User Query:** User asked if laying the black (power) and green (data) twin-wall ducts side-by-side touching each other in the trench will cause electrical interference (EMI).
+- **Architectural Action:**
+  - Clarified the physics of EMI and UK wiring regulations.
+  - Confirmed that running them literally touching is highly discouraged due to EMI from the 230V mains inducing voltage into the unshielded Cat6 data cable over a long parallel run.
+  - Provided the industry standard fix: Separate the two pipes by a minimum of **100mm to 150mm (4-6 inches)** of earth/aggregate within the trench. This physical earth barrier acts as an excellent dielectric insulator to kill EMI cross-talk.
+- **Status:** Trenching execution corrected.
+
+## Date: 2026-07-12
+**Foreman Notes: Vertical Trench Separation (Power & Data)**
+- **User Query:** User asked if they could separate the EMI risk vertically in the same trench: Black power duct at 600mm deep, and Green data duct directly above it at 400mm deep.
+- **Foreman Action:**
+  - Evaluated against BS 7671 (Wiring Regs) and general civils practice.
+  - Confirmed this is a highly accepted and efficient method (the "Vertical Stack" method). It saves digging a wider trench while providing the necessary 200mm of earth separation to kill EMI.
+  - Detailed the exact backfill sequence: Lay black duct at 600mm -> 100mm earth backfill -> Yellow warning tape -> 100mm earth backfill -> Lay green data duct at 400mm -> final backfill.
+- **Status:** Trenching strategy optimized.
+
+## Date: 2026-07-12
+**Foreman Notes: Local Procurement (Isle of Wight)**
+- **User Query:** User asked where to purchase the 50mm Twin-Wall HDPE underground ducts (Black and Green) specifically on the Isle of Wight.
+- **Foreman Action:**
+  - Researched local IoW civil and building merchants.
+  - Advised that standard DIY stores (Screwfix/Toolstation in Newport) rarely stock 50mm twin-wall in 50m coils in-store.
+  - Directed the user to the major local merchants: Sydenhams (Newport/Ryde) and Jewson (Newport/Sandown), advising them to call ahead for the specific "50m twin-wall ducting" as it's a civils product.
+  - Suggested a fast mainland delivery alternative (Drainage Superstore / JDP) if island stock is depleted.
+- **Status:** Procurement logistics solved.
+
+## Date: 2026-07-12
+**Foreman Notes: Phased Duct Installation & Sealing**
+- **User Query:** User asked if the ducting can be laid in iterations (sections), as they cannot dig the full path to the house until after the concrete pour.
+- **Foreman Action:**
+  - Diagnosed the logistical constraint. Confirmed that laying ducting in phases is perfectly acceptable and standard practice on tight sites.
+  - Warned of the critical risk: Water, mud, and rodents entering the buried, open ends of the ducting while waiting for the next phase.
+  - Advised on the strict execution: The user must cap/tape the buried ends heavily and pull the drawcords out safely.
+  - Warned that joining the pipes later requires a proper twin-wall coupling collar, not just duct tape, to prevent the pipe from pulling apart when dragging heavy SWA cable later.
+- **Status:** Logistics and execution adjusted for phased trenching.
+
+## Date: 2026-07-12
+**Architect Notes: Shielded Cables vs Dual-Duct Necessity**
+- **User Query:** User asked if shielded electrical or Cat6 cables exist that would eliminate the need for the dual-duct (separate pipe) system.
+- **Architectural Action:**
+  - Evaluated BS 7671 (Wiring Regs) and data cabling physics.
+  - Acknowledged that while S/FTP (Shielded) Cat6a and SWA (Armoured) power cables do provide significant physical shielding, running them together in a single duct remains a **legal compliance failure** under UK regulations unless the data cable is insulated to mains voltage (which network cables are not).
+  - Highlighted the physical jamming risk: Pulling a stiff SWA cable alongside a delicate Cat6a cable inside a single 50mm corrugated pipe over 30 meters usually results in the power cable crushing and snapping the data cable.
+  - Advised that the £40 cost of a second green pipe solves the legal, physical, and EMI issues permanently.
+- **Status:** Technical clarification provided. Dual-duct mandate upheld.
