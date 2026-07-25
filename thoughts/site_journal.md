@@ -491,3 +491,100 @@
   - Highlighted the physical jamming risk: Pulling a stiff SWA cable alongside a delicate Cat6a cable inside a single 50mm corrugated pipe over 30 meters usually results in the power cable crushing and snapping the data cable.
   - Advised that the £40 cost of a second green pipe solves the legal, physical, and EMI issues permanently.
 - **Status:** Technical clarification provided. Dual-duct mandate upheld.
+
+## Date: 2026-07-12
+**Foreman Notes: SWA Cable Pulling Logistics**
+- **User Query:** User asked if the stiff Steel Wire Armoured (SWA) cable will actually go through the twin-wall duct if it's not very bendable.
+- **Foreman Action:**
+  - Reassured the user that SWA *will* go through a 50mm duct, provided the duct is laid correctly.
+  - Outlined the strict execution rules for laying ducting to ensure a successful SWA pull:
+    1. **Wide Sweeps:** No sharp 90-degree elbows underground; only wide, sweeping curves.
+    2. **Tension:** Pulling the duct taut in the trench so it doesn't "snake" or zig-zag.
+    3. **Lubrication:** Emphasized the electrician will use cable pulling lubricant (yellow 77).
+- **Status:** Execution strategy for SWA cable pulling clarified.
+
+## Date: 2026-07-12
+**Foreman Notes: Phased Ducting (Leaving Coil Above Ground)**
+- **User Query:** User asked if they can buy the full 30m/50m coil, bury the foundation section, and simply leave the remaining 20m of continuous pipe coiled above ground in the garden until they dig the rest of the trench, rather than cutting it and joining it later.
+- **Foreman Action:**
+  - Validated this as a vastly superior strategy to cutting and coupling.
+  - Confirmed that a continuous, uncut pipe eliminates all risk of underground joint failure during the cable pull.
+  - Advised on the practical realities: the 20m coil will be an ugly trip hazard in the garden, but structurally it is the safest and cheapest method.
+  - Re-emphasized sealing the exposed ends to keep rain and insects out of the coiled pipe.
+- **Status:** Trenching execution optimized.
+
+## Date: 2026-07-12
+**Architect Notes: JACKODUR Atlas Duct Penetration Limits**
+- **User Query:** User asked if the JACKODUR Atlas XPS system has any specific requirements or restrictions on how close the incoming service ducts can be positioned next to the perimeter upstand.
+- **Architectural Action:**
+  - Evaluated the structural mechanics of the JACKODUR Atlas edge elements.
+  - Identified a critical structural risk: The perimeter L-elements of the Atlas system rely on a specific width of XPS to support the heavy SIP wall loads and the Compacfoam thermal break.
+  - Advised the user they MUST NOT drill through or route pipes through the actual perimeter ring (the L-elements).
+  - Instructed the user to bring the pipes up strictly through the *floor* insulation field, keeping a minimum **150mm to 200mm clearance** away from the inner face of the XPS upstand.
+- **Status:** Structural integrity of the foundation perimeter protected.
+
+## Date: 2026-07-12
+**Foreman Notes: Routing Ducts through Steel Mesh**
+- **User Query:** User asked how to route the 50mm vertical ducts through the A252 steel reinforcing mesh, specifically if they can just push them through or if they need to cut the steel.
+- **Foreman Action:**
+  - Evaluated the physical dimensions: A252 mesh has 200mm x 200mm squares. Two 50mm pipes require at least 100mm+ of space.
+  - Advised that while technically the pipes *could* squeeze through a single square, doing so forces the pipes to touch (violating the EMI gap) and restricts concrete flow around them.
+  - Authorized the user to cut a small section of the steel mesh using an angle grinder or bolt cutters.
+  - Stressed that cutting one or two squares of A252 mesh inside the floor field will not compromise the overall tensile strength of the 150mm raft.
+- **Status:** Concrete prep execution clarified.
+
+## Date: 2026-07-12
+**Foreman Notes: Routing Ducts through Adjacent Mesh Squares**
+- **User Query:** User asked if they could route the two 50mm pipes up through separate, adjacent 200mm mesh squares (leaving 2 squares of steel between them) to avoid cutting the mesh entirely.
+- **Foreman Action:**
+  - Evaluated the geometry: A252 mesh is 200mm. Leaving two squares between pipes creates a ~400mm-600mm gap between the power and data ducts.
+  - Confirmed this is a brilliant, zero-cut solution that exceeds the EMI separation requirement.
+  - Warned of the minor internal consequence: The pipes will emerge inside the room half a meter apart, which will look slightly messy and require the surface conduit to span that distance horizontally to reach the consumer unit.
+  - Approved the method, provided the user accepts the internal aesthetic/routing compromise.
+- **Status:** Trenching/Mesh routing optimized.
+
+## Date: 2026-07-12
+**Architect Notes: Cable Crossing EMI Physics**
+- **User Query:** User noted that the network cable will inevitably have to cross the electrical cable at some point (e.g., entering the house or consumer unit) and asked if that creates interference.
+- **Architectural Action:**
+  - Clarified the physics of Electromagnetic Interference (EMI). 
+  - Explained that EMI is generated by *parallel* proximity over long distances (the "transformer effect").
+  - Confirmed that cables crossing each other perpendicularly (at a 90-degree angle) creates effectively zero measurable interference, as the magnetic waves do not align.
+  - Advised the user that a brief intersection or crossing point is standard and entirely safe.
+- **Status:** EMI physics explained; routing strategy validated.
+
+## Date: 2026-07-12
+**Foreman Notes: Concrete Slab Depth Validation**
+- **User Query:** User measured the depth of the two massive buried concrete slabs they found in the trench. They sit at -320mm below the "Highest Adjacent Ground" datum. User assumes this leaves enough room for 140mm XPS, 150mm concrete, and blinding sand.
+- **Foreman Action:**
+  - Validated the mathematics against the structural specification.
+  - Total required structural depth = 290mm (140mm XPS + 150mm concrete).
+  - Calculated remaining buffer: 320mm (actual depth) - 290mm (structure) = 30mm.
+  - Confirmed that 30mm is the perfect depth for a blinding sand bed to level out the old slabs before dropping the XPS on top.
+  - Praised the user's execution and confirmed the "Zero Point" (highest adjacent ground) datum strategy is working perfectly.
+- **Status:** Structural depth validated; excavation approved.
+
+## Date: 2026-07-12
+**Foreman Notes: Minimum Blinding Sand & Measuring on Grass**
+- **User Query:** User asked if 20mm of blinding sand is sufficient (in case their -320mm measurement is slightly off). Also asked for advice on exactly how to measure the "highest point" on grass (whether to compress the grass or measure from the top of the blades).
+- **Foreman Action:**
+  - **Sand Depth:** Confirmed that 20mm of blinding sand is perfectly acceptable. The sand's only job is to fill voids and prevent point-loading on the XPS; it is not structural. 15mm-25mm is standard for blinding.
+  - **Measuring Grass:** Instructed the user *never* to measure from the top of grass blades. Provided the standard site engineering method: "Part the grass, find the dirt." Stated the measurement must be taken from the compacted soil surface beneath the grass, as grass height fluctuates and is not legally recognized as "ground."
+- **Status:** Execution tolerances refined.
+
+## Date: 2026-07-25
+**Architect Notes: Pivot to Ground Screws & Option 4 Timber/Rubber Floor**
+- **Trigger:** Structural engineer advised against floating raft on existing concrete slabs due to an oak tree within 10m. Recommended ground screws (islandgroundscrews.co.uk). User selected Option 4 (Timber & Rubber Floor).
+- **Architect Action:**
+  - Redesigned floor from 150mm concrete raft to 120mm PIR timber frame with a continuous 50mm Phenolic thermal break, achieving a Passivhaus U-value of 0.12 W/m²K.
+  - Reduced excavation labor to zero; existing slabs remain buried, and ground screws are driven between/around them.
+  - Specified 22mm CPB sub-deck and 22mm Birch Ply top deck with 8-10mm Heavy-Duty Industrial Rubber Matting for vibration isolation and drop protection.
+  - Updated heating/cooling strategy: Swapped slow-response Wet UFH + Flow Boiler for an Air-to-Air Mini-Split Heat Pump. This provides rapid heating (vital for low-mass timber floors), cooling, and primary dehumidification.
+  - Specified a secondary smart compressor dehumidifier to maintain 40-45% RH, protecting cast iron tools from rust.
+  - Redesigned Compacfoam base detail to sit on the timber ring beam rather than the concrete slab.
+  - Updated expected annual heating effort: Fabric loss reduced; HTC improved to 19.27 W/K; heating demand now 693 kWh/year. With ASHP COP of 3.5, running cost plummets to ~£48/year.
+- **Foreman Action:**
+  - Updated `WORKPLAN.md` phases to remove the 21-28 day concrete curing halt.
+  - Rewrote Phase 1 & 2 to detail the Island Ground Screws installation, joist/PIR infill, CPB sub-deck, and Phenolic/Ply continuous thermal deck.
+  - Re-numbered weeks to reflect the significantly faster, dry-build timeline.
+- **Strategist Hand-off:** Please review structural integrity, Passivhaus continuity (the Red Line test), and run validation mesh for the new timber/rubber foundation against `tests/`.

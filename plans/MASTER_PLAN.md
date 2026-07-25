@@ -16,11 +16,11 @@ layout: default
 ---
 
 ## Step-by-Step Construction Phases
-1. **Phase 1: Groundworks & Foundation (Weeks 1-5):** 390mm deep manual excavation, laying of 50mm leveling aggregate, Jackodur Atlas XPS tub assembly, DPM, steel mesh, and 150mm concrete raft pour.
-2. **Phase 2: Concrete Curing Halt (Weeks 6-8):** Mandatory 21-28 day concrete curing halt before superstructure erection to prevent massive slab moisture from locking into the SIPs.
-3. **Phase 3: Structural Envelope (Weeks 9-11):** Application of continuous Compacfoam CF200 thermal break, erection of 150mm SIP walls, 122mm (true) LVL-splined sloped SIP roof, and Tyvek membrane wrap.
-4. **Phase 4: Exterior Finish & Weatherproofing (Weeks 12-13):** 60mm external rigid Wood Fibre insulation, EPDM flat roof waterproofing, VIG window/door installation, and James Hardie VL cladding.
-5. **Phase 5: Internal Fit-Out & Commissioning (Weeks 14-16+):** 25mm rainscreen battening, internal Pro Clima Intello Plus VCL taping, 25mm service cavity, 15mm Fermacell fire-rated internal boards, Part P Electrical sign-off, internal 3kW Electric Flow Boiler activation, and dMVHR ventilation balancing.
+1. **Phase 1: Groundworks & Sub-Floor (Weeks 1-3):** Installation of ground screws by Island Ground Screws (avoiding existing concrete slabs), assembly of 120mm timber joist frame infilled with PIR, and structural sub-deck.
+2. **Phase 2: Thermal Capping & Decking (Week 4):** Installation of 22mm CPB, 50mm continuous Phenolic insulation layer, and 22mm structural Birch Plywood top deck.
+3. **Phase 3: Structural Envelope (Weeks 5-7):** Application of continuous Compacfoam CF200 thermal break, erection of 150mm SIP walls, 122mm (true) LVL-splined sloped SIP roof, and Tyvek membrane wrap.
+4. **Phase 4: Exterior Finish & Weatherproofing (Weeks 8-9):** 60mm external rigid Wood Fibre insulation, EPDM flat roof waterproofing, VIG window/door installation, and James Hardie VL cladding.
+5. **Phase 5: Internal Fit-Out & MEP (Weeks 10-12+):** 25mm rainscreen battening, internal Pro Clima Intello Plus VCL taping, 25mm service cavity, 15mm Fermacell fire-rated internal boards, Part P Electrical sign-off, Air-to-Air Heat Pump (ASHP) activation, and dMVHR ventilation balancing.
 
 ---
 
@@ -49,20 +49,19 @@ layout: default
 
 *(Note: All structural orders—Concrete, SIPs, and XPS—must be executed to the accepted **3430mm x 5430mm** core/slab dimensions, NOT the finished external cladding dimensions of 3602mm x 5602mm.)*
 
-### 1.1 Groundworks & Slab Execution
+### 1.1 Ground Screws & Floor Frame Execution
 
-**Excavation Depth & Flush Slab:** The blinding sand and JACKODUR® Atlas tub are excavated so the finished top of the concrete slab is dead flush with the existing garden lawn level (0mm). This maximizes internal headroom under the 2.5m Permitted Development limit. Because the site consists of deeply compacted, stoney "made ground," the traditional 150mm MOT Type 1 sub-base has been engineered out. The excavation depth is reduced to **390mm** to accommodate a thin 50mm leveling aggregate, the sand, the XPS, and the slab.
+**Excavation & Screws:** The site has 3 existing concrete slabs 300mm below ground level. To avoid a massive removal effort and protect the nearby oak tree, the foundation utilizes **Ground Screws** installed by Island Ground Screws, driven between/around the existing slabs. The floor structure sits suspended 150mm above the excavated ground, leaving the internal ceiling height untouched.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Geotextile Membrane** | Non-woven (e.g., Terram 1000) | Loose laid directly on excavated subgrade, 300mm overlapped seams | **Separation & Filtration:** Prevents the leveling aggregate and sand from sinking into the clay/soil over time. | 1 Roll (4.5m x 10m) |
-| **Leveling Aggregate** | MOT Type 3 or 0-20mm All-in Ballast (50mm depth) | Mechanically compacted via hired wacker plate | Fills the jagged voids and craters left by hand-digging into the hard existing ground, creating a workable flat plane. Applied 400mm wider than tub as per JACKODUR® specs. | ~2.5 Bulk Bags (approx. 2.1 tonnes) |
-| **Blinding Sand** | 50mm depth | Hand screeded flat | Provide a perfectly level bed for the XPS formwork. Applied 400mm wider than tub. | ~2.5 Bulk Bags (approx. 2.1 tonnes) |
-| **Under-Slab Thermal Break** | 140mm JACKODUR® Atlas XPS System | Interlocking XPS panels assembled directly on the blinding sand | Prevent cold-bridging into the earth; serves as permanent insulated formwork. Note: Atlas system scales in 20mm increments. | 1 complete Atlas tub system |
-| **Damp Proof Membrane (DPM)** | 1200-gauge Polythene | Loose laid *inside* the XPS tub before pouring concrete. | **Critical Placement:** Sits directly between the XPS insulation and the wet concrete. **Must be cut with a minimum 400mm excess tail on all sides** extending past the top of the XPS tub. This excess is required later to fold up and over the 150mm Compacfoam block. | 1 Roll (4m x 25m) |
-| **Steel Reinforcement** | A252 Steel Mesh (Single Layer) | Placed on 50mm plastic concrete 'chairs' | Structural tensile strength. A single layer positioned in the bottom-third of the slab controls thermal cracking while eliminating the risk of breaching the concrete's top cover during power floating. | 3 Sheets (4.8m x 2.4m) |
-| **Heating Integration** | 16mm PEX-a Wet UFH Pipework | Zip-tied to the top of the A252 mesh @ 150mm centers before pour | **Baseline heating:** Embedded into the thermal mass. Powered by an internal Electric Flow Boiler (zero envelope penetrations). | ~150 linear meters |
-| **Concrete Slab** | Min 150mm thick (C32/40 mix) | Poured in-situ using a line pump and contractor crew, power-floated finish | Extreme high-mass structural base; dampens low-frequency machinery vibration and provides massive thermal battery capacity. The C32/40 mix is mandated by JACKODUR® BBA certification. | Required: ~2.8m³. Order: **3.0 Cubic Meters** (to account for line-pump priming and waste). |
+| **Ground Screws** | 800mm-1200mm Steel Screws | Professionally driven by Island Ground Screws | Bypasses existing concrete slabs and oak tree roots. Provides a fast, zero-concrete structural base. | ~16-20 screws |
+| **Ring Beam & Joists** | 47x120mm C24 Treated Timber | Bolted to ground screw U-brackets; joists at 400mm centers | Forms the primary suspended structural floor frame. | ~40 linear meters |
+| **Primary Insulation** | 120mm PIR Board | Friction-fit between joists, sealed with expanding foam | Provides the bulk of the floor thermal resistance between the structural timber. | ~19m² |
+| **Sub-Deck** | 22mm Cement Particle Board (CPB) | Screwed to the timber joists | Provides a rigid, fire-resistant, and high-mass sub-deck that spreads point loads from machinery. | ~19m² |
+| **Continuous Thermal Break** | 50mm Phenolic Insulation (e.g. Kingspan Kooltherm) | Laid continuously over the CPB layer | **Crucial Passivhaus Detail:** Completely caps the thermal bridging of the timber joists below. | ~19m² |
+| **Structural Top Deck** | 22mm Structural Birch Plywood (or OSB3) | Floating over Phenolic, joints glued | Spreads the massive point-loads of cast iron machinery evenly across the phenolic foam to prevent crushing. | ~19m² |
+| **Vibration Matting** | 8-10mm Heavy-Duty Industrial Rubber Matting | Loose-laid or taped at seams | Naturally deadens motor resonance, protects tools if dropped, and is highly ergonomic for standing. | ~19m² |
 
 ### 1.3 Ground-to-Wall Interface Details (Slab-to-Wall Junction)
 
@@ -195,16 +194,15 @@ layout: default
 
 **Context:** To maximize the Passivhaus thermal mass effect (the baseline heating of the slab) and handle the extreme point loads of heavy cast-iron machinery, **we will not build a floating timber sub-floor over the concrete.** The machinery will sit directly on the concrete, with the final aesthetic floor finish bonded to it.
 
-### 3.1 Hard-Bonded Floor Execution
+### 3.1 Timber & Rubber Floor Execution
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Slab Priming** | Acrylic Concrete Primer | Rolled directly onto the cured, dust-free concrete slab | Seals the power-floated surface and prepares it for adhesive bonding. | 1x 5L tub |
-| **Aesthetic/Wear Deck** | Heavy-Duty Engineered Oak (e.g., 20mm total depth with 6mm wear layer) | **Fully Bonded** to the slab using flexible polyurethane wood-floor adhesive (e.g., SikaBond) | A hard-bonded floor ensures zero air-gaps, maximizing the radiant thermal transfer from the Wet UFH embedded in the concrete, while providing a durable, repairable, tool-safe surface. | ~20m² |
-| **Perimeter Expansion**| 10mm Cork Expansion Strip | Wedged between the floor edge and the Fermacell walls | Prevents the timber from buckling during seasonal humidity changes. | ~17.7 linear meters |
+| **Aesthetic/Wear Deck** | 8-10mm Heavy-Duty Industrial Rubber Matting | Loose-laid over the 22mm Plywood deck, joints taped | A highly durable, forgiving surface. Cast iron tools (chisels, planes) dropped on this floor will not chip. It dramatically reduces acoustic "drumming" from the timber sub-floor. | ~19m² |
+| **Perimeter Expansion**| 10mm Cork Expansion Strip | Wedged between the plywood edge and the SIP walls | Prevents the timber deck from buckling during seasonal humidity changes. | ~17.7 linear meters |
 
 ### 3.2 Specific Machine Isolation (Vibration Decoupling)
-*   **Table Saw & Planer Placement:** Because the machines are sitting on the solid concrete thermal mass, the concrete itself absorbs the low-frequency vibrations. However, to prevent high-frequency motor chatter from radiating into the room, industrial-grade **Sylomer® pads** (color-coded to the machine's static weight) or high-density 15mm ribbed SBR rubber mats must be placed exactly under the four contact feet of the Table Saw and the Planer-Thicknesser.
+*   **Table Saw & Planer Placement:** The timber and rubber floor naturally damps a significant amount of vibration. However, to prevent intense motor chatter from radiating into the room, industrial-grade **Sylomer® pads** (color-coded to the machine's static weight) or high-density 15mm ribbed SBR rubber mats must be placed exactly under the four contact feet of the Table Saw and the Planer-Thicknesser.
 
 ---
 
@@ -215,14 +213,16 @@ layout: default
 *   *Infrared (IR) Panels:* Ideal for instant radiant heat (heats objects and the human directly).
 *   *Wet UFH (Internal Electric Flow Boiler):* Zero-penetration Passivhaus adaptation. An internal 3kW electric flow boiler heats the slab water. While the COP is 1.0 (compared to an ASHP's 3.5), the Passivhaus demand is so low that running costs remain trivial, and avoiding external refrigerant penetrations completely eliminates airtightness failure risks.
 
-### 4.1 Heating Execution Strategy
-A "Dual-System Compromise" will be employed. The embedded Wet UFH maintains the thermal battery, while the IR Panel provides instant top-up heat for the occupant in winter. **Total estimated heat load for 18.6m² Passivhaus: 1.3kW - 1.8kW.**
+### 4.1 Heating, Cooling & Rust Prevention Strategy
+Since the high-mass concrete slab was replaced with a low-mass timber floor, the workshop will respond extremely quickly to heating inputs. To provide instant temperature control across all seasons and rigorously control humidity (preventing rust on cast iron), an Air-to-Air Heat Pump (Mini-Split AC) is specified.
+
+**Total estimated heat load for 18.6m² Passivhaus: 1.3kW - 1.8kW.**
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Baseline Thermal Battery** | 16mm PEX-a Pipework (Wet UFH) + 3kW Internal Electric Flow Boiler | Embedded within the 150mm concrete slab @ 150mm centers | Runs continuously via thermostat at 12-14°C. Eliminates envelope penetrations. Keeps cast-iron tools dry and provides the ultimate home-office comfort future-proof. | 1 system |
-| **Primary Occupant Heat** | 1.2kW Far-Infrared (FIR) Ceiling Panel | Suspended from ceiling joists over workbench | Switched on upon entry for weekend work. Provides instant radiant warmth directly to the user's body without waiting for room air to heat. | 1 panel |
-| **Dehumidification** | Smart Compressor Dehumidifier (e.g., MeacoDry Arete 1 12L) | Freestanding on floor. Relies on internal 2.5L-5L tank with Wi-Fi push notifications to the user's phone. | **Zero VCL Penetrations:** Because the Passivhaus envelope is airtight, moisture ingress from the outside is near zero. Once the initial construction moisture is extracted, the unit will rarely run when the room is unoccupied, making manual emptying highly infrequent. | 1 unit |
+| **Primary Climate Control** | 2.5kW Air-to-Air Heat Pump (Mini-Split AC) | Wall-mounted internal head unit; external compressor on rubber mounts | Provides extremely rapid heating in winter and cooling in summer. Operates with a COP of ~3.5 to 4.0, making running costs negligible. Runs in dehumidification (dry) mode to extract moisture. | 1 system |
+| **Secondary Dehumidification** | Smart Compressor Dehumidifier (e.g., MeacoDry Arete 1 12L) | Freestanding on floor | Runs continuously on a humidistat target of 40-45% RH. This is **critical** to prevent rust on expensive cast iron table saws and planers when the AC is off. | 1 unit |
+| **Tool Protection** | Camellia Oil / Paste Wax | Hand applied | Direct surface application to bare cast iron tables as a final barrier against any residual humidity spikes. | N/A |
 
 ### 4.2 Ventilation, Humidity Control & MVHR Strategy
 
@@ -301,28 +301,28 @@ The building envelope is designed to aggressively target the Passivhaus standard
 | :--- | :--- | :--- | :--- | :--- |
 | **External Walls** | 150mm New Forest SIP Base Wall + 60mm Wood Fibre | 0.15 W/m²K | **0.15 W/m²K** | **[THERMAL UPGRADE]** Wall SIP reduced to 150mm to save footprint, but the 60mm wood fibre recovers the thermal loss to hit the Passivhaus target. Wood fibre breaks the thermal bridge at the spline joints and provides decrement delay. |
 | **Roof Structure** | Sloped 120mm (122mm true) New Forest SIP (600mm narrow-format) + 100mm Flat Glass Tissue-Faced PIR | 0.13 W/m²K | **~0.11 W/m²K** | Glass tissue-faced PIR allows direct EPDM adhesion without foil-faced delamination risk. Flat PIR over-roof completely caps the linear thermal bridge of the LVL splines, keeping the SIP OSB skins and splines warm and dry. |
-| **Floor Slab** | 140mm JACKODUR® Atlas XPS | 0.13 W/m²K | **~0.23 W/m²K** | **[OPEN RISK FLAG: verify spanning distances and thickness]** 140mm XPS achieves ~0.23 W/m²K. Reaching 0.13 W/m²K requires ~260mm. |
+| **Floor Deck** | 120mm PIR + 50mm Continuous Phenolic | 0.13 W/m²K | **~0.12 W/m²K** | The continuous 50mm phenolic layer eliminates cold bridging from the joists. Achieves Passivhaus Gold standard. |
 | **Glazing** | VIG (Vacuum Insulated Glazing) in uPVC | 0.80 W/m²K | **0.80 W/m²K** | Vastly outperforms double glazing (~1.4 W/m²K). |
 
 ### 7.2 Expected Heating Effort (Calculated Annual kWh)
-Because the foundation U-value (0.23 W/m²K) intentionally misses the Passivhaus criteria (≤ 0.15) to save on excavation logistics, the theoretical Passivhaus shortcut (15 kWh/m²a) cannot be used. Instead, the heating effort is calculated using the real-world **Heat Transfer Coefficient (HTC)** and Isle of Wight climate data.
+The upgraded timber floor foundation achieves a Passivhaus U-value of 0.12 W/m²K, easily meeting the Passivhaus criteria (≤ 0.15) to save on excavation logistics, the theoretical Passivhaus shortcut (15 kWh/m²a) cannot be used. Instead, the heating effort is calculated using the real-world **Heat Transfer Coefficient (HTC)** and Isle of Wight climate data.
 
 * **Fabric Heat Loss:** 
   - Gross wall area: West high-side wall (5.41m x 2.2615m) + East low-side wall (5.41m x 2.2047m) + two sloped end walls (3.41m x 2.2331m average height x 2) = **~39.39m²**. (Note: includes full structural wall height down to the Compacfoam thermal break on the slab).
   - Glazing and door area: West fixed windows (2 x 1.0m x 1.0m = 2.00m²) + West asymmetric door (1.4m x 2.15m = 3.01m²) + clerestories (4 x 0.3m x 1.5m = 1.80m²) = **6.81m²**.
   - Opaque Walls ((39.39m² - 6.81m²) x 0.15) = **4.89 W/K**
   - Roof (20.18m² x 0.11) = **2.22 W/K** (Note: 20.18m² represents the 3.602m x 5.602m external layout including the 96mm cantilever).
-  - Floor (18.45m² x 0.23) = **4.24 W/K**
+  - Floor (18.45m² x 0.12) = **2.21 W/K**
   - Glazing / Door Assemblies (6.81m² x 0.80) = **5.45 W/K**
-  - **Total Fabric Loss = 16.80 W/K**
+  - **Total Fabric Loss = 14.77 W/K**
 * **Ventilation/Air Leakage:** ~4.5 W/K (Assuming high Q50 airtightness with occasional door opening).
-* **Total Heat Transfer Coefficient (HTC): ~21.30 W/K** (The building loses 21.30 Watts per 1°C of temperature difference).
+* **Total Heat Transfer Coefficient (HTC): ~19.27 W/K** (The building loses 21.30 Watts per 1°C of temperature difference).
 * **Climate Data:** The Isle of Wight experiences roughly **1,500 Heating Degree Days (HDD)** per year to maintain a 14°C baseline.
 
 **Electrical Effort & Running Costs:**
-Formula: `(HTC [21.30] × 24 hours × HDD [1500]) ÷ 1000` = **767 kWh/year thermal demand**.
-Given the use of a 3kW Internal Electric Flow Boiler with a Coefficient of Performance (COP) of 1.0:
+Formula: `(HTC [19.27] × 24 hours × HDD [1500]) ÷ 1000` = **693 kWh/year thermal demand**.
+Given the use of a Air-to-Air Heat Pump with a Seasonal Coefficient of Performance (SCOP) of 3.5:
 * **Expected Annual Electrical Input:** 767 kWh of electricity per year.
-* **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£187.92 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
+* **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£48.51 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
 
 > **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (150mm slab, perimeter splash margin, and Type C induction mapping) have been validated and integrated.

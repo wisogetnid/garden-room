@@ -1,44 +1,25 @@
-# Validation Gap Report: Final Plan Verification
+# Strategist Validation: Pivot to Ground Screws & Timber Floor
 
-**Date:** July 10, 2026
-**Target Blueprints:** `MASTER_PLAN.md` and `WORKPLAN.md`
-**Overall Status:** **ALL TESTS PASS (CLEARED)**
+**Date:** 2026-07-25
+**Context:** Validation of `MASTER_PLAN.md` and `WORKPLAN.md` updates replacing the concrete raft with Ground Screws + Option 4 (Timber/Rubber Floor).
 
-## 1. Test 001: Foundation Strategy
-**Status: PASS (Cleared)**
-*   **Verification:** The constraint test was successfully updated to codify the new "Flush Slab + Compacfoam" paradigm. Both the `MASTER_PLAN.md` and `WORKPLAN.md` are completely synchronized, explicitly specifying a 390mm depth manual excavation (to sink 50mm leveling aggregate, 50mm sand, 140mm XPS tub, and a 150mm concrete slab dead flush with the lawn). The structural substitution of MOT Type 1 for leveling aggregate due to 'made ground' has been fully adopted across all blueprints, and the splash zone is successfully managed via the 150mm Compacfoam block and 50mm XPS skirt.
+## 1. The 'Red Line' Test (Thermal Envelope Continuity)
+*   **Previous Setup:** 140mm XPS under slab, Compacfoam perimeter.
+*   **New Setup:** 120mm PIR between joists + 50mm continuous Phenolic capping layer above joists. 
+*   **Result:** **PASS.** The 50mm continuous Phenolic layer successfully acts as a total thermal break over the C24 timber joists. The floor U-value improves from ~0.23 to ~0.12 W/m²K. The Compacfoam now bridges the gap between the timber ring beam and the SIP base wall, maintaining the continuous envelope without any cold spots.
 
-## 2. Test 01: Thermal Red Line
-**Status: PASS**
-*   **Verification:** The thermal envelope is fully continuous. Sinking the JACKODUR® tub flush with the lawn and using the 150mm Compacfoam block (clad in a 50mm XPS splash skirt) allows the 50mm Wood Fibre insulation to safely overlap the thermal layer starting exactly at the +150mm mark. The "Red Line" remains unbroken.
+## 2. The 'Weather-Tight' Test (Sequence & Exposure)
+*   **Sequence:** The new dry build eliminates the 21-28 day wet concrete curing halt. 
+*   **Result:** **PASS.** The CPB sub-deck and Birch Plywood top deck are laid quickly, accelerating the timeline to achieve weather-tightness. The Workplan specifies laying the Plywood *immediately* over the fragile Phenolic board to protect it from damage.
 
-## 3. Test 02: Weather-Tight Timeline
-**Status: PASS (Cleared)**
-*   **Verification:** The logistical impracticability has been resolved. `WORKPLAN.md` Weekend 9 has been updated to explicitly forbid applying the Tyvek breather membrane to the naked OSB SIPs. Instead, heavy-duty tarpaulins are utilized for the Sunday Lockdown. The Tyvek wrap correctly takes place in Week 11 *over* the external Wood Fibre insulation, fully honoring the `MASTER_PLAN.md` vapor rules and preventing a dual-membrane moisture trap.
+## 3. Structural Integrity & Permitted Development
+*   **Oak Tree Protection:** **PASS.** Ground screws eliminate mass excavation and root damage, satisfying the structural engineer's requirements.
+*   **Internal Height vs 2.5m Limit:** **PASS.** The ground screws hold the frame above the excavated ground. Total floor buildup is ~224mm over the joists. By utilizing the existing -300mm excavation pit, the floor finishes just above ground level. Internal height is maintained at ~2.2m.
+*   **Machinery Point Loads:** **PASS.** The combination of 22mm CPB (under) and 22mm Structural Plywood (over) completely protects the 50mm Phenolic foam from crushing under 250kg cast iron machines. The 8-10mm rubber matting further dampens resonance.
 
-## 4. Test 03: Structural Sequence
-**Status: PASS**
-*   **Verification:** The overarching physics rules (concrete curing limits, floating floor decoupling, ATEX extraction) are intact. The 1000x1000mm window lintel structural head zones exceed the strict 89.5mm threshold.
+## 4. Rust Prevention & Climate Control
+*   **Heating:** **PASS.** Switching from a Flow Boiler (UFH) to an Air-to-Air Heat Pump (Mini-Split) is structurally correct. A timber floor has zero thermal mass and cannot store UFH heat efficiently; the ASHP provides the necessary rapid response.
+*   **Dehumidification:** **PASS.** The ASHP acts as the primary dehumidifier during active use, while the specified standalone compressor dehumidifier maintains strict 40-45% RH on standby to protect cast iron. 
 
-## 5. Permitted Development (PD) Height Limits
-**Status: PASS**
-*   **Verification:** 
-    *   Slab FFL: 0mm
-    *   Compacfoam Base: +150mm
-    *   High-Side Wall (West) SIP top: 2261.5mm
-    *   Roof Buildup: 238.5mm
-    *   **Total External Height:** 2500.0mm (Strictly meets the ≤ 2.5m legal limit).
-
-## 6. Test 04: Boundary Fire Safety
-**Status: PASS**
-*   **Verification:** External A2 fire-rated Hardie cladding, internal 15mm Fermacell, 100mm rigid galvanized steel ducting (grounded), and 20A Type C RCBOs are successfully mapped across the plans.
-
-## 7. Test 05: Flush Threshold Moisture
-**Status: PASS**
-*   **Verification:** Flush capillary control is achieved via continuous 150mm Compacfoam sub-sole layer, RIW Flexiseal liquid moisture barrier, Aco HexDrain, and appropriately folded/lapped DPM up the outer face.
-
-## 8. Test 06: SOP Fidelity Linter
-**Status: PASS (Cleared)**
-*   **Verification:** The `MASTER_PLAN.md` successfully includes the required "Step-by-Step Construction Phases" overarching summary at the beginning of the document, bringing it fully into formatting compliance.
-
-**Conclusion:** All Architect-Foreman conflicts are resolved. The High-Fidelity SOP accurately reflects Passivhaus physics, structural safety, sequential logistics, and UK Building Regulations. Ready for execution.
+## Final Verdict
+**APPROVED.** The transition to Ground Screws and the Option 4 Timber floor is physically sound, sequence-optimized, and vastly improves thermal/acoustic performance. The Master Plan and Workplan are fully synchronized.

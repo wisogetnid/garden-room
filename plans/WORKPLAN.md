@@ -23,74 +23,37 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 ---
 
 ## Step-by-Step Construction Phases (Overview)
-1. **Phase 1: Groundworks & Foundation** (Weeks 1-5): Exact 390mm depth excavation (to sink 50mm leveling aggregate, 50mm sand, 140mm XPS tub, and the 150mm concrete slab flush with the lawn), leveling aggregate sub-base, blinding sand, dual-duct service trenching, JACKODUR tub assembly, mesh laying, and UFH pipe integration.
-2. **Phase 2: Concrete Pour & Curing Halt** (Weeks 6-8 curing): Line pump pour. **CRITICAL:** Wait min 21-28 days before erecting walls to prevent slab moisture from locking into the SIPs.
-3. **Phase 3: Structural Envelope** (Weeks 9-11): Sole plate anchoring, SIP wall and roof erection, Tyvek wrapping, and window/door installation (achieving weather-tightness).
-4. **Phase 4: Cladding & Exterior Finish** (Weeks 12-13): Battening, Hardie VL plank cladding, and EPDM flat roof waterproofing.
-5. **Phase 5: Internal Fit-Out & MEP** (Weeks 14-16+): Direct-mount Fermacell boarding, surface wiring, hard-bonded floor, and final commissioning of Electric Flow Boiler.
+1. **Phase 1: Ground Screws & Frame** (Weeks 1-3): Island Ground Screws installation (bypassing old slabs), timber ring beam and 120mm joists installation, PIR insulation filling, and 22mm CPB sub-deck.
+2. **Phase 2: Continuous Thermal Deck** (Week 4): Laying 50mm continuous Phenolic insulation to break thermal bridging, followed by the 22mm Birch Plywood structural deck.
+3. **Phase 3: Structural Envelope (Weeks 5-7):** Sole plate anchoring, SIP wall and roof erection, Tyvek wrapping, and window/door installation (achieving weather-tightness).
+4. **Phase 4: Cladding & Exterior Finish (Weeks 8-9):** Battening, Hardie VL plank cladding, and EPDM flat roof waterproofing.
+5. **Phase 5: Internal Fit-Out & MEP (Weeks 10-12+):** Direct-mount Fermacell boarding, surface wiring, hard-bonded floor, and final commissioning of Mini-Split AC / ASHP.
 
 ---
 
-## 🗓️ Phase 1: Groundworks & The Floating Raft (The Heavy Slog)
-*This is the worst of the physical labor. Pace yourself.*
+## 🗓️ Phase 1: Ground Screws & Timber Frame (Weeks 1-3)
+*The heavy digging has been engineered out. Let the pros drive the screws.*
 
-### Week 1-2: First Dig (The Heavy Slog)
-*   **Weekend 1 Logistics:** The old concrete pad has already been demolished and the large pieces removed. Because your soil is heavily compacted stoney "made ground," we have removed the 150mm MOT Type 1 requirement. You now need to excavate the **4.21m x 6.21m footprint** down to a uniform **390mm depth** (50mm Leveling Aggregate + 50mm Sand + 140mm XPS + 150mm Slab). Total soil/hardcore waste drops drastically to ~14.5 tonnes. Sequence the delivery of **3x to 4x 6-yard "Inert Soil/Muck" skips**. *(Note: Confirm with the skip company that they are happy to accept the remaining broken hardcore mixed with the soil).*
-*   **Weekend 1 (Breaking the Ground):** Mark out the new footprint. Because the entire depth consists of dense, stoney "made ground" (not soft soil), a standard spade is useless. You must use a **Pick Mattock** to shatter the hard, interlocking stones and crust, and a heavy **Digging Bar** to pry out buried bricks and large rubble. 
-*   **Weeknight Shifts (45-90 mins):** The "Micro-Dig." Do not try to move mountains after work. Commit to filling just **5 to 8 wheelbarrows per evening** (roughly 30-45 minutes of work). Use the Pick Mattock to shatter a small section of the hard ground, scrape the loose debris into the barrow with a square-mouth shovel, and repeat. This is a highly achievable daily goal.
-*   **Site Logistics (The Tarp Wrap):** Keep your wheelbarrow, mattocks, and a rolled-up tarp right next to the trench. When your 45-minute shift is done, drop the tools in the wheelbarrow, pull the tarp over the exposed trench, and weight the corners with spare bricks. This saves 10 minutes of setup/pack-down every evening.
-*   **Weekend 2 (Heavy):** Continue the manual dig-out into the 6-yard skips. Aim to complete the **390mm** excavation across the footprint. *Foreman Warning:* If you hit soft, boggy clay patches before 390mm, you must dig them out until you hit hard ground and fill the void with compacted stone.
-*   **🚨 EXPOSED EXCAVATION PROTOCOL (The Multi-Week Trench):** Because you are digging this over 2-3 weeks, you have an unfinished, exposed earthen trench. **DO NOT leave it unprotected during the workweek.** A 390mm deep hole of this size will become a swimming pool if it rains. If water saturates the bottom clay/soil (the 'formation level'), it will turn to mush and ruin the load-bearing capacity for your leveling aggregate. 
-    1.  *The Sump:* Dig a small, deeper bucket-sized hole in the lowest corner of the trench. If it rains, the water will pool here where you can drop a cheap submersible pump.
-    2.  *The Tarp:* Pin down heavy-duty tarpaulins over any exposed bare earth at the bottom of the trench before you go inside every Sunday night or after every weeknight shift if rain is forecast.
+### Week 1: Site Prep & Ground Screws
+*   **The Big Win:** You have 3 existing concrete slabs buried 300mm down. Do not dig them out. Island Ground Screws will arrive and drive steel micropiles directly between (or occasionally through) the slabs and safely around the oak tree roots.
+*   **Weekend 1:** Clear the surface vegetation and ensure the site is free of loose debris.
+*   **Contractor Day:** Island Ground Screws installs the laser-leveled screws. They will install U-brackets exactly set to carry your timber ring beam. 
 
-### Week 3: Completing the Dig & Sub-Base
-*   **Weeknight Shifts (45-90 mins):** Final leveling of the soil floor to the 390mm depth. Use a laser level or long spirit level to ensure the trench base is relatively flat, but don't obsess over mm-perfection yet.
-*   **Weekend 3 (Sub-Base):** Hire a heavy vibrating compactor plate. Run it over the raw excavated ground first to re-compact any soil loosened by your digging. Lay the geotextile membrane across the entire footprint. Wheelbarrow in **~2.5 bulk bags of Leveling Aggregate** (MOT Type 3 or Ballast) to a depth of roughly 50mm.
-*   **Sunday Lockdown (4 PM):** Run a minimum of 6 overlapping passes of the wacker plate over the new Leveling Aggregate to mechanically lock it flat. Return the wacker plate. Cover the compacted base with a tarp.
+### Week 2: Timber Joists & PIR Infill
+*   **Weekend 2:** Install the 47x120mm C24 timber ring beam and joists at 400mm centers. Bolt securely to the ground screw U-brackets. 
+*   **Insulation Drop:** Cut and friction-fit the 120mm PIR boards between the joists. Use expanding foam to seal every perimeter gap. There must be zero air movement.
 
-### Week 3 (Parallel Task): The Dual-Duct Service Trench
-*   **The Trenching:** Dig a 600mm deep narrow trench from the house to the foundation footprint.
-*   **The Dual-Duct Install:** Lay two 50mm Twin-Wall HDPE pipes side-by-side in the bottom of the trench: one **BLACK** (for 230V power) and one **GREEN** (for Data/Cat6a).
-*   **Backfill & Warning Tape:** Backfill slightly, then lay yellow "Caution: Electrical Cable Below" tape above the black duct before fully backfilling to the lawn level.
-*   **Duct Termination:** Leave the duct ends protruding up through the 400mm gravel margin or directly into the XPS tub, depending on where your internal service wall will be.
+### Week 3: The Sub-Deck
+*   **Weekend 3:** Lay the 22mm Cement Particle Board (CPB). This provides a massive, rigid, and fire-resistant sub-deck. Screw it down tightly to the joists at 300mm centers.
 
-### 🛑 STATUTORY MILESTONE 1: Start Notice & The Trench Inspection
-Before you lay the Geotextile and Leveling Aggregate, you **must email the "Start Notice Form"** to Building Control (Peter Millward) giving 48 hours notice. 
-*   **The Bottom-of-Trench Visit:** Once you have dug the hole to roughly 390mm and exposed the hard, stoney "made ground," call Peter and ask him to perform the **"Excavation for foundations"** inspection. You want his explicit agreement that the hard ground you have reached is sufficient to support the raft without needing 150mm of imported MOT Type 1. *Do not lay the geotextile or stone until he agrees.*
+## 🗓️ Phase 2: The Continuous Thermal Deck (Week 4)
 
-### 🛑 STATUTORY MILESTONE 2: The Foundation / Pre-Pour Inspection (Consolidated)
-Because you are building an insulated raft, the next few inspection stages happen on the same day. 
-Once the JACKODUR tub is assembled, the DPM is taped inside, and the A252 steel mesh is sitting on its plastic chairs, **call Peter Millward (giving 24 hours notice) for the Pre-Pour Inspection**. 
-*When he arrives, he will check off:*
-1.  "Hardcore fill/oversite" (He will see the Jackodur/Sand).
-2.  "DPC bedded" (He will see the DPM plastic).
-3.  "Inspection of reinforcement" (He will see the steel mesh).
-*Do not pour the concrete until he has visually signed off on this.*
+### Week 4: Eliminating the Cold Bridge
+*   **The Phenolic Layer:** The timber joists act as a cold bridge. To stop this, lay a continuous layer of 50mm Phenolic insulation (Kingspan Kooltherm) directly over the CPB. Tape the joints with aluminum tape.
+*   **The Top Deck:** Immediately cover the fragile phenolic board with 22mm structural Birch Plywood (or OSB3). This spreads the massive point-loads of your future cast-iron machinery. Glue the joints and use long screws that anchor through the phenolic down into the joists below.
+*   **Perimeter Prep:** Install the Compacfoam CF200 block around the perimeter of the timber ring beam to support the SIP wall base.
 
-### Week 4: The Tub & The Steel
-*   **Weeknight Shifts (45-90 mins):** Screed the 50mm bed of blinding sand perfectly level. Do this in sections over a few evenings. Take your time; if this isn't level, the whole building will be crooked. Assemble the Jackodur Atlas XPS perimeter L-elements and tape the joints.
-*   **Weekend 4 (Heavy):** Loose-lay the 1200-gauge DPM inside the XPS tub. Tape all seams with butyl tape. *Foreman Warning:* Be extremely careful not to tear or puncture the DPM when folding it into the 90-degree internal corners of the XPS tub. Drop in the 50mm plastic 'chairs'. Lay the single layer of structural A252 Steel Mesh directly onto the chairs. Trim with an angle grinder.
-*   **Weekend Task (Quiet):** Zip-tie the 16mm PEX-a Underfloor Heating pipe directly to the top of this single layer of steel mesh at 150mm centers. Pressure test the loop with an air compressor and leave the gauge on.
-
-### 🛑 STATUTORY MILESTONE 3: The Commencement Form & Roof/Insulation Inspection
-*   **The "Notice of Commencement" Form:** Under the new rules, a project has "commenced" when 15% of the work is done. Once your concrete slab is poured and cured, email this form to the council. 
-*   **The "Roof & Insulation" Inspection:** Once the SIP walls and roof are erected, but **BEFORE** you cover the outside with Tyvek/Cladding and **BEFORE** you cover the inside with Fermacell, call Peter Millward. He needs to see:
-    1. "Roof structure prior to covering" (He will check the LVL splines).
-    2. "Insulation" (He will verify the SIP core thickness and Wood Fibre).
-
-### Weekend 5: 🚨 BIG EVENT: The 150mm Concrete Pour
-*   **Saturday (All Hands):** The concrete lorry arrives equipped with a **mini line pump** to bypass the narrow 30m path constraint. Run the delivery hose down the path to entirely eliminate wheelbarrowing. Hire a small contractor crew to manage the hose and spread the ~2.8m³ (or ~3.0m³ for safety) of C32/40 mix (150mm depth) to avoid cold-joints and exhaustion. The JACKODUR® Atlas XPS interlocking tub is engineered to be entirely self-supporting during the pour, so no external timber bracing or gravel backfilling is required. *Foreman Warning:* Monitor the XPS corners continuously during the pour to ensure hydrostatic pressure does not cause a blowout. Power-float the massive 150mm slab perfectly level. *Foreman Note:* With only a single layer of steel mesh placed in the bottom 50mm, the power float has a massive 68mm safety clearance from the top.
-*   **Sunday (Rest):** Let the slab cure. Do nothing. Drink tea. 
-*   **Sunday Lockdown:** Check the UFH pressure gauge. Cover the slab with a tarp if heavy rain or frost is forecast.
-
-### Weeks 6, 7 & 8: 🚨 THE 21-28 DAY CURING HALT
-*   **Protocol:** You MUST accommodate a strict 21-28 day concrete curing halt before Phase 3 (wall assembly) begins to prevent massive slab moisture from locking into the SIPs. Do not drill anchors or start superstructure assembly. 
-*   **Weeknight Task Triaging (Quiet/Low-Impact):** This is the perfect time for off-site SIP sorting, tool maintenance, prepping tapes and fasteners, and cleaning the site. Do not rush this curing phase!
-
----
-
-## 🗓️ Phase 2: The 150mm PUR-Core SIPs Superstructure (The Critical Timing Phase)
+## 🗓️ Phase 3: The 150mm PUR-Core SIPs Superstructure (The Critical Timing Phase)
 *OSB SIPs must not get wet. The clock is ticking the moment these arrive.*
 
 ### Week 9 Prep: The Thermal Break
@@ -109,9 +72,9 @@ Once the JACKODUR tub is assembled, the DPM is taped inside, and the A252 steel 
 
 ---
 
-## 🗓️ Phase 3: Exterior Finish & Glazing (The Tidy Phase)
+## 🗓️ Phase 4: Exterior Finish & Glazing (The Tidy Phase)
 
-### Weekend 11: Windows, Doors & Drainage
+### Weekend 7: Windows, Doors & Drainage
 *   **Saturday (Finesse & Heavy Lift):** Install the Vacuum-Insulated Glazing (VIG) uPVC windows into their respective factory-cut SIP openings:
     *   *North:* 1x 300x1500mm (Fixed Clerestory), top datum 2100mm FFL.
     *   *South:* 1x 300x1500mm (Fixed Clerestory), top datum 2100mm FFL.
@@ -127,23 +90,23 @@ Once the JACKODUR tub is assembled, the DPM is taped inside, and the A252 steel 
 
 ---
 
-## 🗓️ Phase 4: Internal Passivhaus Detailing & Fit-Out
+## 🗓️ Phase 5: Internal Passivhaus Detailing & Fit-Out
 *Now you are working inside, out of the weather. Evening work is highly effective here.*
 
 ### Evening Tasks: The Airtight Envelope & Vapour Control
 *   **Weeknights (Quiet):** Tape every single internal wall and ceiling panel joint, floor junction, and ceiling junction with **Pro Clima Tescon Vana** tape. The self-sealing nature of this tape ensures any screws driven through it (e.g. for the ceiling boards) will not compromise the airtightness. Tape tightly to the window frames. This creates the continuous internal Passivhaus airtight/vapour barrier without requiring full VCL membrane sheets across the entire field.
 
-### Week 14: Direct-Mount Internal Skin
+### Week 6: Direct-Mount Internal Skin
 *   **Weeknights (Quiet, 45m-1.5h):** Pre-cut the 15mm Fermacell boards to size. Apply Jointstik glue to all board edges.
 *   **Saturday (Heavy):** Glue and screw the **15mm Fermacell boards** directly to the taped internal SIP OSB faces using 30mm screws.
 *   **Sunday (Technical):** Continue direct-mounting Fermacell boarding and ensure all joints are tight and ready for paint.
 
-### Week 15: Surface Electrics & Flooring
+### Week 11: Surface Electrics & Flooring
 *   **Saturday (Technical):** Run 20mm galvanised steel or PVC conduit and surface-mounted metal-clad socket boxes directly over the finished Fermacell. Route the lighting circuit vertically in surface conduit to leave the tail safely exposed at the top corner junction. Keep the circuits separated and labelled: 20A Type C RCBOs for machine loads, 16A Type B for the 3kW flow boiler, 10A Type B for IR/controls, 6A Type B for dMVHR/filtration, and general socket circuits as designed by the electrician. Install the dMVHR plastic sleeve into the factory-cut 270mm core hole. **Crucial:** Use shims to pitch the sleeve at a 1° to 2° downward angle toward the outside to ensure condensation drainage, then seal the 20mm gap with non-swelling airtight foam. **Earthing (Outside):** Drive a 1.2m copper earth rod into the natural soil just outside the building (near where the power duct enters). Route a 16mm² earth cable from the rod clamp through a sealed hole into the new consumer unit location.
 *   **Sunday (Finesse):** Fully bond the engineered oak floor to the slab. Leave a perimeter expansion gap. Reminder during floor layout: mark/respect the strict 800mm clear zone radius in front of the East wall dMVHR to allow the enthalpy core to slide out for maintenance.
 
 ### Final Evenings: Commissioning
-*   **Weeknights (Quiet):** Paint the Fermacell. Mount the 1.2kW IR heating panel to the ceiling. Screw the surface-mounted LED track directly into the Fermacell ceiling over the West workbench zone, wiring it into the conduit-fed tail. Mount the Internal 3kW Electric Flow Boiler internally on the Fermacell wall and plumb it directly into the UFH manifold. 
+*   **Weeknights (Quiet):** Paint the Fermacell. Mount the 1.2kW IR heating panel to the ceiling. Screw the surface-mounted LED track directly into the Fermacell ceiling over the West workbench zone, wiring it into the conduit-fed tail. Mount the Internal 3kW Mini-Split AC / ASHP internally on the Fermacell wall and plumb it directly into the UFH manifold. 
 *   **Electrical Sign-off:** You cannot legally connect the workshop to the main house consumer unit yourself. Hire a "Competent Person" registered electrician (NICEIC or NAPIT) to terminate the consumer unit, wire the Flow Boiler, sign off the grounding, and issue the Part P electrical certificate.
 *   **Final Tasks:** Commission the dMVHR with a competent Part F/BPEC engineer. Ensure you mark and respect the strict 800mm clear zone radius in front of the East wall dMVHR (during floor layout and final checks) to allow the enthalpy core to slide out for maintenance. 
 
