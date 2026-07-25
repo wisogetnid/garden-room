@@ -47,7 +47,7 @@ layout: default
     *   Usable Internal Length: 5410mm - (165mm x 2) = **5080mm (5.08m)**
     *   *Final Internal Usable Footprint:* **15.64 m²**
 
-*(Note: All structural orders—Timber, SIPs, and PIR—must be executed to the accepted **3430mm x 5430mm** core/slab dimensions, NOT the finished external cladding dimensions of 3602mm x 5602mm.)*
+*(Note: All structural orders—Timber frame, SIPs, and PIR—must be executed to the calculated **3410mm x 5410mm** core dimensions, NOT the finished external cladding dimensions of 3602mm x 5602mm.)*
 
 
 ### 1.1a Service Trenching (Power & Data)
@@ -196,7 +196,7 @@ layout: default
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Roof Fall Setup** | Sloped SIP roof support geometry | Factory-cut/sloped wall top plates and roof SIP bearing line set to 1:60 across the 3430mm width | Creates a permanent **1:60 fall** directing water across the width without purchasing a bespoke tapered PIR package. Flat 100mm glass tissue-faced PIR follows this slope above the SIP. | 1 roof set-out package |
+| **Roof Fall Setup** | Sloped SIP roof support geometry | Factory-cut/sloped wall top plates and roof SIP bearing line set to 1:60 across the 3410mm width | Creates a permanent **1:60 fall** directing water across the width without purchasing a bespoke tapered PIR package. Flat 100mm glass tissue-faced PIR follows this slope above the SIP. | 1 roof set-out package |
 | **Drip Edge Trim** | Sure-Edge UPVC Drip Trim | Screwed through the EPDM into the low-side Timber Hard Edge/Fascia | Prevents water from running back under the EPDM and directs it cleanly into the gutter system. | ~6 linear meters |
 | **Guttering** | 112mm UPVC Deepflow (Black) | Standard fascia brackets | Higher capacity than half-round gutters to handle intense coastal downpours without overflowing the fascia. | ~6 linear meters |
 | **Rainwater Diverter** | 68mm Downpipe Diverter Valve | Cut into the vertical downpipe | Channels rainwater into the water butt until full, then automatically redirects the excess. | 1 unit |
