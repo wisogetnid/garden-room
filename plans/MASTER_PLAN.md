@@ -51,6 +51,8 @@ layout: default
 
 ### 1.1 Ground Screws & Floor Frame Execution
 
+**[OPEN RISK FLAG: VERTICAL DATUM & HEAVE GAP]** The user is currently consulting Building Control regarding the mandatory root heave gap for the oak tree. The current math (50mm gravel + 150mm clear air gap + 224mm floor buildup) pushes the finished floor above lawn level, significantly reducing internal ceiling height under the 2.5m Permitted Development limit. If BC allows a 100mm heave gap, the internal wall SIP datums must be recalculated.
+
 **Excavation & Screws:** The site has 3 existing concrete slabs 300mm below ground level. To avoid a massive removal effort and protect the nearby oak tree, the foundation utilizes **Ground Screws** installed by Island Ground Screws, driven between/around the existing slabs. The floor structure sits suspended 150mm above the excavated ground, leaving the internal ceiling height untouched.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |

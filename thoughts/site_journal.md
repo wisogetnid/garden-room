@@ -596,3 +596,10 @@
   - Advised against drilling large core holes for wooden stakes.
   - Provided two methods: 1) Galvanised L-brackets with 8mm masonry screws (Thunderbolts) directly into the slab. 2) The "Zero-Drill" method: Using dense concrete blocks pushed against the base of the retaining board, relying on deadweight and the gravel ballast to hold the earth back.
   - Updated `MASTER_PLAN.md` retaining board specification to include these concrete-specific fixings.
+
+## Date: 2026-07-25
+**Architect Notes: Heave Gap vs. Permitted Development Conflict**
+- **Issue:** User realized that adding 50mm of gravel ballast in the 300mm trench reduces the clear air/heave gap. To maintain a 150mm clear gap, the timber joists must be raised, pushing the Finished Floor Level (FFL) above the lawn level (+124mm).
+- **Consequence:** Under strict 2.5m Permitted Development limits, raising the floor squashes the internal ceiling height down to ~2.08m (low side) / 2.14m (high side).
+- **User Action:** User is consulting Building Control to see if the clear heave gap can be reduced to 100mm (plus a reduced 25mm gravel ballast) given the presence of existing 30-year-old concrete slabs which mitigate clay heave risk. 
+- **Pending Decision:** Awaiting Building Control feedback before recalculating the `MASTER_PLAN.md` vertical structural datums and wall SIP heights.
