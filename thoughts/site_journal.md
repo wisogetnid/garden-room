@@ -628,3 +628,12 @@
   - Acknowledged the user's superior sequence logic. Sandwiching the mesh behind the aluminium track provides an impenetrable, mechanically clamped top edge.
   - Corrected `MASTER_PLAN.md` to reflect this exact sandwiching method.
   - Clarified that the sub-skirt battens drop down from the starter track line, entirely independent of the mesh.
+
+## Date: 2026-07-25
+**Foreman Notes: Sub-Floor Ventilation Geometry & Mesh Flaring**
+- **User Query:** Asked how far the rodent mesh should flare horizontally, how much clear space is needed outside the skirt for wind, and if the front (West) elevation can be closed/solid while the other 3 sides provide ventilation.
+- **Foreman Action:** 
+  - Confirmed the mesh L-shape should flare 150mm-200mm to defeat rodent digging psychology.
+  - Clarified that wind only needs ~200mm-300mm of clear horizontal space outside the slatted skirt to create pressure differentials.
+  - **Approved the 3-sided ventilation strategy:** Cross-ventilation requires a minimum of two opposing sides. Having 3 sides open is more than sufficient, allowing the front facade to feature a solid skirt or flush patio integration.
+  - Updated `MASTER_PLAN.md` to formally permit a solid front fascia.
