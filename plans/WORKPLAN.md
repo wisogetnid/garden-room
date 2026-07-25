@@ -76,6 +76,13 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 
 ---
 
+
+### Week 7 (Part 2): AC Penetration & The "First Fix" Trap
+*   **The AC Core Hole (Before Cladding):** This is a critical sequencing rule. You **must** drill the ~65mm AC pipe hole and run the pipe bundle *before* the external Hardie Plank cladding goes up. 
+*   **The Execution:** Have your AC installer mount the internal bracket and drill the angled hole through the SIP. Run the pipe bundle (refrigerant, comms, drain) through to the outside and leave an excess coil for the external compressor.
+*   **The Passivhaus Seal:** Because the Hardie Planks aren't up yet, you have full access to the Tyvek membrane. Inject airtight foam into the OSB core gap. On the inside, tape with Tescon Vana or a Roflex grommet. On the outside, tape the Tyvek membrane tight to the pipe bundle. 
+*   **Cladding Integration:** When you install the rainscreen battens and Hardie Planks in Phase 4, you will simply cut a neat hole in the cement plank and slide it over the pipe bundle.
+
 ## 🗓️ Phase 4: Exterior Finish & Glazing (The Tidy Phase)
 
 ### Weekend 7: Windows, Doors & Drainage

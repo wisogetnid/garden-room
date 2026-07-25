@@ -666,3 +666,11 @@
   - Reason 3: It requires a downward pitch for the condensate gravity drain, which is hard to guarantee with a factory cut.
   - Added Section `4.1a Mini-Split AC Wall Penetration` to `MASTER_PLAN.md`.
   - Added AC install sequencing to Phase 5 in `WORKPLAN.md`.
+
+## Date: 2026-07-25
+**Foreman Notes: AC Penetration Sequencing Error**
+- **User Query:** User pointed out a sequencing paradox: How can the Tyvek membrane be taped airtight on the outside if the AC pipes are installed in Phase 5 (Internal Fit-Out), after the Hardie Planks have already been installed in Phase 4?
+- **Foreman Action:** 
+  - Acknowledged a critical logic error in the schedule. 
+  - Corrected the sequence: The AC pipe run (the 'First Fix' penetration) MUST occur in Phase 3, immediately after the Tyvek is wrapped, but *before* the external insulation, battens, and cladding are installed.
+  - Moved the AC penetration task from Week 11 to Week 7.
