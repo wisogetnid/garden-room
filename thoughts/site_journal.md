@@ -603,3 +603,12 @@
 - **Consequence:** Under strict 2.5m Permitted Development limits, raising the floor squashes the internal ceiling height down to ~2.08m (low side) / 2.14m (high side).
 - **User Action:** User is consulting Building Control to see if the clear heave gap can be reduced to 100mm (plus a reduced 25mm gravel ballast) given the presence of existing 30-year-old concrete slabs which mitigate clay heave risk. 
 - **Pending Decision:** Awaiting Building Control feedback before recalculating the `MASTER_PLAN.md` vertical structural datums and wall SIP heights.
+
+## Date: 2026-07-25
+**Foreman Notes: Compacfoam Value-Engineering Review**
+- **User Query:** User questioned if the Compacfoam perimeter block could be engineered out, given the timber frame is already suspended over a 150mm clear void (ground screws).
+- **Foreman Action:** 
+  - Explained the legal geometry of the "150mm Splash Zone Rule".
+  - Proved that deleting the Compacfoam would either push the SIP wall into the rot-risk zone (+20mm above lawn) OR force the entire floor frame upwards, destroying internal headroom to stay under the 2.5m PD limit.
+  - Confirmed the Compacfoam acts as a "cheat code" to sink the floor frame into the hole while legally elevating the SIP wall. 
+- **User Decision:** User confirmed the Compacfoam remains in the specification (Scenario C). No changes to the `MASTER_PLAN.md` required.
