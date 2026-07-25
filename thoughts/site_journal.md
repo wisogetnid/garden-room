@@ -655,3 +655,14 @@
   - SWA and data cables are pulled from the ducts and threaded vertically through a much smaller (25-32mm) hole drilled through the PIR/CPB/Phenolic/Ply sandwich.
   - Specified Passivhaus airtight sealing (Pro Clima Kaflex/Tescon Vana) on the inside, and a vermin-plug (wire wool + foam) on the outside of the duct.
   - Added Section `1.1b Duct Termination` to `MASTER_PLAN.md` and updated Week 10 of `WORKPLAN.md`.
+
+## Date: 2026-07-25
+**Foreman Notes: Mini-Split AC Wall Penetration**
+- **User Query:** Asked if the Mini-Split AC pipes require a factory pre-cut in the SIP panel or if they can be drilled on-site later.
+- **Foreman Action:** 
+  - Advised that it MUST be drilled on-site, not factory cut.
+  - Reason 1: The hole is small (~65mm), which does not compromise SIP structural integrity (provided it misses the splines).
+  - Reason 2: The exact placement depends entirely on the head unit bracket placement.
+  - Reason 3: It requires a downward pitch for the condensate gravity drain, which is hard to guarantee with a factory cut.
+  - Added Section `4.1a Mini-Split AC Wall Penetration` to `MASTER_PLAN.md`.
+  - Added AC install sequencing to Phase 5 in `WORKPLAN.md`.

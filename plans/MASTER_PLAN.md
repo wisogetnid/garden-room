@@ -260,6 +260,15 @@ Since the high-mass concrete slab was replaced with a low-mass timber floor, the
 | **Secondary Dehumidification** | Smart Compressor Dehumidifier (e.g., MeacoDry Arete 1 12L) | Freestanding on floor | Runs continuously on a humidistat target of 40-45% RH. This is **critical** to prevent rust on expensive cast iron table saws and planers when the AC is off. | 1 unit |
 | **Tool Protection** | Camellia Oil / Paste Wax | Hand applied | Direct surface application to bare cast iron tables as a final barrier against any residual humidity spikes. | N/A |
 
+
+### 4.1a Mini-Split AC Wall Penetration & Airtightness
+**Objective:** Route the refrigerant lines, comms cable, and condensate drain through the SIP envelope without compromising structural integrity or airtightness.
+
+*   **On-Site Coring (No Factory Cut):** Unlike the large 270mm dMVHR hole, the AC penetration only requires a **~65mm (2.5 inch)** core hole. This **must be drilled on-site** by the AC installer, NOT factory pre-cut. 
+*   **Positioning:** The installer must mount the indoor head unit's bracket first, then drill the hole exactly aligned with the unit's pipe exit. The hole must avoid the 1200mm vertical SIP spline joints.
+*   **The Gravity Fall:** The 65mm hole must be cored with a **slight downward angle (2-3 degrees)** toward the outside. This is mandatory to allow the condensate water to drain via gravity without backing up into the indoor unit.
+*   **Passivhaus Sealing:** Once the pipe bundle is passed through, the void inside the 150mm SIP core must be filled with non-swelling airtight PU foam (e.g., Illbruck FM330). On the inside face (OSB), the penetration must be sealed using a **Pro Clima Roflex** rubber grommet or meticulously taped with Tescon Vana before the Fermacell goes up.
+
 ### 4.2 Ventilation, Humidity Control & MVHR Strategy
 
 **Objective:** Provide controlled fresh air without defeating the airtight envelope, while preventing wood dust and VOCs from blinding the heat exchanger core. The workshop ventilation must be completely independent from the dwelling; it must never be connected to a whole-house MVHR loop.
