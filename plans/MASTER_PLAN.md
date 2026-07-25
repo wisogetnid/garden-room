@@ -30,7 +30,7 @@ layout: default
 
 
 ### 1.0 Dimensional Reverse-Engineering (Outer Cladding to Core)
-**Objective:** The dimensional target is a nominal **3.6m x 5.6m** external envelope, measured from James Hardie cladding to James Hardie cladding. The accepted order size below deliberately allows a 2mm external oversail in each axis to use standard millimetre-rounded SIP, XPS, and concrete slab dimensions.
+**Objective:** The dimensional target is a nominal **3.6m x 5.6m** external envelope, measured from James Hardie cladding to James Hardie cladding. The accepted order size below deliberately allows a 2mm external oversail in each axis to use standard millimetre-rounded SIP and timber frame dimensions.
 
 *   **External Envelope Buildup (Per Wall):**
     *   **James Hardie VL Fibre Cement Plank** (flat interlocking profile): 11mm
@@ -38,16 +38,16 @@ layout: default
     *   Rigid Wood Fibre External Insulation: 60mm
     *   *Total External Projection beyond SIP core:* **96mm per wall**
 *   **Total Dimensional Reduction:** 96mm x 2 walls = **192mm reduction per axis**.
-*   **Required SIP Framework & Concrete Slab Size (to maintain strict 3602x5602mm external limit):**
-    *   Width: **3410mm (3.41m)** core/slab order size; finished external width = 3410mm + 192mm = **3602mm**.
-    *   Length: **5410mm (5.41m)** core/slab order size; finished external length = 5410mm + 192mm = **5602mm**.
+*   **Required SIP Framework & Timber Frame Size (to maintain strict 3602x5602mm external limit):**
+    *   Width: **3410mm (3.41m)** core/frame order size; finished external width = 3410mm + 192mm = **3602mm**.
+    *   Length: **5410mm (5.41m)** core/frame order size; finished external length = 5410mm + 192mm = **5602mm**.
 *   **Final Usable Internal Space (Accounting for direct-mount Fermacell):**
     *   SIP Core (150mm) + Fermacell (15mm) = 165mm internal buildup per wall.
     *   Usable Internal Width: 3410mm - (165mm x 2) = **3080mm (3.08m)**
     *   Usable Internal Length: 5410mm - (165mm x 2) = **5080mm (5.08m)**
     *   *Final Internal Usable Footprint:* **15.64 m²**
 
-*(Note: All structural orders—Concrete, SIPs, and XPS—must be executed to the accepted **3430mm x 5430mm** core/slab dimensions, NOT the finished external cladding dimensions of 3602mm x 5602mm.)*
+*(Note: All structural orders—Timber, SIPs, and PIR—must be executed to the accepted **3430mm x 5430mm** core/slab dimensions, NOT the finished external cladding dimensions of 3602mm x 5602mm.)*
 
 ### 1.1 Ground Screws & Floor Frame Execution
 
@@ -70,10 +70,10 @@ layout: default
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Perimeter Splash Margin** | 400mm Wide Gravel Border | Pour 20mm washed gravel into the existing 400mm over-excavation gap | Absorbs rain kinetic energy to prevent mud splashing onto the cladding, while draining surface water into the MOT. No dry moat required. | ~2.5 Bulk Bags (~2.1 tonnes) |
-| **2. Upstand Waterproofing**| Flexible Polymer-Cement Render | Trowelled over the exposed JACKODUR® upstand | Protects the XPS from UV degradation and mechanical damage below ground. | 1x 25kg bag |
-| **3. The Compacfoam Splash Zone** | **Compacfoam CF200** Block (150mm high x **150mm wide**) | Bedded in structural epoxy continuously around the 17.7m perimeter of the flush concrete slab. | **Moisture Defence & Thermal Break:** Elevates the timber SIPs 150mm above the ground lawn (satisfying the upsplash requirement) without raising the internal concrete floor. Rot-proof and structural. 150mm width exactly matches the SIP base panel. | ~17.7 linear meters |
-| **4. DPM / DPC Lapping** | 1200-gauge DPM & Polymeric DPC | The 400mm DPM tail from under the concrete is folded *up* the OUTER face of the Compacfoam and folded *inwards* across its top surface. The separate Polymeric DPC is laid on top of the DPM. Sealed together with Butyl Tape. | Creates a completely continuous moisture barrier from under the foundation right up to the timber sole plate, wrapping the outer face of the Compacfoam. | 1 Roll DPC |
-| **5. Structural Anchoring** | M12 A4 (316) Stainless Threaded Studs (**330mm long**, cut from 1m lengths) | Embedded 100mm into concrete via chemical resin @ 1200mm centers | Passes through the 150mm Compacfoam block and the timber sole plate. Allows sufficient exposed thread for a heavy washer and locking nut to clamp the frame down. | ~16 units |
+| **2. Upstand Waterproofing**| Flexible Polymer-Cement Render | Trowelled over the exposed frame upstand | Protects the perimeter frame and mechanical damage below ground. | 1x 25kg bag |
+| **3. The Compacfoam Splash Zone** | **Compacfoam CF200** Block (150mm high x **150mm wide**) | Bedded in structural epoxy continuously around the 17.7m perimeter of the flush timber deck. | **Moisture Defence & Thermal Break:** Elevates the timber SIPs 150mm above the ground lawn (satisfying the upsplash requirement) without raising the internal floor. Rot-proof and structural. 150mm width exactly matches the SIP base panel. | ~17.7 linear meters |
+| **4. DPM / DPC Lapping** | 1200-gauge DPM & Polymeric DPC | The DPM tail from under the floor deck is folded *up* the OUTER face of the Compacfoam and folded *inwards* across its top surface. The separate Polymeric DPC is laid on top of the DPM. Sealed together with Butyl Tape. | Creates a completely continuous moisture barrier from under the foundation right up to the timber sole plate, wrapping the outer face of the Compacfoam. | 1 Roll DPC |
+| **5. Structural Anchoring** | M12 A4 (316) Stainless Threaded Studs (**330mm long**, cut from 1m lengths) | Anchored through the timber ring beam @ 1200mm centers | Passes through the 150mm Compacfoam block and the timber sole plate. Allows sufficient exposed thread for a heavy washer and locking nut to clamp the frame down. | ~16 units |
 | **6. Base Drip Flashing** | Stainless Steel Drip Profile | Screwed through the Tyvek directly into the Wood Fibre base. | Kicks water completely away from the Compacfoam junction. | ~17.7 linear meters |
 | **7. Rainscreen Bug Mesh** | Perforated Aluminium Vent Trim | Stapled across the bottom 25mm gap between the vertical battens | Allows the 25mm rainscreen cavity to breathe. | ~17.7 linear meters |
 | **8. Splash Zone Skirt (0mm to +150mm)** | 50mm thick x 150mm high XPS Strip | Mechanically fixed to the Compacfoam using 100mm exterior wood screws with 60mm plastic insulation washers. Backed by a bead of structural PU adhesive. | **Waterproof Plinth:** Maintains the flush 50mm plane for the cladding battens while providing a 100% rot-proof, waterproof barrier in the critical 150mm upsplash zone. | ~17.7 linear meters |
@@ -83,7 +83,7 @@ layout: default
 | **11. SIP to Plate Seal** | Expanding PU Foam & Sealant | Injected into the SIP rebate before dropping over the sole plate | Creates a permanent foam-to-timber airtight and thermal seal at the foundation junction. | 4 tubes |
 
 **Textual Cross-Section Description (Outside to Inside at Floor Level):**
-*(Outside)* 20mm Washed Gravel Splash Margin -> JACKODUR® XPS Upstand (flush with lawn) -> 150mm tall Compacfoam CF200 Base Ring with 50mm XPS Splash Skirt fixed to outer face -> Stainless Drip Flashing -> Tyvek Breather Membrane -> 60mm Wood Fibre Insulation (starting at +150mm mark) -> 150mm New Forest SIP Base Wall Panel resting on Timber Sole Plate -> Polymeric DPC on top of Compacfoam -> 150mm Concrete Slab (flush with lawn). *(Inside)*
+*(Outside)* 20mm Washed Gravel Splash Margin -> Perimeter Ground Screw Line -> 150mm tall Compacfoam CF200 Base Ring with 50mm XPS Splash Skirt fixed to outer face -> Stainless Drip Flashing -> Tyvek Breather Membrane -> 60mm Wood Fibre Insulation (starting at +150mm mark) -> 150mm New Forest SIP Base Wall Panel resting on Timber Sole Plate -> Polymeric DPC on top of Compacfoam -> Timber Floor Deck (flush with lawn). *(Inside)*
 
 **CRITICAL VAPOUR INSTRUCTION:** SIP panels MUST be ordered WITHOUT a factory-fitted breather membrane. The Tyvek is applied solely over the external Wood Fibre layer to prevent trapping moisture between two membranes.
 
@@ -129,7 +129,7 @@ layout: default
 
 *   **External Height Physics (The 2.5m Limit):**
     *   **Statutory Measurement Datum:** The Isle of Wight Planning Authority has confirmed the 2.5m limit is measured from the *highest adjacent ground*. This provides a distinct legal advantage if the site slopes.
-    *   Exposed Concrete Splash Zone: 0mm (Slab is sunk 150mm, flush with baseline lawn level)
+    *   Exposed Base Zone: 0mm (Timber floor structure sits within the 300mm excavation, flush with baseline lawn level)
     *   Maximum 'High-Side' Wall Height: **2261.5mm**
     *   Low-Side Wall Height: 2261.5mm - 56.8mm fall = **2204.7mm**
     *   Total Roof Buildup: **238.5mm** (1.5mm EPDM + 100mm high-compressive PIR + 122mm true SIP [11mm OSB/100mm Core/11mm OSB] + 15mm Fermacell)
@@ -192,7 +192,7 @@ layout: default
 
 ## 3. Structural Rigidity & Vibration Logic
 
-**Context:** To maximize the Passivhaus thermal mass effect (the baseline heating of the slab) and handle the extreme point loads of heavy cast-iron machinery, **we will not build a floating timber sub-floor over the concrete.** The machinery will sit directly on the concrete, with the final aesthetic floor finish bonded to it.
+**Context:** The workshop floor must handle the extreme point loads of heavy cast-iron machinery and mitigate motor vibration. We are utilizing a high-mass timber sub-deck combined with continuous rubber matting.
 
 ### 3.1 Timber & Rubber Floor Execution
 
@@ -211,7 +211,7 @@ layout: default
 **Context:** A 20m² wood workshop in coastal Cowes used primarily on evenings and weekends, with potential future conversion to a home office.
 *   *Low-Wattage Convection:* Good for background heat, but stirs up fine combustible dust (Rejected).
 *   *Infrared (IR) Panels:* Ideal for instant radiant heat (heats objects and the human directly).
-*   *Wet UFH (Internal Electric Flow Boiler):* Zero-penetration Passivhaus adaptation. An internal 3kW electric flow boiler heats the slab water. While the COP is 1.0 (compared to an ASHP's 3.5), the Passivhaus demand is so low that running costs remain trivial, and avoiding external refrigerant penetrations completely eliminates airtightness failure risks.
+*   *Air-to-Air Heat Pump:* Zero-penetration Passivhaus adaptation. While the COP is 1.0 (compared to an ASHP's 3.5), the Passivhaus demand is so low that running costs remain trivial, and avoiding external refrigerant penetrations completely eliminates airtightness failure risks.
 
 ### 4.1 Heating, Cooling & Rust Prevention Strategy
 Since the high-mass concrete slab was replaced with a low-mass timber floor, the workshop will respond extremely quickly to heating inputs. To provide instant temperature control across all seasons and rigorously control humidity (preventing rust on cast iron), an Air-to-Air Heat Pump (Mini-Split AC) is specified.
@@ -259,7 +259,7 @@ To ensure structural compatibility with the SIP envelope, guard against toleranc
 | :--- | :--- | :--- | :--- | :--- |
 | **Outbuilding Earthing (TT Island)** | 1.2m Copper-Bonded Earth Rod, Brass Clamp, Inspection Pit, & 16mm² Earth Cable | Driven vertically into natural soil outside the building; connected to Consumer Unit Earth Bar | **Legal/Safety:** Because exporting a PME (TN-C-S) earth from the main house to an outbuilding with extraneous conductive parts (machinery/wet heating) is prohibited under BS 7671, the garden room must act as its own "TT Island." | 1 system |
 | **Machine Breakers** | 20A **Type C** RCBOs | Mounted in workshop Consumer Unit | Type C magnetic trip curve withstands the 100A+ inrush surge of 3HP induction motors without nuisance tripping. | 4 units |
-| **Dedicated Heating RCBO** | 16A Type B RCBO for 3kW Electric Flow Boiler | Workshop consumer unit, labelled circuit | Separates steady heating load from high-inrush machinery circuits. | 1 unit |
+| **Dedicated Heating RCBO** | 16A Type B RCBO for ASHP | Workshop consumer unit, labelled circuit | Separates steady heating load from high-inrush machinery circuits. | 1 unit |
 | **IR Panel / Controls RCBO** | 10A Type B RCBO | Workshop consumer unit with local fused spur/timer | Supplies the 1.2kW IR panel, thermostatic controls, and low-load heating controls. | 1 unit |
 | **MVHR / Filtration RCBO** | 6A Type B RCBO | Workshop consumer unit with local lockable isolator adjacent to dMVHR | Keeps life-safety/background ventilation independent from machine circuits; allows filter servicing isolation. | 1 unit |
 | **Sockets** | Metal-Clad Double Switched 13A | Surface mounted directly to Fermacell board | Robust industrial protection against impact. | ~6 units |
@@ -273,7 +273,7 @@ To ensure structural compatibility with the SIP envelope, guard against toleranc
 
 *   **Surface-Mounted Infrastructure:** To maximize the internal footprint and guarantee Passivhaus airtightness, the traditional internal 25mm timber service cavity has been entirely engineered out. All electrical cables (lighting, sockets, machinery, and MVHR controls) must be run in **Surface-Mounted Conduit** (e.g., 20mm Galvanised Steel or heavy-duty PVC). This ensures the continuous airtight envelope (Tescon Vana taped SIP joints) and structural OSB are never compromised by blind screws or flush-mount box cutouts.
 *   **Zero-Penetration Ceiling Lighting:** Electrical cables for lighting must never puncture the SIP roof core. The lighting circuit runs vertically up the wall in surface conduit, enters an industrial 90-degree corner junction box, and feeds directly into the end-feed of a surface-mounted track lighting system on the ceiling. 
-*   **Background Mode:** dMVHR runs continuously at 16-32m³/h, UFH maintains 12-14°C, dehumidifier operates only on humidistat demand, and no dust extractor exhausts outdoors.
+*   **Background Mode:** dMVHR runs continuously at 16-32m³/h, ASHP maintains 12-14°C, dehumidifier operates only on humidistat demand, and no dust extractor exhausts outdoors.
 *   **Occupied Woodworking Mode:** dMVHR boosts to 60-70m³/h, standalone HEPA/cyclone extractor runs with machines, and ambient air cleaner runs continuously.
 *   **Finishing / VOC Mode:** Avoid solvent spraying in the sealed workshop where possible. If unavoidable, use a temporary purge protocol with interlocked makeup air; do not rely on the dMVHR core to process concentrated solvent vapours.
 *   **Electrical Separation:** High-inrush induction motors, heating, MVHR/controls, and general sockets must be on separately labelled RCBO circuits to prevent nuisance trips from disabling background ventilation or freeze protection.
