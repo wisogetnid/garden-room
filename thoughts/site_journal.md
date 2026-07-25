@@ -646,3 +646,12 @@
   - Validated separation: Keeping data at 250-300mm while power is at 450mm provides excellent vertical separation to mitigate EMI (Electromagnetic Interference).
   - Added section `1.1a Service Trenching` to `MASTER_PLAN.md`.
   - Added trenching execution to Week 1 of `WORKPLAN.md`.
+
+## Date: 2026-07-25
+**Foreman Notes: Floor Penetration for Utilities**
+- **User Query:** Asked how to route the 50mm twinwall ducts through the foundation and into the room.
+- **Foreman Action:** 
+  - Advised that the 50mm twinwall ducts *do not* enter the room. They terminate in the sub-floor void.
+  - SWA and data cables are pulled from the ducts and threaded vertically through a much smaller (25-32mm) hole drilled through the PIR/CPB/Phenolic/Ply sandwich.
+  - Specified Passivhaus airtight sealing (Pro Clima Kaflex/Tescon Vana) on the inside, and a vermin-plug (wire wool + foam) on the outside of the duct.
+  - Added Section `1.1b Duct Termination` to `MASTER_PLAN.md` and updated Week 10 of `WORKPLAN.md`.

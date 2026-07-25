@@ -77,6 +77,17 @@ layout: default
 
 
 
+
+### 1.1b Duct Termination & Floor Penetration (Airtightness)
+**Objective:** Bring the cables from the underground ducts into the workshop without compromising the Passivhaus airtight envelope or creating a thermal bridge.
+
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
+| :--- | :--- | :--- | :--- | :--- |
+| **Duct Termination** | 50mm twinwall open end | Left exposed in the 300mm void, strapped to the side of a joist. | The bulky 50mm twinwall duct **does not** enter the room. It terminates in the sub-floor void. | N/A |
+| **Floor Core Hole** | ~25mm-32mm drilled hole | Drilled vertically through the floor sandwich (Plywood, Phenolic, CPB, PIR) strictly *between* joists, directly beneath the Consumer Unit location. | Allows only the raw cables (SWA and Cat6a) to pass through the floor, minimizing the hole size. | N/A |
+| **Airtight Cable Grommet** | Pro Clima Kaflex (or Tescon Vana Tape + Airtight Foam) | Adhered to the Birch Plywood top deck, stretching over the cable jackets. | **Passivhaus Critical:** Seals the floor penetration permanently against draughts, moisture, and pressure loss. | 1-2 Grommets |
+| **Duct Vermin Plug** | Wire wool & standard expanding foam | Stuffed into the open end of the 50mm twinwall duct in the void, around the exiting cables. | Prevents mice, slugs, or spiders from using the underground duct as a highway from the house into the void. | 1 can |
+
 ### 1.2 Void Management, Erosion & Rodent Defense
 **Objective:** The 300mm deep excavation creates a suspended void beneath the timber floor. This earth must be stabilized to prevent the trench walls from collapsing over time, suppressed against weed growth, and completely sealed off from rodents (rats/mice) while allowing cross-ventilation to keep the timber frame dry.
 
