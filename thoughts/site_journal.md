@@ -674,3 +674,12 @@
   - Acknowledged a critical logic error in the schedule. 
   - Corrected the sequence: The AC pipe run (the 'First Fix' penetration) MUST occur in Phase 3, immediately after the Tyvek is wrapped, but *before* the external insulation, battens, and cladding are installed.
   - Moved the AC penetration task from Week 11 to Week 7.
+
+## Date: 2026-07-25
+**Foreman Notes: DIY Quick-Connect AC Revision**
+- **User Query:** Asked if modern Mini-Splits exist that do not require an F-Gas certified installer.
+- **Foreman Action:** 
+  - Confirmed the existence and legality of "Quick-Connect" or "Easy-Fit" split systems in the UK (e.g., ElectriQ brands).
+  - Explained they use pre-charged lines with piercing valves, allowing 100% DIY installation.
+  - Cautioned the user that line lengths are fixed (usually 4m) and excess must be coiled horizontally.
+  - Updated `MASTER_PLAN.md` and `WORKPLAN.md` to specify a DIY Quick-Connect system, removing the dependency on an external F-Gas contractor.

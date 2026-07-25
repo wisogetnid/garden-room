@@ -256,7 +256,7 @@ Since the high-mass concrete slab was replaced with a low-mass timber floor, the
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Primary Climate Control** | 2.5kW Air-to-Air Heat Pump (Mini-Split AC) | Wall-mounted internal head unit; external compressor on rubber mounts | Provides extremely rapid heating in winter and cooling in summer. Operates with a COP of ~3.5 to 4.0, making running costs negligible. Runs in dehumidification (dry) mode to extract moisture. | 1 system |
+| **Primary Climate Control** | 2.5kW DIY Quick-Connect Air-to-Air Heat Pump (e.g., ElectriQ Easy-Fit) | Wall-mounted internal head unit; external compressor on rubber mounts. Pre-charged sealed lines allow 100% DIY installation without F-Gas certification. | Provides extremely rapid heating in winter and cooling in summer. Operates with a COP of ~3.5 to 4.0, making running costs negligible. Runs in dehumidification (dry) mode to extract moisture. | 1 system |
 | **Secondary Dehumidification** | Smart Compressor Dehumidifier (e.g., MeacoDry Arete 1 12L) | Freestanding on floor | Runs continuously on a humidistat target of 40-45% RH. This is **critical** to prevent rust on expensive cast iron table saws and planers when the AC is off. | 1 unit |
 | **Tool Protection** | Camellia Oil / Paste Wax | Hand applied | Direct surface application to bare cast iron tables as a final barrier against any residual humidity spikes. | N/A |
 
@@ -264,8 +264,8 @@ Since the high-mass concrete slab was replaced with a low-mass timber floor, the
 ### 4.1a Mini-Split AC Wall Penetration & Airtightness
 **Objective:** Route the refrigerant lines, comms cable, and condensate drain through the SIP envelope without compromising structural integrity or airtightness.
 
-*   **On-Site Coring (No Factory Cut):** Unlike the large 270mm dMVHR hole, the AC penetration only requires a **~65mm (2.5 inch)** core hole. This **must be drilled on-site** by the AC installer, NOT factory pre-cut. 
-*   **Positioning:** The installer must mount the indoor head unit's bracket first, then drill the hole exactly aligned with the unit's pipe exit. The hole must avoid the 1200mm vertical SIP spline joints.
+*   **On-Site Coring (No Factory Cut):** Unlike the large 270mm dMVHR hole, the AC penetration only requires a **~65mm (2.5 inch)** core hole. This **must be drilled on-site** during the build, NOT factory pre-cut. 
+*   **Positioning:** You must mount the indoor head unit\'s bracket first, then drill the hole exactly aligned with the unit's pipe exit. The hole must avoid the 1200mm vertical SIP spline joints.
 *   **The Gravity Fall:** The 65mm hole must be cored with a **slight downward angle (2-3 degrees)** toward the outside. This is mandatory to allow the condensate water to drain via gravity without backing up into the indoor unit.
 *   **Passivhaus Sealing:** Once the pipe bundle is passed through, the void inside the 150mm SIP core must be filled with non-swelling airtight PU foam (e.g., Illbruck FM330). On the inside face (OSB), the penetration must be sealed using a **Pro Clima Roflex** rubber grommet or meticulously taped with Tescon Vana before the Fermacell goes up.
 
