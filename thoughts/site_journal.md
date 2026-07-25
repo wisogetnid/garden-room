@@ -588,3 +588,11 @@
   - Rewrote Phase 1 & 2 to detail the Island Ground Screws installation, joist/PIR infill, CPB sub-deck, and Phenolic/Ply continuous thermal deck.
   - Re-numbered weeks to reflect the significantly faster, dry-build timeline.
 - **Strategist Hand-off:** Please review structural integrity, Passivhaus continuity (the Red Line test), and run validation mesh for the new timber/rubber foundation against `tests/`.
+
+## Date: 2026-07-25
+**Foreman Notes: Retaining Boards on Concrete Slabs**
+- **User Query:** Asked how to secure the earth retaining boards around the 300mm trench perimeter where the boundary sits directly over the existing buried concrete slabs (where driving wooden stakes is impossible).
+- **Foreman Action:** 
+  - Advised against drilling large core holes for wooden stakes.
+  - Provided two methods: 1) Galvanised L-brackets with 8mm masonry screws (Thunderbolts) directly into the slab. 2) The "Zero-Drill" method: Using dense concrete blocks pushed against the base of the retaining board, relying on deadweight and the gravel ballast to hold the earth back.
+  - Updated `MASTER_PLAN.md` retaining board specification to include these concrete-specific fixings.
