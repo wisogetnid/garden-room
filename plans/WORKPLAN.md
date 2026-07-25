@@ -34,10 +34,10 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 ## 🗓️ Phase 1: Ground Screws & Timber Frame (Weeks 1-3)
 *The heavy digging has been engineered out. Let the pros drive the screws.*
 
-### Week 1: Site Prep & Ground Screws
+### Week 1: Site Prep, Trenching & Ground Screws
 *   **The Big Win:** You have 3 existing concrete slabs buried 300mm down. Do not dig them out. Island Ground Screws will arrive and drive steel micropiles directly between (or occasionally through) the slabs and safely around the oak tree roots.
+*   **Service Trenching:** Before the screws go in, dig the service trench from the house. Dig down to **450mm** and lay the main electric duct (cover with warning tape at 300mm). In the same trench (offset horizontally or backfilled slightly higher), lay the data/comms duct at a depth of **250mm to 300mm**. Bring both ducts up via sweeping bends directly into your 300mm excavated pit.
 *   **Weekend 1:** Clear the surface vegetation and ensure the site is free of loose debris.
-*   **Contractor Day:** Island Ground Screws installs the laser-leveled screws. They will install U-brackets exactly set to carry your timber ring beam. 
 
 ### Week 2: Retaining, Weed Control & Timber Joists
 *   **The Pit Perimeter (Erosion Control):** Before the joists make the area impassable, line the vertical dirt walls of your 300mm excavation pit with treated H4 gravel boards. Drive 50x50mm timber stakes into the corners and straight edges to hold back the earth.

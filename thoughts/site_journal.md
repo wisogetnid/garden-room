@@ -637,3 +637,12 @@
   - Clarified that wind only needs ~200mm-300mm of clear horizontal space outside the slatted skirt to create pressure differentials.
   - **Approved the 3-sided ventilation strategy:** Cross-ventilation requires a minimum of two opposing sides. Having 3 sides open is more than sufficient, allowing the front facade to feature a solid skirt or flush patio integration.
   - Updated `MASTER_PLAN.md` to formally permit a solid front fascia.
+
+## Date: 2026-07-25
+**Foreman Notes: Service Duct Trenching Depths**
+- **User Query:** Requested an update to the service duct installation. Specified that the electrical duct only needs to be at a minimum of 450mm, and the data duct will be placed at 250mm-300mm.
+- **Foreman Action:** 
+  - Validated depths against BS 7671 (Wiring Regulations). 450mm is the acceptable standard for SWA cable in ducting in a private garden, provided it is marked with warning tape.
+  - Validated separation: Keeping data at 250-300mm while power is at 450mm provides excellent vertical separation to mitigate EMI (Electromagnetic Interference).
+  - Added section `1.1a Service Trenching` to `MASTER_PLAN.md`.
+  - Added trenching execution to Week 1 of `WORKPLAN.md`.

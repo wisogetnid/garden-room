@@ -49,6 +49,16 @@ layout: default
 
 *(Note: All structural orders—Timber, SIPs, and PIR—must be executed to the accepted **3430mm x 5430mm** core/slab dimensions, NOT the finished external cladding dimensions of 3602mm x 5602mm.)*
 
+
+### 1.1a Service Trenching (Power & Data)
+**Objective:** Provide safe, code-compliant subterranean routes for the main SWA power cable and Cat6a data cables from the main house to the workshop void.
+
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
+| :--- | :--- | :--- | :--- | :--- |
+| **Power Duct** | 50mm rigid twinwall electric ducting (Black or Red) | Laid in a trench at a minimum depth of **450mm** below ground level. | **BS 7671 Compliance:** Protects the primary Steel Wire Armoured (SWA) power cable from accidental shovel strikes. Covered with electrical warning tape 150mm above the duct. | Length as required |
+| **Data Duct** | 50mm rigid twinwall comms ducting (Green) | Laid in the same trench (if widened) or a parallel trench at a depth of **250mm to 300mm** below ground level. | Separates low-voltage data cables from high-voltage AC cables to prevent electromagnetic interference (EMI). | Length as required |
+| **Duct Entry** | 90-degree long-radius sweeping bends | Emerging directly up into the 300mm sub-floor void. | Brings services up directly beneath the workshop consumer unit location, avoiding external wall penetrations. | 2 bends |
+
 ### 1.1 Ground Screws & Floor Frame Execution
 
 **[OPEN RISK FLAG: VERTICAL DATUM & HEAVE GAP]** The user is currently consulting Building Control regarding the mandatory root heave gap for the oak tree. The current math (50mm gravel + 150mm clear air gap + 224mm floor buildup) pushes the finished floor above lawn level, significantly reducing internal ceiling height under the 2.5m Permitted Development limit. If BC allows a 100mm heave gap, the internal wall SIP datums must be recalculated.
