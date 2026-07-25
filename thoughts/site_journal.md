@@ -612,3 +612,11 @@
   - Proved that deleting the Compacfoam would either push the SIP wall into the rot-risk zone (+20mm above lawn) OR force the entire floor frame upwards, destroying internal headroom to stay under the 2.5m PD limit.
   - Confirmed the Compacfoam acts as a "cheat code" to sink the floor frame into the hole while legally elevating the SIP wall. 
 - **User Decision:** User confirmed the Compacfoam remains in the specification (Scenario C). No changes to the `MASTER_PLAN.md` required.
+
+## Date: 2026-07-25
+**Foreman Notes: Breather Membrane & Starter Track Junction**
+- **User Query:** Asked if the Tyvek breather membrane tucks *into* the EWI Aluminium starter track.
+- **Foreman Action:** 
+  - Explained that tucking the membrane inside the U-channel creates a "water trap" where condensation running down the Tyvek will pool inside the aluminium track, rotting the XPS/Wood Fibre over time.
+  - Clarified that the Tyvek must lap *over* the outside face of the insulation and be taped to the very front lip of the starter track, ensuring water cascades off the drip edge.
+  - Updated `MASTER_PLAN.md` breather membrane specification to make this base detail explicit.
