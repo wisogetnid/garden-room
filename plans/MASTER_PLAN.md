@@ -63,6 +63,19 @@ layout: default
 | **Structural Top Deck** | 22mm Structural Birch Plywood (or OSB3) | Floating over Phenolic, joints glued | Spreads the massive point-loads of cast iron machinery evenly across the phenolic foam to prevent crushing. | ~19m² |
 | **Vibration Matting** | 8-10mm Heavy-Duty Industrial Rubber Matting | Loose-laid or taped at seams | Naturally deadens motor resonance, protects tools if dropped, and is highly ergonomic for standing. | ~19m² |
 
+
+
+### 1.2 Void Management, Erosion & Rodent Defense
+**Objective:** The 300mm deep excavation creates a suspended void beneath the timber floor. This earth must be stabilized to prevent the trench walls from collapsing over time, suppressed against weed growth, and completely sealed off from rodents (rats/mice) while allowing cross-ventilation to keep the timber frame dry.
+
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
+| :--- | :--- | :--- | :--- | :--- |
+| **Earth Retaining Boards** | 150x32mm or 200x47mm Treated Timber (H4 UC4 Ground Contact) | Pegged with 50x50mm treated stakes driven 300mm into the ground | **Erosion Control:** Lines the vertical earth walls of the 300mm excavation pit, preventing the surrounding lawn/soil from caving in or washing out during heavy rain. | ~18 linear meters |
+| **Anti-Weed Membrane** | Heavy-Duty Non-Woven Geotextile (e.g., Terram 1000) | Loose laid across the entire dirt floor of the pit and folded *up* the inside of the retaining boards. | **Weed Suppression:** Blocks UV light to prevent weeds, separates the dirt from the gravel, but remains fully permeable to allow rain to drain into the soil. | 1 Roll (4.5m x 10m) |
+| **Void Ballast** | 20mm Washed Pea Gravel | Poured to a 50mm depth directly over the geotextile membrane. | **Moisture & Rodent Deterrent:** Weighs down the membrane, stops muddy splashing, and creates an uncomfortable surface for burrowing rodents. | ~1.5 Bulk Bags |
+| **Anti-Rodent Mesh** | 6mm x 6mm Welded Wire Mesh (Galvanised or 316 Stainless) | Screwed/stapled to the underside of the outer timber ring beam, dropping down to the pit floor. | **The Barrier:** Completely seals the void from rodents. *Crucial Detail:* The bottom edge must flare outwards in an "L-shape" by 150mm and be buried *under* the 50mm gravel ballast. Rats will try to dig straight down at the barrier; the L-shape stops them. | 1 Roll (20m x 0.9m) |
+| **Ventilated Sub-Skirt** | Treated Timber Slats or Composite Decking boards | Screwed horizontally to the outside of the ground screws/ring beam, leaving 10mm-15mm gaps between each slat. | **Aesthetic & Airflow:** Hides the ugly steel mesh and ground screws, while the 15mm gaps ensure the sub-floor void receives constant wind cross-ventilation (preventing rot in the timber frame). | ~18 linear meters |
+
 ### 1.3 Ground-to-Wall Interface Details (Slab-to-Wall Junction)
 
 **Objective:** Ensure zero thermal bridging ('Red Line' test), block coastal wind-driven rain from wicking into the timber, and securely anchor the structure to the insulated floating raft.
