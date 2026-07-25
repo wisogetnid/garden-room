@@ -620,3 +620,11 @@
   - Explained that tucking the membrane inside the U-channel creates a "water trap" where condensation running down the Tyvek will pool inside the aluminium track, rotting the XPS/Wood Fibre over time.
   - Clarified that the Tyvek must lap *over* the outside face of the insulation and be taped to the very front lip of the starter track, ensuring water cascades off the drip edge.
   - Updated `MASTER_PLAN.md` breather membrane specification to make this base detail explicit.
+
+## Date: 2026-07-25
+**Foreman Notes: Rodent Mesh Sandwiching Correction**
+- **User Query:** User corrected the architectural sequence. The top edge of the rodent mesh should be sandwiched between the outer face of the timber ring beam and the back of the Aluminium EWI starter track, NOT behind the vertical rainscreen battens (which sit outside the track).
+- **Foreman Action:** 
+  - Acknowledged the user's superior sequence logic. Sandwiching the mesh behind the aluminium track provides an impenetrable, mechanically clamped top edge.
+  - Corrected `MASTER_PLAN.md` to reflect this exact sandwiching method.
+  - Clarified that the sub-skirt battens drop down from the starter track line, entirely independent of the mesh.
