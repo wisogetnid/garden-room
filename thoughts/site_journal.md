@@ -683,3 +683,22 @@
   - Explained they use pre-charged lines with piercing valves, allowing 100% DIY installation.
   - Cautioned the user that line lengths are fixed (usually 4m) and excess must be coiled horizontally.
   - Updated `MASTER_PLAN.md` and `WORKPLAN.md` to specify a DIY Quick-Connect system, removing the dependency on an external F-Gas contractor.
+
+## Date: 2026-07-25
+**Architect Notes: Compacfoam on Timber Ring Beam Validity**
+- **User Query:** Asked if Compacfoam is actually necessary on top of a timber ring beam, pointing out that there is no rising damp from ground screws and that the timber ring beam itself is already exposed to moisture.
+- **Architect Action:** 
+  - Validated the user's moisture logic: Treated C24/UC4 timber can indeed handle ambient moisture, and capillary rising damp is eliminated by the ground screws.
+  - Clarified that the Compacfoam is now serving two different but equally critical functions: 
+    1. **The Spacer (Splash Zone):** OSB SIPs cannot survive in the 150mm splash zone. Since the ring beam is sunk to +20mm to save headroom, a 150mm "spacer" is legally required to lift the OSB to +170mm.
+    2. **The Thermal Break (Passivhaus):** The ring beam is exposed to freezing cross-ventilation in the sub-floor void. If a standard treated timber upstand was used as the spacer, the cold would transfer straight through it into the base of the SIP wall, causing a perimeter cold-bridge and condensation behind the skirting boards. Compacfoam prevents this thermal transfer.
+  - Advised user that Compacfoam remains the correct architectural choice for a Passivhaus envelope.
+
+## Date: 2026-07-25
+**Foreman Notes: EWI Starter Track Width Optimization**
+- **User Query:** Asked if the EWI starter track should be exactly 60mm (to match the 60mm insulation) or 70mm to prevent squeezing.
+- **Foreman Action:** 
+  - Praised the user's practical foresight. A 60mm rigid insulation board forced into an exact 60mm rigid aluminium track causes friction binding, snapping, or bowing.
+  - Furthermore, zero tolerance leaves no room for the 1mm Tyvek Tyvek membrane and 2mm Pro Clima tape to safely pass over the front lip without abrasion.
+  - Specified a **70mm EWI Starter Track** to provide a safe 10mm installation tolerance.
+  - Updated `MASTER_PLAN.md` to reflect the 70mm track width.
