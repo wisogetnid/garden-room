@@ -50,6 +50,25 @@ layout: default
 *(Note: All structural orders—Timber frame, SIPs, and PIR—must be executed to the calculated **3410mm x 5410mm** core dimensions, NOT the finished external cladding dimensions of 3602mm x 5602mm.)*
 
 
+### 1.1c Underground Service Trenching (Power & Data)
+**Objective:** Provide safe, code-compliant subterranean routes for the main SWA power cable and Cat6a data cables from the main house to the workshop void.
+
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
+| :--- | :--- | :--- | :--- | :--- |
+| **Power Duct** | 50mm rigid twinwall electric ducting (Black or Red) | Laid in a trench at a minimum depth of **450mm** below ground level. | **BS 7671 Compliance:** Protects the primary Steel Wire Armoured (SWA) power cable from accidental shovel strikes. Covered with electrical warning tape 150mm above the duct. | Length as required |
+| **Data Duct** | 50mm rigid twinwall comms ducting (Green) | Laid in the same trench (if widened) or a parallel trench at a depth of **250mm to 300mm** below ground level. | Separates low-voltage data cables from high-voltage AC cables to prevent electromagnetic interference (EMI). | Length as required |
+| **Duct Entry** | 90-degree long-radius sweeping bends | Emerging directly up into the 300mm sub-floor void. | Brings services up directly beneath the workshop consumer unit location, avoiding external wall penetrations. | 2 bends |
+
+### 1.1d Duct Termination & Floor Penetration (Airtightness)
+**Objective:** Bring the cables from the underground ducts into the workshop without compromising the Passivhaus airtight envelope or creating a thermal bridge.
+
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
+| :--- | :--- | :--- | :--- | :--- |
+| **Duct Termination** | 50mm twinwall open end | Left exposed in the 300mm void, strapped to the side of a joist. | The bulky 50mm twinwall duct **does not** enter the room. It terminates in the sub-floor void. | N/A |
+| **Floor Core Hole** | ~25mm-32mm drilled hole | Drilled vertically through the floor sandwich (Plywood, Phenolic, CPB, PIR) strictly *between* joists, directly beneath the Consumer Unit location. | Allows only the raw cables (SWA and Cat6a) to pass through the floor, minimizing the hole size. | N/A |
+| **Airtight Cable Grommet** | Pro Clima Kaflex (or Tescon Vana Tape + Airtight Foam) | Adhered to the Birch Plywood top deck, stretching over the cable jackets. | **Passivhaus Critical:** Seals the floor penetration permanently against draughts, moisture, and pressure loss. | 1-2 Grommets |
+| **Duct Vermin Plug** | Wire wool & standard expanding foam | Stuffed into the open end of the 50mm twinwall duct in the void, around the exiting cables. | Prevents mice, slugs, or spiders from using the underground duct as a highway from the house into the void. | 1 can |
+
 ### 1.2 Void Management, Erosion & Rodent Defense
 **Objective:** The 300mm deep excavation creates a suspended void beneath the timber floor. This earth must be stabilized to prevent the trench walls from collapsing over time, suppressed against weed growth, and completely sealed off from rodents (rats/mice) while allowing cross-ventilation to keep the timber frame dry.
 
@@ -200,15 +219,16 @@ layout: default
 
 **Context:** The workshop floor must handle the extreme point loads of heavy cast-iron machinery and mitigate motor vibration. We are utilizing a high-mass timber sub-deck combined with continuous rubber matting.
 
-### 3.1 Timber & Rubber Floor Execution
+### 3.1 Timber & Engineered Wood Floor Execution
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Aesthetic/Wear Deck** | 8-10mm Heavy-Duty Industrial Rubber Matting | Loose-laid over the 22mm Plywood deck, joints taped | A highly durable, forgiving surface. Cast iron tools (chisels, planes) dropped on this floor will not chip. It dramatically reduces acoustic "drumming" from the timber sub-floor. | ~19m² |
-| **Perimeter Expansion**| 10mm Cork Expansion Strip | Wedged between the plywood edge and the SIP walls | Prevents the timber deck from buckling during seasonal humidity changes. | ~17.7 linear meters |
+| **Aesthetic/Wear Deck** | 14mm-20mm Engineered Wood Flooring | **Fully Bonded** directly to the OSB3 using a flexible polyurethane wood-floor adhesive (e.g., SikaBond). | Provides a beautiful finish. Gluing it turns the OSB and Engineered wood into one massive solid deck, eliminating "bounce" and preventing joints from snapping under heavy machinery. | ~19m² |
+| **Machine Decoupling** | 15mm SBR Rubber Isolation Pads (100x100mm) | Placed precisely under the feet of cast-iron machinery | **Critical:** Protects the engineered wood from point-load denting and stops motor resonance (vibration) from drumming into the floor. | As needed |
+| **Perimeter Expansion**| 10mm Cork Expansion Strip | Wedged between the engineered wood/OSB edge and the SIP walls | Prevents the timber deck from buckling during seasonal humidity changes. | ~17.7 linear meters |
 
 ### 3.2 Specific Machine Isolation (Vibration Decoupling)
-*   **Table Saw & Planer Placement:** The timber and rubber floor naturally damps a significant amount of vibration. However, to prevent intense motor chatter from radiating into the room, industrial-grade **Sylomer® pads** (color-coded to the machine's static weight) or high-density 15mm ribbed SBR rubber mats must be placed exactly under the four contact feet of the Table Saw and the Planer-Thicknesser.
+*   **Table Saw & Planer Placement:** The heavy double-deck of OSB and glued engineered wood provides massive rigidity, but it is hard and resonant. However, to prevent intense motor chatter from radiating into the room, industrial-grade **Sylomer® pads** (color-coded to the machine's static weight) or high-density 15mm ribbed SBR rubber mats must be placed exactly under the four contact feet of the Table Saw and the Planer-Thicknesser.
 
 ---
 

@@ -728,3 +728,12 @@
   - Extracted the trenching and floor penetration details from Section 5.
   - Re-inserted them as sections `1.4` and `1.5` at the very end of `## 1. Foundation and Groundworks Specification`.
   - Re-numbered the Electrical sections accordingly.
+
+## Date: 2026-07-25
+**Architect Notes: Flooring Pivot to Engineered Wood**
+- **User Query:** User decided to pivot from Rubber Matting to Engineered Wood flooring, asking if it should be glued directly to the OSB sub-deck.
+- **Architect Action:** 
+  - Validated the change, implementing the 18mm OSB3 structural load-spreader to protect the Phenolic foam.
+  - Advised that the engineered wood MUST be fully bonded (glued) to the OSB using a flexible MS Polymer/Polyurethane adhesive (like SikaBond) rather than floated. Gluing combines the 18mm OSB and the 14-20mm engineered wood into a massive 32-38mm solid slab, eliminating bounce and preventing the T&G joints from snapping under heavy machinery loads.
+  - Mandated the use of 15mm SBR rubber isolation pads specifically under the cast-iron machine feet to prevent localized denting and acoustic drumming.
+  - Updated `MASTER_PLAN.md` (Sections 1.1b and 3.1) and `WORKPLAN.md`.

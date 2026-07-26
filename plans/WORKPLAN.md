@@ -24,7 +24,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 
 ## Step-by-Step Construction Phases (Overview)
 1. **Phase 1: Ground Screws & Frame** (Weeks 1-3): Island Ground Screws installation (bypassing old slabs), timber ring beam and 120mm joists installation, PIR insulation filling, and 22mm CPB sub-deck.
-2. **Phase 2: Continuous Thermal Deck** (Week 4): Laying 50mm continuous Phenolic insulation to break thermal bridging, followed by the 22mm Birch Plywood structural deck.
+2. **Phase 2: Continuous Thermal Deck** (Week 4): Laying 50mm continuous Phenolic insulation to break thermal bridging, followed by the 18mm OSB3 structural deck and glued engineered wood flooring.
 3. **Phase 3: Structural Envelope (Weeks 5-7):** Sole plate anchoring, SIP wall and roof erection, Tyvek wrapping, and window/door installation (achieving weather-tightness).
 4. **Phase 4: Cladding & Exterior Finish (Weeks 8-9):** Battening, Hardie VL plank cladding, and EPDM flat roof waterproofing.
 5. **Phase 5: Internal Fit-Out & MEP (Weeks 10-12+):** Direct-mount Fermacell boarding, surface wiring, hard-bonded floor, and final commissioning of Mini-Split AC / ASHP.
@@ -54,7 +54,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 
 ### Week 4: Eliminating the Cold Bridge
 *   **The Phenolic Layer:** The timber joists act as a cold bridge. To stop this, lay a continuous layer of 50mm Phenolic insulation (Kingspan Kooltherm) directly over the CPB. Tape the joints with aluminum tape.
-*   **The Top Deck:** Immediately cover the fragile phenolic board with 22mm structural Birch Plywood (or OSB3). This spreads the massive point-loads of your future cast-iron machinery. Glue the joints and use long screws that anchor through the phenolic down into the joists below.
+*   **The Load-Spreader:** Immediately cover the fragile phenolic board with 18mm OSB3 (Tongue & Groove). This spreads the massive point-loads of your future cast-iron machinery. Glue the T&G joints and use long screws that anchor through the phenolic down into the joists below.
 *   **Perimeter Prep:** Install the Compacfoam CF200 block around the perimeter of the timber ring beam to support the SIP wall base.
 
 ## 🗓️ Phase 3: The 150mm PUR-Core SIPs Superstructure (The Critical Timing Phase)
@@ -102,6 +102,13 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 ---
 
 ## 🗓️ Phase 5: Internal Passivhaus Detailing & Fit-Out
+
+### Week 10: Electrical First Fix & Floor Penetration
+*   **The Floor Penetration:** Locate where your Consumer Unit will sit on the wall. Drill a small hole (approx 25-32mm) straight down through the floor deck (Plywood, Phenolic, CPB, and PIR insulation) into the void. Do not drill through a joist.
+*   **Cable Pull:** Go into the void. The 50mm twinwall ducts should terminate here. Pull the SWA power cable and the Cat6a data cables out of the ducts and thread them up through the small hole in the floor into the room.
+*   **Vermin Block:** In the void, stuff wire wool into the open end of the 50mm ducts around the cables and squirt a little expanding foam to seal it. This stops mice using the duct as a tunnel.
+*   **Airtight Seal (Passivhaus):** Inside the room, seal the gap around the cables where they come through the plywood. Use expanding airtight PU foam (e.g., Illbruck FM330) and cover it with a Pro Clima Kaflex grommet or Tescon Vana tape. *This is critical—do not leave a draughty hole in your Passivhaus floor.*
+
 *Now you are working inside, out of the weather. Evening work is highly effective here.*
 
 ### Evening Tasks: The Airtight Envelope & Vapour Control
