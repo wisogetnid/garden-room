@@ -711,3 +711,20 @@
   - Addressed the transition junction: Warned against using standard expanding PU foam between XPS and Wood Fibre, as closed-cell foam creates a vapor dam that can rot the bottom of the hygroscopic wood fibre.
   - Specified a vapour-permeable sealant (MS Polymer) or Compriband expanding tape for the horizontal joint.
   - Reverted starter track to 60mm in `MASTER_PLAN.md` and added section `2.1a The Plinth Transition`.
+
+## Date: 2026-07-25
+**Architect Notes: Document Restructure & Ring Beam Geometry**
+- **User Query:** Requested moving the duct trenching/penetration details to the Electrical Section, and providing a clearer detailing of the foundation buildup separating the outer ring-beam-to-wall stack from the inner ring-beam-to-floor stack.
+- **Architect Action:**
+  - Migrated Duct Trenching and Penetration to Section `5.1` and `5.2` respectively.
+  - Rewrote Section `1.1` to explicitly split into `1.1a The Outer Perimeter Stack` and `1.1b The Inner Floor Stack`.
+  - **Structural Upgrade:** Identified that a standard 47mm wide timber cannot support a 150mm wide Compacfoam block. Upgraded the Ring Beam to a **150x120mm built-up timber beam** (3x 47x120mm timbers bolted together) to provide the necessary 150mm structural ledge for the wall.
+  - Detailed the inner floor thickness (104mm) sitting inside the 150mm Compacfoam curb, leaving a 46mm internal step to be hidden by skirting.
+
+## Date: 2026-07-25
+**Architect Notes: Duct Section Relocation**
+- **User Query:** Requested to move the duct installation details back into the Ground section, specifically towards the end of it.
+- **Architect Action:** 
+  - Extracted the trenching and floor penetration details from Section 5.
+  - Re-inserted them as sections `1.4` and `1.5` at the very end of `## 1. Foundation and Groundworks Specification`.
+  - Re-numbered the Electrical sections accordingly.

@@ -43,7 +43,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 *   **The Pit Perimeter (Erosion Control):** Before the joists make the area impassable, line the vertical dirt walls of your 300mm excavation pit with treated H4 gravel boards. Drive 50x50mm timber stakes into the corners and straight edges to hold back the earth.
 *   **Weed & Moisture Control:** Roll out heavy-duty geotextile membrane across the entire dirt floor, folding it up the sides of your new retaining boards.
 *   **The Ballast:** Shovel a 50mm layer of 20mm washed gravel over the membrane. This locks it down and stops the void from becoming a muddy swamp.
-*   **Weekend 2:** Install the 47x120mm C24 timber ring beam and joists at 400mm centers. Bolt securely to the ground screw U-brackets.
+*   **Weekend 2:** Build the heavy 150x120mm ring beam (bolting 3 lengths of 47x120mm C24 together) and bolt it to the U-brackets. Hang the internal 47x120mm joists via hangers at 400mm centers. Bolt securely to the ground screw U-brackets.
 *   **Rodent Mesh (The 'L-Shape' Defense):** Roll out the 6mmx6mm welded steel mesh. Staple the top edge to the outer ring beam. Let it drop to the gravel, bend it outwards 150mm into an "L-shape", and bury that bottom lip under the gravel. This is impenetrable to rats.
 *   **Insulation Drop:** Cut and friction-fit the 120mm PIR boards between the joists. Use expanding foam to seal every perimeter gap. There must be zero air movement.
 

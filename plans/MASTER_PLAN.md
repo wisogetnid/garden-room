@@ -50,44 +50,6 @@ layout: default
 *(Note: All structural orders—Timber frame, SIPs, and PIR—must be executed to the calculated **3410mm x 5410mm** core dimensions, NOT the finished external cladding dimensions of 3602mm x 5602mm.)*
 
 
-### 1.1a Service Trenching (Power & Data)
-**Objective:** Provide safe, code-compliant subterranean routes for the main SWA power cable and Cat6a data cables from the main house to the workshop void.
-
-| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
-| :--- | :--- | :--- | :--- | :--- |
-| **Power Duct** | 50mm rigid twinwall electric ducting (Black or Red) | Laid in a trench at a minimum depth of **450mm** below ground level. | **BS 7671 Compliance:** Protects the primary Steel Wire Armoured (SWA) power cable from accidental shovel strikes. Covered with electrical warning tape 150mm above the duct. | Length as required |
-| **Data Duct** | 50mm rigid twinwall comms ducting (Green) | Laid in the same trench (if widened) or a parallel trench at a depth of **250mm to 300mm** below ground level. | Separates low-voltage data cables from high-voltage AC cables to prevent electromagnetic interference (EMI). | Length as required |
-| **Duct Entry** | 90-degree long-radius sweeping bends | Emerging directly up into the 300mm sub-floor void. | Brings services up directly beneath the workshop consumer unit location, avoiding external wall penetrations. | 2 bends |
-
-### 1.1 Ground Screws & Floor Frame Execution
-
-**[OPEN RISK FLAG: VERTICAL DATUM & HEAVE GAP]** The user is currently consulting Building Control regarding the mandatory root heave gap for the oak tree. The current math (50mm gravel + 150mm clear air gap + 224mm floor buildup) pushes the finished floor above lawn level, significantly reducing internal ceiling height under the 2.5m Permitted Development limit. If BC allows a 100mm heave gap, the internal wall SIP datums must be recalculated.
-
-**Excavation & Screws:** The site has 3 existing concrete slabs 300mm below ground level. To avoid a massive removal effort and protect the nearby oak tree, the foundation utilizes **Ground Screws** installed by Island Ground Screws, driven between/around the existing slabs. The floor structure sits suspended 150mm above the excavated ground, leaving the internal ceiling height untouched.
-
-| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
-| :--- | :--- | :--- | :--- | :--- |
-| **Ground Screws** | 800mm-1200mm Steel Screws | Professionally driven by Island Ground Screws | Bypasses existing concrete slabs and oak tree roots. Provides a fast, zero-concrete structural base. | ~16-20 screws |
-| **Ring Beam & Joists** | 47x120mm C24 Treated Timber | Bolted to ground screw U-brackets; joists at 400mm centers | Forms the primary suspended structural floor frame. | ~40 linear meters |
-| **Primary Insulation** | 120mm PIR Board | Friction-fit between joists, sealed with expanding foam | Provides the bulk of the floor thermal resistance between the structural timber. | ~19m² |
-| **Sub-Deck** | 22mm Cement Particle Board (CPB) | Screwed to the timber joists | Provides a rigid, fire-resistant, and high-mass sub-deck that spreads point loads from machinery. | ~19m² |
-| **Continuous Thermal Break** | 50mm Phenolic Insulation (e.g. Kingspan Kooltherm) | Laid continuously over the CPB layer | **Crucial Passivhaus Detail:** Completely caps the thermal bridging of the timber joists below. | ~19m² |
-| **Structural Top Deck** | 22mm Structural Birch Plywood (or OSB3) | Floating over Phenolic, joints glued | Spreads the massive point-loads of cast iron machinery evenly across the phenolic foam to prevent crushing. | ~19m² |
-| **Vibration Matting** | 8-10mm Heavy-Duty Industrial Rubber Matting | Loose-laid or taped at seams | Naturally deadens motor resonance, protects tools if dropped, and is highly ergonomic for standing. | ~19m² |
-
-
-
-
-### 1.1b Duct Termination & Floor Penetration (Airtightness)
-**Objective:** Bring the cables from the underground ducts into the workshop without compromising the Passivhaus airtight envelope or creating a thermal bridge.
-
-| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
-| :--- | :--- | :--- | :--- | :--- |
-| **Duct Termination** | 50mm twinwall open end | Left exposed in the 300mm void, strapped to the side of a joist. | The bulky 50mm twinwall duct **does not** enter the room. It terminates in the sub-floor void. | N/A |
-| **Floor Core Hole** | ~25mm-32mm drilled hole | Drilled vertically through the floor sandwich (Plywood, Phenolic, CPB, PIR) strictly *between* joists, directly beneath the Consumer Unit location. | Allows only the raw cables (SWA and Cat6a) to pass through the floor, minimizing the hole size. | N/A |
-| **Airtight Cable Grommet** | Pro Clima Kaflex (or Tescon Vana Tape + Airtight Foam) | Adhered to the Birch Plywood top deck, stretching over the cable jackets. | **Passivhaus Critical:** Seals the floor penetration permanently against draughts, moisture, and pressure loss. | 1-2 Grommets |
-| **Duct Vermin Plug** | Wire wool & standard expanding foam | Stuffed into the open end of the 50mm twinwall duct in the void, around the exiting cables. | Prevents mice, slugs, or spiders from using the underground duct as a highway from the house into the void. | 1 can |
-
 ### 1.2 Void Management, Erosion & Rodent Defense
 **Objective:** The 300mm deep excavation creates a suspended void beneath the timber floor. This earth must be stabilized to prevent the trench walls from collapsing over time, suppressed against weed growth, and completely sealed off from rodents (rats/mice) while allowing cross-ventilation to keep the timber frame dry.
 
@@ -306,7 +268,7 @@ To ensure structural compatibility with the SIP envelope, guard against toleranc
 
 ## 5. Electrical, Ventilation & Dust Integration 
 
-### 5.1 Circuit Schedule & Ducting Geometry
+### 5.3 Circuit Schedule & Internal Routing Geometry
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
@@ -322,7 +284,7 @@ To ensure structural compatibility with the SIP envelope, guard against toleranc
 | **MVHR Control Wiring** | Low-voltage controller / boost switch / humidity sensor cabling | Routed within surface conduit to dMVHR controller | Allows standby/occupied boost modes without penetrating the airtight envelope. | 1 control set |
 | **Makeup Air Interlock Provision** | Spare relay way and labelled containment for future motorized damper | Consumer unit / controls enclosure; not normally connected | Reserved only for future solvent/spray purge mode if outdoor exhaust is later added. Prevents uncontrolled depressurization. | 1 spare provision |
 
-### 5.2 Electrical Zoning & Operating Logic
+### 5.4 Electrical Zoning & Operating Logic
 
 *   **Surface-Mounted Infrastructure:** To maximize the internal footprint and guarantee Passivhaus airtightness, the traditional internal 25mm timber service cavity has been entirely engineered out. All electrical cables (lighting, sockets, machinery, and MVHR controls) must be run in **Surface-Mounted Conduit** (e.g., 20mm Galvanised Steel or heavy-duty PVC). This ensures the continuous airtight envelope (Tescon Vana taped SIP joints) and structural OSB are never compromised by blind screws or flush-mount box cutouts.
 *   **Zero-Penetration Ceiling Lighting:** Electrical cables for lighting must never puncture the SIP roof core. The lighting circuit runs vertically up the wall in surface conduit, enters an industrial 90-degree corner junction box, and feeds directly into the end-feed of a surface-mounted track lighting system on the ceiling. 
