@@ -702,3 +702,12 @@
   - Furthermore, zero tolerance leaves no room for the 1mm Tyvek Tyvek membrane and 2mm Pro Clima tape to safely pass over the front lip without abrasion.
   - Specified a **70mm EWI Starter Track** to provide a safe 10mm installation tolerance.
   - Updated `MASTER_PLAN.md` to reflect the 70mm track width.
+
+## Date: 2026-07-25
+**Foreman Notes: EWI Track & XPS/Wood-Fibre Junction**
+- **User Query:** Asked if a 60mm track is acceptable since the bottom layer is rigid XPS, and asked how to physically connect the 150mm XPS skirt to the Wood Fibre boards sitting above it.
+- **Foreman Action:** 
+  - Approved the 60mm track. XPS is highly dimensionally stable with clean, sharp edges, so it will seat cleanly into a matching 60mm track without the friction/binding issues inherent to fuzzy wood-fibre boards.
+  - Addressed the transition junction: Warned against using standard expanding PU foam between XPS and Wood Fibre, as closed-cell foam creates a vapor dam that can rot the bottom of the hygroscopic wood fibre.
+  - Specified a vapour-permeable sealant (MS Polymer) or Compriband expanding tape for the horizontal joint.
+  - Reverted starter track to 60mm in `MASTER_PLAN.md` and added section `2.1a The Plinth Transition`.

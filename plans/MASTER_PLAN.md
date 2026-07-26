@@ -142,6 +142,14 @@ layout: default
 | **6. Vapour Control Sealing** | Pro Clima Tescon Vana Tape | Taped directly over the internal SIP wall joints | Airtightness; stops interstitial condensation. *(Note: Because the 25mm service cavity was eliminated, a full Intello Plus sheet cannot be used on the walls as the Fermacell screws would shred it. Tescon Vana tape over the SIP joints ensures Passivhaus airtightness while remaining self-sealing against direct Fermacell screws).* | 4 Rolls |
 | **7. Internal Finish** | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking. Fixed *directly* to the internal SIP OSB face. **CRITICAL FIRE RATING:** Because the building is <1m from a boundary, Building Control mandates REI30/REI60. The 15mm Fermacell acts as the necessary Type F fire-board equivalent to protect the combustible OSB. | ~26 boards |
 
+
+### 2.1a The Plinth Transition (XPS to Wood Fibre)
+**Objective:** Seamlessly transition from the waterproof 150mm-high XPS splash skirt to the breathable 60mm Wood Fibre without creating a moisture trap or thermal gap.
+
+*   **The Junction:** The 60mm Wood Fibre board sits directly on top of the 150mm XPS skirt (at the +170mm mark).
+*   **The Sealant (No Foam):** Do **NOT** use standard expanding PU foam between the XPS and the Wood Fibre. Expanding foam is closed-cell; if water vapour gets trapped in the wood fibre above it, the foam acts as a vapor barrier, causing the bottom edge of the wood fibre to rot.
+*   **The Correct Method:** Apply a continuous bead of **vapour-permeable sealant** (e.g., a breathable MS Polymer like Soudal Soudaseal or Pro Clima Orcon F) along the top edge of the XPS before resting the Wood Fibre on it. Alternatively, compress a strip of **expanding foam tape (Compriband)** between the two layers. This physically seals the gap against cold draughts but allows any trapped moisture in the wood fibre to breathe downwards.
+
 ### 2.2 SIPs Sealing Strategy & Weak Point Continuity
 *   **Panel Joints (The Critical Weakness):** All SIP panels must be joined using **Insulated Splines** (miniature SIP strips) rather than timber C16 splines to prevent cold bridging at every 1200mm joint. The spline joints must be heavily sealed with structural polyurethane adhesive/expanding foam during assembly.
 *   **Tape Specification:** **Pro Clima Tescon Vana** is mandatory for taping the internal VCL over all SIP joints, seams, and corners. 
