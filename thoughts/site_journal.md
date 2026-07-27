@@ -737,3 +737,45 @@
   - Advised that the engineered wood MUST be fully bonded (glued) to the OSB using a flexible MS Polymer/Polyurethane adhesive (like SikaBond) rather than floated. Gluing combines the 18mm OSB and the 14-20mm engineered wood into a massive 32-38mm solid slab, eliminating bounce and preventing the T&G joints from snapping under heavy machinery loads.
   - Mandated the use of 15mm SBR rubber isolation pads specifically under the cast-iron machine feet to prevent localized denting and acoustic drumming.
   - Updated `MASTER_PLAN.md` (Sections 1.1b and 3.1) and `WORKPLAN.md`.
+
+## Date: 2026-07-25
+**Architect Notes: 2mm Tolerance Removal**
+- **User Query:** Asked why the blueprint targeted 3602x5602mm instead of a perfect 3600x5600mm limit.
+- **Architect Action:** 
+  - Explained that the 2mm oversail was a previous rounding artifact (designed to let contractors cut SIPs to easy "zero" numbers like 3410mm instead of 3408mm).
+  - Confirmed that CNC machines cutting SIPs in a factory have absolutely no issue cutting to 3408mm.
+  - Recalculated the entire blueprint to target a perfect 3600x5600mm external footprint.
+  - The structural SIP/timber frame order size is now exactly **3408mm x 5408mm**.
+
+## Date: 2026-07-25
+**Architect Notes: Addition of Structural Cut List**
+- **User Query:** Requested a small section explicitly detailing the exact dimensions of the ground frame/ring beam, wall SIPs, and roof SIPs.
+- **Architect Action:** 
+  - Extrapolated the raw manufacturing dimensions from the `3600x5600` external target and the `3408x5408` core footprint.
+  - Calculated exact SIP wall heights by subtracting the `170mm` foundation plinth (20mm joist + 150mm Compacfoam) from the target vertical datums (2261.5mm and 2204.7mm).
+  - Calculated the roof SIP plane to be exactly `3600x5600` to provide the mandatory 96mm cantilever on all four sides.
+  - Inserted section `1.0a Structural Order Dimensions (The "Cut List")` into `MASTER_PLAN.md`.
+
+## Date: 2026-07-25
+**Foreman Notes: Duct Routing in Sub-Floor Void**
+- **User Query:** Asked if the power/data ducts must remain buried at 450mm once they are physically underneath the suspended timber floor, or if they can just lie on the gravel.
+- **Foreman Action:** 
+  - Confirmed that under BS 7671, the 450mm burial rule only applies to "areas subject to digging/gardening". 
+  - Once the duct passes beneath the footprint of the building into the void, the risk of shovel strike is zero. The ducts can safely emerge from the trench and route horizontally across the gravel or be strapped to the joists.
+  - Updated `MASTER_PLAN.md` Section 1.4 to clarify this routing transition.
+
+## Date: 2026-07-25
+**Architect Notes: Structural Engineer Feedback on Foundation**
+- **User Query:** The structural engineer from Tari Willis replied, confirming that Ground Screws are sufficient (screw piles not needed). He also advised that Building Control will very likely mandate the full 150mm void gap for the oak tree.
+- **Architect Action:** 
+  - Confirmed the use of Island Ground Screws is now fully validated.
+  - Resolved the `[OPEN RISK FLAG]` regarding the vertical datums. We will proceed under the assumption of the strict 150mm clear heave gap.
+  - The Cut List datums and wall heights previously calculated in the `MASTER_PLAN.md` were already based on this "worst-case" 150mm gap + 50mm gravel ballast scenario. No further mathematical adjustment is required.
+
+## Date: 2026-07-25
+**Foreman Notes: Concrete Slab Variances & Gravel Ballast**
+- **User Query:** User noted that while the "highest" point of the excavated concrete slabs is exactly -300mm below datum zero, the slabs are tilted, with most being 10-30mm lower.
+- **Foreman Action:** 
+  - Confirmed this is highly advantageous. It creates a natural drainage fall away from the -300mm high point.
+  - Advised that the 50mm gravel ballast should *not* be used to perfectly level the pit floor. Instead, the gravel should follow the tilt of the concrete slabs to maintain the 50mm depth everywhere, allowing water to naturally drain toward the lower sections and seep into the surrounding soil.
+  - The critical datum remains the -300mm highest point. As long as the clear heave gap is measured from the gravel sitting on this *highest* point, the rest of the void will naturally exceed the 150mm minimum clearance.

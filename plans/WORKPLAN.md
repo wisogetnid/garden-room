@@ -87,11 +87,11 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 
 ### Weekend 7: Windows, Doors & Drainage
 *   **Saturday (Finesse & Heavy Lift):** Install the Vacuum-Insulated Glazing (VIG) uPVC windows into their respective factory-cut SIP openings:
-    *   *North:* 1x 300x1500mm (Fixed Clerestory), top datum 2100mm FFL.
-    *   *South:* 1x 300x1500mm (Fixed Clerestory), top datum 2100mm FFL.
-    *   *East:* 2x 300x1500mm (Fixed Clerestory, evenly spaced), top datum 2100mm FFL.
-    *   *West:* 2x 1000x1000mm (Fixed Panorama) + 1400mm x 2150mm maximum outer-frame-height Asymmetric Door offset to corner, all heads aligned at 2150mm FFL.
-    *Foreman Note:* VIG units, while thinner than triple glazing, are extremely dense and heavy. Use suction cup lifters and a helper for the long 1.5m clerestories AND the 1.2m panorama windows to prevent frame distortion. Before installing the **1400mm x 2150mm Asymmetric 1.5 Door system** (e.g., 900mm active leaf + 500mm slave leaf), verify there is exactly **89.5mm** structural head zone above the West door and windows (beneath the 2261.5mm high-side wall plate). For the East/North/South clerestories, verify there is exactly **82.3mm** structural head zone beneath the low-side/sloped wall plate. If the manufacturer requires a taller outer frame, stop and resolve the door height or datum before cutting or forcing the frame. Traditional French doors are strictly forbidden. Seal all units with expanding PU foam and tape over the frame-to-OSB joints internally with airtight tape (e.g., Tescon Vana).
+    *   *North:* 1x 300x1500mm (Fixed Clerestory), top datum 2080mm FFL.
+    *   *South:* 1x 300x1500mm (Fixed Clerestory), top datum 2080mm FFL.
+    *   *East:* 2x 300x1500mm (Fixed Clerestory, evenly spaced), top datum 2080mm FFL.
+    *   *West:* 2x 1000x1000mm (Fixed Panorama) + 1400mm x 2130mm maximum outer-frame-height Asymmetric Door offset to corner, all heads aligned at 2130mm FFL.
+    *Foreman Note:* VIG units, while thinner than triple glazing, are extremely dense and heavy. Use suction cup lifters and a helper for the long 1.5m clerestories AND the 1.2m panorama windows to prevent frame distortion. Before installing the **1400mm x 2130mm Asymmetric 1.5 Door system** (e.g., 900mm active leaf + 500mm slave leaf), verify there is exactly **89.5mm** structural head zone above the West door and windows (beneath the 2241.5mm high-side wall plate). For the East/North/South clerestories, verify there is exactly **82.3mm** structural head zone beneath the low-side/sloped wall plate. If the manufacturer requires a taller outer frame, stop and resolve the door height or datum before cutting or forcing the frame. Traditional French doors are strictly forbidden. Seal all units with expanding PU foam and tape over the frame-to-OSB joints internally with airtight tape (e.g., Tescon Vana).
 *   **Sunday (Moderate):** Install the guttering and downpipe diverter, routing it to your 200L water butt.
 
 ### Week 12 & 13: External Insulation, Cladding & The Weather Shield

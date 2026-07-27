@@ -30,7 +30,7 @@ layout: default
 
 
 ### 1.0 Dimensional Reverse-Engineering (Outer Cladding to Core)
-**Objective:** The dimensional target is a nominal **3.6m x 5.6m** external envelope, measured from James Hardie cladding to James Hardie cladding. The accepted order size below deliberately allows a 2mm external oversail in each axis to use standard millimetre-rounded SIP and timber frame dimensions.
+**Objective:** The dimensional target is a perfect **3.6m x 5.6m** external envelope (3600mm x 5600mm), measured exactly from James Hardie cladding to James Hardie cladding.
 
 *   **External Envelope Buildup (Per Wall):**
     *   **James Hardie VL Fibre Cement Plank** (flat interlocking profile): 11mm
@@ -38,16 +38,16 @@ layout: default
     *   Rigid Wood Fibre External Insulation: 60mm
     *   *Total External Projection beyond SIP core:* **96mm per wall**
 *   **Total Dimensional Reduction:** 96mm x 2 walls = **192mm reduction per axis**.
-*   **Required SIP Framework & Timber Frame Size (to maintain strict 3602x5602mm external limit):**
-    *   Width: **3410mm (3.41m)** core/frame order size; finished external width = 3410mm + 192mm = **3602mm**.
-    *   Length: **5410mm (5.41m)** core/frame order size; finished external length = 5410mm + 192mm = **5602mm**.
+*   **Required SIP Framework & Timber Frame Size (to maintain strict 3600x5600mm external limit):**
+    *   Width: **3408mm (3.408m)** core/frame order size; finished external width = 3408mm + 192mm = **3600mm**.
+    *   Length: **5408mm (5.408m)** core/frame order size; finished external length = 5408mm + 192mm = **5600mm**.
 *   **Final Usable Internal Space (Accounting for direct-mount Fermacell):**
     *   SIP Core (150mm) + Fermacell (15mm) = 165mm internal buildup per wall.
-    *   Usable Internal Width: 3410mm - (165mm x 2) = **3080mm (3.08m)**
-    *   Usable Internal Length: 5410mm - (165mm x 2) = **5080mm (5.08m)**
-    *   *Final Internal Usable Footprint:* **15.64 m²**
+    *   Usable Internal Width: 3408mm - (165mm x 2) = **3078mm (3.078m)**
+    *   Usable Internal Length: 5408mm - (165mm x 2) = **5078mm (5.078m)**
+    *   *Final Internal Usable Footprint:* **15.62 m²**
 
-*(Note: All structural orders—Timber frame, SIPs, and PIR—must be executed to the calculated **3410mm x 5410mm** core dimensions, NOT the finished external cladding dimensions of 3602mm x 5602mm.)*
+*(Note: All structural orders—Timber frame, SIPs, and PIR—must be executed to the calculated **3408mm x 5408mm** core dimensions, NOT the finished external cladding dimensions of 3600mm x 5600mm.)*
 
 
 ### 1.1c Underground Service Trenching (Power & Data)
@@ -58,6 +58,8 @@ layout: default
 | **Power Duct** | 50mm rigid twinwall electric ducting (Black or Red) | Laid in a trench at a minimum depth of **450mm** below ground level. | **BS 7671 Compliance:** Protects the primary Steel Wire Armoured (SWA) power cable from accidental shovel strikes. Covered with electrical warning tape 150mm above the duct. | Length as required |
 | **Data Duct** | 50mm rigid twinwall comms ducting (Green) | Laid in the same trench (if widened) or a parallel trench at a depth of **250mm to 300mm** below ground level. | Separates low-voltage data cables from high-voltage AC cables to prevent electromagnetic interference (EMI). | Length as required |
 | **Duct Entry** | 90-degree long-radius sweeping bends | Emerging directly up into the 300mm sub-floor void. | Brings services up directly beneath the workshop consumer unit location, avoiding external wall penetrations. | 2 bends |
+
+| **Duct Routing (In Void)** | 50mm twinwall ducts | Emerging from the 450mm trench at the building perimeter, the ducts route horizontally across the 300mm sub-floor void, pinned directly to the earth/gravel or strapped to the underside of the joists. | **Code Compliance:** Once inside the protected footprint of the building, BS 7671 no longer requires the 450mm burial depth, as there is zero risk of shovel strikes under a suspended floor. | N/A |
 
 ### 1.1d Duct Termination & Floor Penetration (Airtightness)
 **Objective:** Bring the cables from the underground ducts into the workshop without compromising the Passivhaus airtight envelope or creating a thermal bridge.
@@ -150,24 +152,24 @@ layout: default
 | **7. Internal Ceiling** | 15mm Fermacell Acoustic Board | Jointstik glue & screwed directly to SIP inner skin | High mass acoustic blocking. Fixed directly to the SIP to avoid losing 25mm to service battens. | ~14 boards |
 
 #### 2.3.2 Internal Ceiling Height & Boundary Compliance
-**Objective:** Maintain strict compliance with the **≤ 2.5m Permitted Development** height limit while maximizing internal headroom. The 1:60 roof fall is built into the SIP roof support geometry and oriented across the short nominal **3.41m width** (rather than the 5.41m length) to minimize the total roof drop to just 56.8mm (3410 ÷ 60 = 56.8mm).
+**Objective:** Maintain strict compliance with the **≤ 2.5m Permitted Development** height limit while maximizing internal headroom. The 1:60 roof fall is built into the SIP roof support geometry and oriented across the short nominal **3.41m width** (rather than the 5.41m length) to minimize the total roof drop to just 56.8mm (3408 ÷ 60 = 56.8mm).
 
 *   **External Height Physics (The 2.5m Limit):**
     *   **Statutory Measurement Datum:** The Isle of Wight Planning Authority has confirmed the 2.5m limit is measured from the *highest adjacent ground*. This provides a distinct legal advantage if the site slopes.
     *   Exposed Base Zone: 0mm (Timber floor structure sits within the 300mm excavation, flush with baseline lawn level)
-    *   Maximum 'High-Side' Wall Height: **2261.5mm**
-    *   Low-Side Wall Height: 2261.5mm - 56.8mm fall = **2204.7mm**
+    *   Maximum \'High-Side\' Wall Height: **2241.5mm**
+    *   Low-Side Wall Height: 2241.5mm - 56.8mm fall = **2184.7mm**
     *   Total Roof Buildup: **238.5mm** (1.5mm EPDM + 100mm high-compressive PIR + 122mm true SIP [11mm OSB/100mm Core/11mm OSB] + 15mm Fermacell)
-    *   **Total Maximum External Height:** 2500mm high side / **2443.2mm** low side. (Strict Legal Pass: Measured exactly from the highest adjacent natural ground point).
+    *   **Total Maximum External Height:** 2480mm high side / **2423.2mm** low side. (Strict Legal Pass: Provides a 20mm safety buffer under the 2.5m limit). (Strict Legal Pass: Measured exactly from the highest adjacent natural ground point).
 *   **Internal Ceiling Heights (accounting for 22mm hard-bonded flooring and 15mm ceiling board):**
-    *   **High Side:** 2261.5mm wall - 22mm floor - 15mm ceiling = **~2224.5mm (approx. 7 ft 3.5 in)**
-    *   **Low Side:** 2261.5mm - 56.8mm drop = 2204.7mm wall. 2204.7mm - 22mm floor - 15mm ceiling = **~2167.7mm (approx. 7 ft 1.3 in)**
+    *   **High Side:** 2241.5mm wall - 22mm floor - 15mm ceiling = **~2204.5mm (approx. 7 ft 2.8 in)**
+    *   **Low Side:** 2241.5mm - 56.8mm drop = 2184.7mm wall. 2184.7mm - 22mm floor - 15mm ceiling = **~2147.7mm (approx. 7 ft 0.5 in)**
 *   **Ergonomic Comfort:** Sinking the slab allows ordering the wall SIPs 150mm taller. This provides plenty of clearance for flipping sheet goods, maneuvering long boards, and safely hanging an ambient air filter without risking a head strike.
 *   **Structural Note:** Orienting the fall across the 3.6m width preserves usable headroom across the 5.6m length. The **West façade must be assigned as the high-side wall** because it contains the door and large panorama glazing.
 *   **Opening Validation Rule:** Maintain a minimum **~80mm - 90mm structural head zone** between the top of any factory-cut opening and the underside of the sloped roof SIP/top-plate bearing zone. This is fully validated as the SIP's engineered skins act as a continuous structural lintel.
-    *   High-side West wall maximum finished opening top datum: 2261.5mm wall - 22mm finished floor - 89.5mm head zone = **2150mm**. Adopt **2150mm** maximum finished opening top datum.
-    *   Low-side East wall maximum finished opening top datum: 2204.7mm wall - 22mm finished floor - 82.7mm head zone = **2100mm**. Adopt **2100mm** maximum finished opening top datum for the East wall.
-    *   Sloped end-walls (North and South) rise from 2204.7mm to 2261.5mm. Using a horizontal 2100mm top datum for the North and South clerestories means the head zone will be variable, gradually widening from 82.7mm on the low (East) side to approximately 111.5mm on the high (West) side of the 1500mm-wide window. This maintains the continuous top datum aesthetic while remaining structurally compliant.
+    *   High-side West wall maximum finished opening top datum: 2241.5mm wall - 22mm finished floor - 89.5mm head zone = **2130mm**. Adopt **2130mm** maximum finished opening top datum.
+    *   Low-side East wall maximum finished opening top datum: 2184.7mm wall - 22mm finished floor - 82.7mm head zone = **2080mm**. Adopt **2080mm** maximum finished opening top datum for the East wall.
+    *   Sloped end-walls (North and South) rise from 2204.7mm to 2261.5mm. Using a horizontal 2080mm top datum for the North and South clerestories means the head zone will be variable, gradually widening from 82.7mm on the low (East) side to approximately 111.5mm on the high (West) side of the 1500mm-wide window. This maintains the continuous top datum aesthetic while remaining structurally compliant.
 
 ### 2.4 Roof Edge & Fascia Detailing (The "Cantilevered SIP Edge")
 **Objective:** Provide a solid structural perimeter for EPDM membrane clamping and continuous ventilation of the rainscreen cavity, without creating a massive solid-timber cold bridge that compromises the thermal envelope.
@@ -185,7 +187,7 @@ layout: default
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Roof Fall Setup** | Sloped SIP roof support geometry | Factory-cut/sloped wall top plates and roof SIP bearing line set to 1:60 across the 3410mm width | Creates a permanent **1:60 fall** directing water across the width without purchasing a bespoke tapered PIR package. Flat 100mm glass tissue-faced PIR follows this slope above the SIP. | 1 roof set-out package |
+| **Roof Fall Setup** | Sloped SIP roof support geometry | Factory-cut/sloped wall top plates and roof SIP bearing line set to 1:60 across the 3408mm width | Creates a permanent **1:60 fall** directing water across the width without purchasing a bespoke tapered PIR package. Flat 100mm glass tissue-faced PIR follows this slope above the SIP. | 1 roof set-out package |
 | **Drip Edge Trim** | Sure-Edge UPVC Drip Trim | Screwed through the EPDM into the low-side Timber Hard Edge/Fascia | Prevents water from running back under the EPDM and directs it cleanly into the gutter system. | ~6 linear meters |
 | **Guttering** | 112mm UPVC Deepflow (Black) | Standard fascia brackets | Higher capacity than half-round gutters to handle intense coastal downpours without overflowing the fascia. | ~6 linear meters |
 | **Rainwater Diverter** | 68mm Downpipe Diverter Valve | Cut into the vertical downpipe | Channels rainwater into the water butt until full, then automatically redirects the excess. | 1 unit |
@@ -196,11 +198,11 @@ layout: default
 **Objective:** Provide secure entry and natural light while maintaining Passivhaus Q50 airtightness testing standards and rigorous acoustic dB reduction.
 *   **Window Specification:** All windows must utilize Vacuum-Insulated Glazing (VIG) housed within uPVC frames for maximum thermal efficiency and acoustic dampening. The West-facing windows must be ordered with a factory-applied Solar Control Coating (g-value < 0.40) to mitigate summer overheating.
 *   **Window Schedule:** 
-    *   **North Elevation (Short Wall):** 1x 300x1500mm Fixed Clerestory VIG uPVC window; top datum **2100mm FFL**, bottom sill **1800mm FFL**.
-    *   **South Elevation (Short Wall):** 1x 300x1500mm Fixed Clerestory VIG uPVC window; top datum **2100mm FFL**, bottom sill **1800mm FFL**.
-    *   **East Elevation (Long / Low-Side Wall):** 2x 300x1500mm Fixed Clerestory VIG uPVC windows (evenly spaced); top datum **2100mm FFL**, bottom sill **1800mm FFL**.
-    *   **West Elevation (Visible / High-Side Façade):** 2x **1000x1000mm** Fixed VIG uPVC windows (Factory-Applied Solar Control Coating) + 1x **1400mm x 2150mm** Asymmetric 1.5 Door.
-*   **Clerestory Placement Logic:** The 300x1500mm fixed windows must be factory-cut into the SIPs with a **2100mm top datum** on the East wall. This Passivhaus optimization (fixed panes = zero air leakage) relies entirely on the dMVHR for ventilation, while retaining 1800mm of uninterrupted wall height below for tool racks and machinery.
+    *   **North Elevation (Short Wall):** 1x 300x1500mm Fixed Clerestory VIG uPVC window; top datum **2080mm FFL**, bottom sill **1780mm FFL**.
+    *   **South Elevation (Short Wall):** 1x 300x1500mm Fixed Clerestory VIG uPVC window; top datum **2080mm FFL**, bottom sill **1780mm FFL**.
+    *   **East Elevation (Long / Low-Side Wall):** 2x 300x1500mm Fixed Clerestory VIG uPVC windows (evenly spaced); top datum **2080mm FFL**, bottom sill **1780mm FFL**.
+    *   **West Elevation (Visible / High-Side Façade):** 2x **1000x1000mm** Fixed VIG uPVC windows (Factory-Applied Solar Control Coating) + 1x **1400mm x 2130mm** Asymmetric 1.5 Door.
+*   **Clerestory Placement Logic:** The 300x1500mm fixed windows must be factory-cut into the SIPs with a **2080mm top datum** on the East wall. This Passivhaus optimization (fixed panes = zero air leakage) relies entirely on the dMVHR for ventilation, while retaining 1780mm of uninterrupted wall height below for tool racks and machinery.
 *   **West Façade 'Workbench Panorama' Layout:** To future-proof for a home office, the West wall utilizes an asymmetric zoning layout and must be the **high-side wall** of the roof slope. To ensure internal visual symmetry and prevent the windows from feeling cramped against the side walls, the layout is "Internally Centered." Across the 5410mm SIP core length (viewed from the outside, Right to Left), the exact openings and solid wall dimensions are:
     *   **Right Corner Pillar:** 580mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 165mm, this provides exactly 415mm of visible internal wall space beside the door*).
     *   **Main Door:** 1400mm opening
@@ -209,9 +211,9 @@ layout: default
     *   **Central Mullion:** 430mm solid SIP
     *   **Window 2:** 1000mm opening
     *   **Left Corner Pillar:** 580mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 165mm, this provides exactly 415mm of visible internal wall space beside the window*).
-    *   *Revised Vertical Datum:* The door and West window heads align at **2150mm FFL**, preserving ~89.5mm of structural head zone above the openings. The revised 1000x1000mm fixed windows place the bottom sills at **1150mm FFL**, allowing a standard 900mm-high workbench or desk to sit beneath the glass with ~250mm clearance.
+    *   *Revised Vertical Datum:* The door and West window heads align at **2130mm FFL**, preserving ~89.5mm of structural head zone above the openings. The revised 1000x1000mm fixed windows place the bottom sills at **1150mm FFL**, allowing a standard 900mm-high workbench or desk to sit beneath the glass with ~250mm clearance.
 *   **French Doors Forbidden:** Traditional French doors are strictly prohibited. They inherently fail Passivhaus airtightness standards and acoustic reduction due to the lack of a central mullion, leading to air and noise leakage down the meeting stiles.
-*   **Approved Mechanisms:** Specify a **1400mm x 2150mm maximum outer-frame-height Asymmetric 1.5 Door system** (e.g., a 900mm active leaf combined with a 500mm slave leaf) or a high-performance **Lift-and-Slide door** only if the supplier can keep the total frame height at or below 2150mm FFL. These systems use complex cam-action locks to physically compress robust continuous rubber gaskets, ensuring the thermal and acoustic envelope is not compromised at the entry point.
+*   **Approved Mechanisms:** Specify a **1400mm x 2130mm maximum outer-frame-height Asymmetric 1.5 Door system** (e.g., a 900mm active leaf combined with a 500mm slave leaf) or a high-performance **Lift-and-Slide door** only if the supplier can keep the total frame height at or below 2130mm FFL. These systems use complex cam-action locks to physically compress robust continuous rubber gaskets, ensuring the thermal and acoustic envelope is not compromised at the entry point.
 
 ---
 
@@ -343,11 +345,11 @@ The building envelope is designed to aggressively target the Passivhaus standard
 The upgraded timber floor foundation achieves a Passivhaus U-value of 0.12 W/m²K, easily meeting the Passivhaus criteria (≤ 0.15) to save on excavation logistics, the theoretical Passivhaus shortcut (15 kWh/m²a) cannot be used. Instead, the heating effort is calculated using the real-world **Heat Transfer Coefficient (HTC)** and Isle of Wight climate data.
 
 * **Fabric Heat Loss:** 
-  - Gross wall area: West high-side wall (5.41m x 2.2615m) + East low-side wall (5.41m x 2.2047m) + two sloped end walls (3.41m x 2.2331m average height x 2) = **~39.39m²**. (Note: includes full structural wall height down to the Compacfoam thermal break on the slab).
+  - Gross wall area: West high-side wall (5.408m x 2.2615m) + East low-side wall (5.408m x 2.2047m) + two sloped end walls (3.408m x 2.2331m average height x 2) = **~39.39m²**. (Note: includes full structural wall height down to the Compacfoam thermal break on the slab).
   - Glazing and door area: West fixed windows (2 x 1.0m x 1.0m = 2.00m²) + West asymmetric door (1.4m x 2.15m = 3.01m²) + clerestories (4 x 0.3m x 1.5m = 1.80m²) = **6.81m²**.
   - Opaque Walls ((39.39m² - 6.81m²) x 0.15) = **4.89 W/K**
-  - Roof (20.18m² x 0.11) = **2.22 W/K** (Note: 20.18m² represents the 3.602m x 5.602m external layout including the 96mm cantilever).
-  - Floor (18.45m² x 0.12) = **2.21 W/K**
+  - Roof (20.16m² x 0.11) = **2.22 W/K** (Note: 20.16m² represents the 3.600m x 5.600m external layout including the 96mm cantilever).
+  - Floor (18.43m² x 0.12) = **2.21 W/K**
   - Glazing / Door Assemblies (6.81m² x 0.80) = **5.45 W/K**
   - **Total Fabric Loss = 14.77 W/K**
 * **Ventilation/Air Leakage:** ~4.5 W/K (Assuming high Q50 airtightness with occasional door opening).
