@@ -55,7 +55,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 ### Week 4: Eliminating the Cold Bridge
 *   **The Phenolic Layer:** The timber joists act as a cold bridge. To stop this, lay a continuous layer of 50mm Phenolic insulation (Kingspan Kooltherm) directly over the CPB. Tape the joints with aluminum tape.
 *   **The Load-Spreader:** Immediately cover the fragile phenolic board with 18mm OSB3 (Tongue & Groove). This spreads the massive point-loads of your future cast-iron machinery. Glue the T&G joints and use long screws that anchor through the phenolic down into the joists below.
-*   **Perimeter Prep:** Install the Compacfoam CF200 block around the perimeter of the timber ring beam to support the SIP wall base.
+
 
 ## 🗓️ Phase 3: The 150mm PUR-Core SIPs Superstructure (The Critical Timing Phase)
 *OSB SIPs must not get wet. The clock is ticking the moment these arrive.*

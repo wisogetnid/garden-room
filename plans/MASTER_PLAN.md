@@ -68,7 +68,7 @@ layout: default
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | **Ground Screws** | 800mm-1200mm Steel Screws | Professionally driven by Island Ground Screws | Bypasses existing concrete slabs and oak tree roots. | ~16-20 screws |
-| **Heavy Ring Beam** | 150x120mm Built-up Timber (3x 47x120mm C24 bolted together) | Bolted to ground screw U-brackets | Provides a 150mm wide, extreme load-bearing perimeter ledge to carry the 150mm Compacfoam and SIP walls. | ~17.7 linear meters |
+| **Heavy Ring Beam** | 150x120mm Built-up Timber (3x 47x120mm C24 bolted together) | Bolted to ground screw U-brackets | Provides a 150mm wide, extreme load-bearing perimeter ledge to carry the SIP walls directly. | ~17.7 linear meters |
 | **Floor Joists** | 47x120mm C24 Treated Timber | Hung via galvanized joist hangers to the inside edge of the Ring Beam @ 400mm centers | Carries the internal floor independently of the walls. Flush with the top of the ring beam (+20mm datum). | ~40 linear meters |
 | **Primary Insulation** | 120mm PIR Board | Friction-fit between joists, sealed with expanding PU foam | Provides the bulk thermal resistance. | ~19m² |
 | **Sub-Deck** | 22mm Cement Particle Board (CPB) | Screwed to the joists | Rigid, fire-resistant, high-mass load spreader. | ~19m² |
@@ -77,7 +77,7 @@ layout: default
 | **Aesthetic/Wear Deck** | 14mm-20mm Engineered Wood Flooring | **Fully Bonded** directly to the OSB3 using a flexible polyurethane wood-floor adhesive (e.g., SikaBond). | Gluing turns the OSB and Engineered wood into one massive solid deck, eliminating bounce. | ~19m² |
 | **Machine Decoupling** | 15mm SBR Rubber Isolation Pads (100x100mm) | Placed precisely under the feet of cast-iron machinery | **Critical:** Protects the engineered wood from point-load denting and stops motor resonance. | As needed |
 
-*Internal Perimeter Step Detail:* Total inner floor thickness over the joists is 104mm (22+50+18+14). The Compacfoam perimeter block sitting next to it is 150mm high. This creates a ~46mm high structural "curb" around the internal perimeter of the room, which is neatly hidden by a standard tall skirting board.
+*Internal Perimeter Detail:* Total inner floor thickness over the joists is 104mm (22+50+18+14). Because the SIP wall now sits directly on the ring beam alongside the floor joists, this 104mm floor buildup butts directly against the inside OSB skin of the SIP wall. Ensure an expansion gap is left between the engineered wood and the SIP OSB, which will be hidden by a standard skirting board.
 
 ### 1.3 Underground Service Trenching & Floor Penetration
 
@@ -105,28 +105,30 @@ layout: default
 **Objective:** Ensure zero thermal bridging ('Red Line' test), block coastal wind-driven rain, and securely anchor the structure while providing an unbroken sequence from the foundation plinth up to the internal ceiling.
 
 #### A. The Structural Base & Anchoring (The Plinth)
+
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **The Thermal Plinth** | **Compacfoam CF200** Block (150mm high x **150mm wide**) | Bolted directly to the top of the 150mm Ring Beam | **Moisture Defence & Thermal Break:** Elevates the timber SIPs 150mm above the ground lawn without raising the internal floor. Rot-proof and structural. | ~17.7 linear meters |
-| **Polymeric DPC** | High-Performance Polymeric DPC | Laid flat continuously along the top surface of the Compacfoam block. | **Capillary Break:** Failsafe barrier preventing any surface moisture on the plinth from wicking up into the structural timber sole plate of the SIP wall. | 1 Roll |
+| **Polymeric DPC** | High-Performance Polymeric DPC | Laid flat continuously along the top surface of the timber ring beam. | **Capillary Break:** Failsafe barrier preventing any ground moisture from wicking up from the ring beam into the structural timber sole plate of the SIP wall. | 1 Roll |
 | **SIP to Plate Seal** | Expanding PU Foam & Sealant | Injected into the SIP rebate before dropping over the sole plate | Creates a permanent foam-to-timber airtight and thermal seal at the foundation junction. | 4 tubes |
-| **Structural Anchoring** | M12 A4 (316) Stainless Threaded Studs (**330mm long**) | Anchored through the timber ring beam @ 1200mm centers | Passes through the 150mm Compacfoam block and the timber sole plate to securely clamp the frame down. | ~16 units |
+| **Structural Anchoring** | M12 A4 (316) Stainless Threaded Studs (**330mm long**) | Anchored through the timber ring beam @ 1200mm centers | Passes through the timber sole plate directly into the heavy timber ring beam to securely clamp the frame down, creating an incredibly strong shear connection. | ~16 units |
 
 #### B. The External Plinth & Splash Skirt
+
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | **Anti-Rodent Mesh (Top Edge)** | 6mm x 6mm Welded Wire Mesh | Sandwiched securely between the outer face of the timber ring beam and the back of the Aluminium Starter Track. | **Pest Barrier:** Mechanically clamped behind the rigid aluminium track to guarantee mice cannot pry the top edge loose. | (Listed in Void Mgmt) |
-| **Aluminium EWI Starter Track** | **60mm wide** Aluminium U-Channel with Drip Edge | Screwed horizontally into the Compacfoam and Ring Beam, perfectly level at the +20mm mark. | Acts as the structural "shelf" for the XPS skirt. A 60mm track is used here because the dense XPS board has perfectly square, rigid edges that will slot perfectly into a matching track. Forms a drip-edge to kick water away from the void. | ~17.7 linear meters |
-| **Splash Zone Skirt (+20mm to +170mm)** | **60mm thick** x 150mm high XPS Strip | Mechanically fixed to the Compacfoam using 100mm exterior wood screws with plastic washers. Backed by PU adhesive. | **Waterproof Plinth:** Maintains the flush 60mm plane for the cladding battens. Provides a 100% rot-proof, waterproof barrier in the critical splash zone above the lawn. | ~17.7 linear meters |
+| **Aluminium EWI Starter Track** | **60mm wide** Aluminium U-Channel with Drip Edge | Screwed horizontally into the SIP Sole Plate and Ring Beam, perfectly level at the +20mm mark. | Acts as the structural "shelf" for the XPS skirt. A 60mm track is used here because the dense XPS board has perfectly square, rigid edges that will slot perfectly into a matching track. Forms a drip-edge to kick water away from the void. | ~17.7 linear meters |
+| **Splash Zone Skirt (+20mm to +170mm)** | **60mm thick** x 150mm high XPS Strip | Mechanically fixed to the base of the SIP wall / Sole plate using 100mm exterior wood screws with plastic washers. Backed by PU adhesive. | **Waterproof Plinth:** Maintains the flush 60mm plane for the cladding battens. Provides a 100% rot-proof, waterproof barrier in the critical splash zone above the lawn. | ~17.7 linear meters |
 
 #### C. The Field of the Wall (Exterior to Interior)
+
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | **Cladding** | James Hardie VL Fibre Cement Plank (11mm, A2 Fire) | Mechanical fixing via Hardie™ Plank Screws (4.2Ø x 40mm). | 'Cowes-Proof' weather shield. Complies with Part B Fire Safety for boundary proximity. | ~39m² coverage |
 | **Rainscreen Gap / Batten** | 25x50mm Treated Timber @ 400mm centers | 150mm A4 (316) Stainless Steel EWI Screws driven in an alternating pattern: 60° downward (for shear weight) and 90° horizontally (for wind load). | Creates a strict **25mm ventilation path**. Alternating screw angles (Truss-Screw method) prevent the heavy cladding from crushing the soft wood fibre. | ~180 linear meters |
 | **Rainscreen Bug Mesh** | Perforated Aluminium Vent Trim | Stapled across the bottom 25mm gap between the vertical battens | Allows the 25mm rainscreen cavity to breathe while stopping pests. | ~17.7 linear meters |
 | **Breather Membrane** | Tyvek Housewrap / UV Facade | **Clamped** by vertical rainscreen battens. *Base Detail:* Draped over the Wood Fibre and XPS skirt, taped to the front face of the 60mm starter track using Tescon Vana. **Do not tuck it into the track.** | Repels wind-driven rain, allows internal vapour escape, directs water completely out over the starter track drip-edge. | 1 Roll (50m) |
-| **External Insulation** | 60mm Rigid Wood Fibre Board | Friction fit; held by batten screws. Starts strictly at the +170mm mark. | Unbroken thermal jacket. Chosen for its high specific heat capacity (2,100 J/kgK), providing a massive 'decrement delay' to prevent summer overheating. | ~39m² coverage |
+| **External Insulation** | 60mm Rigid Wood Fibre Board | Friction fit; held by batten screws. Starts strictly at the +170mm mark (resting on the 150mm XPS skirt). | Unbroken thermal jacket. Chosen for its high specific heat capacity (2,100 J/kgK), providing a massive 'decrement delay' to prevent summer overheating. | ~39m² coverage |
 | **Structural SIP Panel** | 150mm New Forest SIP Base Wall Panel | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Acts as the primary load-bearing structure and extreme continuous thermal barrier. | ~39m² wall coverage |
 | **Vapour Control Sealing** | Pro Clima Tescon Vana Tape | Taped directly over the internal SIP wall joints | Airtightness; stops interstitial condensation. | 4 Rolls |
 | **Internal Finish** | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking. Fixed *directly* to the internal SIP OSB face. REI30/REI60 Fire compliant. | ~26 boards |

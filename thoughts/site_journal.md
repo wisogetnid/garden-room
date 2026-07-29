@@ -827,3 +827,13 @@
   - Acknowledged that Sections 1.1 and 1.2 were inadvertently overwritten during the duct re-merging process.
   - Reconstructed Section 1.1 (Void Management) to include the retaining boards, weed membrane, and slatted skirt.
   - Created Section 1.2: `The Comprehensive Ground-to-Floor Envelope (Bottom to Top)` which perfectly aligns the ground screws, heavy ring beam, joists, PIR, CPB, Phenolic, OSB3, and Engineered Wood into a single chronological mega-table.
+
+## Date: 2026-07-25
+**Architect Notes: Removal of Compacfoam Plinth**
+- **User Query:** Requested the removal of the Compacfoam blocks, noting they weaken the wall-to-ground structural build-up and aren't necessary since the waterproof XPS layer sits outside them anyway.
+- **Architect Action:** 
+  - Validated the structural logic: Bolting the SIP sole plate directly into the 150x120mm solid timber ring beam provides a vastly superior shear and tension connection compared to anchoring through 150mm of rigid foam.
+  - Acknowledged the weather-protection logic: The 60mm XPS splash skirt is fully waterproof and physically shields the OSB from the 150mm splash zone, mitigating the rot risk.
+  - Eradicated Compacfoam from the `MASTER_PLAN.md` and `WORKPLAN.md`.
+  - Recalculated the Cut List: The SIP walls are now 150mm taller to make up for the removed plinth.
+  - Updated the internal floor logic: The floor build-up now simply butts against the inside face of the SIP OSB skin.
