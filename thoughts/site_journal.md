@@ -779,3 +779,11 @@
   - Confirmed this is highly advantageous. It creates a natural drainage fall away from the -300mm high point.
   - Advised that the 50mm gravel ballast should *not* be used to perfectly level the pit floor. Instead, the gravel should follow the tilt of the concrete slabs to maintain the 50mm depth everywhere, allowing water to naturally drain toward the lower sections and seep into the surrounding soil.
   - The critical datum remains the -300mm highest point. As long as the clear heave gap is measured from the gravel sitting on this *highest* point, the rest of the void will naturally exceed the 150mm minimum clearance.
+
+## Date: 2026-07-25
+**Architect Notes: Clean up of Slab-to-Wall remnants**
+- **User Query:** User noticed the "Slab-to-Wall" header and the first two points in Section 1.3 (Splash Margin & Upstand Waterproofing) still referred to the old concrete slab mechanics (rendering the XPS upstand).
+- **Architect Action:** 
+  - Renamed header to `Frame-to-Wall Junction`.
+  - Replaced the "Upstand Waterproofing" (which applied to the old Jackodur tub) with a clarification that the H4 slatted skirt below the starter track requires no render.
+  - Adjusted the gravel perimeter point to reflect that it simply extends from the void ballast.
