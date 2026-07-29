@@ -802,3 +802,28 @@
 - **Foreman Action:** 
   - Acknowledged that while the mesh is fully detailed in Section 1.2 (Void Management), its top attachment is a critical part of the physical "stack" at the ring beam.
   - Inserted the mesh as Point 5 into the Section 1.3 table to ensure the builder sees the sequence before screwing on the Starter Track (Point 6).
+
+## Date: 2026-07-25
+**Architect Notes: Consolidation of Wall Envelope**
+- **User Query:** Found it confusing to have the wall components split between Section 1.3 (Ground-to-Wall interface) and Section 2.1 (Layered Thermal Envelope).
+- **Architect Action:** 
+  - Eradicated Section 1.3 entirely.
+  - Extracted the drainage and threshold details and moved them to 1.2 (Void Mgmt) and 2.5 (Glazing) respectively.
+  - Merged the remaining base details (Starter Track, DPC, Mesh, XPS skirt) seamlessly into Section 2.1.
+  - Formatted Section 2.1 into a mega-table titled `The Comprehensive Wall & Plinth Envelope`, organized logically into: A. The Structural Base, B. The External Plinth, C. The Field of the Wall.
+  - This guarantees the builder only has to reference a single location to understand the entire wall stack, bottom to top, inside to out.
+
+## Date: 2026-07-25
+**Architect Notes: Duct Section Merger**
+- **User Query:** Requested to merge the separate Service Trenching (1.1c/1.3) and Duct Termination (1.1d/1.4) sections into a single cohesive section.
+- **Architect Action:** 
+  - Consolidated all 8 rows of the ducting lifecycle (from the 450mm house trench, through the void routing, and up into the airtight floor penetration) into a single table.
+  - Titled the new section `1.3 Underground Service Trenching & Floor Penetration`.
+
+## Date: 2026-07-25
+**Architect Notes: Restoration & Consolidation of Foundation Build-Up**
+- **User Query:** Pointed out that the foundation build-up was missing, and requested it be consolidated into Section 1.2 to create a "full ground to flooring build-up" (similar to the Wall mega-table).
+- **Architect Action:** 
+  - Acknowledged that Sections 1.1 and 1.2 were inadvertently overwritten during the duct re-merging process.
+  - Reconstructed Section 1.1 (Void Management) to include the retaining boards, weed membrane, and slatted skirt.
+  - Created Section 1.2: `The Comprehensive Ground-to-Floor Envelope (Bottom to Top)` which perfectly aligns the ground screws, heavy ring beam, joists, PIR, CPB, Phenolic, OSB3, and Engineered Wood into a single chronological mega-table.

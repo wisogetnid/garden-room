@@ -50,63 +50,49 @@ layout: default
 *(Note: All structural orders—Timber frame, SIPs, and PIR—must be executed to the calculated **3408mm x 5408mm** core dimensions, NOT the finished external cladding dimensions of 3600mm x 5600mm.)*
 
 
-### 1.1c Underground Service Trenching (Power & Data)
-**Objective:** Provide safe, code-compliant subterranean routes for the main SWA power cable and Cat6a data cables from the main house to the workshop void.
 
-| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
-| :--- | :--- | :--- | :--- | :--- |
-| **Power Duct** | 50mm rigid twinwall electric ducting (Black or Red) | Laid in a trench at a minimum depth of **450mm** below ground level. | **BS 7671 Compliance:** Protects the primary Steel Wire Armoured (SWA) power cable from accidental shovel strikes. Covered with electrical warning tape 150mm above the duct. | Length as required |
-| **Data Duct** | 50mm rigid twinwall comms ducting (Green) | Laid in the same trench (if widened) or a parallel trench at a depth of **250mm to 300mm** below ground level. | Separates low-voltage data cables from high-voltage AC cables to prevent electromagnetic interference (EMI). | Length as required |
-| **Duct Entry** | 90-degree long-radius sweeping bends | Emerging directly up into the 300mm sub-floor void. | Brings services up directly beneath the workshop consumer unit location, avoiding external wall penetrations. | 2 bends |
-
-| **Duct Routing (In Void)** | 50mm twinwall ducts | Emerging from the 450mm trench at the building perimeter, the ducts route horizontally across the 300mm sub-floor void, pinned directly to the earth/gravel or strapped to the underside of the joists. | **Code Compliance:** Once inside the protected footprint of the building, BS 7671 no longer requires the 450mm burial depth, as there is zero risk of shovel strikes under a suspended floor. | N/A |
-
-### 1.1d Duct Termination & Floor Penetration (Airtightness)
-**Objective:** Bring the cables from the underground ducts into the workshop without compromising the Passivhaus airtight envelope or creating a thermal bridge.
-
-| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
-| :--- | :--- | :--- | :--- | :--- |
-| **Duct Termination** | 50mm twinwall open end | Left exposed in the 300mm void, strapped to the side of a joist. | The bulky 50mm twinwall duct **does not** enter the room. It terminates in the sub-floor void. | N/A |
-| **Floor Core Hole** | ~25mm-32mm drilled hole | Drilled vertically through the floor sandwich (Plywood, Phenolic, CPB, PIR) strictly *between* joists, directly beneath the Consumer Unit location. | Allows only the raw cables (SWA and Cat6a) to pass through the floor, minimizing the hole size. | N/A |
-| **Airtight Cable Grommet** | Pro Clima Kaflex (or Tescon Vana Tape + Airtight Foam) | Adhered to the Birch Plywood top deck, stretching over the cable jackets. | **Passivhaus Critical:** Seals the floor penetration permanently against draughts, moisture, and pressure loss. | 1-2 Grommets |
-| **Duct Vermin Plug** | Wire wool & standard expanding foam | Stuffed into the open end of the 50mm twinwall duct in the void, around the exiting cables. | Prevents mice, slugs, or spiders from using the underground duct as a highway from the house into the void. | 1 can |
-
-### 1.2 Void Management, Erosion & Rodent Defense
+### 1.1 Void Management, Erosion & Rodent Defense
 **Objective:** The 300mm deep excavation creates a suspended void beneath the timber floor. This earth must be stabilized to prevent the trench walls from collapsing over time, suppressed against weed growth, and completely sealed off from rodents (rats/mice) while allowing cross-ventilation to keep the timber frame dry.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | **Earth Retaining Boards** | 150x32mm or 200x47mm Treated Timber (H4 UC4 Ground Contact) | Pegged with 50x50mm treated stakes in soft ground. **Over concrete slabs:** Secured using galvanised L-brackets and masonry screws (e.g., Thunderbolts), or simply braced from the inside using dense concrete blocks acting as deadweights. | **Erosion Control:** Lines the vertical earth walls of the 300mm excavation pit, preventing the surrounding lawn/soil from caving in or washing out during heavy rain. | ~18 linear meters |
 | **Anti-Weed Membrane** | Heavy-Duty Non-Woven Geotextile (e.g., Terram 1000) | Loose laid across the entire dirt floor of the pit and folded *up* the inside of the retaining boards. | **Weed Suppression:** Blocks UV light to prevent weeds, separates the dirt from the gravel, but remains fully permeable to allow rain to drain into the soil. | 1 Roll (4.5m x 10m) |
-| **Void Ballast** | 20mm Washed Pea Gravel | Poured to a 50mm depth directly over the geotextile membrane. | **Moisture & Rodent Deterrent:** Weighs down the membrane, stops muddy splashing, and creates an uncomfortable surface for burrowing rodents. | ~1.5 Bulk Bags |
-| **Anti-Rodent Mesh** | 6mm x 6mm Welded Wire Mesh (Galvanised or 316 Stainless) | **Top Attachment:** Sandwiched securely between the outer face of the timber ring beam and the back of the Aluminium EWI Starter Track. **Bottom Attachment:** Drops down into the pit, flares outwards 150mm - 200mm into an "L-shape", and is buried under the 50mm gravel ballast. | **The Barrier:** Completely seals the void from rodents. Sandwiching it behind the rigid aluminium track guarantees mice cannot pry the top edge loose to squeeze into the joists. | 1 Roll (20m x 0.9m) |
+| **Void Ballast** | 20mm Washed Pea Gravel | Poured to a 50mm depth directly over the geotextile membrane. Follow the natural tilt of the existing slabs to allow drainage. | **Moisture & Rodent Deterrent:** Weighs down the membrane, stops muddy splashing, and creates an uncomfortable surface for burrowing rodents. | ~1.5 Bulk Bags |
+| **Ground Perimeter Drainage** | 400mm Wide Gravel Margin | Extends slightly past the footprint of the slatted skirt | Absorbs rain kinetic energy that drips off the cladding, preventing mud from splashing up onto the slatted skirt, while draining surface water into the earth. | (Included in Void Ballast) |
 | **Ventilated Sub-Skirt** | Treated Timber Slats or Composite Decking boards | Screwed horizontally into vertical timber battens that are dropped down from the Aluminium Starter track or bolted to the ground screw shafts. 10mm-15mm gaps between each slat. | **Aesthetic & Airflow:** Hides the steel mesh and void, while the 15mm gaps ensure the sub-floor receives constant wind cross-ventilation. *Design Note:* The front (West) elevation can be a solid fascia to seamlessly meet a patio, provided the remaining 3 sides remain slatted for cross-ventilation. | ~18 linear meters |
 
-### 1.3 Ground-to-Wall Interface Details (Frame-to-Wall Junction)
-
-**Objective:** Ensure zero thermal bridging ('Red Line' test), block coastal wind-driven rain from wicking into the timber, and securely anchor the structure to the suspended timber floor frame.
+### 1.2 The Comprehensive Ground-to-Floor Envelope (Bottom to Top)
+**Objective:** Provide a fast, zero-concrete structural base that bridges the 300mm excavation pit, avoids the existing concrete slabs, and provides a Passivhaus-level insulated floor capable of handling heavy dynamic machinery loads.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Ground Perimeter Drainage** | 400mm Wide Gravel Margin | Ensure the 20mm washed gravel in the 300mm pit extends slightly past the footprint of the slatted skirt. | Absorbs rain kinetic energy that drips off the cladding, preventing mud from splashing up onto the slatted skirt, while draining surface water into the earth. | (Included in Void Ballast) |
-| **2. Frame Weather Protection** | Tyvek / Breather Membrane Lap | The Tyvek from the walls is taped securely to the Aluminium Starter track. The timber slatted skirt below is H4 treated for ground contact. | No render or liquid waterproofing is required below the starter track. The H4 treated slatted skirt is designed to get wet and dry out via the cross-ventilation. | N/A |
-| **3. The Compacfoam Splash Zone** | **Compacfoam CF200** Block (150mm high x **150mm wide**) | Bedded in structural epoxy continuously around the 17.7m perimeter of the flush timber deck. | **Moisture Defence & Thermal Break:** Elevates the timber SIPs 150mm above the ground lawn (satisfying the upsplash requirement) without raising the internal floor. Rot-proof and structural. 150mm width exactly matches the SIP base panel. | ~17.7 linear meters |
-| **4. Polymeric DPC (Damp Proof Course)** | High-Performance Polymeric DPC | Laid flat continuously along the top surface of the Compacfoam block, directly beneath the timber SIP sole plate. | **Capillary Break:** While Compacfoam is waterproof, the DPC acts as the final, failsafe barrier preventing any surface moisture on the plinth from wicking up into the structural timber sole plate of the SIP wall. | 1 Roll |
-| **5. Structural Anchoring** | M12 A4 (316) Stainless Threaded Studs (**330mm long**, cut from 1m lengths) | Anchored through the timber ring beam @ 1200mm centers | Passes through the 150mm Compacfoam block and the timber sole plate. Allows sufficient exposed thread for a heavy washer and locking nut to clamp the frame down. | ~16 units |
-| **5. Anti-Rodent Mesh (Top Edge)** | 6mm x 6mm Welded Wire Mesh | Sandwiched securely between the outer face of the timber ring beam and the back of the Aluminium EWI Starter Track (See Section 1.2 for full drop detail). | **Pest Barrier:** Mechanically clamped behind the rigid aluminium track to guarantee mice cannot pry the top edge loose to squeeze into the joists. | (Listed in Void Mgmt) |
-| **6. Aluminium EWI Starter Track (Base Profile)** | **70mm wide** Aluminium U-Channel with Drip Edge | Screwed horizontally into the Compacfoam and Ring Beam, exactly perfectly level at the +20mm mark. | Acts as the structural "shelf". *Note on Width:* The 70mm track provides the 60mm required for the insulation board, plus a crucial 10mm tolerance buffer. This ensures the insulation drops in freely without crushing, and allows space for the breather membrane to lap over the outer face without being pinched or tearing against the sharp aluminium lip. Keeps the bottom edge perfectly straight, prevents pests chewing up into the insulation, and forms a drip-edge to kick water away from the void. | ~17.7 linear meters |
-| **7. Rainscreen Bug Mesh** | Perforated Aluminium Vent Trim | Stapled across the bottom 25mm gap between the vertical battens | Allows the 25mm rainscreen cavity to breathe. | ~17.7 linear meters |
-| **8. Splash Zone Skirt (+20mm to +170mm)** | 60mm thick x 150mm high XPS Strip | Mechanically fixed to the Compacfoam using 100mm exterior wood screws with 60mm plastic insulation washers. Backed by a bead of structural PU adhesive. | **Waterproof Plinth:** Maintains the flush 60mm plane for the cladding battens. Provides a 100% rot-proof, waterproof barrier in the critical splash zone above the lawn. | ~17.7 linear meters |
-| **8a. Thermal Overlap (Above +170mm)** | 60mm Wood Fibre External Insulation | Mechanically fixed; starts strictly at the +170mm mark (top of Compacfoam/XPS Skirt, where the SIP wall begins). | **Moisture Protection:** Keeps the hygroscopic wood fibre safely elevated well above the ground, perfectly continuing the thermal envelope upward. | ~39m² coverage |
-| **9. Flush Threshold Drainage**| Aco HexDrain Channel | Set flush with external patio level | Intercepts water before it can pool against the door threshold. | ~2 linear meters |
-| **10. Liquid Moisture Barrier**| RIW Flexiseal | Liquid-applied over threshold junction | Impermeable seal to stop water wicking into the timber at the flush threshold. | 1 tin |
-| **11. SIP to Plate Seal** | Expanding PU Foam & Sealant | Injected into the SIP rebate before dropping over the sole plate | Creates a permanent foam-to-timber airtight and thermal seal at the foundation junction. | 4 tubes |
+| **Ground Screws** | 800mm-1200mm Steel Screws | Professionally driven by Island Ground Screws | Bypasses existing concrete slabs and oak tree roots. | ~16-20 screws |
+| **Heavy Ring Beam** | 150x120mm Built-up Timber (3x 47x120mm C24 bolted together) | Bolted to ground screw U-brackets | Provides a 150mm wide, extreme load-bearing perimeter ledge to carry the 150mm Compacfoam and SIP walls. | ~17.7 linear meters |
+| **Floor Joists** | 47x120mm C24 Treated Timber | Hung via galvanized joist hangers to the inside edge of the Ring Beam @ 400mm centers | Carries the internal floor independently of the walls. Flush with the top of the ring beam (+20mm datum). | ~40 linear meters |
+| **Primary Insulation** | 120mm PIR Board | Friction-fit between joists, sealed with expanding PU foam | Provides the bulk thermal resistance. | ~19m² |
+| **Sub-Deck** | 22mm Cement Particle Board (CPB) | Screwed to the joists | Rigid, fire-resistant, high-mass load spreader. | ~19m² |
+| **Continuous Thermal Break**| 50mm Phenolic Insulation (e.g., Kingspan Kooltherm) | Laid continuously over the CPB layer | **Crucial Detail:** Completely caps the thermal bridging of the timber joists below. | ~19m² |
+| **Structural Load-Spreader** | 18mm OSB3 (Tongue & Groove) | Floating over Phenolic, T&G joints glued, screwed with extra-long screws through to joists | Spreads extreme point-loads of cast iron machinery evenly across the phenolic foam to prevent crushing. | ~19m² |
+| **Aesthetic/Wear Deck** | 14mm-20mm Engineered Wood Flooring | **Fully Bonded** directly to the OSB3 using a flexible polyurethane wood-floor adhesive (e.g., SikaBond). | Gluing turns the OSB and Engineered wood into one massive solid deck, eliminating bounce. | ~19m² |
+| **Machine Decoupling** | 15mm SBR Rubber Isolation Pads (100x100mm) | Placed precisely under the feet of cast-iron machinery | **Critical:** Protects the engineered wood from point-load denting and stops motor resonance. | As needed |
 
-**Textual Cross-Section Description (Outside to Inside at Floor Level):**
-*(Outside)* 20mm Washed Gravel Splash Margin -> Perimeter Ground Screw Line -> 150mm tall Compacfoam CF200 Base Ring with 50mm XPS Splash Skirt fixed to outer face -> Stainless Drip Flashing -> Tyvek Breather Membrane -> 60mm Wood Fibre Insulation (starting at +150mm mark) -> 150mm New Forest SIP Base Wall Panel resting on Timber Sole Plate -> Polymeric DPC on top of Compacfoam -> Timber Floor Deck (flush with lawn). *(Inside)*
+*Internal Perimeter Step Detail:* Total inner floor thickness over the joists is 104mm (22+50+18+14). The Compacfoam perimeter block sitting next to it is 150mm high. This creates a ~46mm high structural "curb" around the internal perimeter of the room, which is neatly hidden by a standard tall skirting board.
 
-**CRITICAL VAPOUR INSTRUCTION:** SIP panels MUST be ordered WITHOUT a factory-fitted breather membrane. The Tyvek is applied solely over the external Wood Fibre layer to prevent trapping moisture between two membranes.
+### 1.3 Underground Service Trenching & Floor Penetration
 
+**Objective:** Provide safe, code-compliant subterranean routes for the SWA power and Cat6a data cables from the house to the workshop, and bring them through the insulated floor without compromising the Passivhaus airtight envelope.
+
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
+| :--- | :--- | :--- | :--- | :--- |
+| **Power Duct** | 50mm rigid twinwall electric ducting (Black/Red) | Laid in trench min **450mm** below ground level. | **BS 7671 Compliance:** Protects primary SWA power cable from shovel strikes. Cover with electrical warning tape 150mm above duct. | Length as required |
+| **Data Duct** | 50mm rigid twinwall comms ducting (Green) | Laid in same trench at **250-300mm** below ground level. | Vertical separation from high-voltage AC prevents electromagnetic interference (EMI). | Length as required |
+| **Duct Entry** | 90-degree long-radius sweeping bends | Emerging directly up into the 300mm sub-floor void. | Brings services beneath the workshop without external wall penetrations. | 2 bends |
+| **Duct Routing (In Void)** | 50mm twinwall ducts | Route horizontally across the 300mm void, pinned to gravel or strapped to joists. | Once inside the protected building footprint, BS 7671 does not require 450mm burial. | N/A |
+| **Duct Termination** | 50mm twinwall open end | Left exposed in the 300mm void, strapped to the side of a joist. | The bulky 50mm duct **does not** enter the room. It terminates in the sub-floor void. | N/A |
+| **Duct Vermin Plug** | Wire wool & standard expanding foam | Stuffed into the open end of the 50mm ducts around the exiting cables. | Prevents mice or spiders from using the underground duct as a highway from the house into the void. | 1 can |
+| **Floor Core Hole** | ~25mm-32mm drilled hole | Drilled vertically through the floor sandwich (Plywood, Phenolic, CPB, PIR) strictly *between* joists. | Allows only the raw cables (SWA and Cat6a) to pass through the floor, minimizing the hole size. | N/A |
+| **Airtight Cable Grommet** | Pro Clima Kaflex (or Tescon Vana Tape + PU Foam) | Adhered to the Birch Plywood top deck, stretching over the cable jackets. | **Passivhaus Critical:** Seals the floor penetration permanently against draughts, moisture, and pressure loss. | 1-2 Grommets |
 
 ---
 
@@ -114,18 +100,38 @@ layout: default
 
 **U-Value Target Check:** The 150mm New Forest SIP Base Wall Panel (U=0.21) combined with 60mm Wood Fibre yields an estimated U-value of **~0.15 W/m²K**. This successfully hits the precise 0.15 Passivhaus target while preserving internal space within planning limits.
 
-### 2.1 The Wall 'Sandwich' (Exterior to Interior)
+### 2.1 The Comprehensive Wall & Plinth Envelope (Bottom to Top, Exterior to Interior)
 
+**Objective:** Ensure zero thermal bridging ('Red Line' test), block coastal wind-driven rain, and securely anchor the structure while providing an unbroken sequence from the foundation plinth up to the internal ceiling.
+
+#### A. The Structural Base & Anchoring (The Plinth)
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Cladding** | James Hardie VL Fibre Cement Plank (11mm, A2 Fire) | Mechanical fixing via Hardie™ Plank Screws (4.2Ø x 40mm, A2 Stainless, T15 Torx). | 'Cowes-Proof' weather shield. Complies with Part B Fire Safety for boundary proximity (Requires A2 non-combustible classification). | ~39m² coverage |
-| **2. Rainscreen Gap / Batten** | 25x50mm Treated Timber @ 400mm centers | 150mm A4 (316) Stainless Steel EWI Screws driven in an alternating pattern: 60° downward (for shear weight) and 90° horizontally (for wind load/anti-compression). | Creates a strict **25mm ventilation path** from bottom to top. Alternating screw angles prevent the heavy cladding from pulling inward and crushing the 60mm soft wood fibre. | ~180 linear meters |
-| **3. Breather Membrane** | Tyvek Housewrap / UV Facade | **Clamped** by vertical rainscreen battens. Held temporarily via the \'Top-and-Tail\' method. *Base Detail:* The membrane is draped completely over the Wood Fibre and XPS skirt, stopping just shy of the Aluminium Starter Track. It is then permanently taped to the face of the starter track using Tescon Vana. **Do not tuck it into the track**, as trapped water will pool in the U-channel. | Repels wind-driven rain, allows internal vapour escape, directs water completely out over the starter track drip-edge. | 1 Roll (50m) |
-| **4. External Insulation** | 60mm Rigid Wood Fibre Board | Friction fit; held by batten screws | Unbroken thermal jacket. Chosen for its high specific heat capacity (2,100 J/kgK), providing a massive 'decrement delay' to prevent summer overheating. | ~39m² coverage |
-| **5. Structural SIP Panel** | 150mm New Forest SIP Base Wall Panel | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Acts as the primary load-bearing structure and extreme continuous thermal barrier. | ~39m² wall coverage |
-| **6. Vapour Control Sealing** | Pro Clima Tescon Vana Tape | Taped directly over the internal SIP wall joints | Airtightness; stops interstitial condensation. *(Note: Because the 25mm service cavity was eliminated, a full Intello Plus sheet cannot be used on the walls as the Fermacell screws would shred it. Tescon Vana tape over the SIP joints ensures Passivhaus airtightness while remaining self-sealing against direct Fermacell screws).* | 4 Rolls |
-| **7. Internal Finish** | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking. Fixed *directly* to the internal SIP OSB face. **CRITICAL FIRE RATING:** Because the building is <1m from a boundary, Building Control mandates REI30/REI60. The 15mm Fermacell acts as the necessary Type F fire-board equivalent to protect the combustible OSB. | ~26 boards |
+| **The Thermal Plinth** | **Compacfoam CF200** Block (150mm high x **150mm wide**) | Bolted directly to the top of the 150mm Ring Beam | **Moisture Defence & Thermal Break:** Elevates the timber SIPs 150mm above the ground lawn without raising the internal floor. Rot-proof and structural. | ~17.7 linear meters |
+| **Polymeric DPC** | High-Performance Polymeric DPC | Laid flat continuously along the top surface of the Compacfoam block. | **Capillary Break:** Failsafe barrier preventing any surface moisture on the plinth from wicking up into the structural timber sole plate of the SIP wall. | 1 Roll |
+| **SIP to Plate Seal** | Expanding PU Foam & Sealant | Injected into the SIP rebate before dropping over the sole plate | Creates a permanent foam-to-timber airtight and thermal seal at the foundation junction. | 4 tubes |
+| **Structural Anchoring** | M12 A4 (316) Stainless Threaded Studs (**330mm long**) | Anchored through the timber ring beam @ 1200mm centers | Passes through the 150mm Compacfoam block and the timber sole plate to securely clamp the frame down. | ~16 units |
 
+#### B. The External Plinth & Splash Skirt
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
+| :--- | :--- | :--- | :--- | :--- |
+| **Anti-Rodent Mesh (Top Edge)** | 6mm x 6mm Welded Wire Mesh | Sandwiched securely between the outer face of the timber ring beam and the back of the Aluminium Starter Track. | **Pest Barrier:** Mechanically clamped behind the rigid aluminium track to guarantee mice cannot pry the top edge loose. | (Listed in Void Mgmt) |
+| **Aluminium EWI Starter Track** | **60mm wide** Aluminium U-Channel with Drip Edge | Screwed horizontally into the Compacfoam and Ring Beam, perfectly level at the +20mm mark. | Acts as the structural "shelf" for the XPS skirt. A 60mm track is used here because the dense XPS board has perfectly square, rigid edges that will slot perfectly into a matching track. Forms a drip-edge to kick water away from the void. | ~17.7 linear meters |
+| **Splash Zone Skirt (+20mm to +170mm)** | **60mm thick** x 150mm high XPS Strip | Mechanically fixed to the Compacfoam using 100mm exterior wood screws with plastic washers. Backed by PU adhesive. | **Waterproof Plinth:** Maintains the flush 60mm plane for the cladding battens. Provides a 100% rot-proof, waterproof barrier in the critical splash zone above the lawn. | ~17.7 linear meters |
+
+#### C. The Field of the Wall (Exterior to Interior)
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
+| :--- | :--- | :--- | :--- | :--- |
+| **Cladding** | James Hardie VL Fibre Cement Plank (11mm, A2 Fire) | Mechanical fixing via Hardie™ Plank Screws (4.2Ø x 40mm). | 'Cowes-Proof' weather shield. Complies with Part B Fire Safety for boundary proximity. | ~39m² coverage |
+| **Rainscreen Gap / Batten** | 25x50mm Treated Timber @ 400mm centers | 150mm A4 (316) Stainless Steel EWI Screws driven in an alternating pattern: 60° downward (for shear weight) and 90° horizontally (for wind load). | Creates a strict **25mm ventilation path**. Alternating screw angles (Truss-Screw method) prevent the heavy cladding from crushing the soft wood fibre. | ~180 linear meters |
+| **Rainscreen Bug Mesh** | Perforated Aluminium Vent Trim | Stapled across the bottom 25mm gap between the vertical battens | Allows the 25mm rainscreen cavity to breathe while stopping pests. | ~17.7 linear meters |
+| **Breather Membrane** | Tyvek Housewrap / UV Facade | **Clamped** by vertical rainscreen battens. *Base Detail:* Draped over the Wood Fibre and XPS skirt, taped to the front face of the 60mm starter track using Tescon Vana. **Do not tuck it into the track.** | Repels wind-driven rain, allows internal vapour escape, directs water completely out over the starter track drip-edge. | 1 Roll (50m) |
+| **External Insulation** | 60mm Rigid Wood Fibre Board | Friction fit; held by batten screws. Starts strictly at the +170mm mark. | Unbroken thermal jacket. Chosen for its high specific heat capacity (2,100 J/kgK), providing a massive 'decrement delay' to prevent summer overheating. | ~39m² coverage |
+| **Structural SIP Panel** | 150mm New Forest SIP Base Wall Panel | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Acts as the primary load-bearing structure and extreme continuous thermal barrier. | ~39m² wall coverage |
+| **Vapour Control Sealing** | Pro Clima Tescon Vana Tape | Taped directly over the internal SIP wall joints | Airtightness; stops interstitial condensation. | 4 Rolls |
+| **Internal Finish** | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking. Fixed *directly* to the internal SIP OSB face. REI30/REI60 Fire compliant. | ~26 boards |
+
+**CRITICAL VAPOUR INSTRUCTION:** SIP panels MUST be ordered WITHOUT a factory-fitted breather membrane. The Tyvek is applied solely over the external Wood Fibre layer to prevent trapping moisture between two membranes.
 
 ### 2.1a The Plinth Transition (XPS to Wood Fibre)
 **Objective:** Seamlessly transition from the waterproof 150mm-high XPS splash skirt to the breathable 60mm Wood Fibre without creating a moisture trap or thermal gap.
@@ -215,6 +221,7 @@ layout: default
     *   *Revised Vertical Datum:* The door and West window heads align at **2130mm FFL**, preserving ~89.5mm of structural head zone above the openings. The revised 1000x1000mm fixed windows place the bottom sills at **1150mm FFL**, allowing a standard 900mm-high workbench or desk to sit beneath the glass with ~250mm clearance.
 *   **French Doors Forbidden:** Traditional French doors are strictly prohibited. They inherently fail Passivhaus airtightness standards and acoustic reduction due to the lack of a central mullion, leading to air and noise leakage down the meeting stiles.
 *   **Approved Mechanisms:** Specify a **1400mm x 2130mm maximum outer-frame-height Asymmetric 1.5 Door system** (e.g., a 900mm active leaf combined with a 500mm slave leaf) or a high-performance **Lift-and-Slide door** only if the supplier can keep the total frame height at or below 2130mm FFL. These systems use complex cam-action locks to physically compress robust continuous rubber gaskets, ensuring the thermal and acoustic envelope is not compromised at the entry point.
+*   **Flush Threshold Drainage:** An Aco HexDrain Channel must be set flush with the external patio level directly in front of the door to intercept water. RIW Flexiseal liquid moisture barrier must be applied over the threshold junction to stop water wicking into the timber at the flush transition.
 
 ---
 
