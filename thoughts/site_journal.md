@@ -787,3 +787,18 @@
   - Renamed header to `Frame-to-Wall Junction`.
   - Replaced the "Upstand Waterproofing" (which applied to the old Jackodur tub) with a clarification that the H4 slatted skirt below the starter track requires no render.
   - Adjusted the gravel perimeter point to reflect that it simply extends from the void ballast.
+
+## Date: 2026-07-25
+**Foreman Notes: DPM/DPC Lapping on Timber Frame**
+- **User Query:** Asked how the DPM/DPC lapping works on a timber foundation, since there is no concrete slab DPM to fold up the sides.
+- **Foreman Action:** 
+  - Acknowledged another ghost from the concrete build. You do not wrap a plastic DPM up the side of a suspended timber frame (this would trap moisture).
+  - Clarified that on a ground screw / Compacfoam setup, you only need a single flat strip of Polymeric DPC laid between the top of the Compacfoam and the bottom of the timber SIP sole plate to act as a capillary break.
+  - Updated Point 4 in `MASTER_PLAN.md` Section 1.3 to reflect this simple flat DPC installation.
+
+## Date: 2026-07-25
+**Foreman Notes: Rodent Mesh cross-reference in Section 1.3**
+- **User Query:** Pointed out the anti-rodent mesh is missing from the Ground-to-Wall build up table (Section 1.3).
+- **Foreman Action:** 
+  - Acknowledged that while the mesh is fully detailed in Section 1.2 (Void Management), its top attachment is a critical part of the physical "stack" at the ring beam.
+  - Inserted the mesh as Point 5 into the Section 1.3 table to ensure the builder sees the sequence before screwing on the Starter Track (Point 6).
