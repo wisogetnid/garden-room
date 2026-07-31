@@ -18,7 +18,7 @@ layout: default
 ## Step-by-Step Construction Phases
 1. **Phase 1: Groundworks & Sub-Floor (Weeks 1-3):** Installation of ground screws by Island Ground Screws (avoiding existing concrete slabs), assembly of 120mm timber joist frame infilled with PIR, and structural sub-deck.
 2. **Phase 2: Thermal Capping & Decking (Week 4):** Installation of 22mm CPB, 50mm continuous Phenolic insulation layer, and 22mm structural Birch Plywood top deck.
-3. **Phase 3: Structural Envelope (Weeks 5-7):** Application of continuous Compacfoam CF200 thermal break, erection of 150mm SIP walls, 122mm (true) LVL-splined sloped SIP roof, and Tyvek membrane wrap.
+3. **Phase 3: Structural Envelope (Weeks 5-7):** Sole plate anchoring over Polymeric DPC, erection of 150mm SIP walls, 122mm (true) LVL-splined sloped SIP roof, and Tyvek membrane wrap.
 4. **Phase 4: Exterior Finish & Weatherproofing (Weeks 8-9):** 60mm external rigid Wood Fibre insulation, EPDM flat roof waterproofing, VIG window/door installation, and James Hardie VL cladding.
 5. **Phase 5: Internal Fit-Out & MEP (Weeks 10-12+):** 25mm rainscreen battening, internal Pro Clima Intello Plus VCL taping, 25mm service cavity, 15mm Fermacell fire-rated internal boards, Part P Electrical sign-off, Air-to-Air Heat Pump (ASHP) activation, and dMVHR ventilation balancing.
 
@@ -49,6 +49,20 @@ layout: default
 
 *(Note: All structural orders—Timber frame, SIPs, and PIR—must be executed to the calculated **3408mm x 5408mm** core dimensions, NOT the finished external cladding dimensions of 3600mm x 5600mm.)*
 
+
+### 1.0a Structural Order Dimensions (The "Cut List")
+**Objective:** Provide the exact manufacturing dimensions for the timber frame and SIP panels to ensure they perfectly hit the 3600mm x 5600mm external limit once the 96mm cladding buildup is added.
+
+*   **1. Timber Ring Beam (150x120mm):**
+    *   Outer Assembled Footprint: **3408mm x 5408mm**
+*   **2. SIP Wall Panels (150mm thickness):**
+    *   *Note: Heights below account for subtracting the 20mm timber ring beam datum from the total vertical datum.*
+    *   **West Wall (High Side):** 5408mm Length × **2221.5mm Height**
+    *   **East Wall (Low Side):** 5408mm Length × **2164.7mm Height**
+    *   **North & South Walls (Sloped):** 3108mm Width (fitting *between* the long walls) × Sloping from 2164.7mm to 2221.5mm Height.
+*   **3. SIP Roof Panels (122mm thickness):**
+    *   The roof must cantilever exactly 96mm past the structural SIP walls on all four sides to cover the external insulation and cladding.
+    *   **Total Assembled Roof Plane:** **3600mm Width × 5600mm Length**
 
 
 ### 1.1 Void Management, Erosion & Rodent Defense
@@ -169,7 +183,7 @@ layout: default
     *   Maximum \'High-Side\' Wall Height: **2241.5mm**
     *   Low-Side Wall Height: 2241.5mm - 56.8mm fall = **2184.7mm**
     *   Total Roof Buildup: **238.5mm** (1.5mm EPDM + 100mm high-compressive PIR + 122mm true SIP [11mm OSB/100mm Core/11mm OSB] + 15mm Fermacell)
-    *   **Total Maximum External Height:** 2480mm high side / **2423.2mm** low side. (Strict Legal Pass: Provides a 20mm safety buffer under the 2.5m limit). (Strict Legal Pass: Measured exactly from the highest adjacent natural ground point).
+    *   **Total Maximum External Height:** 2480mm high side / **2423.2mm** low side (measured from the highest adjacent natural ground point, providing a 20mm safety buffer under the 2.5m legal limit).
 *   **Internal Ceiling Heights (accounting for 22mm hard-bonded flooring and 15mm ceiling board):**
     *   **High Side:** 2241.5mm wall - 22mm floor - 15mm ceiling = **~2204.5mm (approx. 7 ft 2.8 in)**
     *   **Low Side:** 2241.5mm - 56.8mm drop = 2184.7mm wall. 2184.7mm - 22mm floor - 15mm ceiling = **~2147.7mm (approx. 7 ft 0.5 in)**
@@ -249,7 +263,7 @@ layout: default
 **Context:** A 20m² wood workshop in coastal Cowes used primarily on evenings and weekends, with potential future conversion to a home office.
 *   *Low-Wattage Convection:* Good for background heat, but stirs up fine combustible dust (Rejected).
 *   *Infrared (IR) Panels:* Ideal for instant radiant heat (heats objects and the human directly).
-*   *Air-to-Air Heat Pump:* Zero-penetration Passivhaus adaptation. While the COP is 1.0 (compared to an ASHP's 3.5), the Passivhaus demand is so low that running costs remain trivial, and avoiding external refrigerant penetrations completely eliminates airtightness failure risks.
+*   *Air-to-Air Heat Pump:* Primary heating and cooling solution (SCOP ~3.5 to 4.0). Operates with rapid thermal response for the low-mass timber floor and provides active dehumidification during occupancy.
 
 ### 4.1 Heating, Cooling & Rust Prevention Strategy
 Since the high-mass concrete slab was replaced with a low-mass timber floor, the workshop will respond extremely quickly to heating inputs. To provide instant temperature control across all seasons and rigorously control humidity (preventing rust on cast iron), an Air-to-Air Heat Pump (Mini-Split AC) is specified.

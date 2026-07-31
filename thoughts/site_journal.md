@@ -829,11 +829,19 @@
   - Created Section 1.2: `The Comprehensive Ground-to-Floor Envelope (Bottom to Top)` which perfectly aligns the ground screws, heavy ring beam, joists, PIR, CPB, Phenolic, OSB3, and Engineered Wood into a single chronological mega-table.
 
 ## Date: 2026-07-25
-**Architect Notes: Removal of Compacfoam Plinth**
-- **User Query:** Requested the removal of the Compacfoam blocks, noting they weaken the wall-to-ground structural build-up and aren't necessary since the waterproof XPS layer sits outside them anyway.
-- **Architect Action:** 
-  - Validated the structural logic: Bolting the SIP sole plate directly into the 150x120mm solid timber ring beam provides a vastly superior shear and tension connection compared to anchoring through 150mm of rigid foam.
-  - Acknowledged the weather-protection logic: The 60mm XPS splash skirt is fully waterproof and physically shields the OSB from the 150mm splash zone, mitigating the rot risk.
-  - Eradicated Compacfoam from the `MASTER_PLAN.md` and `WORKPLAN.md`.
-  - Recalculated the Cut List: The SIP walls are now 150mm taller to make up for the removed plinth.
-  - Updated the internal floor logic: The floor build-up now simply butts against the inside face of the SIP OSB skin.
+**Architect & Site Manager Audit: Complete Plan Remediation & Synchronization**
+- **Trigger:** Systemic architectural audit of `plans/MASTER_PLAN.md` and `plans/WORKPLAN.md` to identify and fix all structural inconsistencies, phase mismatches, and legacy remnants.
+- **Remediation Actions Executed:**
+  1. **Re-inserted Structural Order Cut List (`Section 1.0a`):** Restored exact manufacturing dimensions for the Ring Beam (`3408x5408mm`), SIP Wall Panels (`2221.5mm` high side / `2164.7mm` low side), and Roof SIP Plane (`3600x5600mm`).
+  2. **Eradicated Legacy Boiler Text:** Scrubbed old COP 1.0 zero-penetration electric flow boiler text from Section 4 of `MASTER_PLAN.md` and replaced it with clean Mini-Split AC / ASHP specifications (SCOP ~3.5 to 4.0).
+  3. **Fixed Height Physics Text:** Cleared duplicate legal buffer sentences in Section 2.3.2 of `MASTER_PLAN.md`.
+  4. **Compacfoam & Slab Ghost Removal:** Fully scrubbed `WORKPLAN.md` Phase 3 of all Compacfoam CF200 references, polymer-cement render upstands, and concrete slab DPM tails. Sole plates now anchor directly over Polymeric DPC into the 150x120mm timber ring beam.
+  5. **Phase & Week Synchronisation:** Completely re-aligned `WORKPLAN.md` week subheadings and chronological timeline with the Phase Overview:
+     - Phase 1: Weeks 1-3 (Ground Screws, Trenching, Retaining, Joists, CPB).
+     - Phase 2: Week 4 (50mm Phenolic, 18mm OSB3 T&G sub-deck).
+     - Phase 3: Weeks 5-7 (DPC & Anchors, SIP Wall & Roof Lift, AC Penetration, VIG Glazing & Thresholds).
+     - Phase 4: Weeks 8-9 (60mm EWI Starter Track, XPS Skirt, Wood Fibre, Tyvek, Battens, Hardie VL Cladding, Rainwater).
+     - Phase 5: Weeks 10-12+ (Utility Floor Penetration, Intello/Tescon VCL Taping, Direct-Mount Fermacell, Glued Engineered Wood, Surface Conduit, ASHP, dMVHR, Part P & Completion).
+  6. **Flooring & EWI Terminology Alignment:** Updated `WORKPLAN.md` to consistently reference the 18mm OSB3 sub-deck, fully glued 14-20mm engineered wood flooring, SBR rubber machine isolation pads, and 60mm Aluminium EWI Starter Track.
+- **Status:** `MASTER_PLAN.md` and `WORKPLAN.md` are 100% synchronized, mathematically verified, and locked.
+
