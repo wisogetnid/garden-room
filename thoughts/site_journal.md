@@ -886,4 +886,11 @@
   - Updated Section 2.1 header to explicitly state `(Bottom to Top, Interior to Exterior - Build Sequence)`.
   - Updated `MASTER_PLAN.md`.
 
+## Date: 2026-07-25
+**Architect Notes: Plinth Transition Integration into Table Row 4**
+- **User Query:** Requested adding the core information of Section 2.1a (The Plinth Transition: XPS to Wood Fibre) directly into the External Insulation row (Row 4) of the Part C table, and removing the redundant standalone 2.1a section.
+- **Architect Action:** 
+  - Integrated the exact joint sealant specification (breathable MS Polymer / Compriband tape) and the critical warning (**NEVER use standard closed-cell expanding PU foam**) directly into the Fixing Method and Purpose columns for Row 4 (External Insulation) in Section 2.1 Part C.
+  - Deleted redundant standalone Section 2.1a from `MASTER_PLAN.md`.
+
 
