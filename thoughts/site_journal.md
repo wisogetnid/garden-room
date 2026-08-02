@@ -979,4 +979,13 @@
   - Reverted Section 1.2 in `MASTER_PLAN.md` to defer specific tube gauge selection directly to Island Ground Screws based on their professional torque test results on-site.
   - Maintained the requirement for **150mm U-brackets** to hold the heavy built-up ring beam.
 
+## Date: 2026-07-25
+**Architect Notes: Door Threshold Riser Block Specification (+75mm FFL Alignment)**
+- **User Query:** Asked how the door threshold reaches the finished internal floor height (+75mm FFL), and if a timber beam is placed underneath.
+- **Architect Action:** 
+  - Calculated exact height difference between top of sole plate (`+17mm`) and finished floor level (`+75mm FFL`): exactly **58mm**.
+  - Specified a **58mm tall x 150mm wide treated C24 timber riser block** (or threshold packer) bedded over the Polymeric DPC across the 1400mm door opening.
+  - Elevates the door frame sill to **+75mm FFL**, bringing the threshold perfectly flush with the internal engineered wood floor.
+  - Updated `MASTER_PLAN.md` Section 2.5 and `WORKPLAN.md` Week 7.
+
 

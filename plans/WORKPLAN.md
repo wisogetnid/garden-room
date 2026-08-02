@@ -85,7 +85,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
     *   *East:* 2x 300x1500mm Fixed Clerestory, top datum **2080mm FFL**.
     *   *West:* 2x 1000x1000mm Fixed Panorama + 1400mm x 2130mm maximum outer-frame-height Asymmetric Door, all heads aligned at **2130mm FFL**.
     *Foreman Note:* Verify the **89.5mm** structural head zone above the West door/windows beneath the 2241.5mm high-side wall plate. Seal all units with expanding PU foam and tape over frame-to-OSB joints internally with Tescon Vana.
-*   **Threshold Drainage:** Set an Aco HexDrain channel flush with the external patio level directly in front of the West door, and apply **RIW Flexiseal** liquid moisture barrier over the threshold junction.
+*   **Threshold Riser & Drainage:** Install a treated **58mm tall x 150mm wide C24 timber riser block** over the DPC across the 1400mm door opening to bring the door frame base up to **+75mm FFL** (flush with the internal engineered wood floor). Set an Aco HexDrain channel flush with the external patio level directly in front of the West door, and apply **RIW Flexiseal** liquid moisture barrier over the threshold junction.
 
 ---
 
