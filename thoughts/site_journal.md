@@ -893,4 +893,90 @@
   - Integrated the exact joint sealant specification (breathable MS Polymer / Compriband tape) and the critical warning (**NEVER use standard closed-cell expanding PU foam**) directly into the Fixing Method and Purpose columns for Row 4 (External Insulation) in Section 2.1 Part C.
   - Deleted redundant standalone Section 2.1a from `MASTER_PLAN.md`.
 
+## Date: 2026-07-25
+**Architect Notes: Earth Retaining Board Placement & Backfill Specification**
+- **User Query:** Asked how far away the Earth Retaining Boards should be from the surrounding soil.
+- **Architect Action:** 
+  - Clarified that the Earth Retaining Boards must sit **0mm / flush and tight directly against the vertical soil face** of the 300mm excavation pit. Leaving a gap behind the board allows soil to slump and collapse the lawn edge.
+  - Specified that if hand digging (pick-mattock) left irregular voids behind the boards, those gaps must be backfilled and tamped down tight with pea gravel.
+  - Clarified the distinction between the retaining boards (tight to soil face) and the building's slatted sub-skirt (which sits ~350mm-400mm inside the pit, leaving the gravel margin).
+  - Updated `MASTER_PLAN.md` Section 1.1 and `WORKPLAN.md` Week 2.
+
+## Date: 2026-07-25
+**Architect Notes: Retaining Board Clearance Dimensions**
+- **User Query:** Asked how far away the retaining boards/pit boundary should be from the timber ring beam and exterior shell of the building.
+- **Architect Action:** 
+  - Extrapolated the exact physical clearances from the `4208x6208mm` excavation pit and `3408x5408mm` ring beam footprint.
+  - Clearance 1 (Ring Beam to Retaining Boards): **400mm (40cm / 16 in)** on all four sides.
+  - Clearance 2 (Finished Cladding Shell to Retaining Boards): **304mm (30.4cm / 12 in)** on all four sides.
+  - Documented these explicit clearance numbers in `MASTER_PLAN.md` Section 1.0 & Section 1.1, and `WORKPLAN.md` Week 2.
+
+## Date: 2026-07-25
+**Architect Notes: Flexible Pit Clearance Reduction (150mm to 400mm, 200mm Recommended)**
+- **User Query:** Asked if the excavation pit retaining boards could be closer to the ring beam than 400mm.
+- **Architect Action:** 
+  - Validated that the old 400mm over-dig was designed for pouring concrete slab formwork. With ground screws and a suspended timber frame assembled from inside, a **150mm to 200mm clearance** is more than enough for drill/driver access (starter track / battens) and cross-ventilation.
+  - Calculated that shrinking the pit over-dig from 400mm (`4208x6208mm`) down to 200mm (`3808x5808mm`) **saves ~3.5 tonnes of manual pick-mattock digging**!
+  - Defined the flexible range: 150mm absolute minimum, 200mm recommended, up to 400mm maximum.
+  - Updated `MASTER_PLAN.md` Section 1.0 & Section 1.1, and `WORKPLAN.md` Week 2.
+
+## Date: 2026-07-25
+**Architect Notes: Gravel Ballast Depth Reduction (25mm to 30mm)**
+- **User Query:** Asked if the void ballast gravel thickness could be reduced below 50mm.
+- **Architect Action:** 
+  - Validated that 20mm washed pea gravel needs only a single-to-double particle depth (**25mm–30mm / 1 inch**) to weigh down the geotextile membrane, protect it from UV light, bury the bottom lip of the rodent mesh, and prevent mud splashing.
+  - Calculated that reducing gravel depth from 50mm to 25mm–30mm **cuts the gravel order in half** (from ~1.5 Bulk Bags / 1.3t down to **1 Bulk Bag / ~800kg**).
+  - Highlighted that lowering the gravel floor by 20mm–25mm increases the sub-floor clear air gap, providing additional oak tree heave safety clearance.
+  - Updated `MASTER_PLAN.md` Section 1.1 and `WORKPLAN.md` Week 2.
+
+## Date: 2026-07-25
+**Architect Notes: Datum Offset Column Integration Across All Envelope Tables**
+- **User Query:** Requested adding a dedicated `Datum Offset (0mm = Lawn)` column to all vertical build-up tables in `MASTER_PLAN.md`, assuming a 150mm clear heave gap to the bottom of the ring beam and a 300mm pit depth.
+- **Architect Action:** 
+  - Calculated exact vertical level ranges relative to Lawn Datum 0mm for every layer from the pit floor up to the roof cap:
+    * Pit Soil Floor: `-300mm`
+    * Gravel Ballast (28mm): `-300mm to -272mm`
+    * Clear Air Heave Gap (122mm air / 150mm to soil): `-272mm to -150mm`
+    * Ground Screws: `-800mm to -150mm`
+    * Heavy Ring Beam (150x120mm): `-150mm to -30mm`
+    * Floor Joists (47x120mm C24): `-150mm to -30mm`
+    * Primary PIR Insulation (120mm): `-150mm to -30mm`
+    * Sub-Deck CPB (22mm): `-30mm to -8mm`
+    * Continuous Phenolic Thermal Break (50mm): `-8mm to +42mm`
+    * OSB3 Load-Spreader (18mm): `+42mm to +60mm`
+    * Engineered Wood Flooring (15mm): `+60mm to +75mm` (FFL = `+75mm`)
+    * SIP Sole Plate: `-30mm to +17mm`
+    * EWI Starter Track: `-30mm to +20mm`
+    * XPS Splash Skirt: `+20mm to +170mm`
+    * SIP Wall Panels: `+17mm to +2238.5mm` (High) / `+2181.7mm` (Low)
+    * Wood Fibre External Insulation: `+170mm to +2238.5mm`
+    * Maximum Roof Height: `+2477.0mm` (23mm under the 2500mm legal limit)
+  - Added `Datum Offset (0mm = Lawn)` column into Section 1.2 Table and Section 2.1 Tables A, B, and C in `MASTER_PLAN.md`.
+  - Updated `WORKPLAN.md` Week 2.
+
+## Date: 2026-07-25
+**Architect Notes: Exact Internal Ceiling Height Calculation**
+- **User Query:** Asked for the new internal ceiling height based on the updated vertical datums.
+- **Architect Action:** 
+  - Calculated exact net clear ceiling height (FFL = `+75mm` to underside of Fermacell ceiling = `+2223.5mm` high / `+2166.7mm` low):
+    * **High Side (West Wall - Door & Main Workbench):** **2148.5mm (~2.15m / 7 ft 0.6 in)**
+    * **Low Side (East Wall - Clerestory Windows):** **2091.7mm (~2.09m / 6 ft 10.3 in)**
+    * **Average Clear Internal Room Height:** **2120.1mm (~2.12m / 6 ft 11.5 in)**
+  - Updated Section 2.3.2 in `MASTER_PLAN.md`.
+
+## Date: 2026-07-25
+**Architect Notes: Ground Screw Tube Diameter Specification**
+- **User Query:** Asked for the diameter of the ground screws.
+- **Architect Action:** 
+  - Defined standard UK industry specification for garden room / timber outbuilding ground screws: **76mm OD (76.1mm outer diameter x 3.5mm wall thickness, hot-dip galvanized steel)**.
+  - Noted that helical flights at the bottom expand to ~100-120mm OD, while top heads are fitted with 150mm heavy-duty U-brackets.
+  - Updated `MASTER_PLAN.md` Section 1.2.
+
+## Date: 2026-07-25
+**Architect Notes: Removal of Prescriptive Ground Screw Diameter**
+- **User Query:** Requested removing the explicit tube diameter from the Master Plan, preferring Island Ground Screws to select the appropriate screw specification based on site torque testing.
+- **Architect Action:** 
+  - Reverted Section 1.2 in `MASTER_PLAN.md` to defer specific tube gauge selection directly to Island Ground Screws based on their professional torque test results on-site.
+  - Maintained the requirement for **150mm U-brackets** to hold the heavy built-up ring beam.
+
 
