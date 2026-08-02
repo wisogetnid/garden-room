@@ -845,3 +845,45 @@
   6. **Flooring & EWI Terminology Alignment:** Updated `WORKPLAN.md` to consistently reference the 18mm OSB3 sub-deck, fully glued 14-20mm engineered wood flooring, SBR rubber machine isolation pads, and 60mm Aluminium EWI Starter Track.
 - **Status:** `MASTER_PLAN.md` and `WORKPLAN.md` are 100% synchronized, mathematically verified, and locked.
 
+## Date: 2026-07-25
+**Architect Notes: Removal of Redundant Ground Perimeter Drainage Line**
+- **User Query:** Asked if "Ground Perimeter Drainage" in Section 1.1 was a remnant of the old concrete slab foundation that doesn't need to be there.
+- **Architect Action:** 
+  - Confirmed the user's observation. In the old concrete raft specification, a 400mm perimeter over-dig was filled with gravel to act as a French drain around the Jackodur tub upstand.
+  - In the ground screws setup, the 50mm `Void Ballast` gravel already covers the entire 300mm excavation pit (including the over-dig areas past the slatted skirt).
+  - Removed the redundant "Ground Perimeter Drainage" row from `MASTER_PLAN.md` Section 1.1 to clean up the table and avoid double-counting gravel quantities.
+
+## Date: 2026-07-25
+**Architect Notes: Primary Floor Insulation Support Mechanism**
+- **User Query:** Asked how the 120mm PIR primary insulation boards are prevented from falling through the floor joists into the sub-floor void.
+- **Architect Action:** 
+  - Detailed the mechanical support mechanism for the suspended floor joist insulation.
+  - Specified the use of **stainless steel insulation support clips** (spring clips pushed into joist sides @ 600mm centers) or **25x25mm treated timber stop battens** along the bottom inside edge of each 120mm C24 joist.
+  - Paired the mechanical stop with low-expansion structural PU adhesive foam perimeter seals to chemically weld the PIR panels to the joists and eliminate thermal bypassing.
+  - Updated `MASTER_PLAN.md` Section 1.2 and `WORKPLAN.md` Week 2.
+
+## Date: 2026-07-25
+**Architect Notes: Face-Fix Joist Hanger Specification**
+- **User Query:** Pointed out that standard top-flange joist hangers would sit slightly proud on top of the ring beam, asking if this would damage the Polymeric DPC or pinch the SIP sole plate.
+- **Architect Action:** 
+  - Validated the user's critical observation. A 1.5mm metal tab sitting on top of the ring beam under M12 bolt clamping pressure creates a localized point-load that can tear the DPC and prevent the timber sole plate from seating 100% flush.
+  - Specified **Face-Fix Galvanised Joist Hangers** (e.g., Simpson SAE250), which nail/screw exclusively into the inside vertical face of the 150x120mm ring beam with zero top-flange wrap.
+  - Guarantees the top surface of the ring beam remains 100% flat, smooth timber for the DPC and sole plate.
+  - Updated `MASTER_PLAN.md` Section 1.2 and `WORKPLAN.md` Week 2.
+
+## Date: 2026-07-25
+**Architect Notes: Anti-Rodent Mesh Location Consolidation**
+- **User Query:** Requested moving the Anti-Rodent Mesh row up into Section 1.1 (Void Management, Erosion & Rodent Defense).
+- **Architect Action:** 
+  - Moved the complete Anti-Rodent Mesh row with exact fixing specifications, "L-shape" flared bottom detail, and quantity (`1 Roll 20m x 0.9m`) into `MASTER_PLAN.md` Section 1.1 table.
+  - Removed the duplicate/cross-reference row from Section 2.1 B (External Plinth) to keep Section 1.1 as the single source of truth for all void/rodent protection materials.
+
+## Date: 2026-07-25
+**Architect Notes: Wall Envelope Table Reordering (Interior to Exterior)**
+- **User Query:** Requested reversing the order of Part C in Section 2.1 (The Field of the Wall) to go from Interior to Exterior, matching the physical chronological build order.
+- **Architect Action:** 
+  - Re-numbered and reversed Part C table items: `1. Internal Finish (Fermacell)` -> `2. VCL Taping (Tescon Vana)` -> `3. Structural SIP Wall` -> `4. Wood Fibre Insulation` -> `5. Tyvek Breather Membrane` -> `6. Rainscreen Battens` -> `7. Bug Mesh` -> `8. Hardie VL Cladding`.
+  - Updated Section 2.1 header to explicitly state `(Bottom to Top, Interior to Exterior - Build Sequence)`.
+  - Updated `MASTER_PLAN.md`.
+
+
