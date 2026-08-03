@@ -988,4 +988,19 @@
   - Elevates the door frame sill to **+75mm FFL**, bringing the threshold perfectly flush with the internal engineered wood floor.
   - Updated `MASTER_PLAN.md` Section 2.5 and `WORKPLAN.md` Week 7.
 
+## Date: 2026-07-25
+**Architect Notes: Phenolic Floor Layer Thinning (50mm to 25mm)**
+- **User Query:** Directed thinning down the continuous Phenolic floor insulation from 50mm to 25mm to gain internal ceiling height.
+- **Architect Action:** 
+  - Reduced continuous Phenolic floor layer from 50mm to 25mm (*Kingspan Kooltherm K103*).
+  - Calculated new internal floor buildup: `22mm CPB + 25mm Phenolic + 18mm OSB3 + 15mm Wood = 80mm total` (saving 25mm over joists).
+  - Recalculated Finished Floor Level: **`FFL = +78mm`** above Lawn Datum 0mm (previously `+103mm`).
+  - Recalculated net clear internal ceiling heights:
+    * **High Side (West Wall):** **2148.5mm (~2.15m / 7 ft 0.6 in)**
+    * **Low Side (East Wall):** **2091.7mm (~2.09m / 6 ft 10.3 in)**
+    * **Average Room Clearance:** **2120.1mm (~2.12m / 6 ft 11.5 in)**
+  - Updated door threshold riser block: `33mm` tall timber block elevating door frame base to `+78mm FFL`.
+  - Confirmed floor U-value remains **`~0.14 W/m²K`**, comfortably exceeding the Passivhaus `≤ 0.15` target.
+  - Updated `MASTER_PLAN.md` Sections 1.2, 2.1, 2.3.2, 2.5 and `WORKPLAN.md` Phase 2 Overview, Week 4, Week 7.
+
 

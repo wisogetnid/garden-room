@@ -94,12 +94,12 @@ layout: default
 | **Floor Joists** | **-122mm to -2mm** | 47x120mm C24 Treated Timber | Hung via Face-Fix galvanised joist hangers flush with top of Ring Beam | Carries internal floor independently. Top sits at -2mm. | ~40 linear meters |
 | **Primary Insulation** | **-122mm to -2mm** | 120mm PIR Board | Supported on insulation support clips / battens, perimeter-sealed with PU foam | **Bulk Thermal Layer:** Fills joist space, eliminates thermal bypassing | ~19m² |
 | **Sub-Deck** | **-2mm to +20mm** | 22mm Cement Particle Board (CPB) | Screwed to joists | Rigid, fire-resistant, high-mass load spreader | ~19m² |
-| **Continuous Thermal Break**| **+20mm to +70mm** | 50mm Phenolic Insulation (Kingspan Kooltherm) | Laid continuously over CPB layer | **Thermal Break:** Completely caps thermal bridging of timber joists | ~19m² |
-| **Structural Load-Spreader** | **+70mm to +88mm** | 18mm OSB3 (Tongue & Groove) | Floating over Phenolic, T&G joints glued, long screws to joists | Spreads point-loads of heavy machinery across phenolic foam | ~19m² |
-| **Aesthetic/Wear Deck (FFL)** | **+88mm to +103mm** | 14mm-20mm Engineered Wood Flooring | **Fully Bonded** to OSB3 via flexible SikaBond adhesive | **Finished Floor Level (FFL = +103mm):** Solid 38mm wooden slab (~10cm step from lawn) | ~19m² |
-| **Machine Decoupling** | **+103mm to +118mm** | 15mm SBR Rubber Isolation Pads (100x100mm) | Placed under feet of cast-iron machinery | **Critical:** Protects wood from denting and stops motor drumming | As needed |
+| **Continuous Thermal Break**| **+20mm to +45mm** | 25mm Phenolic Insulation (Kingspan Kooltherm) | Laid continuously over CPB layer | **Thermal Break:** Completely caps thermal bridging of timber joists while maximizing internal ceiling height | ~19m² |
+| **Structural Load-Spreader** | **+45mm to +63mm** | 18mm OSB3 (Tongue & Groove) | Floating over Phenolic, T&G joints glued, long screws to joists | Spreads point-loads of heavy machinery across phenolic foam | ~19m² |
+| **Aesthetic/Wear Deck (FFL)** | **+63mm to +78mm** | 14mm-20mm Engineered Wood Flooring | **Fully Bonded** to OSB3 via flexible SikaBond adhesive | **Finished Floor Level (FFL = +78mm):** Solid 33mm wooden slab (~7.8cm step from lawn) | ~19m² |
+| **Machine Decoupling** | **+78mm to +93mm** | 15mm SBR Rubber Isolation Pads (100x100mm) | Placed under feet of cast-iron machinery | **Critical:** Protects wood from denting and stops motor drumming | As needed |
 
-*Internal Perimeter Detail:* Total inner floor thickness over the joists is 104mm (22+50+18+14). Because the SIP wall now sits directly on the ring beam alongside the floor joists, this 104mm floor buildup butts directly against the inside OSB skin of the SIP wall. Ensure an expansion gap is left between the engineered wood and the SIP OSB, which will be hidden by a standard skirting board.
+*Internal Perimeter Detail:* Total inner floor thickness over the joists is 80mm (22+25+18+15). Because the SIP wall now sits directly on the ring beam alongside the floor joists, this 80mm floor buildup butts directly against the inside OSB skin of the SIP wall. Ensure an expansion gap is left between the engineered wood and the SIP OSB, which will be hidden by a standard skirting board.
 
 ### 1.3 Underground Service Trenching & Floor Penetration
 
@@ -146,7 +146,7 @@ layout: default
 
 | Material Name | Datum Offset (0mm = Lawn) | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1. Internal Finish** | **+103mm to +2226.5mm** (High) / **+2169.7mm** (Low) | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking. Fixed *directly* to internal SIP OSB face. REI30/REI60 Fire compliant. | ~26 boards |
+| **1. Internal Finish** | **+78mm to +2226.5mm** (High) / **+2169.7mm** (Low) | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking. Fixed *directly* to internal SIP OSB face. REI30/REI60 Fire compliant. | ~26 boards |
 | **2. Vapour Control Sealing** | **+45mm to +2241.5mm** | Pro Clima Tescon Vana Tape | Taped directly over internal SIP wall joints | Airtightness; stops interstitial condensation. | 4 Rolls |
 | **3. Structural SIP Panel** | **+45mm to +2241.5mm** (High) / **+2184.7mm** (Low) | 150mm New Forest SIP Base Wall Panel | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Primary load-bearing structure and continuous thermal barrier. | ~39m² wall coverage |
 | **4. External Insulation** | **+170mm to +2241.5mm** | 60mm Rigid Wood Fibre Board | Friction fit; held by batten screws. Starts strictly at +170mm (resting on top of 150mm XPS skirt). *Plinth Joint:* Bed horizontal bottom joint on a bead of vapour-permeable MS Polymer sealant (Soudaseal/Orcon F) or Compriband expanding tape. **NEVER use standard closed-cell expanding PU foam** here to avoid creating a vapour dam. | Unbroken thermal jacket (2,100 J/kgK specific heat capacity) providing massive summer decrement delay. Breathable plinth joint seals against draughts while letting trapped moisture escape downwards. | ~39m² coverage |
@@ -185,10 +185,10 @@ layout: default
     *   Low-Side Wall Height: 2241.5mm - 56.8mm fall = **2184.7mm**
     *   Total Roof Buildup: **238.5mm** (1.5mm EPDM + 100mm high-compressive PIR + 122mm true SIP [11mm OSB/100mm Core/11mm OSB] + 15mm Fermacell)
     *   **Total Maximum External Height:** 2480mm high side / **2423.2mm** low side (measured from the highest adjacent natural ground point, providing a 20mm safety buffer under the 2.5m legal limit).
-*   **Internal Ceiling Heights (accounting for +103mm FFL and 15mm direct-mount ceiling board):**
-    *   **High Side (West Wall - Door & Workbench):** `+2226.5mm ceiling - +103mm FFL` = **2123.5mm (~2.12m / 6 ft 11.6 in)**
-    *   **Low Side (East Wall - Clerestories):** `+2169.7mm ceiling - +103mm FFL` = **2066.7mm (~2.07m / 6 ft 9.3 in)**
-    *   **Average Room Clearance:** **2095.1mm (~2.10m / 6 ft 10.5 in)** across the main working area.
+*   **Internal Ceiling Heights (accounting for +78mm FFL and 15mm direct-mount ceiling board):**
+    *   **High Side (West Wall - Door & Workbench):** `+2226.5mm ceiling - +78mm FFL` = **2148.5mm (~2.15m / 7 ft 0.6 in)**
+    *   **Low Side (East Wall - Clerestories):** `+2169.7mm ceiling - +78mm FFL` = **2091.7mm (~2.09m / 6 ft 10.3 in)**
+    *   **Average Room Clearance:** **2120.1mm (~2.12m / 6 ft 11.5 in)** across the main working area.
 *   **Ergonomic Comfort:** Sinking the slab allows ordering the wall SIPs 150mm taller. This provides plenty of clearance for flipping sheet goods, maneuvering long boards, and safely hanging an ambient air filter without risking a head strike.
 *   **Structural Note:** Orienting the fall across the 3.6m width preserves usable headroom across the 5.6m length. The **West façade must be assigned as the high-side wall** because it contains the door and large panorama glazing.
 *   **Opening Validation Rule:** Maintain a minimum **~80mm - 90mm structural head zone** between the top of any factory-cut opening and the underside of the sloped roof SIP/top-plate bearing zone. This is fully validated as the SIP's engineered skins act as a continuous structural lintel.
@@ -239,7 +239,7 @@ layout: default
     *   *Revised Vertical Datum:* The door and West window heads align at **2130mm FFL**, preserving ~89.5mm of structural head zone above the openings. The revised 1000x1000mm fixed windows place the bottom sills at **1150mm FFL**, allowing a standard 900mm-high workbench or desk to sit beneath the glass with ~250mm clearance.
 *   **French Doors Forbidden:** Traditional French doors are strictly prohibited. They inherently fail Passivhaus airtightness standards and acoustic reduction due to the lack of a central mullion, leading to air and noise leakage down the meeting stiles.
 *   **Approved Mechanisms:** Specify a **1400mm x 2130mm maximum outer-frame-height Asymmetric 1.5 Door system** (e.g., a 900mm active leaf combined with a 500mm slave leaf) or a high-performance **Lift-and-Slide door** only if the supplier can keep the total frame height at or below 2130mm FFL. These systems use complex cam-action locks to physically compress robust continuous rubber gaskets, ensuring the thermal and acoustic envelope is not compromised at the entry point.
-*   **Threshold Support Riser Block:** Across the 1400mm door opening, a treated **58mm tall x 150mm wide C24 timber riser block** (or high-density threshold packer) is fixed over the Polymeric DPC / sole plate (+45mm datum). This elevates the base of the door frame to **+103mm FFL**, bringing the door threshold perfectly flush with the internal engineered wood floor.
+*   **Threshold Support Riser Block:** Across the 1400mm door opening, a treated **33mm tall x 150mm wide C24 timber riser block** (or high-density threshold packer) is fixed over the Polymeric DPC / sole plate (+45mm datum). This elevates the base of the door frame to **+78mm FFL**, bringing the door threshold perfectly flush with the internal engineered wood floor.
 *   **Flush Threshold Drainage:** An Aco HexDrain Channel must be set flush with the external patio level directly in front of the door to intercept water. RIW Flexiseal liquid moisture barrier must be applied over the threshold junction to stop water wicking into the timber at the flush transition.
 
 ---

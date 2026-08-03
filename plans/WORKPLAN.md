@@ -24,7 +24,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 
 ## Step-by-Step Construction Phases (Overview)
 1. **Phase 1: Ground Screws & Frame** (Weeks 1-3): Island Ground Screws installation (bypassing old slabs), timber ring beam and 120mm joists installation, PIR insulation filling, and 22mm CPB sub-deck.
-2. **Phase 2: Continuous Thermal Deck** (Week 4): Laying 50mm continuous Phenolic insulation to break thermal bridging, followed by the 18mm OSB3 structural deck.
+2. **Phase 2: Continuous Thermal Deck** (Week 4): Laying 25mm continuous Phenolic insulation to break thermal bridging, followed by the 18mm OSB3 structural deck.
 3. **Phase 3: Structural Envelope** (Weeks 5-7): Sole plate anchoring over Polymeric DPC, SIP wall and roof erection, AC penetration, VIG window/door installation, and weather-tight sealing.
 4. **Phase 4: Cladding & Exterior Finish** (Weeks 8-9): 60mm EWI starter track, XPS skirt, 60mm Wood Fibre insulation, Tyvek wrapping, battening, Hardie VL plank cladding, and rainwater system.
 5. **Phase 5: Internal Fit-Out & MEP** (Weeks 10-12+): Floor utility penetration, Intello/Tescon VCL taping, direct-mount Fermacell boarding, glued engineered wood flooring, surface wiring, and final commissioning.
@@ -55,7 +55,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 ## 🗓️ Phase 2: The Continuous Thermal Deck (Week 4)
 
 ### Week 4: Eliminating the Cold Bridge
-*   **The Phenolic Layer:** The timber joists act as a cold bridge. To stop this, lay a continuous layer of 50mm Phenolic insulation (Kingspan Kooltherm) directly over the CPB. Tape the joints with aluminum tape.
+*   **The Phenolic Layer:** The timber joists act as a cold bridge. To stop this, lay a continuous layer of 25mm Phenolic insulation (Kingspan Kooltherm) directly over the CPB. Tape the joints with aluminum tape.
 *   **The Load-Spreader:** Immediately cover the fragile phenolic board with 18mm OSB3 (Tongue & Groove). This spreads the massive point-loads of your future cast-iron machinery. Glue the T&G joints and use long screws that anchor through the phenolic down into the joists below.
 
 ---
@@ -85,7 +85,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
     *   *East:* 2x 300x1500mm Fixed Clerestory, top datum **2080mm FFL**.
     *   *West:* 2x 1000x1000mm Fixed Panorama + 1400mm x 2130mm maximum outer-frame-height Asymmetric Door, all heads aligned at **2130mm FFL**.
     *Foreman Note:* Verify the **89.5mm** structural head zone above the West door/windows beneath the 2241.5mm high-side wall plate. Seal all units with expanding PU foam and tape over frame-to-OSB joints internally with Tescon Vana.
-*   **Threshold Riser & Drainage:** Install a treated **58mm tall x 150mm wide C24 timber riser block** over the DPC across the 1400mm door opening to bring the door frame base up to **+103mm FFL** (flush with the internal engineered wood floor). Set an Aco HexDrain channel flush with the external patio level directly in front of the West door, and apply **RIW Flexiseal** liquid moisture barrier over the threshold junction.
+*   **Threshold Riser & Drainage:** Install a treated **33mm tall x 150mm wide C24 timber riser block** over the DPC across the 1400mm door opening to bring the door frame base up to **+78mm FFL** (flush with the internal engineered wood floor). Set an Aco HexDrain channel flush with the external patio level directly in front of the West door, and apply **RIW Flexiseal** liquid moisture barrier over the threshold junction.
 
 ---
 
