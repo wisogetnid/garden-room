@@ -955,6 +955,13 @@
   - Updated `WORKPLAN.md` Week 2.
 
 ## Date: 2026-07-25
+**Architect Notes: Structural Scope Expansion (Future Solar)**
+- **User Query:** Requested that the structural engineering RFQ email be updated to include provisions for future solar panel installation on the flat roof.
+- **Architect Action:** 
+  - Added explicit instructions to the RFQ template requiring the engineer to factor in the dead load and dynamic wind-uplift loads of a future PV array into both the Ground Screw loading calculations and the roof SIP LVL spline capacities.
+  - This ensures the foundation and roof are over-engineered now, preventing the need for a secondary structural calculation in the future.
+
+## Date: 2026-07-25
 **Architect Notes: Exact Internal Ceiling Height Calculation**
 - **User Query:** Asked for the new internal ceiling height based on the updated vertical datums.
 - **Architect Action:** 
