@@ -15,21 +15,21 @@ Welcome to the Cowes Garden Room Project documentation site. This site hosts our
 
 ### 3D Model
 
-<object data="./plans/cad-drawings/garden-room.pdf#page=1" type="application/pdf" width="100%" height="600px">
-  <p>Unable to display PDF. <a href="./plans/graphics/garden-room.pdf">Download 3D Model PDF</a>.</p>
+<object data="./plans/cad-drawing/garden-room.pdf#page=1" type="application/pdf" width="100%" height="600px">
+  <p>Unable to display PDF. <a href="./plans/cad-drawing/garden-room.pdf">Download 3D Model PDF</a>.</p>
 </object>
 
 ### Floorplan
 
-![Floorplan](./plans/cad-drawings/floorplan.svg)
+![Floorplan](./plans/cad-drawing/floorplan.svg)
 
 ### Boundary Plan
 
-![Boundary Plan](./plans/cad-drawings/boundary-plan.svg)
+![Boundary Plan](./plans/cad-drawing/boundary-plan.svg)
 
 ### Section Cut
 
-![Section Cut](./plans/cad-drawings/section-cut.svg)
+![Section Cut](./plans/cad-drawing/section-cut.svg)
 
 ---
 *Built with [GitHub Pages](https://pages.github.com/).*
