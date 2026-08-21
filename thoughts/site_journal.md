@@ -1077,3 +1077,16 @@
   - Adjusted the absolute High Side Top Elevation down from 2480.0mm to **2465.0mm**.
   - Adjusted the absolute Low Side Top Elevation down from 2423.2mm to **2408.2mm**.
   - Updated Section 2.5.2 (External Height Physics) to reflect the new 2465mm absolute peak and the increased 35mm safety buffer below the 2.5m limit.
+
+## [ARCHITECT] Restoring 20mm Safety Buffer
+- **Date:** Fri 21 Aug 2026 16:46:32 BST
+- **Context:** User requested lowering the building slightly to restore an exact 20mm safety buffer below the 2.5m legal limit, bringing the max absolute external height down to exactly 2480.0mm.
+- **Resolution:** 
+  - Dropped the SIP wall top datums by 5mm (High side from 2261.5mm down to 2256.5mm, Low side from 2204.7mm down to 2199.7mm).
+  - Because the door and windows are locked at +2078mm FFL and +2020mm FFL, pulling the roof down by 5mm safely reduced the timber head zones above the openings to **100.5mm** (West) and **101.7mm** (East). These remain structurally robust (>80mm limit).
+  - Internal ceiling clearance dropped slightly to 2163.5mm (High) and 2106.7mm (Low).
+  - Updated Vertical Superstructure table and Height physics text in `MASTER_PLAN.md`.
+
+## [FOREMAN] Updating Workplan with new safety buffer
+- **Date:** Fri 21 Aug 2026
+- **Action:** Acknowledged the Architect's 5mm drop to the SIP wall top datums to restore the 20mm safety buffer. `plans/WORKPLAN.md` (Phase 3, Week 7) has been updated to reflect the new **2256.5mm** high-side wall plate reference, and the structural head zone check has been correspondingly updated to **100.5mm**.

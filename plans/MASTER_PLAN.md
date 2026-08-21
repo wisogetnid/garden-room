@@ -132,12 +132,12 @@ layout: default
 | **[Heavy Timber Ring Beam](#12-the-comprehensive-ground-to-floor-envelope-bottom-to-top)** | -122mm | -2mm | 120mm structural ledge |
 | **[Finished Floor Level (FFL)](#12-the-comprehensive-ground-to-floor-envelope-bottom-to-top)** | -2mm | +78mm | 80mm floor stack (over joists) |
 | **[External Splash Skirt (XPS)](#b-the-external-plinth--splash-skirt)** | +20mm | +170mm | 150mm protective waterproof band |
-| **[Wall SIPs (Low Side - East)](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | -2mm | +2184.7mm | 2186.7mm factory-cut panel height |
-| **[Wall SIPs (High Side - West)](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | -2mm | +2241.5mm | 2243.5mm factory-cut panel height |
-| **[Roof SIP Structure (Low Side)](#25-the-roof-sandwich-exterior-to-interior)** | +2184.7mm | +2306.7mm | 122mm sloped ceiling structure |
-| **[Roof SIP Structure (High Side)](#25-the-roof-sandwich-exterior-to-interior)** | +2241.5mm | +2363.5mm | 122mm sloped ceiling structure |
-| **[Finished Roof Peak (Low Side)](#25-the-roof-sandwich-exterior-to-interior)** | +2306.7mm | +2408.2mm | 101.5mm trafficable insulation & EPDM |
-| **[Finished Roof Peak (High Side)](#25-the-roof-sandwich-exterior-to-interior)** | +2363.5mm | +2465.0mm | 101.5mm trafficable insulation & EPDM |
+| **[Wall SIPs (Low Side - East)](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | -2mm | +2199.7mm | 2201.7mm factory-cut panel height |
+| **[Wall SIPs (High Side - West)](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | -2mm | +2256.5mm | 2258.5mm factory-cut panel height |
+| **[Roof SIP Structure (Low Side)](#25-the-roof-sandwich-exterior-to-interior)** | +2199.7mm | +2321.7mm | 122mm sloped ceiling structure |
+| **[Roof SIP Structure (High Side)](#25-the-roof-sandwich-exterior-to-interior)** | +2256.5mm | +2378.5mm | 122mm sloped ceiling structure |
+| **[Finished Roof Peak (Low Side)](#25-the-roof-sandwich-exterior-to-interior)** | +2321.7mm | +2423.2mm | 101.5mm trafficable insulation & EPDM |
+| **[Finished Roof Peak (High Side)](#25-the-roof-sandwich-exterior-to-interior)** | +2378.5mm | +2480.0mm | 101.5mm trafficable insulation & EPDM |
 
 ### 2.2 The Horizontal Wall Profile (Internal to External)
 
@@ -212,21 +212,21 @@ layout: default
 *   **External Height Physics (The 2.5m Limit):**
 *   **Statutory Measurement Datum (Datum Zero):** The Isle of Wight Planning Authority has confirmed the 2.5m limit is measured from the *highest adjacent ground*. Throughout this document, **Datum Zero (0.00mm)** explicitly refers to this highest natural point of the adjacent lawn. All absolute vertical measurements are calculated from this point to ensure strict Permitted Development compliance.
     *   Exposed Base Zone: 0mm (Timber floor structure sits within the 300mm excavation, flush with baseline lawn level)
-    *   Maximum \'High-Side\' Wall Height: **2241.5mm**
-    *   Low-Side Wall Height: 2241.5mm - 56.8mm fall = **2184.7mm**
-    *   Total Roof Buildup: **238.5mm** (1.5mm EPDM + 100mm high-compressive PIR + 122mm true SIP [11mm OSB/100mm Core/11mm OSB] + 15mm Fermacell)
-    *   **Total Maximum External Height:** 2465mm high side / **2408.2mm** low side (measured from the highest adjacent natural ground point, providing a safe 35mm safety buffer under the 2.5m legal limit).
+    *   Maximum \'High-Side\' Wall Height: **2256.5mm**
+    *   Low-Side Wall Height: 2256.5mm - 56.8mm fall = **2199.7mm**
+    *   Total Roof Buildup (External stack above wall plate): **223.5mm** (1.5mm EPDM + 100mm high-compressive PIR + 122mm true SIP [11mm OSB/100mm Core/11mm OSB]). *Note: The 15mm Fermacell sits below the wall plate and subtracts from internal headroom, but does not add to external height.*
+    *   **Total Maximum External Height:** 2480mm high side / **2423.2mm** low side (measured from the highest adjacent natural ground point, providing an exact 20mm safety buffer under the 2.5m limit).
 *   **Internal Ceiling Heights (accounting for +78mm FFL and 15mm direct-mount ceiling board):**
-    *   **High Side (West Wall - Door & Workbench):** `+2226.5mm ceiling - +78mm FFL` = **2148.5mm (~2.15m / 7 ft 0.6 in)**
-    *   **Low Side (East Wall - Clerestories):** `+2169.7mm ceiling - +78mm FFL` = **2091.7mm (~2.09m / 6 ft 10.3 in)**
-    *   **Average Room Clearance:** **2120.1mm (~2.12m / 6 ft 11.5 in)** across the main working area.
+    *   **High Side (West Wall - Door & Workbench):** `+2256.5mm ceiling - +78mm FFL - 15mm ceiling board` = **2163.5mm (~2.16m / 7 ft 1.2 in)**
+    *   **Low Side (East Wall - Clerestories):** `+2199.7mm ceiling - +78mm FFL - 15mm ceiling board` = **2106.7mm (~2.11m / 6 ft 10.9 in)**
+    *   **Average Room Clearance:** **2135.1mm (~2.14m / 7 ft 0.1 in)** across the main working area.
 *   **Ergonomic Comfort:** Sinking the slab allows ordering the wall SIPs 150mm taller. This provides plenty of clearance for flipping sheet goods, maneuvering long boards, and safely hanging an ambient air filter without risking a head strike.
 *   **Structural Note:** Orienting the fall across the 3.6m width preserves usable headroom across the 5.6m length. The **West façade must be assigned as the high-side wall** because it contains the door and large panorama glazing.
 *   **Opening Validation Rule:** Maintain a minimum **~80mm - 90mm structural head zone** between the top of any factory-cut opening and the underside of the sloped roof SIP/top-plate bearing zone. This is fully validated as the SIP's engineered skins act as a continuous structural lintel.
-    *   High-side West wall maximum finished opening top datum: 2241.5mm wall - 78mm finished floor - 85.5mm head zone = **2078mm**.
-    *   Low-side East wall maximum finished opening top datum: 2184.7mm wall - 78mm finished floor - 86.7mm head zone = **2020mm**.
+    *   High-side West wall maximum finished opening top datum: 2256.5mm wall - 78mm finished floor - 100.5mm head zone = **2078mm**.
+    *   Low-side East wall maximum finished opening top datum: 2199.7mm wall - 78mm finished floor - 101.7mm head zone = **2020mm**.
     *   **Adopted Split Datum:** To prioritize ergonomic door height over 360-degree visual symmetry, the design uses a split datum. The high-side West wall openings (door and panorama windows) are set to a comfortable **2078mm FFL** top datum (Absolute +2156mm). The East, North, and South clerestories remain at the safe **2020mm FFL** top datum (Absolute +2098mm).
-    *   Sloped end-walls (North and South) rise from 2184.7mm to 2241.5mm. Using a horizontal 2098mm absolute top datum (2020mm FFL) for the clerestories safely preserves a structural head zone that gradually widens from 86.7mm on the low (East) side to 143.5mm on the high (West) side.
+    *   Sloped end-walls (North and South) rise from 2199.7mm to 2256.5mm. Using a horizontal 2098mm absolute top datum (2020mm FFL) for the clerestories safely preserves a structural head zone that gradually widens from 101.7mm on the low (East) side to 158.5mm on the high (West) side.
 
 ### 2.6 Roof Edge & Fascia Detailing (The "Cantilevered SIP Edge")
 **Objective:** Provide a solid structural perimeter for EPDM membrane clamping and continuous ventilation of the rainscreen cavity, without creating a massive solid-timber cold bridge that compromises the thermal envelope.
