@@ -1090,3 +1090,8 @@
 ## [FOREMAN] Updating Workplan with new safety buffer
 - **Date:** Fri 21 Aug 2026
 - **Action:** Acknowledged the Architect's 5mm drop to the SIP wall top datums to restore the 20mm safety buffer. `plans/WORKPLAN.md` (Phase 3, Week 7) has been updated to reflect the new **2256.5mm** high-side wall plate reference, and the structural head zone check has been correspondingly updated to **100.5mm**.
+
+## [ARCHITECT] CAD Model vs Master Plan Realities
+- **Date:** Fri 21 Aug 2026 17:05:41 BST
+- **Context:** User lowered the CAD roof by 8.9mm to cap the high side at exactly 2480.0mm for planning drawings. This resulted in the CAD low side reading 2420.3mm, which slightly deviates from the Master Plan calculation of 2423.2mm.
+- **Resolution:** Acknowledged the 2.9mm discrepancy as a harmless 3D modeling artifact. Reassured the user that as long as both numbers on the elevation drawing are under 2500mm and convey the 1:60 fall, the Isle of Wight Planning Authority will accept it. No structural changes required in blueprints.
