@@ -1056,3 +1056,24 @@
   - Mapped all 7 horizontal layers (Fermacell, VCL tape, SIP core, Wood Fibre, Tyvek, Batten, Cladding) with cumulative thickness measurements.
   - Confirmed total finished wall thickness is 261mm.
   - Incremented all subsequent section numbers in Section 2.
+
+## [ARCHITECT] Markdown Anchors Added
+- **Date:** Fri 21 Aug 2026 16:21:11 BST
+- **Context:** User requested hyperlinks connecting the high-level summary tables down to the detailed installation tables further into the document.
+- **Resolution:** Applied standard GitHub Markdown anchor links to the primary elements in Section 2.1 (Vertical Superstructure) and Section 2.2 (Horizontal Wall Profile) in `MASTER_PLAN.md`. Elements now act as an interactive table of contents pointing straight to their respective execution tables.
+
+## [ARCHITECT] Mathematical Clarification: SIP Wall Height vs Top Datum
+- **Date:** Fri 21 Aug 2026 16:25:28 BST
+- **Context:** User asked why the factory cut height of the low-side East wall SIP is listed as 2186.7mm in the elevation table, instead of a round number like 2186mm or aligning with the 2184.7mm absolute top elevation.
+- **Resolution:** Validated the math. The timber ring beam sits at -2mm below Datum Zero. The low-side East wall top elevation is +2184.7mm above Datum Zero. Because the SIP wall sits on the ring beam, its total physical height is calculated as: 2184.7mm (above zero) + 2mm (below zero) = 2186.7mm total physical panel height. No blueprint changes required.
+
+## [ARCHITECT] Roof Buildup Math Correction
+- **Date:** Fri 21 Aug 2026 16:29:37 BST
+- **Context:** User identified a mathematical error in the vertical summary table regarding the Finished Roof Peak thickness. The table incorrectly listed the PIR + EPDM thickness as 116.5mm, while the actual components (100mm PIR + 1.5mm EPDM) only add up to 101.5mm.
+- **Risk Flag Identified:** The previous calculation had accidentally re-included the 15mm internal Fermacell ceiling board into the *external* roof top calculation.
+- **Resolution:** 
+  - Corrected the Vertical Superstructure Elevation table in `MASTER_PLAN.md`.
+  - Changed trafficable insulation & EPDM thickness to **101.5mm**.
+  - Adjusted the absolute High Side Top Elevation down from 2480.0mm to **2465.0mm**.
+  - Adjusted the absolute Low Side Top Elevation down from 2423.2mm to **2408.2mm**.
+  - Updated Section 2.5.2 (External Height Physics) to reflect the new 2465mm absolute peak and the increased 35mm safety buffer below the 2.5m limit.

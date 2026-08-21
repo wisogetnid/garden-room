@@ -128,16 +128,16 @@ layout: default
 
 | Structural Element | Bottom Elevation | Top Elevation | Total Thickness / Height |
 | :--- | :--- | :--- | :--- |
-| **Excavation Pit** | -300mm | 0.00mm | 300mm void space |
-| **Heavy Timber Ring Beam** | -122mm | -2mm | 120mm structural ledge |
-| **Finished Floor Level (FFL)** | -2mm | +78mm | 80mm floor stack (over joists) |
-| **External Splash Skirt (XPS)** | +20mm | +170mm | 150mm protective waterproof band |
-| **Wall SIPs (Low Side - East)** | -2mm | +2184.7mm | 2186.7mm factory-cut panel height |
-| **Wall SIPs (High Side - West)** | -2mm | +2241.5mm | 2243.5mm factory-cut panel height |
-| **Roof SIP Structure (Low Side)** | +2184.7mm | +2306.7mm | 122mm sloped ceiling structure |
-| **Roof SIP Structure (High Side)** | +2241.5mm | +2363.5mm | 122mm sloped ceiling structure |
-| **Finished Roof Peak (Low Side)** | +2306.7mm | +2423.2mm | 116.5mm trafficable insulation & EPDM |
-| **Finished Roof Peak (High Side)** | +2363.5mm | +2480.0mm | 116.5mm trafficable insulation & EPDM |
+| **[Excavation Pit](#11-void-management-erosion--rodent-defense)** | -300mm | 0.00mm | 300mm void space |
+| **[Heavy Timber Ring Beam](#12-the-comprehensive-ground-to-floor-envelope-bottom-to-top)** | -122mm | -2mm | 120mm structural ledge |
+| **[Finished Floor Level (FFL)](#12-the-comprehensive-ground-to-floor-envelope-bottom-to-top)** | -2mm | +78mm | 80mm floor stack (over joists) |
+| **[External Splash Skirt (XPS)](#b-the-external-plinth--splash-skirt)** | +20mm | +170mm | 150mm protective waterproof band |
+| **[Wall SIPs (Low Side - East)](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | -2mm | +2184.7mm | 2186.7mm factory-cut panel height |
+| **[Wall SIPs (High Side - West)](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | -2mm | +2241.5mm | 2243.5mm factory-cut panel height |
+| **[Roof SIP Structure (Low Side)](#25-the-roof-sandwich-exterior-to-interior)** | +2184.7mm | +2306.7mm | 122mm sloped ceiling structure |
+| **[Roof SIP Structure (High Side)](#25-the-roof-sandwich-exterior-to-interior)** | +2241.5mm | +2363.5mm | 122mm sloped ceiling structure |
+| **[Finished Roof Peak (Low Side)](#25-the-roof-sandwich-exterior-to-interior)** | +2306.7mm | +2408.2mm | 101.5mm trafficable insulation & EPDM |
+| **[Finished Roof Peak (High Side)](#25-the-roof-sandwich-exterior-to-interior)** | +2363.5mm | +2465.0mm | 101.5mm trafficable insulation & EPDM |
 
 ### 2.2 The Horizontal Wall Profile (Internal to External)
 
@@ -145,13 +145,13 @@ layout: default
 
 | Layer | Material | Thickness | Cumulative Thickness (from internal face) |
 | :--- | :--- | :--- | :--- |
-| **1. Internal Finish** | Fermacell Acoustic Board | 15mm | 15mm |
-| **2. Vapour Seal** | Pro Clima Tescon Vana Tape (over joints) | 0mm | 15mm |
-| **3. Structural Core** | New Forest SIP (OSB / EPS / OSB) | 150mm | 165mm |
-| **4. External Insulation**| Rigid Wood Fibre Board | 60mm | 225mm |
-| **5. Breather Membrane**| Tyvek Housewrap / UV Facade | 0mm | 225mm |
-| **6. Rainscreen Cavity** | Treated Timber Batten | 25mm | 250mm |
-| **7. Cladding** | James Hardie VL Fibre Cement Plank | 11mm | **261mm Total Wall Thickness** |
+| **[1. Internal Finish](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | Fermacell Acoustic Board | 15mm | 15mm |
+| **[2. Vapour Seal](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | Pro Clima Tescon Vana Tape (over joints) | 0mm | 15mm |
+| **[3. Structural Core](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | New Forest SIP (OSB / EPS / OSB) | 150mm | 165mm |
+| **[4. External Insulation](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)**| Rigid Wood Fibre Board | 60mm | 225mm |
+| **[5. Breather Membrane](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)**| Tyvek Housewrap / UV Facade | 0mm | 225mm |
+| **[6. Rainscreen Cavity](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | Treated Timber Batten | 25mm | 250mm |
+| **[7. Cladding](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | James Hardie VL Fibre Cement Plank | 11mm | **261mm Total Wall Thickness** |
 
 ### 2.3 The Comprehensive Wall & Plinth Envelope (Build Sequence)
 
@@ -215,7 +215,7 @@ layout: default
     *   Maximum \'High-Side\' Wall Height: **2241.5mm**
     *   Low-Side Wall Height: 2241.5mm - 56.8mm fall = **2184.7mm**
     *   Total Roof Buildup: **238.5mm** (1.5mm EPDM + 100mm high-compressive PIR + 122mm true SIP [11mm OSB/100mm Core/11mm OSB] + 15mm Fermacell)
-    *   **Total Maximum External Height:** 2480mm high side / **2423.2mm** low side (measured from the highest adjacent natural ground point, providing a 20mm safety buffer under the 2.5m legal limit).
+    *   **Total Maximum External Height:** 2465mm high side / **2408.2mm** low side (measured from the highest adjacent natural ground point, providing a safe 35mm safety buffer under the 2.5m legal limit).
 *   **Internal Ceiling Heights (accounting for +78mm FFL and 15mm direct-mount ceiling board):**
     *   **High Side (West Wall - Door & Workbench):** `+2226.5mm ceiling - +78mm FFL` = **2148.5mm (~2.15m / 7 ft 0.6 in)**
     *   **Low Side (East Wall - Clerestories):** `+2169.7mm ceiling - +78mm FFL` = **2091.7mm (~2.09m / 6 ft 10.3 in)**
