@@ -1095,3 +1095,13 @@
 - **Date:** Fri 21 Aug 2026 17:05:41 BST
 - **Context:** User lowered the CAD roof by 8.9mm to cap the high side at exactly 2480.0mm for planning drawings. This resulted in the CAD low side reading 2420.3mm, which slightly deviates from the Master Plan calculation of 2423.2mm.
 - **Resolution:** Acknowledged the 2.9mm discrepancy as a harmless 3D modeling artifact. Reassured the user that as long as both numbers on the elevation drawing are under 2500mm and convey the 1:60 fall, the Isle of Wight Planning Authority will accept it. No structural changes required in blueprints.
+
+## [ARCHITECT] Window Schedule Unification
+- **Date:** Fri 21 Aug 2026 17:34:03 BST
+- **Context:** User requested that the top datum and bottom sill heights for the West facing windows be explicitly listed in the main Window Schedule bullet list for consistency with the other elevations.
+- **Resolution:** Updated Section 2.7 (Window Schedule). The West Elevation entry now explicitly lists the top datum (**2078mm FFL**) and bottom sill (**1078mm FFL**) for the 1000x1000mm fixed panorama windows.
+
+## [ARCHITECT] Door Specification Update
+- **Date:** Fri 21 Aug 2026 17:35:59 BST
+- **Context:** User requested removing the strict prohibition on French Doors.
+- **Resolution:** Removed the 'French Doors Forbidden' bullet point from Section 2.7. Updated the 'Approved Mechanisms' section to allow high-performance French Doors, provided the supplier can guarantee Passivhaus-level airtightness and acoustic ratings down the central meeting stiles.
