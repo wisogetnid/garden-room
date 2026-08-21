@@ -19,6 +19,10 @@ Welcome to the Cowes Garden Room Project documentation site. This site hosts our
   <p>Unable to display PDF. <a href="./plans/cad-drawing/garden-room.pdf">Download 3D Model PDF</a>.</p>
 </object>
 
+### Elevation Views
+
+![Elevation Views](./plans/cad-drawing/elevation-views.svg)
+
 ### Floorplan
 
 ![Floorplan](./plans/cad-drawing/floorplan.svg)
