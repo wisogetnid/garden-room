@@ -1038,3 +1038,21 @@
 ## [FOREMAN] West Wall Split Datum Alignment
 - **Date:** Fri 21 Aug 2026 13:05:00 BST
 - **Action:** Acknowledged the Architect's return to the Split Datum strategy for the West wall. `plans/WORKPLAN.md` (Phase 3, Week 7) has been updated to reflect the new **2078mm FFL** top datum for the West door and panorama windows. The structural head zone check has been correspondingly adjusted down to **85.5mm**.
+
+## [ARCHITECT] Plan Restructuring: Vertical Elevations & Datum Clarification
+- **Date:** Fri 21 Aug 2026 15:51:36 BST
+- **Context:** User accurately pointed out that Section 2.1 tables mistakenly included a 'Datum Offset' column for horizontal wall layers (e.g., Cladding, Batten, Breather Membrane), which caused confusion since they all span the same vertical space. User also requested clear visibility on the vertical build-up of the garden room above the ring beam.
+- **Resolution:** 
+  - Scrubbed the 'Datum Offset (0mm = Lawn)' column from all horizontal tables in Section 2 (The Wall & Plinth Envelope).
+  - Injected a brand new Section 2.1: **'The Vertical Superstructure Elevation (From Ground to Roof)'**.
+  - This table explicitly maps the absolute Bottom Elevation, Top Elevation, and Total Height of every major structural assembly (Excavation, Ring Beam, Floor Stack, Plinth Skirt, Low-Side SIPs, High-Side SIPs, Roof SIPs, and Finished Roof) directly against Datum Zero.
+  - Incremented numbering for all subsequent sub-sections in Section 2.
+
+## [ARCHITECT] Horizontal Wall Profile Summarization
+- **Date:** Fri 21 Aug 2026 15:56:43 BST
+- **Context:** Following the injection of the Vertical Superstructure table, user requested a matching concise table mapping the horizontal thickness of the wall build-up from internal to external.
+- **Resolution:** 
+  - Injected Section 2.2: **'The Horizontal Wall Profile (Internal to External)'**.
+  - Mapped all 7 horizontal layers (Fermacell, VCL tape, SIP core, Wood Fibre, Tyvek, Batten, Cladding) with cumulative thickness measurements.
+  - Confirmed total finished wall thickness is 261mm.
+  - Incremented all subsequent section numbers in Section 2.

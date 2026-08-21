@@ -122,47 +122,78 @@ layout: default
 
 **U-Value Target Check:** The 150mm New Forest SIP Base Wall Panel (U=0.21) combined with 60mm Wood Fibre yields an estimated U-value of **~0.15 W/m²K**. This successfully hits the precise 0.15 Passivhaus target while preserving internal space within planning limits.
 
-### 2.1 The Comprehensive Wall & Plinth Envelope (Bottom to Top, Interior to Exterior)
+### 2.1 The Vertical Superstructure Elevation (From Ground to Roof)
+
+**Objective:** Map the absolute physical heights of the primary structural elements measured from **Datum Zero (0.00mm = Highest Adjacent Ground)**. Note: All "wall" components sit directly on the timber ring beam at -2mm.
+
+| Structural Element | Bottom Elevation | Top Elevation | Total Thickness / Height |
+| :--- | :--- | :--- | :--- |
+| **Excavation Pit** | -300mm | 0.00mm | 300mm void space |
+| **Heavy Timber Ring Beam** | -122mm | -2mm | 120mm structural ledge |
+| **Finished Floor Level (FFL)** | -2mm | +78mm | 80mm floor stack (over joists) |
+| **External Splash Skirt (XPS)** | +20mm | +170mm | 150mm protective waterproof band |
+| **Wall SIPs (Low Side - East)** | -2mm | +2184.7mm | 2186.7mm factory-cut panel height |
+| **Wall SIPs (High Side - West)** | -2mm | +2241.5mm | 2243.5mm factory-cut panel height |
+| **Roof SIP Structure (Low Side)** | +2184.7mm | +2306.7mm | 122mm sloped ceiling structure |
+| **Roof SIP Structure (High Side)** | +2241.5mm | +2363.5mm | 122mm sloped ceiling structure |
+| **Finished Roof Peak (Low Side)** | +2306.7mm | +2423.2mm | 116.5mm trafficable insulation & EPDM |
+| **Finished Roof Peak (High Side)** | +2363.5mm | +2480.0mm | 116.5mm trafficable insulation & EPDM |
+
+### 2.2 The Horizontal Wall Profile (Internal to External)
+
+**Objective:** Map the absolute horizontal thickness of the wall build-up to calculate internal usable floor area against the external building footprint.
+
+| Layer | Material | Thickness | Cumulative Thickness (from internal face) |
+| :--- | :--- | :--- | :--- |
+| **1. Internal Finish** | Fermacell Acoustic Board | 15mm | 15mm |
+| **2. Vapour Seal** | Pro Clima Tescon Vana Tape (over joints) | 0mm | 15mm |
+| **3. Structural Core** | New Forest SIP (OSB / EPS / OSB) | 150mm | 165mm |
+| **4. External Insulation**| Rigid Wood Fibre Board | 60mm | 225mm |
+| **5. Breather Membrane**| Tyvek Housewrap / UV Facade | 0mm | 225mm |
+| **6. Rainscreen Cavity** | Treated Timber Batten | 25mm | 250mm |
+| **7. Cladding** | James Hardie VL Fibre Cement Plank | 11mm | **261mm Total Wall Thickness** |
+
+### 2.3 The Comprehensive Wall & Plinth Envelope (Build Sequence)
 
 **Objective:** Ensure zero thermal bridging ('Red Line' test), block coastal wind-driven rain, and securely anchor the structure while providing an unbroken build sequence from the foundation plinth up to the internal ceiling.
 
 #### A. The Structural Base & Anchoring (The Plinth)
 
-| Material Name | Datum Offset (0mm = Lawn) | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Polymeric DPC** | **-2mm** | High-Performance Polymeric DPC | Laid flat continuously along top surface of timber ring beam (-2mm datum). | **Capillary Break:** Failsafe barrier preventing ground moisture wicking into sole plate. | 1 Roll |
-| **SIP Sole Plate** | **-2mm to +45mm** | 47x150mm C24 Timber | Anchored through DPC to Ring Beam | Base anchor plate for SIP wall panels. | ~17.7 linear meters |
-| **SIP to Plate Seal** | **-2mm to +45mm** | Expanding PU Foam & Sealant | Injected into SIP rebate before dropping over sole plate | Creates a permanent foam-to-timber airtight and thermal seal. | 4 tubes |
-| **Structural Anchoring** | **-122mm to +60mm** | M12 A4 (316) Stainless Studs (330mm) | Anchored through timber ring beam @ 1200mm centers | Passes through timber sole plate into heavy ring beam to securely clamp frame down. | ~16 units |
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
+| :--- | :--- | :--- | :--- | :--- |
+| **Polymeric DPC** | High-Performance Polymeric DPC | Laid flat continuously along top surface of timber ring beam (-2mm datum). | **Capillary Break:** Failsafe barrier preventing ground moisture wicking into sole plate. | 1 Roll |
+| **SIP Sole Plate** | 47x150mm C24 Timber | Anchored through DPC to Ring Beam | Base anchor plate for SIP wall panels. | ~17.7 linear meters |
+| **SIP to Plate Seal** | Expanding PU Foam & Sealant | Injected into SIP rebate before dropping over sole plate | Creates a permanent foam-to-timber airtight and thermal seal. | 4 tubes |
+| **Structural Anchoring** | M12 A4 (316) Stainless Studs (330mm) | Anchored through timber ring beam @ 1200mm centers | Passes through timber sole plate into heavy ring beam to securely clamp frame down. | ~16 units |
 
 #### B. The External Plinth & Splash Skirt
 
-| Material Name | Datum Offset (0mm = Lawn) | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Aluminium EWI Starter Track** | **-2mm to +20mm** | **60mm wide** Aluminium U-Channel with Drip Edge | Screwed horizontally into SIP Sole Plate and Ring Beam, perfectly level at +20mm mark. | Structural "shelf" for XPS skirt. Forms drip-edge to kick water away from void. Clamps rodent mesh behind it. | ~17.7 linear meters |
-| **Splash Zone Skirt** | **+20mm to +170mm** | **60mm thick** x 150mm high XPS Strip | Mechanically fixed to base of SIP wall / Sole plate using 100mm wood screws with plastic washers. Backed by PU adhesive. | **Waterproof Plinth:** 100% rot-proof, waterproof barrier in the critical 150mm splash zone above the lawn. | ~17.7 linear meters |
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
+| :--- | :--- | :--- | :--- | :--- |
+| **Aluminium EWI Starter Track** | **60mm wide** Aluminium U-Channel with Drip Edge | Screwed horizontally into SIP Sole Plate and Ring Beam, perfectly level at +20mm mark. | Structural "shelf" for XPS skirt. Forms drip-edge to kick water away from void. Clamps rodent mesh behind it. | ~17.7 linear meters |
+| **Splash Zone Skirt** | **60mm thick** x 150mm high XPS Strip | Mechanically fixed to base of SIP wall / Sole plate using 100mm wood screws with plastic washers. Backed by PU adhesive. | **Waterproof Plinth:** 100% rot-proof, waterproof barrier in the critical 150mm splash zone above the lawn. | ~17.7 linear meters |
 
 #### C. The Field of the Wall (Interior to Exterior - Build Sequence)
 
-| Material Name | Datum Offset (0mm = Lawn) | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **1. Internal Finish** | **+78mm to +2226.5mm** (High) / **+2169.7mm** (Low) | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking. Fixed *directly* to internal SIP OSB face. REI30/REI60 Fire compliant. | ~26 boards |
-| **2. Vapour Control Sealing** | **+45mm to +2241.5mm** | Pro Clima Tescon Vana Tape | Taped directly over internal SIP wall joints | Airtightness; stops interstitial condensation. | 4 Rolls |
-| **3. Structural SIP Panel** | **+45mm to +2241.5mm** (High) / **+2184.7mm** (Low) | 150mm New Forest SIP Base Wall Panel | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Primary load-bearing structure and continuous thermal barrier. | ~39m² wall coverage |
-| **4. External Insulation** | **+170mm to +2241.5mm** | 60mm Rigid Wood Fibre Board | Friction fit; held by batten screws. Starts strictly at +170mm (resting on top of 150mm XPS skirt). *Plinth Joint:* Bed horizontal bottom joint on a bead of vapour-permeable MS Polymer sealant (Soudaseal/Orcon F) or Compriband expanding tape. **NEVER use standard closed-cell expanding PU foam** here to avoid creating a vapour dam. | Unbroken thermal jacket (2,100 J/kgK specific heat capacity) providing massive summer decrement delay. Breathable plinth joint seals against draughts while letting trapped moisture escape downwards. | ~39m² coverage |
-| **5. Breather Membrane** | **+20mm to +2241.5mm** | Tyvek Housewrap / UV Facade | **Clamped** by vertical rainscreen battens. *Base Detail:* Draped over Wood Fibre and XPS skirt, taped to front face of 60mm starter track using Tescon Vana. **Do not tuck it into the track.** | Repels wind-driven rain, allows internal vapour escape, directs water completely out over starter track drip-edge. | 1 Roll (50m) |
-| **6. Rainscreen Gap / Batten** | **+20mm to +2241.5mm** | 25x50mm Treated Timber @ 400mm centers | 150mm A4 (316) Stainless Steel EWI Screws driven in alternating pattern: 60° downward (shear weight) and 90° horizontally (wind load). | Creates strict **25mm ventilation path**. Alternating screw angles (Truss-Screw method) prevent heavy cladding from crushing soft wood fibre. | ~180 linear meters |
-| **7. Rainscreen Bug Mesh** | **+20mm to +45mm** | Perforated Aluminium Vent Trim | Stapled across bottom 25mm gap between vertical battens | Allows 25mm rainscreen cavity to breathe while stopping pests. | ~17.7 linear meters |
-| **8. Cladding** | **+20mm to +2241.5mm** | James Hardie VL Fibre Cement Plank (11mm, A2 Fire) | Mechanical fixing via Hardie™ Plank Screws (4.2Ø x 40mm). | 'Cowes-Proof' weather shield. Complies with Part B Fire Safety for boundary proximity. | ~39m² coverage |
+| Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Internal Finish** | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking. Fixed *directly* to internal SIP OSB face. REI30/REI60 Fire compliant. | ~26 boards |
+| **2. Vapour Control Sealing** | Pro Clima Tescon Vana Tape | Taped directly over internal SIP wall joints | Airtightness; stops interstitial condensation. | 4 Rolls |
+| **3. Structural SIP Panel** | 150mm New Forest SIP Base Wall Panel | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Primary load-bearing structure and continuous thermal barrier. | ~39m² wall coverage |
+| **4. External Insulation** | 60mm Rigid Wood Fibre Board | Friction fit; held by batten screws. Starts strictly at +170mm (resting on top of 150mm XPS skirt). *Plinth Joint:* Bed horizontal bottom joint on a bead of vapour-permeable MS Polymer sealant (Soudaseal/Orcon F) or Compriband expanding tape. **NEVER use standard closed-cell expanding PU foam** here to avoid creating a vapour dam. | Unbroken thermal jacket (2,100 J/kgK specific heat capacity) providing massive summer decrement delay. Breathable plinth joint seals against draughts while letting trapped moisture escape downwards. | ~39m² coverage |
+| **5. Breather Membrane** | Tyvek Housewrap / UV Facade | **Clamped** by vertical rainscreen battens. *Base Detail:* Draped over Wood Fibre and XPS skirt, taped to front face of 60mm starter track using Tescon Vana. **Do not tuck it into the track.** | Repels wind-driven rain, allows internal vapour escape, directs water completely out over starter track drip-edge. | 1 Roll (50m) |
+| **6. Rainscreen Gap / Batten** | 25x50mm Treated Timber @ 400mm centers | 150mm A4 (316) Stainless Steel EWI Screws driven in alternating pattern: 60° downward (shear weight) and 90° horizontally (wind load). | Creates strict **25mm ventilation path**. Alternating screw angles (Truss-Screw method) prevent heavy cladding from crushing soft wood fibre. | ~180 linear meters |
+| **7. Rainscreen Bug Mesh** | Perforated Aluminium Vent Trim | Stapled across bottom 25mm gap between vertical battens | Allows 25mm rainscreen cavity to breathe while stopping pests. | ~17.7 linear meters |
+| **8. Cladding** | James Hardie VL Fibre Cement Plank (11mm, A2 Fire) | Mechanical fixing via Hardie™ Plank Screws (4.2Ø x 40mm). | 'Cowes-Proof' weather shield. Complies with Part B Fire Safety for boundary proximity. | ~39m² coverage |
 
 **CRITICAL VAPOUR INSTRUCTION:** SIP panels MUST be ordered WITHOUT a factory-fitted breather membrane. The Tyvek is applied solely over the external Wood Fibre layer to prevent trapping moisture between two membranes.
 
-### 2.2 SIPs Sealing Strategy & Weak Point Continuity
+### 2.4 SIPs Sealing Strategy & Weak Point Continuity
 *   **Panel Joints (The Critical Weakness):** All SIP panels must be joined using **Insulated Splines** (miniature SIP strips) rather than timber C16 splines to prevent cold bridging at every 1200mm joint. The spline joints must be heavily sealed with structural polyurethane adhesive/expanding foam during assembly.
 *   **Tape Specification:** **Pro Clima Tescon Vana** is mandatory for taping the internal VCL over all SIP joints, seams, and corners. 
 *   **Socket Boxes:** Because the 25mm service cavity has been engineered out to maximize internal footprint, flush-mount back-boxes cannot be used. All electrical sockets and switches must be **Surface-Mounted Metal-Clad or Heavy-Duty PVC** boxes, screwed directly to the Fermacell. This ensures the internal SIP structural and airtight skin is strictly never pierced.
 
-### 2.3 The Roof 'Sandwich' (Exterior to Interior)
+### 2.5 The Roof 'Sandwich' (Exterior to Interior)
 
 **Context:** The roof structure must integrate seamlessly with the SIP walls, provide Passivhaus-level insulation, and strictly adhere to the **≤ 2.5m Permitted Development** height limit.
 
@@ -175,7 +206,7 @@ layout: default
 | **6. Vapour Control Sealing** | Pro Clima Tescon Vana Tape | Self-sealing airtight gasket tape applied *strictly* over the internal SIP roof joints | Ensures the internal VCL envelope is continuously sealed. Bypasses the need for a full Intello membrane sheet, ensuring that ceiling screws driven into the field of the SIP do not puncture the primary air barrier, while the tape itself self-seals around any screws that happen to pass through the joints. | 3 Rolls |
 | **7. Internal Ceiling** | 15mm Fermacell Acoustic Board | Jointstik glue & screwed directly to SIP inner skin | High mass acoustic blocking. Fixed directly to the SIP to avoid losing 25mm to service battens. | ~14 boards |
 
-#### 2.3.2 Internal Ceiling Height & Boundary Compliance
+#### 2.5.2 Internal Ceiling Height & Boundary Compliance
 **Objective:** Maintain strict compliance with the **≤ 2.5m Permitted Development** height limit while maximizing internal headroom. The 1:60 roof fall is built into the SIP roof support geometry and oriented across the short nominal **3.41m width** (rather than the 5.41m length) to minimize the total roof drop to just 56.8mm (3408 ÷ 60 = 56.8mm).
 
 *   **External Height Physics (The 2.5m Limit):**
@@ -197,7 +228,7 @@ layout: default
     *   **Adopted Split Datum:** To prioritize ergonomic door height over 360-degree visual symmetry, the design uses a split datum. The high-side West wall openings (door and panorama windows) are set to a comfortable **2078mm FFL** top datum (Absolute +2156mm). The East, North, and South clerestories remain at the safe **2020mm FFL** top datum (Absolute +2098mm).
     *   Sloped end-walls (North and South) rise from 2184.7mm to 2241.5mm. Using a horizontal 2098mm absolute top datum (2020mm FFL) for the clerestories safely preserves a structural head zone that gradually widens from 86.7mm on the low (East) side to 143.5mm on the high (West) side.
 
-### 2.4 Roof Edge & Fascia Detailing (The "Cantilevered SIP Edge")
+### 2.6 Roof Edge & Fascia Detailing (The "Cantilevered SIP Edge")
 **Objective:** Provide a solid structural perimeter for EPDM membrane clamping and continuous ventilation of the rainscreen cavity, without creating a massive solid-timber cold bridge that compromises the thermal envelope.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
@@ -208,7 +239,7 @@ layout: default
 | **4. EPDM Clamping (High Sides)** | Sure-Edge Check Kerb Trim | Screwed through the EPDM directly into the Timber Hard Edge/Fascia | Mechanically clamps the EPDM over the roof edge to prevent wind-uplift and stops water rolling off the non-draining sides. | ~13 linear meters |
 | **5. Rainscreen Top Bug Mesh** | Perforated Aluminium Vent Trim (or folded insect mesh) | Stapled/tacked to the underside of the cantilevered SIP roof panel, bridging the 25mm batten gap before the top Hardie Plank is installed. | Allows the upward draft of air from the 25mm rainscreen cavity to escape out under the eaves, preventing interstitial condensation, while permanently blocking wasps and hornets from nesting behind the cladding. | ~18.5 linear meters |
 
-### 2.4.1 Flat Roof Drainage & Rainwater Harvesting (The Water Butt Strategy)
+### 2.6.1 Flat Roof Drainage & Rainwater Harvesting (The Water Butt Strategy)
 **Objective:** A 18.6m² flat roof in Cowes will collect approximately 15,000 liters of water annually. Unmanaged runoff cascading off the roof will instantly overwhelm the local perimeter french drain.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
@@ -220,7 +251,7 @@ layout: default
 | **Water Butt** | 200L to 250L Slimline Butt | Sitting on a stable block plinth | Eco-friendly harvesting for garden use, drastically reducing sudden shock loads on the ground drainage. | 1 unit |
 | **The Overflow** | 68mm UPVC Pipe / Splash Shoe | Attached to diverter overflow | Excess rainwater discharges directly into the 400mm perimeter gravel margin (French drain) which naturally percolates into the surrounding ground. | 1 unit |
 
-### 2.5 Glazing & Door Access Strategy
+### 2.7 Glazing & Door Access Strategy
 **Objective:** Provide secure entry and natural light while maintaining Passivhaus Q50 airtightness testing standards and rigorous acoustic dB reduction.
 *   **Window Specification:** All windows must utilize Vacuum-Insulated Glazing (VIG) housed within uPVC frames for maximum thermal efficiency and acoustic dampening. The West-facing windows must be ordered with a factory-applied Solar Control Coating (g-value < 0.40) to mitigate summer overheating.
 *   **Window Schedule:** 
