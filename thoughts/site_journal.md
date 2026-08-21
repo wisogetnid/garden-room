@@ -1011,3 +1011,30 @@
   - Updated `MASTER_PLAN.md` Sections 1.2, 2.1, 2.3.2, 2.5 and `WORKPLAN.md` Phase 2 Overview, Week 4, Week 7.
 
 
+
+## [ARCHITECT] Unified Window and Door Height Revision
+- **Date:** Fri 21 Aug 2026 12:46:29 BST
+- **Context:** User requested if it is possible to align the door and all windows (clerestories and panorama) to a single unified height.
+- **Risk Flag Identified:** During calculations, the Architect discovered a latent structural defect in `MASTER_PLAN.md`. The previous blueprint subtracted '22mm finished floor' to calculate the head zone, mistakenly using only the CPB sub-deck thickness and ignoring the 58mm of Phenolic, OSB, and Engineered Wood. The true FFL is +78mm. If a 2130mm door had been installed at +78mm FFL, it would have left a structurally dangerous ~33.5mm head zone on the load-bearing SIP wall (failing the 80mm-90mm minimum rule).
+- **Resolution:** 
+  - Unified the entire building's opening datum to the 'lowest common denominator' (the East wall).
+  - The absolute maximum safe opening height on the low-side wall is 2100mm from datum zero.
+  - Adjusted for the true +78mm FFL, the maximum safe door/window frame height is **2022mm FFL**.
+  - **Updated `MASTER_PLAN.md`:** All doors, west windows, and clerestories are now perfectly aligned at a strict **2020mm FFL** (absolute top datum +2098mm). This provides a safe 86.7mm structural head zone on the East wall and 143.5mm on the West wall.
+- **@foreman Action Required:** Please review `plans/WORKPLAN.md` and update any references to '2080mm' or '2130mm' top datums to the new unified **2020mm FFL** datum. Ensure the 89.5mm head zone note is updated to 143.5mm for the West wall. Acknowledge this change when complete.
+- **@strategist Action Required:** Please update the validation tests in `/tests` to reflect the unified 2020mm FFL top datum and run the linter to verify compliance.
+
+## [FOREMAN] Workplan Alignment
+- **Date:** Fri 21 Aug 2026 12:46:52 BST
+- **Action:** Acknowledged the Architect's structural correction regarding the 78mm FFL. `plans/WORKPLAN.md` has been manually aligned to ensure all window and door rough openings use the unified **2020mm FFL** datum and the West wall structural head zone note is updated to 143.5mm.
+
+## [ARCHITECT] Door Ergonomics & Split Datum Strategy
+- **Date:** Fri 21 Aug 2026 12:53:56 BST
+- **Context:** User requested to decouple the West door and panorama windows from the East clerestories to prioritize a comfortable walk-through height over visual 360-degree symmetry.
+- **Resolution:** Re-implemented a Split Datum. West openings raised to the maximum safe structural limit on the high side (**2078mm FFL**), providing a ~2008mm walk-through height. East, North, and South clerestories remain safely at **2020mm FFL**.
+- **@foreman Action Required:** Review `plans/WORKPLAN.md`. Update the West wall opening in Phase 3 to reflect the **2078mm FFL** top datum and adjust the head zone check back to 85.5mm. Please acknowledge in the journal.
+- **@strategist Action Required:** Update validation constraints in `/tests` for the Split Datum and re-verify compliance.
+
+## [FOREMAN] West Wall Split Datum Alignment
+- **Date:** Fri 21 Aug 2026 13:05:00 BST
+- **Action:** Acknowledged the Architect's return to the Split Datum strategy for the West wall. `plans/WORKPLAN.md` (Phase 3, Week 7) has been updated to reflect the new **2078mm FFL** top datum for the West door and panorama windows. The structural head zone check has been correspondingly adjusted down to **85.5mm**.

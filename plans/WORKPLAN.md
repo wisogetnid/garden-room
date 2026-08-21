@@ -80,11 +80,11 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 ### Week 7: AC Penetration, Glazing & Threshold Detailing
 *   **The AC Core Hole (Before Cladding):** Mount the internal bracket for the DIY Quick-Connect AC unit on the SIP OSB. Drill a ~65mm core hole through the SIP wall with a 2-3° downward angle to the outside for condensate drainage. Run the pipe bundle through to the outside and leave coiled. Fill the core gap with airtight foam, and tape the inside with Tescon Vana / Roflex grommet.
 *   **Glazing & Door Installation:** Install the Vacuum-Insulated Glazing (VIG) uPVC windows into factory-cut SIP openings:
-    *   *North:* 1x 300x1500mm Fixed Clerestory, top datum **2080mm FFL**.
-    *   *South:* 1x 300x1500mm Fixed Clerestory, top datum **2080mm FFL**.
-    *   *East:* 2x 300x1500mm Fixed Clerestory, top datum **2080mm FFL**.
-    *   *West:* 2x 1000x1000mm Fixed Panorama + 1400mm x 2130mm maximum outer-frame-height Asymmetric Door, all heads aligned at **2130mm FFL**.
-    *Foreman Note:* Verify the **89.5mm** structural head zone above the West door/windows beneath the 2241.5mm high-side wall plate. Seal all units with expanding PU foam and tape over frame-to-OSB joints internally with Tescon Vana.
+    *   *North:* 1x 300x1500mm Fixed Clerestory, top datum **2020mm FFL**.
+    *   *South:* 1x 300x1500mm Fixed Clerestory, top datum **2020mm FFL**.
+    *   *East:* 2x 300x1500mm Fixed Clerestory, top datum **2020mm FFL**.
+    *   *West:* 2x 1000x1000mm Fixed Panorama + 1400mm x 2078mm maximum outer-frame-height Asymmetric Door, all heads aligned at **2078mm FFL**.
+    *Foreman Note:* Verify the **85.5mm** structural head zone above the West door/windows beneath the 2241.5mm high-side wall plate. Seal all units with expanding PU foam and tape over frame-to-OSB joints internally with Tescon Vana.
 *   **Threshold Riser & Drainage:** Install a treated **33mm tall x 150mm wide C24 timber riser block** over the DPC across the 1400mm door opening to bring the door frame base up to **+78mm FFL** (flush with the internal engineered wood floor). Set an Aco HexDrain channel flush with the external patio level directly in front of the West door, and apply **RIW Flexiseal** liquid moisture barrier over the threshold junction.
 
 ---
