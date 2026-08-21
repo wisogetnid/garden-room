@@ -179,7 +179,7 @@ layout: default
 **Objective:** Maintain strict compliance with the **≤ 2.5m Permitted Development** height limit while maximizing internal headroom. The 1:60 roof fall is built into the SIP roof support geometry and oriented across the short nominal **3.41m width** (rather than the 5.41m length) to minimize the total roof drop to just 56.8mm (3408 ÷ 60 = 56.8mm).
 
 *   **External Height Physics (The 2.5m Limit):**
-    *   **Statutory Measurement Datum:** The Isle of Wight Planning Authority has confirmed the 2.5m limit is measured from the *highest adjacent ground*. This provides a distinct legal advantage if the site slopes.
+*   **Statutory Measurement Datum (Datum Zero):** The Isle of Wight Planning Authority has confirmed the 2.5m limit is measured from the *highest adjacent ground*. Throughout this document, **Datum Zero (0.00mm)** explicitly refers to this highest natural point of the adjacent lawn. All absolute vertical measurements are calculated from this point to ensure strict Permitted Development compliance.
     *   Exposed Base Zone: 0mm (Timber floor structure sits within the 300mm excavation, flush with baseline lawn level)
     *   Maximum \'High-Side\' Wall Height: **2241.5mm**
     *   Low-Side Wall Height: 2241.5mm - 56.8mm fall = **2184.7mm**
