@@ -3,10 +3,10 @@
  <title>FreeCAD SVG Export</title>
  <desc>Drawing page: Page003 exported from FreeCAD document: garden_room_v2</desc>
  <defs>
-  <pattern height="64" id="texpattern_1f52a00000003" patternUnits="userSpaceOnUse" width="64" x="0" y="0">
+  <pattern height="64" id="texpattern_29a1b00000003" patternUnits="userSpaceOnUse" width="64" x="0" y="0">
    <image height="64" image-rendering="optimizeSpeed" preserveAspectRatio="none" width="64" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAABeElEQVR4nO2awUrDQBCGv1RQECp68aIX661eFdQHsI+g7/8iegitk7C17CYyO9n/Ow0h3xCWMNnNDMAXv7wDN+TxGdwHhouwy0zSjR4imn9gvAjnjfkAXJv4rkFfHKPodYrgr/6QXkx8S35hie4Dw8LyUZAkup9Msm7MB+DZxK8N+mLR5BYGe3/HcPMRzQemV9eSvXdNPqBFAPpFOMtMYk9h0X2g8Bu5IF9YLlvwx4ehnYkfyC8s0X3A/wDi7SeT5L6O0X0ANibeNugLYXg08T1w0ZgP1LV39/CreAhvH+g/K3veyN9/1+YLYbjKvL8L7rOi/ymwT/REXmH4ZlhYovkHxn9Woh1g/uUANKU/H9EH/Pvz3r44RrX9/am+5gNO4F2dvf1kkmj9fc0HzOCLRaP5gNTFE3j/mdF8wMw+4N+f9/YB//68ty8sIfr7U33NByTwPoB4+8kk0fr7mg+YwRfC4N2f9/aBuvbumg9w8oH6+vuaDxCinB/twlltPCCxAwAAAABJRU5ErkJggg==" y="0"/>
   </pattern>
-  <pattern height="64" id="texpattern_1f50500000003" patternUnits="userSpaceOnUse" width="64" x="0" y="0">
+  <pattern height="64" id="texpattern_299f600000003" patternUnits="userSpaceOnUse" width="64" x="0" y="0">
    <image height="64" image-rendering="optimizeSpeed" preserveAspectRatio="none" width="64" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAABeElEQVR4nO2awUrDQBCGv1RQECp68aIX661eFdQHsI+g7/8iegitk7C17CYyO9n/Ow0h3xCWMNnNDMAXv7wDN+TxGdwHhouwy0zSjR4imn9gvAjnjfkAXJv4rkFfHKPodYrgr/6QXkx8S35hie4Dw8LyUZAkup9Msm7MB+DZxK8N+mLR5BYGe3/HcPMRzQemV9eSvXdNPqBFAPpFOMtMYk9h0X2g8Bu5IF9YLlvwx4ehnYkfyC8s0X3A/wDi7SeT5L6O0X0ANibeNugLYXg08T1w0ZgP1LV39/CreAhvH+g/K3veyN9/1+YLYbjKvL8L7rOi/ymwT/REXmH4ZlhYovkHxn9Woh1g/uUANKU/H9EH/Pvz3r44RrX9/am+5gNO4F2dvf1kkmj9fc0HzOCLRaP5gNTFE3j/mdF8wMw+4N+f9/YB//68ty8sIfr7U33NByTwPoB4+8kk0fr7mg+YwRfC4N2f9/aBuvbumg9w8oH6+vuaDxCinB/twlltPCCxAwAAAABJRU5ErkJggg==" y="0"/>
   </pattern>
  </defs>
@@ -107,7 +107,7 @@
    <g fill="#f1f3f5" fill-opacity="1" font-family=".AppleSystemUIFont" font-size="45.8611" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1163.22,781.228)">
     <path d="M-425.2,-13.3174 L-225.2,-13.3174 L-225.2,-141.717 L-225.2,-201.717 L-225.2,-213.317 L-425.2,-213.317 L-425.2,-13.3174" fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
    </g>
-   <g fill="url(#texpattern_1f52a00000003)" fill-opacity="1" font-family=".AppleSystemUIFont" font-size="45.8611" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1163.22,781.228)">
+   <g fill="url(#texpattern_29a1b00000003)" fill-opacity="1" font-family=".AppleSystemUIFont" font-size="45.8611" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1163.22,781.228)">
     <path d="M-139.2,-16.2774 L60.8,-16.2774 L60.8,-216.277 L-139.2,-216.277 L-139.2,-201.717 L-90,-201.717 L-90,-141.717 L-139.2,-141.717 L-139.2,-16.2774" fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
    </g>
    <g fill="#f1f3f5" fill-opacity="1" font-family=".AppleSystemUIFont" font-size="45.8611" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1163.22,781.228)">
@@ -866,7 +866,7 @@
    <g fill="#f1f3f5" fill-opacity="1" font-family=".AppleSystemUIFont" font-size="45.8611" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,3070.74,1800.1)">
     <path d="M-360,-249.017 L360,-237.077 L360,-281.783 L-360,-293.723 L-360,-249.017" fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
    </g>
-   <g fill="url(#texpattern_1f50500000003)" fill-opacity="1" font-family=".AppleSystemUIFont" font-size="45.8611" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,3070.74,1800.1)">
+   <g fill="url(#texpattern_299f600000003)" fill-opacity="1" font-family=".AppleSystemUIFont" font-size="45.8611" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,3070.74,1800.1)">
     <path d="M150,-141.717 L-150,-141.717 L-150,-201.717 L150,-201.717 L150,-141.717" fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
    </g>
    <g fill="#f1f3f5" fill-opacity="1" font-family=".AppleSystemUIFont" font-size="45.8611" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,3070.74,1800.1)">
@@ -1252,6 +1252,18 @@
    </g>
    <g fill="none" font-family=".AppleSystemUIFont" font-size="45.8611" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="0.847059" stroke-width="1" transform="matrix(1,0,0,1,1668.14,416.09)">
     <text fill="#000000" fill-opacity="0.847059" font-family=".AppleSystemUIFont" font-size="45.8611" font-style="normal" font-weight="400" stroke="none" x="344.516" xml:space="preserve" y="51.7813"/>
+   </g>
+   <g fill="none" font-family=".AppleSystemUIFont" font-size="45.8611" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,974.783,2731.47)">
+    <text fill="#212529" fill-opacity="1" font-family="Helvetica" font-size="27" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="24.7813">Note: Maximum building height is 2.48m above Datum Zero (+0.000m),</text>
+   </g>
+   <g fill="none" font-family=".AppleSystemUIFont" font-size="45.8611" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,974.783,2731.47)">
+    <text fill="#212529" fill-opacity="1" font-family="Helvetica" font-size="27" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="51.7813">strictly complying with Class E Permitted Development criteria</text>
+   </g>
+   <g fill="none" font-family=".AppleSystemUIFont" font-size="45.8611" font-style="normal" font-weight="400" stroke="#212529" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,974.783,2731.47)">
+    <text fill="#212529" fill-opacity="1" font-family="Helvetica" font-size="27" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="78.7813">(&lt;2.50m height limit within 2m of boundaries).</text>
+   </g>
+   <g fill="none" font-family=".AppleSystemUIFont" font-size="45.8611" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="0.847059" stroke-width="1" transform="matrix(1,0,0,1,974.783,2731.47)">
+    <text fill="#000000" fill-opacity="0.847059" font-family=".AppleSystemUIFont" font-size="45.8611" font-style="normal" font-weight="400" stroke="none" x="549.328" xml:space="preserve" y="78.7813"/>
    </g>
   </g>
  </g>
