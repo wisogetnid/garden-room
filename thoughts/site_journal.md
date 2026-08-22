@@ -1110,3 +1110,8 @@
 - **Date:** Sat 22 Aug 2026 09:32:49 BST
 - **Context:** User requested the removal of all tests in the `/tests` directory as they were fundamentally out of sync with the evolved ground-screw/timber-frame architecture and generating false failures.
 - **Resolution:** Deleted all textual test files in the `/tests` directory to clear legacy constraints.
+
+## [ARCHITECT] Solar Shading Strategy Update
+- **Date:** Sat 22 Aug 2026 14:31:04 BST
+- **Context:** User opted to remove the factory-applied Solar Control Coating requirement from the West-facing windows, choosing to handle solar ingress dynamically using external blinds instead.
+- **Resolution:** Removed the solar coating requirement from Section 2.7 (Glazing & Door Access Strategy) and the Window Schedule in `MASTER_PLAN.md`. Added a note that solar gain will be managed mechanically via external blinds.
