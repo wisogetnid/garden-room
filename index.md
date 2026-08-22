@@ -31,9 +31,5 @@ Welcome to the Cowes Garden Room Project documentation site. This site hosts our
 
 ![Boundary Plan](./plans/cad-drawing/boundary-plan.svg)
 
-### Section Cut
-
-![Section Cut](./plans/cad-drawing/section-cut.svg)
-
 ---
 *Built with [GitHub Pages](https://pages.github.com/).*
