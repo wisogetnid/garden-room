@@ -1,9 +1,0 @@
-# Test 001: Foundation Strategy
-
-**Requirement:** The foundation must be an Insulated Concrete Raft (baseline: 150mm slab, 50mm sand blinding, 150mm XPS base) where the sub-base and XPS base are buried in a 390mm excavation, allowing the 150mm concrete slab itself to sit flush with external ground level (0mm FFL). The splash zone is handled by a 150mm Compacfoam block.
-**Rationale:** Provides extreme thermal mass and structural strength for a home office, while the 150mm Compacfoam block (with a 50mm XPS splash skirt) explicitly protects the SIPs/timber sole plates from coastal ground moisture and wind-driven rain rebound, removing the need for a raised concrete slab.
-**Constraint:** Must budget for a line pump and small contractor crew for the pour (~3.5 cubic meters) to avoid physical exhaustion and cold-joints.
-**Validation:** 
-1. The master plan must explicitly specify the layers of an insulated concrete raft foundation (leveling aggregate, blinding, insulation tub, single steel mesh, concrete) and include the line pump in the logistics.
-2. The master plan must explicitly design the excavation depth to 390mm to fully bury the leveling aggregate (50mm), blinding sand (50mm), and JACKODUR XPS base (140mm-150mm), leaving the 150mm concrete slab dead flush with the lawn (0mm FFL). A 150mm Compacfoam block must be specified to act as the splash zone.
-3. **Structural Soundness Check:** The Test Runner MUST actively validate that the proposed foundation layers are structurally sound. Use web searches to cross-reference the proposed concrete thickness, insulation compressive strength (e.g., XPS 300 kPa), and steel reinforcement (e.g., single A252 mesh) against standard UK building engineering practices to ensure they can safely support the static envelope weight and typical home office dynamic loads without cracking or subsiding.

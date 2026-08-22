@@ -1105,3 +1105,8 @@
 - **Date:** Fri 21 Aug 2026 17:35:59 BST
 - **Context:** User requested removing the strict prohibition on French Doors.
 - **Resolution:** Removed the 'French Doors Forbidden' bullet point from Section 2.7. Updated the 'Approved Mechanisms' section to allow high-performance French Doors, provided the supplier can guarantee Passivhaus-level airtightness and acoustic ratings down the central meeting stiles.
+
+## [STRATEGIST] Test Suite Deletion
+- **Date:** Sat 22 Aug 2026 09:32:49 BST
+- **Context:** User requested the removal of all tests in the `/tests` directory as they were fundamentally out of sync with the evolved ground-screw/timber-frame architecture and generating false failures.
+- **Resolution:** Deleted all textual test files in the `/tests` directory to clear legacy constraints.
