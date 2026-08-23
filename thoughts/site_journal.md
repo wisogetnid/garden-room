@@ -1115,3 +1115,27 @@
 - **Date:** Sat 22 Aug 2026 14:31:04 BST
 - **Context:** User opted to remove the factory-applied Solar Control Coating requirement from the West-facing windows, choosing to handle solar ingress dynamically using external blinds instead.
 - **Resolution:** Removed the solar coating requirement from Section 2.7 (Glazing & Door Access Strategy) and the Window Schedule in `MASTER_PLAN.md`. Added a note that solar gain will be managed mechanically via external blinds.
+
+## [ARCHITECT] Foundation Optimization: Zero-Build-Up Membrane
+- **Date:** Sun 23 Aug 2026 18:18:26 BST
+- **Context:** User provided geological data proving a strict 150mm heave gap requirement, and an alternative mechanical fixing method to secure the geotextile membrane directly to the concrete and soil, effectively eliminating the 28mm gravel ballast layer without losing weed/rodent protection.
+- **Resolution:** 
+  - Removed the 800kg void ballast from Section 1.1 and 1.2.
+  - Updated the geotextile installation instructions to use the user's provided mechanical fixing strategy (Tapcons for concrete, U-pegs for soil, butyl taped transitions, sealed X-slits around ground screws).
+  - **The Vertical Win:** Eliminating the 28mm gravel layer allowed the entire sub-floor frame to be sunk 28mm deeper into the pit while mathematically preserving the exact 150mm clear air heave gap.
+  - **The Space Reclaimed:** Rather than lowering the roof (which is locked at 2480mm max), the 28mm of saved height was directly added to the SIP wall panels. 
+  - **Results:** Internal ceiling heights increased across the board (High side is now 2.19m, Low side is 2.13m). Structural head zones above doors and windows increased to ~128mm, providing even more structural safety margin for the sloped roof.
+- **@foreman Action Required:** Update `WORKPLAN.md`. Remove gravel pouring step. Replace with mechanical membrane fixing step. Update the West Wall head zone check in Phase 3 to 128.5mm. Log acknowledgement.
+
+## [FOREMAN] Foundation Optimization & Head Zone Alignment
+- **Date:** Sun 23 Aug 2026 19:30:00 BST
+- **Action:** Acknowledged the Architect's foundation optimization strategy. Updated `plans/WORKPLAN.md` (Phase 1, Week 2) to remove the gravel ballast step and implement the mechanical zero-build-up fixing strategy (Tapcons/U-pegs/butyl tape) and modified the rodent mesh step to be pinned flat to the ground. In Phase 3 (Week 7), the West wall structural head zone check was successfully updated from 100.5mm to **128.5mm**.
+
+## [ARCHITECT] Weed Control Extension
+- **Date:** Sun 23 Aug 2026 18:23:18 BST
+- **Context:** User identified that weeds could still grow through the ventilated sub-skirt (the perimeter airflow gap) if the geotextile membrane only stopped flush with the ring beam.
+- **Resolution:** Updated the Zero-Build-Up Fixing Strategy in Section 1.1 (`MASTER_PLAN.md`). Added Step 5 directing builders to extend the membrane **150mm past the external dimensions** of the building, pinning it flat. This guarantees the entire sub-floor and the external airflow gap remains permanently weed-free.
+
+## [FOREMAN] Weed Control Extension Acknowledged
+- **Date:** Sun 23 Aug 2026 20:00:00 BST
+- **Action:** Acknowledged the Architect's Weed Control Extension update. `plans/WORKPLAN.md` (Phase 1, Week 2) has been updated with a new step to extend the geotextile membrane **150mm past the external dimensions of the building** (beyond the ring beam/cladding line) and pin or glue it flat to the ground. This ensures the ventilated sub-skirt perimeter remains weed-free.
