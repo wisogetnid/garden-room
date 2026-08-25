@@ -61,10 +61,10 @@ layout: default
 *   **1. Timber Ring Beam (150x120mm):**
     *   Outer Assembled Footprint: **3408mm x 5408mm**
 *   **2. SIP Wall Panels (120mm thickness):**
-    *   *Note: Heights below account for the 150mm clear air gap above the membrane, placing the sole plate at +17mm datum while maintaining the 2480mm maximum roof cap.*
-    *   **West Wall (High Side):** 5408mm Length × **2196.5mm Height**
-    *   **East Wall (Low Side):** 5408mm Length × **2139.7mm Height**
-    *   **North & South Walls (Sloped):** 3108mm Width (fitting *between* the long walls) × Sloping from 2139.7mm to 2196.5mm Height.
+    *   *Note: Heights below account for the 150mm clear air gap above the membrane, placing the sole plate at -30mm datum while maintaining the 2480mm maximum roof cap.*
+    *   **West Wall (High Side):** 5408mm Length × **2286.5mm Height**
+    *   **East Wall (Low Side):** 5408mm Length × **2229.7mm Height**
+    *   **North & South Walls (Sloped):** 3164mm Width (fitting *between* the long walls) × Sloping from 2229.7mm to 2286.5mm Height.
 *   **3. SIP Roof Panels (122mm thickness):**
     *   The roof must cantilever exactly 96mm past the structural SIP walls on all four sides to cover the external insulation and cladding.
     *   **Total Assembled Roof Plane:** **3600mm Width × 5600mm Length**
@@ -259,13 +259,13 @@ layout: default
     *   **West Elevation (Visible / High-Side Façade):** 2x **1000x1000mm** Fixed VIG uPVC windows (top datum **2078mm FFL**, bottom sill **1078mm FFL**) + 1x **1400mm x 2078mm** Asymmetric 1.5 Door. (External blinds to be fitted post-install for summer shading).
 *   **Clerestory Placement Logic:** The 300x1500mm fixed windows must be factory-cut into the SIPs with a **2020mm top datum** on the East wall. This Passivhaus optimization (fixed panes = zero air leakage) relies entirely on the dMVHR for ventilation, while retaining 1720mm of uninterrupted wall height below for tool racks and machinery.
 *   **West Façade 'Workbench Panorama' Layout:** To future-proof for a home office, the West wall utilizes an asymmetric zoning layout and must be the **high-side wall** of the roof slope. To ensure internal visual symmetry and prevent the windows from feeling cramped against the side walls, the layout is "Internally Centered." Across the 5410mm SIP core length (viewed from the outside, Right to Left), the exact openings and solid wall dimensions are:
-    *   **Right Corner Pillar:** 580mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 165mm, this provides exactly 415mm of visible internal wall space beside the door*).
+    *   **Right Corner Pillar:** 579mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 135mm, this provides exactly 444mm of visible internal wall space beside the door*).
     *   **Main Door:** 1400mm opening
     *   **Door/Window Gap:** 420mm solid SIP
     *   **Window 1:** 1000mm opening
     *   **Central Mullion:** 430mm solid SIP
     *   **Window 2:** 1000mm opening
-    *   **Left Corner Pillar:** 580mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 165mm, this provides exactly 415mm of visible internal wall space beside the window*).
+    *   **Left Corner Pillar:** 579mm solid SIP (*Note: Because the adjacent side-wall internal buildup consumes 135mm, this provides exactly 444mm of visible internal wall space beside the window*).
     *   *Revised Vertical Datum:* The door and West window heads align at **2078mm FFL**, preserving an 85.5mm structural head zone above the openings on the high side. The revised 1000x1000mm fixed windows place the bottom sills at **1078mm FFL**, allowing a standard 900mm-high workbench or desk to sit beneath the glass with ~178mm clearance.
 *   **Approved Mechanisms:** Specify a **1400mm x 2078mm maximum outer-frame-height Asymmetric 1.5 Door system** (e.g., a 900mm active leaf combined with a 500mm slave leaf), a high-performance **Lift-and-Slide door**, or a high-performance **French Door** if the supplier can guarantee Passivhaus-level airtightness (Q50) and acoustic ratings down the central meeting stiles, and keep the total frame height at or below 2078mm FFL. These systems must use complex cam-action locks to physically compress robust continuous rubber gaskets, ensuring the thermal and acoustic envelope is not compromised at the entry point.
 *   **Threshold Support Riser Block:** Across the 1400mm door opening, a treated **33mm tall x 150mm wide C24 timber riser block** (or high-density threshold packer) is fixed over the Polymeric DPC / sole plate (+17mm datum). This elevates the base of the door frame to **+50mm FFL**, bringing the door threshold perfectly flush with the internal engineered wood floor.

@@ -1168,3 +1168,25 @@
 - **Date:** Tue 25 Aug 2026 20:09:13 BST
 - **Context:** User submitted planning elevation views that included the 28mm gravel foundation, which has since been removed from the design. User asked if this millimeter-level discrepancy will cause issues with the planning authority.
 - **Resolution:** Reassured the user. Permitted Development and Planning applications are evaluated on gross massing, boundary proximity, and absolute height limits (e.g., <2.5m). The planning officer does not cross-reference underground foundation mechanics or sub-millimeter internal floor buildups. As long as the external absolute height remains at or below the submitted 2480mm, the submission is perfectly valid.
+
+## [ARCHITECT] RFQ Document Refinement: dMVHR Integration
+- **Date:** Tue 25 Aug 2026 20:16:58 BST
+- **Context:** User requested that the specialized factory cut-out for the decentralized MVHR (Zehnder ComfoAir 70) be added to the RFQ summary.
+- **Resolution:** Generated an updated RFQ template including a precise, top-down referenced 270mm circular cut-out specification with the mandatory 1° to 2° downward drainage pitch.
+
+## [LIBRARIAN] MVHR Supplier Sourcing
+- **Date:** Tue 25 Aug 2026 20:20:07 BST
+- **Context:** User requested information on where to purchase the specified Zehnder ComfoAir 70 dMVHR unit in the UK.
+- **Resolution:** Executed web search and identified Paul Heat Recovery (Scotland) and EpicAir as the primary UK distributors for the Zehnder ComfoAir 70, with prices ranging from ~£1,170 to £1,400+ depending on the grille and sensor configurations.
+
+## [ARCHITECT & FOREMAN] Comprehensive Consistency Remediation
+- **Date:** Tue 25 Aug 2026 20:29:45 BST
+- **Context:** User provided a detailed cross-reference audit identifying 7 critical sequence, math, and material mismatches between the `MASTER_PLAN.md` and `WORKPLAN.md`.
+- **Resolution:**
+  1. **SIP Wall Heights:** Corrected `MASTER_PLAN.md` Section 1.0a Cut List to 2286.5mm (High) and 2229.7mm (Low) to match the Vertical Superstructure table (-30mm ring beam offset).
+  2. **Threshold Datum:** Corrected `WORKPLAN.md` Phase 3, Week 8 (formerly Week 7) to state the riser block brings the door to **+50mm FFL**, fixing the math error.
+  3. **Plinth Datum Shift:** Corrected `WORKPLAN.md` Phase 3, Week 7 (formerly Phase 4) to set the Aluminium Starter track at **-8mm** and XPS skirt from **-8mm to +142mm**.
+  4. **West Façade Geometry:** Corrected `MASTER_PLAN.md` Section 2.7. Adjusted the two 580mm corner pillars to 579mm, perfectly summing the total wall cutouts to the 5408mm core length.
+  5. **SIP Core Material:** Changed all legacy 'PUR-Core' references in `WORKPLAN.md` to **EPS-Core** to reflect the 120mm downgrade.
+  6. **Blind Coring Sequence Trap:** Added a 'Utility Pilot Hole' step to `WORKPLAN.md` Phase 1 (Week 3/4) to drop a 32mm PVC stub pipe through the CPB/Phenolic/OSB3 decks before they are covered, preventing blind coring in Phase 5.
+  7. **Temporary Weathering Risk:** Completely restructured `WORKPLAN.md` Phases 3 and 4. The external Wood Fibre insulation and Tyvek wrap are now accelerated into Phase 3 (Week 7) immediately following the roof lift, ensuring the OSB SIPs are permanently protected from coastal rain without relying on temporary tarps for a month.
