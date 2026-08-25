@@ -1139,3 +1139,32 @@
 ## [FOREMAN] Weed Control Extension Acknowledged
 - **Date:** Sun 23 Aug 2026 20:00:00 BST
 - **Action:** Acknowledged the Architect's Weed Control Extension update. `plans/WORKPLAN.md` (Phase 1, Week 2) has been updated with a new step to extend the geotextile membrane **150mm past the external dimensions of the building** (beyond the ring beam/cladding line) and pin or glue it flat to the ground. This ensures the ventilated sub-skirt perimeter remains weed-free.
+
+## [LIBRARIAN] 120mm SIP Trade-off Analysis
+- **Date:** Tue 25 Aug 2026 19:31:23 BST
+- **Context:** User requested a structural and thermal trade-off analysis regarding downgrading the 150mm SIP walls to 120mm SIP walls (122mm true).
+- **Resolution:** Synthesized existing structural/thermal research into a comparative breakdown for the user.
+
+## [ARCHITECT] Wall Thickness Downgrade (150mm to 120mm)
+- **Date:** Tue 25 Aug 2026 19:47:37 BST
+- **Context:** Following a thermal and financial trade-off analysis, user opted to downgrade the primary SIP wall thickness from 150mm to 120mm to save upfront capital cost and reclaim internal floor space, accepting the marginal increase in winter heating costs.
+- **Resolution:** 
+  - Updated `MASTER_PLAN.md` Sections 1.0 (Cut List) and 2.2 (Horizontal Profile).
+  - Internal usable space increased to 3.138m x 5.138m.
+  - Changed the C24 Sole Plate specification from 47x150mm to 47x120mm to match the new core width.
+  - Updated the U-Value calculation to ~0.19 W/m²K.
+- **@foreman Action Required:** Update Phase 3 in `WORKPLAN.md` to instruct the builder to erect 120mm SIP walls, not 150mm.
+
+## [FOREMAN] Workplan Updated for 120mm SIPs
+- **Date:** Tue 25 Aug 2026 20:05:00 BST
+- **Action:** Acknowledged the Architect's wall thickness downgrade to 120mm SIPs. `plans/WORKPLAN.md` has been successfully updated in Phase 3 (Weeks 5-7) to explicitly instruct the erection of 120mm SIP walls. Additionally, the sole plate reference in Week 5 was updated to the new 47x120mm dimensions to properly match the revised core width.
+
+## [ARCHITECT] Window Height Verification Post-Gravel Removal
+- **Date:** Tue 25 Aug 2026 20:06:46 BST
+- **Context:** User asked if the removal of the 28mm gravel ballast (which lowered the sub-floor by 28mm) meant the window and door FFL placements dropped by 28mm relative to Datum Zero.
+- **Resolution:** Verified that the absolute heights of the window and door openings *did drop* by 28mm relative to Datum Zero. Because the entire floor structure sank 28mm deeper into the pit, keeping the doors/windows at +2078mm FFL and +2020mm FFL meant their absolute top elevations pulled downwards by 28mm. Consequently, the solid SIP timber *above* the windows (the structural head zone) expanded significantly to 128.5mm and 129.7mm, providing a much stronger roof bearing.
+
+## [ARCHITECT] Planning Permission Tolerance Analysis
+- **Date:** Tue 25 Aug 2026 20:09:13 BST
+- **Context:** User submitted planning elevation views that included the 28mm gravel foundation, which has since been removed from the design. User asked if this millimeter-level discrepancy will cause issues with the planning authority.
+- **Resolution:** Reassured the user. Permitted Development and Planning applications are evaluated on gross massing, boundary proximity, and absolute height limits (e.g., <2.5m). The planning officer does not cross-reference underground foundation mechanics or sub-millimeter internal floor buildups. As long as the external absolute height remains at or below the submitted 2480mm, the submission is perfectly valid.

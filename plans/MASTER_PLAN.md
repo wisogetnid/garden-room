@@ -18,7 +18,7 @@ layout: default
 ## Step-by-Step Construction Phases
 1. **Phase 1: Groundworks & Sub-Floor (Weeks 1-3):** Installation of ground screws by Island Ground Screws (avoiding existing concrete slabs), assembly of 120mm timber joist frame infilled with PIR, and structural sub-deck.
 2. **Phase 2: Thermal Capping & Decking (Week 4):** Installation of 22mm CPB, 50mm continuous Phenolic insulation layer, and 22mm structural Birch Plywood top deck.
-3. **Phase 3: Structural Envelope (Weeks 5-7):** Sole plate anchoring over Polymeric DPC, erection of 150mm SIP walls, 122mm (true) LVL-splined sloped SIP roof, and Tyvek membrane wrap.
+3. **Phase 3: Structural Envelope (Weeks 5-7):** Sole plate anchoring over Polymeric DPC, erection of 120mm SIP walls, 122mm (true) LVL-splined sloped SIP roof, and Tyvek membrane wrap.
 4. **Phase 4: Exterior Finish & Weatherproofing (Weeks 8-9):** 60mm external rigid Wood Fibre insulation, EPDM flat roof waterproofing, VIG window/door installation, and James Hardie VL cladding.
 5. **Phase 5: Internal Fit-Out & MEP (Weeks 10-12+):** 25mm rainscreen battening, internal Pro Clima Intello Plus VCL taping, 25mm service cavity, 15mm Fermacell fire-rated internal boards, Part P Electrical sign-off, Air-to-Air Heat Pump (ASHP) activation, and dMVHR ventilation balancing.
 
@@ -47,9 +47,9 @@ layout: default
     *   Distance from Finished Cladding Shell to Retaining Boards: **54mm to 304mm** (104mm / 4 in recommended).
     *   *Absolute Minimum:* **150mm** clearance from ring beam (allows drill/driver access for starter track and battens).
 *   **Final Usable Internal Space (Accounting for direct-mount Fermacell):**
-    *   SIP Core (150mm) + Fermacell (15mm) = 165mm internal buildup per wall.
-    *   Usable Internal Width: 3408mm - (165mm x 2) = **3078mm (3.078m)**
-    *   Usable Internal Length: 5408mm - (165mm x 2) = **5078mm (5.078m)**
+    *   SIP Core (120mm) + Fermacell (15mm) = 135mm internal buildup per wall.
+    *   Usable Internal Width: 3408mm - (135mm x 2) = **3138mm (3.138m)**
+    *   Usable Internal Length: 5408mm - (135mm x 2) = **5138mm (5.138m)**
     *   *Final Internal Usable Footprint:* **15.62 m²**
 
 *(Note: All structural orders—Timber frame, SIPs, and PIR—must be executed to the calculated **3408mm x 5408mm** core dimensions, NOT the finished external cladding dimensions of 3600mm x 5600mm.)*
@@ -60,8 +60,8 @@ layout: default
 
 *   **1. Timber Ring Beam (150x120mm):**
     *   Outer Assembled Footprint: **3408mm x 5408mm**
-*   **2. SIP Wall Panels (150mm thickness):**
-    *   *Note: Heights below account for the 150mm clear air gap above the gravel, placing the sole plate at +45mm datum while maintaining the 2480mm maximum roof cap.*
+*   **2. SIP Wall Panels (120mm thickness):**
+    *   *Note: Heights below account for the 150mm clear air gap above the membrane, placing the sole plate at +17mm datum while maintaining the 2480mm maximum roof cap.*
     *   **West Wall (High Side):** 5408mm Length × **2196.5mm Height**
     *   **East Wall (Low Side):** 5408mm Length × **2139.7mm Height**
     *   **North & South Walls (Sloped):** 3108mm Width (fitting *between* the long walls) × Sloping from 2139.7mm to 2196.5mm Height.
@@ -118,7 +118,7 @@ layout: default
 
 ## 2. Layered Thermal Envelope Schedule
 
-**U-Value Target Check:** The 150mm New Forest SIP Base Wall Panel (U=0.21) combined with 60mm Wood Fibre yields an estimated U-value of **~0.15 W/m²K**. This successfully hits the precise 0.15 Passivhaus target while preserving internal space within planning limits.
+**U-Value Target Check:** The 120mm New Forest SIP Base Wall Panel (U=0.27) combined with 60mm Wood Fibre yields an estimated U-value of **~0.19 W/m²K**. While slightly above the 0.15 Passivhaus target, this thickness optimization reclaims valuable internal floor space and the heat loss is easily compensated for by the Air-to-Air Heat Pump.
 
 ### 2.1 The Vertical Superstructure Elevation (From Ground to Roof)
 
@@ -145,11 +145,11 @@ layout: default
 | :--- | :--- | :--- | :--- |
 | **[1. Internal Finish](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | Fermacell Acoustic Board | 15mm | 15mm |
 | **[2. Vapour Seal](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | Pro Clima Tescon Vana Tape (over joints) | 0mm | 15mm |
-| **[3. Structural Core](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | New Forest SIP (OSB / EPS / OSB) | 150mm | 165mm |
-| **[4. External Insulation](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)**| Rigid Wood Fibre Board | 60mm | 225mm |
-| **[5. Breather Membrane](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)**| Tyvek Housewrap / UV Facade | 0mm | 225mm |
-| **[6. Rainscreen Cavity](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | Treated Timber Batten | 25mm | 250mm |
-| **[7. Cladding](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | James Hardie VL Fibre Cement Plank | 11mm | **261mm Total Wall Thickness** |
+| **[3. Structural Core](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | New Forest SIP (11mm OSB / 100mm EPS / 11mm OSB) | 122mm | 137mm |
+| **[4. External Insulation](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)**| Rigid Wood Fibre Board | 60mm | 197mm |
+| **[5. Breather Membrane](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)**| Tyvek Housewrap / UV Facade | 0mm | 197mm |
+| **[6. Rainscreen Cavity](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | Treated Timber Batten | 25mm | 222mm |
+| **[7. Cladding](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | James Hardie VL Fibre Cement Plank | 11mm | **233mm Total Wall Thickness** |
 
 ### 2.3 The Comprehensive Wall & Plinth Envelope (Build Sequence)
 
@@ -160,7 +160,7 @@ layout: default
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | **Polymeric DPC** | High-Performance Polymeric DPC | Laid flat continuously along top surface of timber ring beam (-30mm datum). | **Capillary Break:** Failsafe barrier preventing ground moisture wicking into sole plate. | 1 Roll |
-| **SIP Sole Plate** | 47x150mm C24 Timber | Anchored through DPC to Ring Beam | Base anchor plate for SIP wall panels. | ~17.7 linear meters |
+| **SIP Sole Plate** | 47x120mm C24 Timber | Anchored through DPC to Ring Beam | Base anchor plate for SIP wall panels. | ~17.7 linear meters |
 | **SIP to Plate Seal** | Expanding PU Foam & Sealant | Injected into SIP rebate before dropping over sole plate | Creates a permanent foam-to-timber airtight and thermal seal. | 4 tubes |
 | **Structural Anchoring** | M12 A4 (316) Stainless Studs (330mm) | Anchored through timber ring beam @ 1200mm centers | Passes through timber sole plate into heavy ring beam to securely clamp frame down. | ~16 units |
 
@@ -177,7 +177,7 @@ layout: default
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Internal Finish** | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking. Fixed *directly* to internal SIP OSB face. REI30/REI60 Fire compliant. | ~26 boards |
 | **2. Vapour Control Sealing** | Pro Clima Tescon Vana Tape | Taped directly over internal SIP wall joints | Airtightness; stops interstitial condensation. | 4 Rolls |
-| **3. Structural SIP Panel** | 150mm New Forest SIP Base Wall Panel | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Primary load-bearing structure and continuous thermal barrier. | ~39m² wall coverage |
+| **3. Structural SIP Panel** | 120mm New Forest SIP Base Wall Panel | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Primary load-bearing structure and continuous thermal barrier. | ~39m² wall coverage |
 | **4. External Insulation** | 60mm Rigid Wood Fibre Board | Friction fit; held by batten screws. Starts strictly at +142mm (resting on top of 150mm XPS skirt). *Plinth Joint:* Bed horizontal bottom joint on a bead of vapour-permeable MS Polymer sealant (Soudaseal/Orcon F) or Compriband expanding tape. **NEVER use standard closed-cell expanding PU foam** here to avoid creating a vapour dam. | Unbroken thermal jacket (2,100 J/kgK specific heat capacity) providing massive summer decrement delay. Breathable plinth joint seals against draughts while letting trapped moisture escape downwards. | ~39m² coverage |
 | **5. Breather Membrane** | Tyvek Housewrap / UV Facade | **Clamped** by vertical rainscreen battens. *Base Detail:* Draped over Wood Fibre and XPS skirt, taped to front face of 60mm starter track using Tescon Vana. **Do not tuck it into the track.** | Repels wind-driven rain, allows internal vapour escape, directs water completely out over starter track drip-edge. | 1 Roll (50m) |
 | **6. Rainscreen Gap / Batten** | 25x50mm Treated Timber @ 400mm centers | 150mm A4 (316) Stainless Steel EWI Screws driven in alternating pattern: 60° downward (shear weight) and 90° horizontally (wind load). | Creates strict **25mm ventilation path**. Alternating screw angles (Truss-Screw method) prevent heavy cladding from crushing soft wood fibre. | ~180 linear meters |
@@ -392,7 +392,7 @@ The building envelope is designed to aggressively target the Passivhaus standard
 
 | Envelope Component | Material Composition | Target U-Value | Achieved U-Value | Notes / Potential Risks |
 | :--- | :--- | :--- | :--- | :--- |
-| **External Walls** | 150mm New Forest SIP Base Wall + 60mm Wood Fibre | 0.15 W/m²K | **0.15 W/m²K** | **[THERMAL UPGRADE]** Wall SIP reduced to 150mm to save footprint, but the 60mm wood fibre recovers the thermal loss to hit the Passivhaus target. Wood fibre breaks the thermal bridge at the spline joints and provides decrement delay. |
+| **External Walls** | 120mm New Forest SIP Base Wall + 60mm Wood Fibre | 0.15 W/m²K | **~0.19 W/m²K** | **[THERMAL DOWNGRADE]** Wall SIP reduced from 150mm to 120mm to save footprint and capital cost. U-value misses the 0.15 Passivhaus target, but the 60mm wood fibre still effectively breaks the thermal bridge at the spline joints and provides necessary summer decrement delay. |
 | **Roof Structure** | Sloped 120mm (122mm true) New Forest SIP (600mm narrow-format) + 100mm Flat Glass Tissue-Faced PIR | 0.13 W/m²K | **~0.11 W/m²K** | Glass tissue-faced PIR allows direct EPDM adhesion without foil-faced delamination risk. Flat PIR over-roof completely caps the linear thermal bridge of the LVL splines, keeping the SIP OSB skins and splines warm and dry. |
 | **Floor Deck** | 120mm PIR + 50mm Continuous Phenolic | 0.13 W/m²K | **~0.12 W/m²K** | The continuous 50mm phenolic layer eliminates cold bridging from the joists. Achieves Passivhaus Gold standard. |
 | **Glazing** | VIG (Vacuum Insulated Glazing) in uPVC | 0.80 W/m²K | **0.80 W/m²K** | Vastly outperforms double glazing (~1.4 W/m²K). |
