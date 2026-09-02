@@ -6,7 +6,7 @@ layout: default
 
 **Status:** ACTIVE BUILD SCHEDULE  
 **Foreman:** The DIY Project Coach  
-**Target:** 18.6m² Passivhaus-Standard Envelope via 120mm Wall / 120mm (122mm true [11mm OSB/100mm Core/11mm OSB]) Roof EPS-Core SIPs  
+**Target:** 18.6m² Passivhaus-Standard Envelope via 125mm Wall / 125mm Roof EPS-Core SIPs  
 
 ---
 
@@ -62,16 +62,16 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 
 ---
 
-## 🗓️ Phase 3: The 120mm EPS-Core SIPs Superstructure (Weeks 5-7)
+## 🗓️ Phase 3: The 125mm EPS-Core SIPs Superstructure (Weeks 5-7)
 *OSB SIPs must not get wet. The clock is ticking the moment these arrive.*
 
 ### Week 5 Prep: Sole Plate & Anchoring Setup
-*   **Weeknights (Quiet, 45m-1.5h):** Snap chalk lines on the 18mm OSB3 deck. Lay High-Performance Polymeric DPC flat continuously along the top surface of the timber ring beam to form a capillary break. Drill and resin/anchor the M12 A4 (316) stainless threaded studs through the 47x120mm timber sole plates directly into the heavy 150x120mm timber ring beam @ 1200mm centers.
+*   **Weeknights (Quiet, 45m-1.5h):** Snap chalk lines on the 18mm OSB3 deck. Lay High-Performance Polymeric DPC flat continuously along the top surface of the timber ring beam to form a capillary break. Align the 47x125mm timber sole plates **100% flush with the outside perimeter of the 150mm timber ring beam** (do NOT center them on the ring beam). Drill and resin/anchor the M12 A4 (316) stainless threaded studs through the sole plates directly into the heavy 150x120mm timber ring beam @ 1200mm centers.
 
 ### Week 5: 🚨 BIG EVENT: Panel Delivery & Wall Assembly
 *   **Friday (Delivery):** The SIP delivery arrives via Yarmouth ferry. Stack the OSB panels flat on bearers under a completely waterproof tarp.
-*   **Saturday (High Focus):** Inject expanding PU foam into the SIP rebates and drop the 120mm wall panels over the anchored sole plates. Join panels using insulated splines and structural polyurethane adhesive. Clamp down with heavy washers and locking nuts over the M12 studs. *Foreman Note: Plumb the base perfectly.*
-*   **Sunday (Repetitive):** Join the rest of the 120mm wall panels. Install the pre-machined continuous sloped top-plate.
+*   **Saturday (High Focus):** Inject expanding PU foam into the SIP rebates and drop the 125mm wall panels over the anchored sole plates. Join panels using insulated splines and structural polyurethane adhesive. Clamp down with heavy washers and locking nuts over the M12 studs. *Foreman Note: Plumb the base perfectly.*
+*   **Sunday (Repetitive):** Join the rest of the 125mm wall panels. Install the pre-machined continuous sloped top-plate.
 *   **Sunday Lockdown & Temporary Weatherproofing:** Because these are naked OSB SIPs, **they must be protected from coastal rain immediately.** Wrap the entire wall structure in heavy-duty tarpaulins, strapped tightly. *Foreman Warning: Do not permanently attach the Tyvek breather membrane yet! The Tyvek must go on the OUTSIDE of the 60mm wood fibre insulation in Phase 4. If you tape Tyvek to the OSB now, you will trap moisture between two membranes later.* Cover the open roof span with a massive heavy-duty tarp, tied down securely.
 
 ### Week 6: 🚨 BIG EVENT: The Roof Lift & Weather-Tight Shell
@@ -95,7 +95,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
     *   *South:* 1x 300x1500mm Fixed Clerestory, top datum **2020mm FFL**.
     *   *East:* 2x 300x1500mm Fixed Clerestory, top datum **2020mm FFL**.
     *   *West:* 2x 1000x1000mm Fixed Panorama + 1400mm x 2078mm maximum outer-frame-height Asymmetric Door, all heads aligned at **2078mm FFL**.
-    *Foreman Note:* Verify the **128.5mm** structural head zone above the West door/windows beneath the 2256.5mm high-side wall plate. Seal all units with expanding PU foam and tape over frame-to-OSB joints internally with Tescon Vana.
+    *Foreman Note:* Verify the **125.5mm** structural head zone above the West door/windows beneath the 2253.5mm high-side wall plate. Seal all units with expanding PU foam and tape over frame-to-OSB joints internally with Tescon Vana.
 *   **Threshold Riser & Drainage:** Install a treated **33mm tall x 150mm wide C24 timber riser block** over the DPC across the 1400mm door opening to bring the door frame base up to **+50mm FFL** (flush with the internal engineered wood floor). Set an Aco HexDrain channel flush with the external patio level directly in front of the West door, and apply **RIW Flexiseal** liquid moisture barrier over the threshold junction.
 
 ### Week 9: Rainscreen Battens, Cladding & Rainwater System

@@ -1190,3 +1190,29 @@
   5. **SIP Core Material:** Changed all legacy 'PUR-Core' references in `WORKPLAN.md` to **EPS-Core** to reflect the 120mm downgrade.
   6. **Blind Coring Sequence Trap:** Added a 'Utility Pilot Hole' step to `WORKPLAN.md` Phase 1 (Week 3/4) to drop a 32mm PVC stub pipe through the CPB/Phenolic/OSB3 decks before they are covered, preventing blind coring in Phase 5.
   7. **Temporary Weathering Risk:** Completely restructured `WORKPLAN.md` Phases 3 and 4. The external Wood Fibre insulation and Tyvek wrap are now accelerated into Phase 3 (Week 7) immediately following the roof lift, ensuring the OSB SIPs are permanently protected from coastal rain without relying on temporary tarps for a month.
+
+## [ARCHITECT] SIP Thickness Standardisation (125mm Walls & Roof)
+- **Date:** Wed  2 Sep 2026 19:06:40 BST
+- **Context:** User requested updating both wall and roof SIP panels to 125mm thickness.
+- **Mathematical & Structural Impact:**
+  1. **Wall Build-Up:** 15mm Fermacell + 125mm SIP + 60mm Wood Fibre + 25mm Batten + 11mm Hardie Plank = **236mm Total Finished Wall Thickness**.
+  2. **Internal Space:** Usable room dimensions become **3128mm Width x 5128mm Length** (16.04 m²).
+  3. **Sole Plates:** Updated to **47x125mm C24 timber** to match the 125mm core.
+  4. **Sloped End Walls:** Width between long walls is **3158mm** (3408mm - 2x125mm).
+  5. **Vertical Physics & Roof Bearing:**
+     - Roof stack external thickness = 1.5mm EPDM + 100mm PIR + 125mm SIP = **226.5mm**.
+     - Locked to 2480.0mm max roof height (20mm PD buffer): High-side wall plate sits at **+2253.5mm**, Low-side wall plate at **+2196.7mm**.
+     - Factory panel cut heights (from -30mm ring beam): West = **2283.5mm**, East = **2226.7mm**.
+     - Internal clear ceiling heights: High side = **2188.5mm (~2.19m)**, Low side = **2131.7mm (~2.13m)**, Average = **2160.1mm (~2.16m)**.
+     - Structural head zones: West = **125.5mm**, East = **126.7mm**.
+  6. **Thermal Performance:** Achieves **~0.18 W/m²K** wall U-value, fully compliant with Part L.
+- **@foreman Action Required:** Update `plans/WORKPLAN.md` target, Phase 3 titles/sole plates to 125mm, and update the West wall head zone check to 125.5mm beneath the 2253.5mm wall plate. Log acknowledgement.
+
+## [FOREMAN] Workplan Synchronisation for 125mm SIPs
+- **Date:** Wed  2 Sep 2026 19:10:32 BST
+- **Action:** Acknowledged the Architect's 125mm SIPs standardisation across walls and roof. `plans/WORKPLAN.md` has been updated: Phase 3 now specifies 125mm EPS-Core SIPs and 47x125mm sole plates, and Week 8 verifies the adjusted 125.5mm structural head zone beneath the 2253.5mm high-side wall plate. Build sequence and dimensions are 100% aligned.
+
+## [ARCHITECT] Outer Perimeter Alignment Directives
+- **Date:** Wed  2 Sep 2026 19:13:41 BST
+- **Context:** User reiterated that the outside face of the 125mm SIP walls must remain 100% flush with the outside dimensions of the 150x120mm timber ring beam (3408x5408mm).
+- **Resolution:** Added explicit 'Do NOT Center' directives to Section 1.0a and Section 2.3A of `MASTER_PLAN.md`, and Week 5 Prep of `WORKPLAN.md`. The 125mm sole plate is fixed hard-flush against the outer edge of the 150mm ring beam, with the remaining ~25mm projecting inwards beneath the floor deck.
