@@ -1230,3 +1230,48 @@
   - Specified a **60mm thick x 180mm high XPS Plinth Skirt**, covering from **-30mm to +150mm** (encapsulating the subterranean SIP base and providing the full 150mm splash zone above the lawn).
   - External Wood Fibre insulation starts at **+150mm**.
   - Synchronized `MASTER_PLAN.md` (Section 2.1, 2.3B, 2.3C) and `WORKPLAN.md` (Week 7).
+
+## [FOREMAN] Schedule Streamlining & OSB Deck Sequence Remediation
+- **Date:** Sat  5 Sep 2026 18:31:48 BST
+- **Context:** User identified that Week 5 Prep erroneously instructed snapping chalk lines on an 18mm OSB3 deck at +35mm datum to anchor sole plates. The sole plates sit on the timber ring beam at -30mm datum.
+- **Resolution:** 
+  - Removed the premature Phase 2 (Phenolic + 18mm OSB3) from Week 4. 
+  - Re-sequenced the 25mm Phenolic continuous insulation and 18mm OSB3 load-spreader into Phase 4 (Week 9), to be installed *inside the dry, weather-tight building* after the roof and Tyvek are completed.
+  - Week 4 Prep now directs the builder to lay Polymeric DPC and anchor sole plates directly onto the exposed **timber ring beam (-30mm datum)**.
+  - During Superstructure erection, builders work safely from the 100% waterproof 22mm CPB sub-deck, completely protecting the fragile Phenolic and OSB3 materials from coastal rain.
+  - Both `MASTER_PLAN.md` and `WORKPLAN.md` are 100% aligned with this 5-phase schedule.
+
+## [ARCHITECT] Comprehensive Plan Audit & Mathematical Alignment
+- **Date:** Sat  5 Sep 2026 18:33:46 BST
+- **Context:** User provided a multi-point audit detailing 6 numerical, structural, and thermodynamic inconsistencies across `MASTER_PLAN.md` and `WORKPLAN.md`.
+- **Remediations Executed:**
+  1. **Phenolic Floor Thickness:** Corrected Section 7.1 Certified U-Value schedule from 50mm to **25mm Continuous Phenolic** (Kingspan Kooltherm K103), with achieved floor U-value of **0.14 W/m²K**.
+  2. **Heating Demand & Energy Math:**
+     - Recalculated Gross Wall Area: **39.76m²** (Opaque walls = **33.05m²**).
+     - Opaque Wall loss recalculated at **0.18 W/m²K**: **5.95 W/K**.
+     - Total Fabric Loss: **16.12 W/K**.
+     - Total HTC recalculated: **20.62 W/K** (resolved 19.27 vs 21.30 conflict).
+     - Annual Thermal Demand: **742.3 kWh/year**.
+     - Electrical Input (SCOP 3.5): **212.1 kWh/year** (fixed the 767 kWh typo).
+     - Annual running cost: **£51.96 per year** (~£4.33/month).
+  3. **Footprint & Area Metric Harmonization:**
+     - Net Clear Usable Floor Area: **16.04 m²** (3.128m x 5.128m).
+     - Gross Structural Frame Footprint: **18.43 m²** (3.408m x 5.408m).
+     - Finished External Envelope Footprint: **20.16 m²** (3.600m x 5.600m).
+     - Internal Ventilation Volume: **34.65 m³** (16.04m² x 2.16m average height).
+     - Purged all loose/inconsistent '15.24m²', '18.6m²', and '20m²' text.
+  4. **Legacy Slab Remnants:** Purged Compacfoam/concrete slab note from Section 7.2.
+  5. **Tyvek Sequencing:** Harmonized across Workplan phases (Tyvek applied over 60mm Wood Fibre in Phase 2, Week 6).
+  6. **Wall Terminology:** Clarified Section 2.5.2 to distinguish between Wall Top Plate Elevation (+2253.5mm from Datum Zero) and Factory Panel Cut Height (2283.5mm from -30mm ring beam).
+
+## [ARCHITECT] dMVHR Datum Zero Explicit Referencing
+- **Date:** Sat  5 Sep 2026 18:35:51 BST
+- **Context:** User requested adding the explicit distance from Datum Zero for the dMVHR cut-out (rather than only referencing the top-down offset from the roof).
+- **Resolution:** 
+  - Low-side East Wall top elevation = +2196.7mm.
+  - Top-down offset = 535.0mm.
+  - **Center Point Elevation from Datum Zero:** **+1661.7mm**.
+  - **Center Point from FFL (+50mm):** **1611.7mm FFL**.
+  - **Center Point from SIP base (-30mm):** **1691.7mm**.
+  - **Hole Boundaries (270mm hole / 135mm radius):** Top edge at **+1796.7mm** Datum Zero, Bottom edge at **+1526.7mm** Datum Zero.
+  - Updated `MASTER_PLAN.md` Section 4.2.1 and `WORKPLAN.md` Week 12+.

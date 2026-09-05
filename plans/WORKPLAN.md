@@ -6,7 +6,7 @@ layout: default
 
 **Status:** ACTIVE BUILD SCHEDULE  
 **Foreman:** The DIY Project Coach  
-**Target:** 18.6m² Passivhaus-Standard Envelope via 125mm Wall / 125mm Roof EPS-Core SIPs  
+**Target:** 16.04m² Net Usable Footprint (18.43m² Structural Core / 20.16m² Gross External) via 125mm Wall / 125mm Roof EPS-Core SIPs  
 
 ---
 
@@ -23,11 +23,11 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 ---
 
 ## Step-by-Step Construction Phases (Overview)
-1. **Phase 1: Ground Screws & Frame** (Weeks 1-3): Island Ground Screws installation (bypassing old slabs), timber ring beam and 120mm joists installation, PIR insulation filling, and 22mm CPB sub-deck.
-2. **Phase 2: Continuous Thermal Deck** (Week 4): Laying 25mm continuous Phenolic insulation to break thermal bridging, followed by the 18mm OSB3 structural deck.
-3. **Phase 3: Structural Envelope & Thermal Jacket** (Weeks 5-7): Sole plate anchoring, SIP wall/roof erection, starter track, wood fibre insulation, and immediate Tyvek weather-tight wrapping.
-4. **Phase 4: Glazing & Cladding** (Weeks 8-9): AC penetration, VIG window/door installation, battening, Hardie VL plank cladding, and rainwater system.
-5. **Phase 5: Internal Fit-Out & MEP** (Weeks 10-12+): Floor utility penetration, Intello/Tescon VCL taping, direct-mount Fermacell boarding, glued engineered wood flooring, surface wiring, and final commissioning.
+1. **Phase 1: Ground Screws & Foundation Platform** (Weeks 1-3): Island Ground Screws installation (bypassing old slabs), service trenching, zero-build-up mechanical geotextile membrane pinning, timber ring beam and 120mm joists infilled with PIR, and weatherproof 22mm CPB sub-deck with utility pilot.
+2. **Phase 2: Superstructure & Thermal Jacket** (Weeks 4-6): Sole plate anchoring over Polymeric DPC directly onto the timber ring beam (-30mm datum), 125mm SIP wall/roof erection, 100mm over-roof PIR + EPDM membrane (weather-tight shell), -30mm starter track, 180mm XPS skirt, 60mm Wood Fibre insulation, and Tyvek weather-tight wrapping.
+3. **Phase 3: Glazing & Cladding** (Weeks 7-8): Quick-Connect AC wall penetration, VIG window/door installation with flush threshold detailing, 25mm ventilated rainscreen battens, James Hardie VL plank cladding, and rainwater system.
+4. **Phase 4: Internal Thermal Floor & Passivhaus Detailing** (Weeks 9-11): Laying continuous 25mm Phenolic insulation over CPB, 18mm OSB3 T&G load-spreader deck, utility cable pull & airtight sealing, internal Tescon Vana VCL taping, 15mm direct-mount Fermacell boarding, and glued engineered wood flooring.
+5. **Phase 5: MEP, Climate & Final Commissioning** (Week 12+): Surface-mounted conduit wiring, Zehnder ComfoAir 70 dMVHR installation, DIY Quick-Connect ASHP heat pump, TT Island earthing, machine isolation pads, Part P Electrical sign-off, and final Building Control sign-off.
 
 ---
 
@@ -48,47 +48,39 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 *   **Rodent Mesh (The 'L-Shape' Defense):** Roll out the 6mmx6mm welded steel mesh. Hold the top edge flat against the outer face of the timber ring beam (it will be clamped by the EWI starter track later). Drop the mesh down into the pit, bend it outwards 150mm-200mm into an "L-shape", and pin it flat directly to the ground (as there is no gravel ballast to bury it).
 *   **Insulation Support & Drop:** Push stainless steel insulation support clips into the bottom sides of the C24 joists @ 600mm centers (or tack 25x25mm treated stop battens flush along the bottom edges) to create a mechanical stop ledge. Cut the 120mm PIR boards tightly and drop them between joists until they rest on the clips/battens. Inject low-expansion structural PU adhesive foam around all 4 perimeter edges of every panel to chemically bond the PIR to the timber joists and eliminate thermal bypassing.
 
-### Week 3: The Sub-Deck & Utility Pilot
-*   **Weekend 3:** Lay the 22mm Cement Particle Board (CPB). This provides a rigid, fire-resistant, and high-mass sub-deck. Screw it down tightly to the joists at 300mm centers.
-*   **Utility Pilot Hole:** Before covering the duct termination point, drill a pilot hole (or insert a 32mm PVC stub pipe) up through the CPB where the Consumer Unit will sit. This prevents you from having to blindly core down through the finished floor in Week 10 to find the subterranean ducts.
+### Week 3: The Weatherproof Sub-Deck & Utility Pilot
+*   **Weekend 3:** Lay the 22mm Cement Particle Board (CPB). This provides a rigid, fire-resistant, and 100% weatherproof sub-deck that you can safely walk on and work from during the upcoming superstructure erection. Screw it down tightly to the joists at 300mm centers.
+*   **Utility Pilot Stub:** Before covering the subterranean duct termination point, drill a pilot hole and insert a 32mm PVC stub pipe vertically up through the CPB where the Consumer Unit will sit. This guarantees you will not have to blindly core down through the multi-layer floor later to locate the power/data cables.
 
 ---
 
-## 🗓️ Phase 2: The Continuous Thermal Deck (Week 4)
-
-### Week 4: Eliminating the Cold Bridge
-*   **The Phenolic Layer:** The timber joists act as a cold bridge. To stop this, lay a continuous layer of 25mm Phenolic insulation (Kingspan Kooltherm) directly over the CPB. Tape the joints with aluminum tape.
-*   **The Load-Spreader:** Immediately cover the fragile phenolic board with 18mm OSB3 (Tongue & Groove). This spreads the massive point-loads of your future cast-iron machinery. Glue the T&G joints and use long screws that anchor through the phenolic down into the joists below. *Ensure the utility pilot hole/stub pipe is carried up through the phenolic and OSB3 layers.*
-
----
-
-## 🗓️ Phase 3: The 125mm EPS-Core SIPs Superstructure (Weeks 5-7)
+## 🗓️ Phase 2: Superstructure & Thermal Jacket (Weeks 4-6)
 *OSB SIPs must not get wet. The clock is ticking the moment these arrive.*
 
-### Week 5 Prep: Sole Plate & Anchoring Setup
-*   **Weeknights (Quiet, 45m-1.5h):** Snap chalk lines on the 18mm OSB3 deck. Lay High-Performance Polymeric DPC flat continuously along the top surface of the timber ring beam to form a capillary break. Align the 47x125mm timber sole plates **100% flush with the outside perimeter of the 150mm timber ring beam** (do NOT center them on the ring beam). Drill and resin/anchor the M12 A4 (316) stainless threaded studs through the sole plates directly into the heavy 150x120mm timber ring beam @ 1200mm centers.
+### Week 4 Prep: Sole Plate & Anchoring Setup
+*   **Weeknights (Quiet, 45m-1.5h):** Lay High-Performance Polymeric DPC flat continuously along the exposed top surface of the 150x120mm timber ring beam (-30mm datum) to form a capillary break. Align the 47x125mm timber sole plates **100% flush with the outside perimeter of the 150mm timber ring beam** (do NOT center them on the ring beam; the remaining 25mm ledge sits internally). Drill and resin/anchor the M12 A4 (316) stainless threaded studs through the sole plates directly into the heavy timber ring beam @ 1200mm centers.
 
-### Week 5: 🚨 BIG EVENT: Panel Delivery & Wall Assembly
+### Week 4: 🚨 BIG EVENT: Panel Delivery & Wall Assembly
 *   **Friday (Delivery):** The SIP delivery arrives via Yarmouth ferry. Stack the OSB panels flat on bearers under a completely waterproof tarp.
-*   **Saturday (High Focus):** Inject expanding PU foam into the SIP rebates and drop the 125mm wall panels over the anchored sole plates. Join panels using insulated splines and structural polyurethane adhesive. Clamp down with heavy washers and locking nuts over the M12 studs. *Foreman Note: Plumb the base perfectly.*
+*   **Saturday (High Focus):** Inject expanding PU foam into the SIP rebates and drop the 125mm wall panels over the anchored sole plates on the ring beam. Join panels using insulated splines and structural polyurethane adhesive. Clamp down with heavy washers and locking nuts over the M12 studs. *Foreman Note: Plumb the base perfectly.*
 *   **Sunday (Repetitive):** Join the rest of the 125mm wall panels. Install the pre-machined continuous sloped top-plate.
-*   **Sunday Lockdown & Temporary Weatherproofing:** Because these are naked OSB SIPs, **they must be protected from coastal rain immediately.** Wrap the entire wall structure in heavy-duty tarpaulins, strapped tightly. *Foreman Warning: Do not permanently attach the Tyvek breather membrane yet! The Tyvek must go on the OUTSIDE of the 60mm wood fibre insulation in Phase 4. If you tape Tyvek to the OSB now, you will trap moisture between two membranes later.* Cover the open roof span with a massive heavy-duty tarp, tied down securely.
+*   **Sunday Lockdown & Temporary Weatherproofing:** Wrap the entire wall structure in heavy-duty tarpaulins, strapped tightly. Cover the open roof span with a massive heavy-duty tarp, tied down securely.
 
-### Week 6: 🚨 BIG EVENT: The Roof Lift & Weather-Tight Shell
+### Week 5: 🚨 BIG EVENT: The Roof Lift & Weather-Tight Shell
 *   **Saturday (Heavy/Dangerous):** Slide the 600mm narrow-format roof panels up onto the sloped wall plates. Join roof panels using structural LVL splines, glue, and screws. **Critical:** Ensure the engineered 96mm overhang is maintained on all four sides to accommodate the rainscreen buildup. Confirm the SIP roof surface itself falls at **1:60** across the short width before adding insulation. Tape internal roof joints with Tescon Vana.
 *   **Sunday (Weather-Tight):** Tape all external roof joints. Bond flat 100mm high-compressive strength glass tissue-faced PIR boards directly to the sloped top OSB skin of the roof SIP. Directly glue the 1.5mm EPDM rubber membrane onto the PIR.
-*   **Sunday Lockdown:** Install UPVC drip edge trims and kerb trims. The roof is now officially "Weather-Tight" and the OSB core is protected from above.
+*   **Sunday Lockdown:** Install UPVC drip edge trims and kerb trims. The roof is now officially "Weather-Tight" and the OSB core is permanently protected from above.
 
-### Week 7: External Insulation, Starter Track & Tyvek Wrap
+### Week 6: External Insulation, Starter Track & Tyvek Wrap
 *   **Starter Track & XPS Skirt:** Screw a **60mm wide Aluminium EWI Starter Track** horizontally into the SIP sole plate / ring beam, perfectly level at the **-30mm mark** (flush with the top of the timber ring beam / bottom of SIP wall, sandwiching the top edge of the anti-rodent mesh behind it). Mechanically fix the **60mm thick x 180mm high XPS Plinth Skirt** into the starter track (covering from -30mm to +150mm).
 *   **Wood Fibre Insulation:** Mechanically fix **60mm Rigid Wood Fibre external insulation** directly to the exterior OSB of the SIP walls, starting at the **+150mm mark** (resting on top of the XPS skirt). Apply Compriband expanding foam tape or a bead of vapour-permeable MS Polymer sealant along the XPS/Wood Fibre horizontal joint.
 *   **Breather Membrane:** Drape the **Tyvek Breather Membrane** completely over the Wood Fibre and XPS skirt, taping it to the front face of the 60mm aluminium starter track using Tescon Vana (*do NOT tuck into track*). The SIP structure is now fully protected from coastal rain. You can safely remove the temporary wall tarpaulins.
 
 ---
 
-## 🗓️ Phase 4: Glazing & Cladding (Weeks 8-9)
+## 🗓️ Phase 3: Glazing, Cladding & Rainwater (Weeks 7-8)
 
-### Week 8: AC Penetration, Glazing & Threshold Detailing
+### Week 7: AC Penetration, Glazing & Threshold Detailing
 *   **The AC Core Hole (Before Cladding):** Mount the internal bracket for the DIY Quick-Connect AC unit on the SIP OSB. Drill a ~65mm core hole through the SIP wall and Wood Fibre with a 2-3° downward angle to the outside for condensate drainage. Run the pipe bundle through to the outside and leave coiled. Fill the core gap with airtight foam, and tape the inside with Tescon Vana / Roflex grommet.
 *   **Glazing & Door Installation:** Install the Vacuum-Insulated Glazing (VIG) uPVC windows into factory-cut SIP openings:
     *   *North:* 1x 300x1500mm Fixed Clerestory, top datum **2020mm FFL**.
@@ -98,26 +90,35 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
     *Foreman Note:* Verify the **125.5mm** structural head zone above the West door/windows beneath the 2253.5mm high-side wall plate. Seal all units with expanding PU foam and tape over frame-to-OSB joints internally with Tescon Vana.
 *   **Threshold Riser & Drainage:** Install a treated **33mm tall x 150mm wide C24 timber riser block** over the DPC across the 1400mm door opening to bring the door frame base up to **+50mm FFL** (flush with the internal engineered wood floor). Set an Aco HexDrain channel flush with the external patio level directly in front of the West door, and apply **RIW Flexiseal** liquid moisture barrier over the threshold junction.
 
-### Week 9: Rainscreen Battens, Cladding & Rainwater System
+### Week 8: Rainscreen Battens, Cladding & Rainwater System
 *   **Rainscreen Battens:** Screw **25x50mm treated rainscreen battens @ 400mm centers** vertically over the Tyvek using 150mm A4 EWI screws driven in alternating 60°/90° angles (Truss-Screw method). Staple **Perforated Bug Mesh** across the bottom 25mm gap between battens.
 *   **Cladding Installation:** Install **James Hardie VL Fibre Cement Cladding** across rainscreen battens using Hardie™ Plank Screws (4.2x40mm T15 Torx). Use a standard drill/driver on low torque (no impact drivers).
 *   **Rainwater Harvesting:** Install 112mm UPVC Deepflow guttering, Sure-Edge drip trims, downpipe diverter, and route to the 200L slimline water butt.
 
 ---
 
-## 🗓️ Phase 5: Internal Passivhaus Detailing & Fit-Out (Weeks 10-12+)
+## 🗓️ Phase 4: Internal Thermal Floor & Passivhaus Detailing (Weeks 9-11)
+*Now working 100% inside the dry, weather-tight building.*
 
-### Week 10: Utility Floor Penetration & Airtight VCL Taping
-*   **The Floor Penetration:** Locate the utility pilot hole/stub established in Phase 1. Pull SWA power and Cat6a data cables from the void twinwall ducts up into the room through the 25-32mm floor deck opening (OSB3, Phenolic, CPB). In the void, stuff wire wool into the 50mm duct ends and seal with expanding foam. Inside the room, seal around cables with Illbruck FM330 airtight foam and cover with a Pro Clima Kaflex grommet / Tescon Vana tape.
-*   **Airtight VCL Taping:** Tape every internal wall, ceiling, and floor joint, plus window/door frame junctions, with **Pro Clima Tescon Vana** tape. This forms the continuous internal Passivhaus airtight/vapour barrier.
+### Week 9: Continuous Floor Thermal Break & Sub-Deck
+*   **The Phenolic Layer:** Inside the bone-dry room, lay a continuous layer of **25mm Phenolic insulation** (Kingspan Kooltherm) directly over the 22mm CPB sub-deck, tight against the inside face of the SIP walls. Tape all joints with aluminium foil tape.
+*   **The OSB3 Load-Spreader:** Immediately cover the phenolic boards with **18mm OSB3 (Tongue & Groove)** to create the heavy machinery load-spreading deck. Glue all T&G joints with D4 wood adhesive and screw through the phenolic into the joists below using long structural screws. 
+*   **Utility Penetration:** Locate the pre-installed 32mm PVC stub. Pull SWA power and Cat6a data cables from the subterranean ducts up through the floor. In the sub-floor void, stuff wire wool into the 50mm duct ends and seal with expanding foam. Inside the room, seal the penetration with Illbruck FM330 airtight foam and cover with a Pro Clima Kaflex grommet / Tescon Vana tape.
+
+### Week 10: Internal Passivhaus Airtight Taping
+*   **Airtight VCL Taping:** Meticulously tape every internal wall-to-wall, wall-to-roof, and wall-to-floor joint, plus all window and door frame reveals, with **Pro Clima Tescon Vana** tape. This forms the continuous internal Passivhaus airtight/vapour barrier.
 
 ### Week 11: Direct-Mount Internal Boards & Glued Flooring
 *   **Direct-Mount Fermacell:** Pre-cut 15mm Fermacell boards. Apply Jointstik glue to board edges and screw directly to the taped internal SIP OSB faces using 30mm Fermacell screws. (Provides required REI30/REI60 boundary fire rating).
 *   **Engineered Wood Flooring:** Fully bond **14mm-20mm Engineered Wood Flooring** directly to the 18mm OSB3 sub-deck using flexible polyurethane adhesive (e.g., SikaBond) applied with a notched trowel. Leave a 10mm cork expansion strip around the perimeter (hidden later by skirting board).
 
+---
+
+## 🗓️ Phase 5: MEP, Climate & Final Commissioning (Week 12+)
+
 ### Week 12+: Surface Electrics, ASHP, dMVHR & Commissioning
 *   **Surface Conduit Electrics:** Run 20mm galvanised steel or PVC conduit and surface-mounted metal-clad sockets directly over the Fermacell. Keep circuits separated on separately labelled RCBOs (20A Type C for machines, 16A Type B for ASHP, 10A Type B for IR/controls, 6A Type B for dMVHR).
-*   **dMVHR Installation:** Install the Zehnder ComfoAir 70 (or equivalent enthalpy dMVHR) into the factory-cut 270mm core hole on the East wall (535mm down from top wall edge, 1°-2° downward slope to outside). Seal sleeve with non-swelling foam.
+*   **dMVHR Installation:** Install the Zehnder ComfoAir 70 (or equivalent enthalpy dMVHR) into the factory-cut 270mm core hole on the East wall (center at **+1661.7mm Datum Zero** / **1611.7mm FFL** / 535mm down from top wall plate, 1°-2° downward slope to outside). Seal sleeve with non-swelling foam.
 *   **TT Island Earthing:** Drive a 1.2m copper earth rod into soil outside near the power entry. Route 16mm² earth cable to the Consumer Unit Earth Bar.
 *   **HVAC & Lighting:** Mount ceiling 1.2kW IR panel, surface track lighting, and DIY Quick-Connect ASHP / Mini-Split unit. Connect pre-charged AC lines to external compressor. Place 15mm SBR rubber isolation pads under cast-iron machine feet.
 *   **Sign-Off & Commissioning:** Hire a Part P registered electrician (NICEIC/NAPIT) to inspect, terminate main power, and issue Part P certification. Commission dMVHR with a BPEC engineer (respecting the 800mm clear zone in front of the dMVHR).

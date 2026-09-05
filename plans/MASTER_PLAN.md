@@ -16,11 +16,11 @@ layout: default
 ---
 
 ## Step-by-Step Construction Phases
-1. **Phase 1: Groundworks & Sub-Floor (Weeks 1-3):** Installation of ground screws by Island Ground Screws (avoiding existing concrete slabs), assembly of 120mm timber joist frame infilled with PIR, and structural sub-deck.
-2. **Phase 2: Thermal Capping & Decking (Week 4):** Installation of 22mm CPB, 50mm continuous Phenolic insulation layer, and 22mm structural Birch Plywood top deck.
-3. **Phase 3: Structural Envelope (Weeks 5-7):** Sole plate anchoring over Polymeric DPC, erection of 125mm SIP walls, 125mm LVL-splined sloped SIP roof, and Tyvek membrane wrap.
-4. **Phase 4: Exterior Finish & Weatherproofing (Weeks 8-9):** 60mm external rigid Wood Fibre insulation, EPDM flat roof waterproofing, VIG window/door installation, and James Hardie VL cladding.
-5. **Phase 5: Internal Fit-Out & MEP (Weeks 10-12+):** 25mm rainscreen battening, internal Pro Clima Intello Plus VCL taping, 25mm service cavity, 15mm Fermacell fire-rated internal boards, Part P Electrical sign-off, Air-to-Air Heat Pump (ASHP) activation, and dMVHR ventilation balancing.
+1. **Phase 1: Groundworks & Sub-Floor Platform (Weeks 1-3):** Installation of ground screws by Island Ground Screws (bypassing buried concrete slabs), service trenching, zero-build-up mechanical geotextile membrane pinning, assembly of 150x120mm timber ring beam and 120mm joist frame infilled with PIR, and installation of weatherproof 22mm CPB sub-deck with utility pilot.
+2. **Phase 2: Superstructure & Thermal Jacket (Weeks 4-6):** Sole plate anchoring over Polymeric DPC directly onto the timber ring beam (-30mm datum), erection of 125mm EPS-core SIP walls, 125mm LVL-splined sloped SIP roof, 100mm over-roof PIR + EPDM membrane (weather-tight shell), -30mm aluminium starter track, 180mm XPS skirt, 60mm rigid Wood Fibre insulation, and Tyvek breather membrane wrap.
+3. **Phase 3: Glazing, Cladding & Weatherproofing (Weeks 7-8):** DIY Quick-Connect AC wall penetration, VIG window and door installation with flush threshold detailing, 25mm ventilated rainscreen battens with bug mesh, James Hardie VL fibre cement cladding, and rainwater harvesting system.
+4. **Phase 4: Internal Fit-Out & Continuous Thermal Floor (Weeks 9-11):** Installation of continuous 25mm Phenolic floor insulation over CPB, 18mm OSB3 T&G load-spreader, utility cable pull and airtight grommet sealing, internal Pro Clima Tescon Vana VCL joint taping, direct-mount 15mm Fermacell fire-rated boards, and fully bonded 14mm-20mm engineered wood flooring.
+5. **Phase 5: Electrical, HVAC & Commissioning (Week 12+):** Surface-mounted conduit wiring and metal-clad sockets, Zehnder ComfoAir 70 dMVHR installation and balancing, DIY Quick-Connect ASHP heat pump commissioning, TT Island earthing rod connection, machine SBR rubber decoupling pads, Part P Electrical sign-off, and Building Control Completion Certificate.
 
 ---
 
@@ -212,8 +212,8 @@ layout: default
 *   **External Height Physics (The 2.5m Limit):**
 *   **Statutory Measurement Datum (Datum Zero):** The Isle of Wight Planning Authority has confirmed the 2.5m limit is measured from the *highest adjacent ground*. Throughout this document, **Datum Zero (0.00mm)** explicitly refers to this highest natural point of the adjacent lawn. All absolute vertical measurements are calculated from this point to ensure strict Permitted Development compliance.
     *   Exposed Base Zone: 0mm (Timber floor structure sits within the 300mm excavation, flush with baseline lawn level)
-    *   Maximum \'High-Side\' Wall Height: **2253.5mm**
-    *   Low-Side Wall Height: 2253.5mm - 56.8mm fall = **2196.7mm**
+    *   Maximum \'High-Side\' Wall Top Plate Elevation (Datum Zero): **+2253.5mm** *(Factory panel cut height: **2283.5mm** from -30mm ring beam)*
+    *   Low-Side Wall Top Plate Elevation (Datum Zero): **+2196.7mm** *(Factory panel cut height: **2226.7mm** from -30mm ring beam; accounts for 56.8mm roof fall)*
     *   Total Roof Buildup (External stack above wall plate): **226.5mm** (1.5mm EPDM + 100mm high-compressive PIR + 125mm SIP). *Note: The 15mm Fermacell sits below the wall plate and subtracts from internal headroom, but does not add to external height.*
     *   **Total Maximum External Height:** 2480mm high side / **2423.2mm** low side (measured from the highest adjacent natural ground point, providing an exact 20mm safety buffer under the 2.5m limit).
 *   **Internal Ceiling Heights (accounting for +50mm FFL and 15mm direct-mount ceiling board):**
@@ -240,7 +240,7 @@ layout: default
 | **5. Rainscreen Top Bug Mesh** | Perforated Aluminium Vent Trim (or folded insect mesh) | Stapled/tacked to the underside of the cantilevered SIP roof panel, bridging the 25mm batten gap before the top Hardie Plank is installed. | Allows the upward draft of air from the 25mm rainscreen cavity to escape out under the eaves, preventing interstitial condensation, while permanently blocking wasps and hornets from nesting behind the cladding. | ~18.5 linear meters |
 
 ### 2.6.1 Flat Roof Drainage & Rainwater Harvesting (The Water Butt Strategy)
-**Objective:** A 18.6m² flat roof in Cowes will collect approximately 15,000 liters of water annually. Unmanaged runoff cascading off the roof will instantly overwhelm the local perimeter french drain.
+**Objective:** A 20.16m² flat roof in Cowes will collect approximately 15,000 liters of water annually. Unmanaged runoff cascading off the roof will instantly overwhelm the local perimeter french drain.
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
@@ -294,7 +294,7 @@ layout: default
 
 ## 4. Workshop Climate & Heating System
 
-**Context:** A 20m² wood workshop in coastal Cowes used primarily on evenings and weekends, with potential future conversion to a home office.
+**Context:** A 16.04m² net usable (20.16m² gross external footprint) wood workshop in coastal Cowes used primarily on evenings and weekends, with potential future conversion to a home office.
 *   *Low-Wattage Convection:* Good for background heat, but stirs up fine combustible dust (Rejected).
 *   *Infrared (IR) Panels:* Ideal for instant radiant heat (heats objects and the human directly).
 *   *Air-to-Air Heat Pump:* Primary heating and cooling solution (SCOP ~3.5 to 4.0). Operates with rapid thermal response for the low-mass timber floor and provides active dehumidification during occupancy.
@@ -302,7 +302,7 @@ layout: default
 ### 4.1 Heating, Cooling & Rust Prevention Strategy
 Since the high-mass concrete slab was replaced with a low-mass timber floor, the workshop will respond extremely quickly to heating inputs. To provide instant temperature control across all seasons and rigorously control humidity (preventing rust on cast iron), an Air-to-Air Heat Pump (Mini-Split AC) is specified.
 
-**Total estimated heat load for 18.6m² Passivhaus: 1.3kW - 1.8kW.**
+**Total estimated peak heat load for 16.04m² Passivhaus envelope: 1.2kW - 1.5kW.**
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
@@ -330,7 +330,7 @@ Since the high-mass concrete slab was replaced with a low-mass timber floor, the
 | **MVHR Filtration Maintenance** | Manufacturer OEM Replacement Filter Cassettes (G4 standard, F7 fine pollen/dust) | Inserted directly into the decentralized MVHR wall unit | **Critical Adaptation:** Decentralized through-wall MVHRs do not have ductwork, meaning standard inline filter boxes cannot be installed. You must rely purely on the OEM filter cassettes to protect the heat exchanger. The ambient air filtration unit must be relied upon to capture the heavy woodworking dust before it reaches the wall unit. | Regular supply |
 | **Ambient Air Filtration** | Ceiling-mounted recirculating air cleaner or DIY MERV 13 deep-pleat filter box | Suspended from ceiling or wall-mounted clear of machine travel paths | Secondary filtration for airborne dust that escapes tool source capture; runs during and after sanding/cutting. | 1 unit |
 
-**Ventilation Rate Basis:** The internal volume is approximately **~33.7m³** (3.03m x 5.03m x ~2.21m average clear height). Standby ventilation at 0.5-1 ACH requires **17-34m³/h**. Active occupancy/general dilution at 2 ACH requires **~67m³/h**, which is within the practical max limit of a 70m³/h class dMVHR. Higher woodworking dust loads must be handled by closed-loop extraction and ambient filtration, not by increasing MVHR flow beyond its design range.
+**Ventilation Rate Basis:** The internal volume is approximately **~34.65m³** (3.128m × 5.128m × ~2.16m average clear internal height). Standby ventilation at 0.5-1 ACH requires **17-35m³/h**. Active occupancy/general dilution at 2 ACH requires **~69m³/h**, which is within the practical max limit of a 70m³/h class dMVHR. Higher woodworking dust loads must be handled by closed-loop extraction and ambient filtration, not by increasing MVHR flow beyond its design range.
 
 **Pressure Balance Rule:** The fixed dust extractor must recirculate filtered air back into the workshop. Do not exhaust the primary dust collector outdoors; doing so would depressurize the airtight envelope, stall the dMVHR fans, and pull damp coastal air through uncontrolled leakage paths. If spray finishing or solvent work requires outdoor exhaust, install an interlocked motorized makeup-air damper and treat that operation as a separate, temporary purge mode.
 
@@ -340,8 +340,14 @@ Since the high-mass concrete slab was replaced with a low-mass timber floor, the
 To ensure structural compatibility with the SIP envelope, guard against tolerance variations, and fulfill Zehnder ComfoAir 70 manufacturer warranty clearances, the following integration rules apply:
 *   **Horizontal Positioning:** The dMVHR is mounted on the low-side **East wall**, centered horizontally within the 900mm solid SIP gap between the two clerestory windows. The unit's asymmetric layout envelope (740mm total: 320mm left / 420mm right from the pipe axis) fits comfortably within this 900mm buffer.
 *   **Core Hole Sizing & Drainage Fall:** A **270mm diameter circular hole** must be factory pre-cut through the East wall SIP core. **Crucially, the cut must be made with a 1° to 2° downward angle toward the outside.** This downward fall is a strict manufacturer requirement to ensure that any condensation forming inside the sleeve drains safely outward into the rainscreen cavity, rather than tracking backward into the internal SIP core or the workshop. The oversized 270mm hole provides the mandatory 20mm tolerance around the 250mm plastic sleeve for leveling shims and peripheral non-swelling airtight foam.
-*   **Vertical Geometry (Top-Down Referencing):** To prevent floor buildup variations (tolerance stack-up) from altering the required ceiling clearance, the core hole must be referenced from the top of the wall panel down. The center point of the 270mm core hole must be located exactly **535mm down from the top raw edge** of the East wall SIP panel.
-*   **Structural & Operational Clearances:** This 535mm top-down datum mathematically guarantees the manufacturer's required 550mm clear air space beneath the finished 15mm Fermacell ceiling. It also preserves a healthy ~48mm structural OSB margin beneath the 1800mm FFL clerestory window sills.
+*   **Vertical Geometry & Datum Offsets:** 
+    *   **Center Point Elevation (Datum Zero):** **+1661.7mm** from Datum Zero *(calculated as `+2196.7mm [East Wall Top Datum] - 535mm [Top-Down Offset] = +1661.7mm`)*.
+    *   **Center Point from Finished Floor (FFL):** **1611.7mm FFL** *(accounting for +50mm FFL)*.
+    *   **Center Point from SIP Panel Base:** **1691.7mm** from the bottom raw edge of the 2226.7mm-tall East wall SIP panel (which sits at -30mm datum).
+    *   **Core Hole Boundaries (270mm hole / 135mm radius):**
+        *   **Top Edge:** **+1796.7mm** Datum Zero (**1746.7mm FFL** / 1826.7mm from panel base).
+        *   **Bottom Edge:** **+1526.7mm** Datum Zero (**1476.7mm FFL** / 1556.7mm from panel base).
+*   **Structural & Operational Clearances:** This **+1661.7mm datum** (535mm top-down offset) mathematically guarantees the manufacturer's required 550mm clear air space beneath the finished 15mm Fermacell ceiling (which sits at +2181.7mm). It also preserves clean structural margins alongside the adjacent 1720mm FFL clerestory window sills.
 *   **Internal Spatial Boundary:** A strict **800mm clear zone radius** must be maintained directly in front of the dMVHR internal fascia. This prevents aerodynamic "short-circuiting" of the airflow loop and provides the physical depth required to slide the internal enthalpy core straight forward out of the casing for maintenance.
 
 ---
@@ -396,28 +402,28 @@ The building envelope is designed to aggressively target the Passivhaus standard
 | :--- | :--- | :--- | :--- | :--- |
 | **External Walls** | 125mm New Forest SIP Base Wall + 60mm Wood Fibre | 0.15 W/m²K | **~0.18 W/m²K** | Wall SIP specified at 125mm. The 60mm wood fibre breaks the thermal bridge at the spline joints and provides necessary summer decrement delay. |
 | **Roof Structure** | Sloped 125mm New Forest SIP (600mm narrow-format) + 100mm Flat Glass Tissue-Faced PIR | 0.13 W/m²K | **~0.11 W/m²K** | Glass tissue-faced PIR allows direct EPDM adhesion without foil-faced delamination risk. Flat PIR over-roof completely caps the linear thermal bridge of the LVL splines, keeping the SIP OSB skins and splines warm and dry. |
-| **Floor Deck** | 120mm PIR + 50mm Continuous Phenolic | 0.13 W/m²K | **~0.12 W/m²K** | The continuous 50mm phenolic layer eliminates cold bridging from the joists. Achieves Passivhaus Gold standard. |
+| **Floor Deck** | 120mm PIR (between joists) + 25mm Continuous Phenolic | 0.15 W/m²K | **~0.14 W/m²K** | Continuous 25mm Kingspan Kooltherm K103 phenolic layer completely caps thermal bridging over the timber joists. Exceeds Passivhaus standard (≤ 0.15 W/m²K). |
 | **Glazing** | VIG (Vacuum Insulated Glazing) in uPVC | 0.80 W/m²K | **0.80 W/m²K** | Vastly outperforms double glazing (~1.4 W/m²K). |
 
 ### 7.2 Expected Heating Effort (Calculated Annual kWh)
-The upgraded timber floor foundation achieves a Passivhaus U-value of 0.12 W/m²K, easily meeting the Passivhaus criteria (≤ 0.15) to save on excavation logistics, the theoretical Passivhaus shortcut (15 kWh/m²a) cannot be used. Instead, the heating effort is calculated using the real-world **Heat Transfer Coefficient (HTC)** and Isle of Wight climate data.
+The upgraded timber floor foundation achieves a Passivhaus-compliant U-value of 0.14 W/m²K. The heating effort is calculated using the real-world **Heat Transfer Coefficient (HTC)** and Isle of Wight climate data.
 
 * **Fabric Heat Loss:** 
-  - Gross wall area: West high-side wall (5.408m x 2.2615m) + East low-side wall (5.408m x 2.2047m) + two sloped end walls (3.408m x 2.2331m average height x 2) = **~39.39m²**. (Note: includes full structural wall height down to the Compacfoam thermal break on the slab).
-  - Glazing and door area: West fixed windows (2 x 1.0m x 1.0m = 2.00m²) + West asymmetric door (1.4m x 2.15m = 3.01m²) + clerestories (4 x 0.3m x 1.5m = 1.80m²) = **6.81m²**.
-  - Opaque Walls ((39.39m² - 6.81m²) x 0.15) = **4.89 W/K**
-  - Roof (20.16m² x 0.11) = **2.22 W/K** (Note: 20.16m² represents the 3.600m x 5.600m external layout including the 96mm cantilever).
-  - Floor (18.43m² x 0.12) = **2.21 W/K**
-  - Glazing / Door Assemblies (6.81m² x 0.80) = **5.45 W/K**
-  - **Total Fabric Loss = 14.77 W/K**
-* **Ventilation/Air Leakage:** ~4.5 W/K (Assuming high Q50 airtightness with occasional door opening).
-* **Total Heat Transfer Coefficient (HTC): ~19.27 W/K** (The building loses 21.30 Watts per 1°C of temperature difference).
+  - Gross wall area: West high-side wall (5.408m × 2.2835m) + East low-side wall (5.408m × 2.2267m) + two sloped end walls (2 × 3.408m × 2.2551m average height) = **~39.76m²**. *(Note: includes full structural wall panel height down to the timber ring beam at -30mm datum)*.
+  - Glazing and door area: West fixed windows (2 × 1.0m × 1.0m = 2.00m²) + West asymmetric door (1.4m × 2.078m = 2.91m²) + clerestories (4 × 0.3m × 1.5m = 1.80m²) = **6.71m²**.
+  - Opaque Walls: `(39.76m² - 6.71m²) × 0.18 W/m²K` = **5.95 W/K**
+  - Roof: `20.16m² (3.600m × 5.600m external plane) × 0.11 W/m²K` = **2.22 W/K**
+  - Floor: `18.43m² (3.408m × 5.408m structural frame footprint) × 0.14 W/m²K` = **2.58 W/K**
+  - Glazing / Door Assemblies: `6.71m² × 0.80 W/m²K` = **5.37 W/K**
+  - **Total Fabric Loss = 16.12 W/K**
+* **Ventilation/Air Leakage:** ~**4.50 W/K** (Assuming high Q50 airtightness with balanced dMVHR heat recovery).
+* **Total Heat Transfer Coefficient (HTC): ~20.62 W/K** (The building loses 20.62 Watts per 1°C of temperature difference).
 * **Climate Data:** The Isle of Wight experiences roughly **1,500 Heating Degree Days (HDD)** per year to maintain a 14°C baseline.
 
 **Electrical Effort & Running Costs:**
-Formula: `(HTC [19.27] × 24 hours × HDD [1500]) ÷ 1000` = **693 kWh/year thermal demand**.
-Given the use of a Air-to-Air Heat Pump with a Seasonal Coefficient of Performance (SCOP) of 3.5:
-* **Expected Annual Electrical Input:** 767 kWh of electricity per year.
-* **Cost Implication:** At the recent Ofgem standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£48.51 per year**. The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
+* Formula: `(HTC [20.62] × 24 hours × HDD [1500]) ÷ 1000` = **742.3 kWh/year thermal demand**.
+* Given the use of an Air-to-Air Heat Pump with a Seasonal Coefficient of Performance (SCOP) of 3.5:
+  - **Expected Annual Electrical Input:** `742.3 kWh ÷ 3.5` = **212.1 kWh** of electricity per year.
+  - **Cost Implication:** At the standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£51.96 per year** (~£4.33/month). The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
 
 > **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (150mm slab, perimeter splash margin, and Type C induction mapping) have been validated and integrated.
