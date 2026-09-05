@@ -131,7 +131,7 @@ layout: default
 | **[Clear Heave Air Void](#12-the-comprehensive-ground-to-floor-envelope-bottom-to-top)** | -300mm | -150mm | **150.0mm mandatory clear air space** |
 | **[Heavy Timber Ring Beam](#12-the-comprehensive-ground-to-floor-envelope-bottom-to-top)** | -150mm | -30mm | 120mm structural ledge |
 | **[Finished Floor Level (FFL)](#12-the-comprehensive-ground-to-floor-envelope-bottom-to-top)** | -30mm | +50mm | 80mm floor stack (over joists) |
-| **[External Splash Skirt (XPS)](#b-the-external-plinth--splash-skirt)** | -8mm | +142mm | 150mm protective waterproof band |
+| **[External Splash Skirt (XPS)](#b-the-external-plinth--splash-skirt)** | -30mm | +150mm | 180mm protective waterproof band |
 | **[Wall SIPs (Low Side - East)](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | -30mm | +2196.7mm | 2226.7mm factory-cut panel height |
 | **[Wall SIPs (High Side - West)](#c-the-field-of-the-wall-interior-to-exterior---build-sequence)** | -30mm | +2253.5mm | 2283.5mm factory-cut panel height |
 | **[Roof SIP Structure (Low Side)](#25-the-roof-sandwich-exterior-to-interior)** | +2196.7mm | +2321.7mm | 125mm sloped ceiling structure |
@@ -170,8 +170,8 @@ layout: default
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Aluminium EWI Starter Track** | **60mm wide** Aluminium U-Channel with Drip Edge | Screwed horizontally into SIP Sole Plate and Ring Beam, perfectly level at -8mm mark. | Structural "shelf" for XPS skirt. Forms drip-edge to kick water away from void. Clamps rodent mesh behind it. | ~17.7 linear meters |
-| **Splash Zone Skirt** | **60mm thick** x 150mm high XPS Strip | Mechanically fixed to base of SIP wall / Sole plate using 100mm wood screws with plastic washers. Backed by PU adhesive. | **Waterproof Plinth:** 100% rot-proof, waterproof barrier in the critical 150mm splash zone above the lawn. | ~17.7 linear meters |
+| **Aluminium EWI Starter Track** | **60mm wide** Aluminium U-Channel with Drip Edge | Screwed horizontally into SIP Sole Plate and Ring Beam, perfectly level at **-30mm** mark (flush with top of ring beam / bottom of SIP wall). | Structural "shelf" for XPS skirt. Forms drip-edge to kick water away from void. Clamps rodent mesh behind it. | ~17.7 linear meters |
+| **Splash Zone Skirt** | **60mm thick** x **180mm high** XPS Strip | Mechanically fixed to base of SIP wall / Sole plate using 100mm wood screws with plastic washers. Backed by PU adhesive. Covers from **-30mm to +150mm**. | **Waterproof Plinth:** 100% rot-proof, waterproof barrier covering the subterranean SIP base and providing the full 150mm splash zone above the lawn. | ~17.7 linear meters |
 
 #### C. The Field of the Wall (Interior to Exterior - Build Sequence)
 
@@ -180,7 +180,7 @@ layout: default
 | **1. Internal Finish** | 15mm Fermacell Boards | 30mm Fermacell screws + Jointstik glue | High mass acoustic blocking. Fixed *directly* to internal SIP OSB face. REI30/REI60 Fire compliant. | ~26 boards |
 | **2. Vapour Control Sealing** | Pro Clima Tescon Vana Tape | Taped directly over internal SIP wall joints | Airtightness; stops interstitial condensation. | 4 Rolls |
 | **3. Structural SIP Panel** | 125mm New Forest SIP Base Wall Panel | Panels joined via Insulated Splines & structural adhesive | Replaces traditional stud/sheathing/insulation. Primary load-bearing structure and continuous thermal barrier. | ~39m² wall coverage |
-| **4. External Insulation** | 60mm Rigid Wood Fibre Board | Friction fit; held by batten screws. Starts strictly at +142mm (resting on top of 150mm XPS skirt). *Plinth Joint:* Bed horizontal bottom joint on a bead of vapour-permeable MS Polymer sealant (Soudaseal/Orcon F) or Compriband expanding tape. **NEVER use standard closed-cell expanding PU foam** here to avoid creating a vapour dam. | Unbroken thermal jacket (2,100 J/kgK specific heat capacity) providing massive summer decrement delay. Breathable plinth joint seals against draughts while letting trapped moisture escape downwards. | ~39m² coverage |
+| **4. External Insulation** | 60mm Rigid Wood Fibre Board | Friction fit; held by batten screws. Starts strictly at **+150mm** (resting on top of 180mm XPS skirt). *Plinth Joint:* Bed horizontal bottom joint on a bead of vapour-permeable MS Polymer sealant (Soudaseal/Orcon F) or Compriband expanding tape. **NEVER use standard closed-cell expanding PU foam** here to avoid creating a vapour dam. | Unbroken thermal jacket (2,100 J/kgK specific heat capacity) providing massive summer decrement delay. Breathable plinth joint seals against draughts while letting trapped moisture escape downwards. | ~39m² coverage |
 | **5. Breather Membrane** | Tyvek Housewrap / UV Facade | **Clamped** by vertical rainscreen battens. *Base Detail:* Draped over Wood Fibre and XPS skirt, taped to front face of 60mm starter track using Tescon Vana. **Do not tuck it into the track.** | Repels wind-driven rain, allows internal vapour escape, directs water completely out over starter track drip-edge. | 1 Roll (50m) |
 | **6. Rainscreen Gap / Batten** | 25x50mm Treated Timber @ 400mm centers | 150mm A4 (316) Stainless Steel EWI Screws driven in alternating pattern: 60° downward (shear weight) and 90° horizontally (wind load). | Creates strict **25mm ventilation path**. Alternating screw angles (Truss-Screw method) prevent heavy cladding from crushing soft wood fibre. | ~180 linear meters |
 | **7. Rainscreen Bug Mesh** | Perforated Aluminium Vent Trim | Stapled across bottom 25mm gap between vertical battens | Allows 25mm rainscreen cavity to breathe while stopping pests. | ~17.7 linear meters |

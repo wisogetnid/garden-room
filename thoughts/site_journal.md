@@ -1221,3 +1221,12 @@
 - **Date:** Sat  5 Sep 2026 17:05:38 BST
 - **Context:** User identified that the summary table in Section 2.1 jumped from the total excavation pit depth down to the ring beam without explicitly listing the 150mm clear air heave void row.
 - **Resolution:** Added the explicit **'Clear Heave Air Void (-300mm to -150mm | 150.0mm)'** row to the Section 2.1 Vertical Superstructure Elevation table, and updated the sub-text note to reference the -30mm ring beam datum.
+
+## [ARCHITECT] Plinth Starter Track Alignment (-30mm)
+- **Date:** Sat  5 Sep 2026 17:27:31 BST
+- **Context:** User approved shifting the Aluminium EWI Starter Track down to -30mm to align dead-flush with the bottom of the SIP wall and the top of the timber ring beam.
+- **Resolution:** 
+  - Set Starter Track level at **-30mm**.
+  - Specified a **60mm thick x 180mm high XPS Plinth Skirt**, covering from **-30mm to +150mm** (encapsulating the subterranean SIP base and providing the full 150mm splash zone above the lawn).
+  - External Wood Fibre insulation starts at **+150mm**.
+  - Synchronized `MASTER_PLAN.md` (Section 2.1, 2.3B, 2.3C) and `WORKPLAN.md` (Week 7).

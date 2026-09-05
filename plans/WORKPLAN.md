@@ -80,8 +80,8 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 *   **Sunday Lockdown:** Install UPVC drip edge trims and kerb trims. The roof is now officially "Weather-Tight" and the OSB core is protected from above.
 
 ### Week 7: External Insulation, Starter Track & Tyvek Wrap
-*   **Starter Track & XPS Skirt:** Screw a **60mm wide Aluminium EWI Starter Track** horizontally into the SIP sole plate / ring beam, perfectly level at the **-8mm mark** (sandwiching the top edge of the anti-rodent mesh behind it). Mechanically fix the **60mm thick x 150mm high XPS Plinth Skirt** into the starter track (covering from -8mm to +142mm).
-*   **Wood Fibre Insulation:** Mechanically fix **60mm Rigid Wood Fibre external insulation** directly to the exterior OSB of the SIP walls, starting at the +142mm mark (resting on top of the XPS skirt). Apply Compriband expanding foam tape or a bead of vapour-permeable MS Polymer sealant along the XPS/Wood Fibre horizontal joint.
+*   **Starter Track & XPS Skirt:** Screw a **60mm wide Aluminium EWI Starter Track** horizontally into the SIP sole plate / ring beam, perfectly level at the **-30mm mark** (flush with the top of the timber ring beam / bottom of SIP wall, sandwiching the top edge of the anti-rodent mesh behind it). Mechanically fix the **60mm thick x 180mm high XPS Plinth Skirt** into the starter track (covering from -30mm to +150mm).
+*   **Wood Fibre Insulation:** Mechanically fix **60mm Rigid Wood Fibre external insulation** directly to the exterior OSB of the SIP walls, starting at the **+150mm mark** (resting on top of the XPS skirt). Apply Compriband expanding foam tape or a bead of vapour-permeable MS Polymer sealant along the XPS/Wood Fibre horizontal joint.
 *   **Breather Membrane:** Drape the **Tyvek Breather Membrane** completely over the Wood Fibre and XPS skirt, taping it to the front face of the 60mm aluminium starter track using Tescon Vana (*do NOT tuck into track*). The SIP structure is now fully protected from coastal rain. You can safely remove the temporary wall tarpaulins.
 
 ---
