@@ -123,11 +123,12 @@ layout: default
 
 ### 2.1 The Vertical Superstructure Elevation (From Ground to Roof)
 
-**Objective:** Map the absolute physical heights of the primary structural elements measured from **Datum Zero (0.00mm = Highest Adjacent Ground)**. Note: All "wall" components sit directly on the timber ring beam at -2mm.
+**Objective:** Map the absolute physical heights of the primary structural elements measured from **Datum Zero (0.00mm = Highest Adjacent Ground)**. Note: All "wall" components sit directly on the timber ring beam at -30mm.
 
 | Structural Element | Bottom Elevation | Top Elevation | Total Thickness / Height |
 | :--- | :--- | :--- | :--- |
-| **[Excavation Pit](#11-void-management-erosion--rodent-defense)** | -300mm | 0.00mm | 300mm void space |
+| **[Excavation Pit Base](#11-void-management-erosion--rodent-defense)** | -300mm | -300mm | Pinned membrane baseline |
+| **[Clear Heave Air Void](#12-the-comprehensive-ground-to-floor-envelope-bottom-to-top)** | -300mm | -150mm | **150.0mm mandatory clear air space** |
 | **[Heavy Timber Ring Beam](#12-the-comprehensive-ground-to-floor-envelope-bottom-to-top)** | -150mm | -30mm | 120mm structural ledge |
 | **[Finished Floor Level (FFL)](#12-the-comprehensive-ground-to-floor-envelope-bottom-to-top)** | -30mm | +50mm | 80mm floor stack (over joists) |
 | **[External Splash Skirt (XPS)](#b-the-external-plinth--splash-skirt)** | -8mm | +142mm | 150mm protective waterproof band |

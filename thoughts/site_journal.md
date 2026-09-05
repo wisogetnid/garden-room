@@ -1216,3 +1216,8 @@
 - **Date:** Wed  2 Sep 2026 19:13:41 BST
 - **Context:** User reiterated that the outside face of the 125mm SIP walls must remain 100% flush with the outside dimensions of the 150x120mm timber ring beam (3408x5408mm).
 - **Resolution:** Added explicit 'Do NOT Center' directives to Section 1.0a and Section 2.3A of `MASTER_PLAN.md`, and Week 5 Prep of `WORKPLAN.md`. The 125mm sole plate is fixed hard-flush against the outer edge of the 150mm ring beam, with the remaining ~25mm projecting inwards beneath the floor deck.
+
+## [ARCHITECT] Vertical Superstructure Table Clarification
+- **Date:** Sat  5 Sep 2026 17:05:38 BST
+- **Context:** User identified that the summary table in Section 2.1 jumped from the total excavation pit depth down to the ring beam without explicitly listing the 150mm clear air heave void row.
+- **Resolution:** Added the explicit **'Clear Heave Air Void (-300mm to -150mm | 150.0mm)'** row to the Section 2.1 Vertical Superstructure Elevation table, and updated the sub-text note to reference the -30mm ring beam datum.
