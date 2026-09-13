@@ -67,7 +67,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 *   **Sunday Lockdown & Temporary Weatherproofing:** Wrap the entire wall structure in heavy-duty tarpaulins, strapped tightly. Cover the open roof span with a massive heavy-duty tarp, tied down securely.
 
 ### Week 5: 🚨 BIG EVENT: The Roof Lift & Weather-Tight Shell
-*   **Saturday (Heavy/Dangerous):** Slide the 600mm narrow-format roof panels up onto the sloped wall plates. Join roof panels using structural LVL splines, glue, and screws. **Critical:** Ensure the engineered 96mm overhang is maintained on all four sides to accommodate the rainscreen buildup. Confirm the SIP roof surface itself falls at **1:60** across the short width before adding insulation. Tape internal roof joints with Tescon Vana.
+*   **Saturday (Heavy/Dangerous):** Slide the 600mm narrow-format roof panels up onto the sloped wall plates. Join roof panels using structural C24 timber splines, glue, and screws. **Critical:** Ensure the engineered 96mm overhang is maintained on all four sides to accommodate the rainscreen buildup. Confirm the SIP roof surface itself falls at **1:60** across the short width before adding insulation. Tape internal roof joints with Tescon Vana.
 *   **Sunday (Weather-Tight):** Tape all external roof joints. Bond flat 100mm high-compressive strength glass tissue-faced PIR boards directly to the sloped top OSB skin of the roof SIP. Directly glue the 1.5mm EPDM rubber membrane onto the PIR.
 *   **Sunday Lockdown:** Install UPVC drip edge trims and kerb trims. The roof is now officially "Weather-Tight" and the OSB core is permanently protected from above.
 

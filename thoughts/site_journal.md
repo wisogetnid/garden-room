@@ -1275,3 +1275,11 @@
   - **Center Point from SIP base (-30mm):** **1691.7mm**.
   - **Hole Boundaries (270mm hole / 135mm radius):** Top edge at **+1796.7mm** Datum Zero, Bottom edge at **+1526.7mm** Datum Zero.
   - Updated `MASTER_PLAN.md` Section 4.2.1 and `WORKPLAN.md` Week 12+.
+
+## [ARCHITECT] Roof Spline Specification: Standard Timber
+- **Date:** Sun 13 Sep 2026 13:17:57 BST
+- **Context:** SIPs provider (New Forest SIPs) confirmed they supply standard structural C24 timber splines for the 125mm roof panels rather than bespoke LVL splines.
+- **Engineering & Thermal Assessment:**
+  - *Structural Capacity:* Across the short 3.16m clear span between long walls, structural C24 timber splines at 600mm centers act as rigid mini-rafters, providing more than enough bending stiffness and shear capacity for standard live loads, maintenance foot traffic, and future PV solar arrays.
+  - *Thermal Bridging:* Because our design places a continuous **100mm flat PIR over-roof insulation layer** directly above the SIP panels, the timber splines are completely encapsulated within the warm roof zone. There is zero risk of cold bridging or condensation.
+- **Resolution:** Replaced all 'LVL splines' references in `MASTER_PLAN.md` and `WORKPLAN.md` with **structural C24 timber splines**.
