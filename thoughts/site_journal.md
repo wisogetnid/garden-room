@@ -1283,3 +1283,117 @@
   - *Structural Capacity:* Across the short 3.16m clear span between long walls, structural C24 timber splines at 600mm centers act as rigid mini-rafters, providing more than enough bending stiffness and shear capacity for standard live loads, maintenance foot traffic, and future PV solar arrays.
   - *Thermal Bridging:* Because our design places a continuous **100mm flat PIR over-roof insulation layer** directly above the SIP panels, the timber splines are completely encapsulated within the warm roof zone. There is zero risk of cold bridging or condensation.
 - **Resolution:** Replaced all 'LVL splines' references in `MASTER_PLAN.md` and `WORKPLAN.md` with **structural C24 timber splines**.
+
+## [ARCHITECT] Glazing & Frame Specification Pivot: Acoustic Triple Glazing & Thermally Broken Aluminium
+- **Date:** Tue 15 Sep 2026 14:15:00 BST
+- **Context:** User requested replacing Vacuum Insulated Glazing (VIG) with Acoustic Triple Glazing, and replacing uPVC frames with Marine-Grade Powder-Coated Aluminium frames.
+- **Engineering & Thermal Assessment:**
+  1. **Acoustic Triple Glazing Specification:** Specified an asymmetric acoustic triple glazed unit: 6mm Toughened outer / 16mm 90% Argon cavity (warm-edge Swissspacer Ultimate) / 4mm Float centre / 16mm Argon cavity / 8.8mm Acoustic Laminated inner with dual Low-E coatings ($U_g \approx 0.60\text{ W/m²K}$, $R_w \ge 42\text{--}44\text{ dB}$). This eliminates the coincidence resonance dip and damps both high-frequency machinery whine (2-5 kHz) and mid-frequency saw/planer drone.
+  2. **Thermally Broken Aluminium Frames:** Specified marine-grade powder-coated aluminium frames (Qualicoat Seaside certified, min 60-80µm coating) with multi-chamber polyamide thermal breaks (minimum 34mm-44mm with low-lambda foam inserts) and 316 Marine Grade Stainless Steel hardware (Coastal BLU). Frame U-value $U_f \approx 1.2\text{--}1.4\text{ W/m²K}$, achieving an overall window assembly $U_w \approx 0.85\text{ W/m²K}$.
+  3. **Thermodynamics & Heating Effort Update:**
+     - Glazing area: 6.71m² total across 4 elevations.
+     - Glazing fabric loss adjusted to $6.71\text{m}² \times 0.85\text{ W/m²K} = 5.70\text{ W/K}$.
+     - Total Fabric Loss: $16.45\text{ W/K}$; Ventilation loss: $4.50\text{ W/K}$; Total HTC: **20.95 W/K**.
+     - Annual thermal heating demand: **754.2 kWh/year**.
+     - Annual electrical input (ASHP SCOP 3.5): **215.5 kWh/year** (~£52.80/year at £0.245/kWh; ~£4.40/month).
+  4. **Modifications Made to `plans/MASTER_PLAN.md`:**
+     - Step-by-Step Construction Phases (Phase 3) updated.
+     - Section 2.7 (Glazing & Door Access Strategy) specification, schedule, and datums updated.
+     - Section 7.1 (Certified U-Value Schedule) and Section 7.2 (Expected Heating Effort) updated.
+- **@foreman Action Required:** Please rework `plans/WORKPLAN.md` (Phase 3, Week 7) to:
+  1. Update the fenestration specification from VIG uPVC to Acoustic Triple Glazed Aluminium windows and doors.
+  2. Account for the heavier lifting weight of acoustic triple glazed units (~47 kg/m² glass dead load; 2-person handling protocol).
+  3. Detail the perimeter expansion clearance (10-12mm gap with Compriband / Illbruck expanding tape) to accommodate the thermal expansion of dark powder-coated aluminium.
+  4. Verify and acknowledge these changes in `thoughts/site_journal.md`.
+
+## [FOREMAN] Fenestration Update Alignment: Acoustic Triple Glazing & Aluminium Frames
+- **Date:** Tue 15 Sep 2026 14:25:00 BST
+- **Action:** Acknowledged the Architect's specification update. `plans/WORKPLAN.md` (Phase 3, Week 7) has been updated to reflect the switch to Acoustic Triple Glazed Aluminium windows and the 1400x2078mm thermally broken aluminium door. Incorporated the 2-person suction cup handling protocol for heavy units (~47 kg/m²) and specified the mandatory 10-12mm perimeter expansion gap with Compriband/illmod expanding tape to accommodate thermal movement of powder-coated aluminium in coastal sun. All vertical datums (2078mm West, 2020mm East/North/South) and structural head zones (125.5mm) remain verified.
+
+## [ARCHITECT] Foundation Heave Void (225mm), 80mm Over-Roof PIR & Option 4 Floor Deck Integration
+- **Date:** Thu 17 Sep 2026 10:15:00 BST
+- **Context:** Structural engineer mandated a 225mm clear heave void (from the measured -300mm trench hard surface datum) and fixed 120mm C24 floor joists. User approved adopting 80mm flat over-roof PIR (shedding 20mm from roof stack) and Option 4 Floor Build-Up (22mm Egger Protect P5 T&G sub-deck + 20mm Kingspan Kooltherm K103 Phenolic + 18mm OSB3 T&G + 2mm Industrial Epoxy/Polyurethane floor paint).
+- **Engineering, Thermodynamic & Dimensional Synthesis:**
+  1. **Vertical Foundation Physics:**
+     - Pit floor baseline: `-300.0mm`.
+     - Clear air heave void: `-300.0mm to -75.0mm` (225.0mm mandatory clear space).
+     - Heavy timber ring beam (150x120mm): `-75.0mm to +45.0mm` datum.
+     - 120mm C24 joists infilled with 120mm PIR: `-75.0mm to +45.0mm`.
+     - Floor stack over joists: 62mm total (22mm Egger Protect + 20mm Phenolic K103 + 18mm OSB3 + 2mm Epoxy).
+     - Finished Floor Level: **`FFL = +107.0mm`** (~10.7cm step up from lawn).
+  2. **Vertical Roof & Headroom Synthesis (80mm PIR):**
+     - Roof buildup above wall plate: 206.5mm (1.5mm EPDM + 80mm flat PIR + 125mm SIP).
+     - Roof peak locked to **`+2480.0mm`** (preserving exact 20mm PD legal buffer under 2.50m cap).
+     - High-side wall plate: **`+2273.5mm`** (SIP factory cut: `2228.5mm` from +45mm ring beam).
+     - Low-side wall plate: **`+2216.7mm`** (SIP factory cut: `2171.7mm` from +45mm ring beam).
+     - Finished clear ceiling headroom: **High Side (West) = `2151.5mm (~2.15m / 7 ft 0.6 in)`**, **Low Side (East) = `2094.7mm (~2.09m / 6 ft 10.5 in)`**, **Average = `2123.1mm (~2.12m / 6 ft 11.6 in)`**.
+     - Hygrothermal validation: Outer OSB sits at `+10.51°C` during winter baseline (-1°C ext / 20°C 50% RH int; dew point = 9.27°C). Zero interstitial condensation risk.
+  3. **Fenestration Datums & Structural Head Zones:**
+     - West door & panorama windows top datum: **`2063mm FFL`** (Absolute `+2170.0mm`). High-side head zone = **`103.5mm`** (compliant >80mm).
+     - West door outer frame height: **`1400mm x 2063mm`** (leaves net clear walk-through height of **`~1993mm / 6 ft 6.5 in`**).
+     - East/North/South clerestories top datum: **`1980mm FFL`** (Absolute `+2087.0mm`). Low-side head zone = **`129.7mm`**.
+     - Door threshold riser block: **`62mm tall x 150mm wide C24 timber riser block`** (+45mm sole plate to +107mm FFL).
+  4. **Thermodynamics:** Roof U-value = `0.15 W/m²K`, Floor U-value = `0.15 W/m²K`, Wall U-value = `0.18 W/m²K`, Glazing Uw = `0.85 W/m²K`. Total HTC = `21.75 W/K`. Annual thermal demand = `783.0 kWh/year`, electrical input = `223.7 kWh/year` (~£54.81/year running cost).
+- **@foreman Action Required:** Please rework `plans/WORKPLAN.md` across all phases to:
+  1. Phase 1 (Weeks 1-3): Set ground screw U-bracket heights to `-75mm`, ring beam from `-75mm to +45mm`, install 22mm Egger Protect P5 T&G sub-deck (weatherproof peel-off foil, solo-lift ~24kg) over joists at `+45mm`.
+  2. Phase 2 (Weeks 4-6): Set sole plate on ring beam at `+45mm`, erect SIP walls (`2228.5mm` West / `2171.7mm` East), install 80mm flat over-roof PIR + 80mm kerb batten on edge, set starter track at `+45mm`, and XPS plinth skirt from `+45mm to +225mm` (Wood Fibre from `+225mm` upwards).
+  3. Phase 3 (Weeks 7-8): Install West door and windows at `2063mm FFL` top datum (verify `103.5mm` head zone under `+2273.5mm` plate), clerestories at `1980mm FFL` top datum (verify `129.7mm` head zone under `+2216.7mm` plate), and install `62mm` timber threshold riser block across door opening.
+  4. Phase 4 (Weeks 9-11): Inside dry building, peel off Egger Protect protective foil, lay continuous 20mm Phenolic (Kingspan K103) + 18mm OSB3 T&G load-spreader deck, and apply 2mm industrial polyurethane/epoxy floor paint (FFL = `+107mm`).
+  5. Phase 5 (Week 12+): Update dMVHR sleeve center point to `+1681.7mm Datum Zero` / `1574.7mm FFL` (535mm below `+2216.7mm` plate).
+  6. Verify and append an official acknowledgement entry to `thoughts/site_journal.md`.
+
+### [FOREMAN] Workplan Logistics Alignment - Master Plan Update Acknowledged
+- **Date:** Thu 17 Sep 2026 19:40:00 BST
+- **Context:** @architect completed the final datum shift resolving the 225mm heave void requirement, utilizing 120mm floor joists, a thinner 80mm roof PIR layer, and a compressed continuous floor buildup using 20mm Phenolic (K103) + 18mm OSB3 + 2mm Epoxy floor paint.
+- **Logistics & Weather-Tightness Review:**
+  - **The Egger Protect Lifeline:** Adopting 22mm Egger Protect P5 over the joists at +45mm in Week 3 gives us a rigid, weather-resistant "dance floor" during the critical SIP lift. Peeling the foil in Week 9 to expose a clean deck for the 20mm Phenolic thermal break is a major logistical win for the Sunday Lockdown protocol.
+  - **Safe Lifts & Datums:** The lower ring beam (-75mm) and adjusted wall plate heights (+2273.5mm West / +2216.7mm East) are locked in. The starter track shifting up to +45mm and the XPS rising to +225mm have been mapped out to ensure zero cold bridging during the Week 6 wrap.
+  - **Threshold Sealing:** The 62mm C24 timber riser block over the DPC across the door span correctly bridges the +45mm to +107mm FFL gap, allowing for a flush internal entry.
+- **Actions Taken:** 
+  - `plans/WORKPLAN.md` has been aggressively overhauled across all 5 phases and the detailed weekly breakdowns.
+  - Weekend lifting protocols and evening tasks have been preserved while integrating the new Egger Protect sub-deck, 80mm roof PIR, and exact fenestration/dMVHR datums.
+  - The build sequence is logically sound, physically safe, and fully synchronized with the `MASTER_PLAN`. Ready to break ground.
+
+## [ARCHITECT] Phenolic Layer Removal: Solid 40mm Timber Deck Specification
+- **Date:** Thu 17 Sep 2026 20:15:00 BST
+- **Context:** User approved the removal of the 20mm Phenolic floor insulation layer to maximize machinery stability, eliminate compressible layers under cast-iron point loads, and reclaim an additional +20mm of vertical headroom.
+- **Engineering, Thermodynamic & Ergonomic Synthesis:**
+  1. **Solid Timber Floor Build-Up (42mm over joists):**
+     - Primary Sub-deck: 22mm Egger Protect P5 T&G screwed directly to 120mm C24 joists at `+45.0mm` datum (`+45.0mm to +67.0mm`).
+     - Secondary Structural Deck: 18mm OSB3 T&G glued directly to Egger Protect with D4 structural adhesive and screwed through into joists (`+67.0mm to +85.0mm`). Laminated together, this creates a **rock-solid 40mm solid timber slab**.
+     - Floor Finish: 2mm High-Build Industrial Polyurethane / Epoxy Floor Paint (`+85.0mm to +87.0mm`).
+     - **Finished Floor Level (FFL):** **`+87.0mm`** (~8.7cm step-up from lawn).
+  2. **Vertical Headroom Expansion:**
+     - Finished High-Side Ceiling: `+2258.5mm`.
+     - **High Side (West Wall - Workbench & Door):** `+2258.5mm - (+87.0mm FFL) =` **`2,171.5mm (~2.17m / 7 ft 1.5 in)`** (net headroom gain of +20mm!).
+     - **Low Side (East Wall - Clerestories):** `+2201.7mm - (+87.0mm FFL) =` **`2,114.7mm (~2.11m / 6 ft 11.3 in)`**.
+     - **Average Working Clearance:** **`2,143.1mm (~2.14m / 7 ft 0.4 in)`**.
+  3. **Fenestration Datums & Door Ergonomics:**
+     - West door & panorama windows top datum: **`2083mm FFL`** (Absolute `+2170.0mm`). High-side head zone = **`103.5mm`** (compliant >80mm).
+     - West door outer frame height: **`1400mm x 2083mm`** (leaves net clear walk-through height of **`~2013mm / 6 ft 7.2 in`**).
+     - West panorama windows sill: **`1083mm FFL`** (183mm clearance above 900mm workbench).
+     - East/North/South clerestories top datum: **`2000mm FFL`** (Absolute `+2087.0mm`), sill at **`1700mm FFL`**. Low-side head zone = **`129.7mm`**.
+     - Door threshold riser block: **`42mm tall x 150mm wide C24 timber riser block`** (+45mm sole plate to +87mm FFL).
+  4. **dMVHR Geometry:** Center point at `+1681.7mm Datum Zero` / **`1594.7mm FFL`** (535mm below `+2216.7mm` plate).
+  5. **Thermodynamics & Heating Cost:**
+     - Floor U-value shifts to `0.23 W/m²K` (Part L compliant for outbuildings).
+     - Total HTC = `23.23 W/K`.
+     - Annual thermal heat demand = `836.3 kWh/year`.
+     - Annual electricity input (ASHP SCOP 3.5) = `238.9 kWh/year`.
+     - **Annual Running Cost:** **`£58.53 / year`** (~£4.88 / month; a negligible £3.72/yr difference).
+- **@foreman Action Required:** Please rework `plans/WORKPLAN.md` (specifically Phase 3 Week 7, Phase 4 Weeks 9 & 11, and Phase 5 Week 12+) to:
+  1. Remove the phenolic insulation step from Week 9.
+  2. Direct the builder to peel the Egger Protect foil and glue the 18mm OSB3 T&G directly to the Egger Protect deck using D4 structural adhesive, screwing into joists to form the 40mm solid timber slab.
+  3. Update FFL references to `+87.0mm FFL`.
+  4. Update door threshold riser block to `42mm tall x 150mm wide C24 timber`.
+  5. Update West door/windows to `2083mm FFL` top datum and Clerestories to `2000mm FFL` top datum.
+  6. Update dMVHR sleeve FFL reference to `1594.7mm FFL`.
+  7. Append an official acknowledgement entry to `thoughts/site_journal.md`.
+
+## Date: 2026-09-17
+**Foreman Notes: Implementation of Phenolic Floor Layer Removal & Final Dimensioning**
+- **Action Taken:** Executed all requested modifications to `plans/WORKPLAN.md` based on the Architect's hand-off.
+  - **Phase 3 / Week 7:** Updated West door (1400x2083mm) and panorama windows to 2083mm FFL top datum. Updated Clerestories to 2000mm FFL. Changed door threshold riser block to 42mm C24 timber (+87mm FFL).
+  - **Phase 4 / Week 9 & 11:** Removed the 20mm phenolic insulation. Directed the application of D4 structural adhesive directly to the peeled 22mm Egger Protect deck before laying the 18mm OSB3 T&G load-spreader, forming a 40mm solid timber slab. Updated final floor height references to FFL = +87mm.
+  - **Phase 5 / Week 12+:** Adjusted the dMVHR sleeve center reference to +1681.7mm Datum Zero / 1594.7mm FFL.
+- **Status:** [FOREMAN] Workplan is synchronized with the new foundation-to-ceiling dimensions. The weekend build sequence remains intact.
