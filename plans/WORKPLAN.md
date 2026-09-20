@@ -62,7 +62,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 
 ### Week 4: 🚨 BIG EVENT: Panel Delivery & Wall Assembly
 *   **Friday (Delivery):** The SIP delivery arrives via Yarmouth ferry. Stack the OSB panels flat on bearers under a completely waterproof tarp.
-*   **Saturday (High Focus):** Inject expanding PU foam into the SIP rebates and drop the 125mm wall panels over the anchored sole plates on the ring beam. SIP wall heights: West = 2228.5mm, East = 2171.7mm. Join panels using insulated splines and structural polyurethane adhesive. Clamp down with heavy washers and locking nuts over the M12 studs. *Foreman Note: Plumb the base perfectly.*
+*   **Saturday (High Focus):** Inject expanding PU foam into the SIP rebates and drop the 125mm wall panels over the anchored sole plates on the ring beam. SIP wall heights: West = 2223.5mm, East = 2166.7mm. Join panels using insulated splines and structural polyurethane adhesive. Clamp down with heavy washers and locking nuts over the M12 studs. *Foreman Note: Plumb the base perfectly.*
 *   **Sunday (Repetitive):** Join the rest of the 125mm wall panels. Install the pre-machined continuous sloped top-plate.
 *   **Sunday Lockdown & Temporary Weatherproofing:** Wrap the entire wall structure in heavy-duty tarpaulins, strapped tightly. Cover the open roof span with a massive heavy-duty tarp, tied down securely.
 

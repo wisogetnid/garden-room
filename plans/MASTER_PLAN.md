@@ -406,29 +406,29 @@ The building envelope is designed to aggressively target the Passivhaus standard
 | :--- | :--- | :--- | :--- | :--- |
 | **External Walls** | 125mm New Forest SIP Base Wall + 60mm Wood Fibre | 0.15 W/m²K | **~0.18 W/m²K** | Wall SIP specified at 125mm. The 60mm wood fibre breaks the thermal bridge at the spline joints and provides necessary summer decrement delay. |
 | **Roof Structure** | Sloped 125mm New Forest SIP (600mm narrow-format) + 80mm Flat Glass Tissue-Faced PIR | 0.15 W/m²K | **~0.15 W/m²K** | 80mm high-compressive flat PIR over-roof (Kingspan TR27) claws back 20mm headroom while maintaining U ≤ 0.15 W/m²K and zero condensation risk (outer OSB sits at +10.5°C). |
-| **Floor Deck** | 120mm PIR (between joists) + 22mm Egger Protect + 18mm OSB3 Solid Deck | 0.22 W/m²K | **~0.23 W/m²K** | Direct laminated 40mm timber slab (22mm Egger + 18mm OSB3) provides maximum rigidity for cast-iron machinery point loads while clawing back 20mm headroom. Complies with Part L outbuilding standards. |
+| **Floor Deck** | 125mm PIR (between joists) + 22mm Egger Protect + 18mm OSB3 Solid Deck | 0.22 W/m²K | **~0.23 W/m²K** | Direct laminated 40mm timber slab (22mm Egger + 18mm OSB3) provides maximum rigidity for cast-iron machinery point loads while clawing back 20mm headroom. Complies with Part L outbuilding standards. |
 | **Glazing & Frames** | Acoustic Triple Glazing in Thermally Broken Aluminium (6/16/4/16/8.8mm) | 0.80 W/m²K | **0.85 W/m²K** | Marine-grade powder-coated aluminium frames with multi-chamber polyamide thermal breaks and asymmetric acoustic triple glazing ($U_g = 0.60\text{ W/m²K}$, $R_w \ge 42\text{ dB}$). Vastly outperforms double glazing (~1.4 W/m²K). |
 
 ### 7.2 Expected Heating Effort (Calculated Annual kWh)
 The solid 40mm timber floor foundation achieves a compliant U-value of 0.23 W/m²K. The heating effort is calculated using the real-world **Heat Transfer Coefficient (HTC)** and Isle of Wight climate data.
 
 * **Fabric Heat Loss:** 
-  - Gross wall area: West high-side wall (5.408m × 2.2285m) + East low-side wall (5.408m × 2.1717m) + two sloped end walls (2 × 3.408m × 2.2001m average height) = **~38.79m²**. *(Note: includes full structural wall panel height down to the timber ring beam at +50mm datum)*.
-  - Glazing and door area: West fixed windows (2 × 1.0m × 1.0m = 2.00m²) + West asymmetric door (1.4m × 2.083m = 2.92m²) + clerestories (4 × 0.3m × 1.5m = 1.79m²) = **6.71m²**.
-  - Opaque Walls: `(38.79m² - 6.71m²) × 0.18 W/m²K` = **5.77 W/K**
+  - Gross wall area: West high-side wall (5.408m × 2.2235m) + East low-side wall (5.408m × 2.1667m) + two sloped end walls (2 × 3.408m × 2.1951m average height) = **~38.70m²**. *(Note: includes full structural wall panel height down to the timber ring beam at +50mm datum)*.
+  - Glazing and door area: West fixed windows (2 × 1.0m × 1.0m = 2.00m²) + West asymmetric door (1.4m × 2.078m = 2.91m²) + clerestories (4 × 0.3m × 1.5m = 1.80m²) = **6.71m²**.
+  - Opaque Walls: `(38.70m² - 6.71m²) × 0.18 W/m²K` = **5.76 W/K**
   - Roof: `20.16m² (3.600m × 5.600m external plane) × 0.15 W/m²K` = **3.02 W/K**
   - Floor: `18.43m² (3.408m × 5.408m structural frame footprint) × 0.23 W/m²K` = **4.24 W/K**
   - Glazing / Door Assemblies: `6.71m² × 0.85 W/m²K` = **5.70 W/K**
-  - **Total Fabric Loss = 18.73 W/K**
+  - **Total Fabric Loss = 18.72 W/K**
 * **Ventilation/Air Leakage:** ~**4.50 W/K** (Assuming high Q50 airtightness with balanced dMVHR heat recovery).
-* **Total Heat Transfer Coefficient (HTC): ~23.23 W/K** (The building loses 23.23 Watts per 1°C of temperature difference).
+* **Total Heat Transfer Coefficient (HTC): ~23.22 W/K** (The building loses 23.22 Watts per 1°C of temperature difference).
 * **Climate Data:** The Isle of Wight experiences roughly **1,500 Heating Degree Days (HDD)** per year to maintain a 14°C baseline.
 
 **Electrical Effort & Running Costs:**
-* Formula: `(HTC [23.23] × 24 hours × HDD [1500]) ÷ 1000` = **836.3 kWh/year thermal demand**.
+* Formula: `(HTC [23.22] × 24 hours × HDD [1500]) ÷ 1000` = **835.9 kWh/year thermal demand**.
 * Given the use of an Air-to-Air Heat Pump with a Seasonal Coefficient of Performance (SCOP) of 3.5:
-  - **Expected Annual Electrical Input:** `836.3 kWh ÷ 3.5` = **238.9 kWh** of electricity per year.
-  - **Cost Implication:** At the standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£58.53 per year** (~£4.88/month). The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
+  - **Expected Annual Electrical Input:** `835.9 kWh ÷ 3.5` = **238.8 kWh** of electricity per year.
+  - **Cost Implication:** At the standard variable rate average of **£0.245/kWh**, maintaining base Passivhaus-level temperatures (12-14°C) year-round will cost approximately **£58.51 per year** (~£4.88/month). The 1.2kW Infrared panel provides instantaneous top-up heat directly to the user during occupied hours.
 
 > **SOP APPROVAL:** This document standardizes all material dimensions, quantities, gauges, fixing methods, and purposes for contractor execution. All requested parameters (150mm slab, perimeter splash margin, and Type C induction mapping) have been validated and integrated.
 
