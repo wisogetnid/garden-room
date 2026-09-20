@@ -23,11 +23,11 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 ---
 
 ## Step-by-Step Construction Phases (Overview)
-1. **Phase 1: Ground Screws & Foundation Platform** (Weeks 1-3): Ground screws at -75mm U-brackets, 225mm heave void over -300mm pit, 150x120mm ring beam (-75mm to +45mm), 120mm C24 joists infilled with PIR, 22mm Egger Protect P5 T&G sub-deck with utility pilot.
-2. **Phase 2: Superstructure & Thermal Jacket** (Weeks 4-6): Sole plate on ring beam at +45mm datum, 125mm SIP walls/roof, 80mm flat over-roof PIR + EPDM membrane, +45mm aluminium starter track, 180mm XPS skirt (+45mm to +225mm), 60mm Wood Fibre (+225mm upwards), and Tyvek wrap.
-3. **Phase 3: Glazing & Cladding** (Weeks 7-8): Quick-Connect AC wall penetration, Acoustic Triple-Glazed Aluminium windows (West @ 2083mm FFL, Clerestories @ 2000mm FFL) and 1400x2083mm door with 42mm timber riser block (+87mm FFL), 25mm rainscreen battens, Hardie VL cladding, rainwater system.
-4. **Phase 4: Internal Thermal Floor & Passivhaus Detailing** (Weeks 9-11): Inside dry room, peel Egger Protect foil, glue 18mm OSB3 T&G directly to 22mm Egger Protect with D4 adhesive (forming rock-solid 40mm laminated timber slab), utility cable pull & airtight sealing, internal Tescon Vana VCL taping, 15mm direct-mount Fermacell, and 2mm industrial polyurethane/epoxy floor paint (FFL = +87mm).
-5. **Phase 5: MEP, Climate & Final Commissioning** (Week 12+): MEP, dMVHR (sleeve center at +1681.7mm Datum Zero / 1594.7mm FFL), ASHP, TT Island, machine pads, commissioning.
+1. **Phase 1: Ground Screws & Foundation Platform** (Weeks 1-3): Ground screws at -75mm U-brackets, 225mm heave void over -300mm pit, 141x125mm ring beam (-75mm to +50mm), 47x125mm C24 joists infilled with PIR, 22mm Egger Protect P5 T&G sub-deck with utility pilot.
+2. **Phase 2: Superstructure & Thermal Jacket** (Weeks 4-6): Sole plate on ring beam at +50mm datum, 125mm SIP walls/roof, 80mm flat over-roof PIR + EPDM membrane, +50mm aluminium starter track, 180mm XPS skirt (+50mm to +230mm), 60mm Wood Fibre (+230mm upwards), and Tyvek wrap.
+3. **Phase 3: Glazing & Cladding** (Weeks 7-8): Quick-Connect AC wall penetration, Acoustic Triple-Glazed Aluminium windows (West @ 2078mm FFL, Clerestories @ 1995mm FFL) and 1400x2078mm door with 42mm timber riser block (+92mm FFL), 25mm rainscreen battens, Hardie VL cladding, rainwater system.
+4. **Phase 4: Internal Thermal Floor & Passivhaus Detailing** (Weeks 9-11): Inside dry room, peel Egger Protect foil, glue 18mm OSB3 T&G directly to 22mm Egger Protect with D4 adhesive (forming rock-solid 40mm laminated timber slab), utility cable pull & airtight sealing, internal Tescon Vana VCL taping, 15mm direct-mount Fermacell, and 2mm industrial polyurethane/epoxy floor paint (FFL = +92mm).
+5. **Phase 5: MEP, Climate & Final Commissioning** (Week 12+): MEP, dMVHR (sleeve center at +1681.7mm Datum Zero / 1589.7mm FFL), ASHP, TT Island, machine pads, commissioning.
 
 ---
 
@@ -35,7 +35,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 *The heavy digging has been engineered out. Let the pros drive the screws.*
 
 ### Week 1: Site Prep, Trenching & Ground Screws
-*   **The Big Win:** You have 3 existing concrete slabs buried 300mm down. Do not dig them out. Island Ground Screws will arrive and drive steel micropiles directly between (or occasionally through) the slabs and safely around the oak tree roots.
+*   **The Big Win:** You have 3 existing concrete slabs buried 300mm down. Do not dig them out. Island Ground Screws will arrive and drive exactly 12 steel micropiles directly between (or occasionally through) the slabs and safely around the oak tree roots.
 *   **Service Trenching:** Before the screws go in, dig the service trench from the house. Dig down to **450mm** and lay the main electric duct (cover with warning tape at 300mm). In the same trench (offset horizontally or backfilled slightly higher), lay the data/comms duct at a depth of **250mm to 300mm**. Bring both ducts up via sweeping bends directly into your 300mm excavated pit.
 *   **Weekend 1:** Clear surface vegetation and ensure the site is free of loose debris.
 
@@ -44,12 +44,12 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 *   **Weed & Moisture Control:** Roll out heavy-duty geotextile membrane across the entire dirt floor, folding it up the sides of your new retaining boards.
 *   **Membrane Fixing (Zero-Build-Up):** Mechanically fix the membrane flat to the pit floor. Use Tapcons and penny washers to secure it into the exposed concrete slabs, and 150mm U-pegs driven into the bare earth. Apply butyl tape on transitions and seal any X-slits cut around the ground screws. This locks the membrane down without using any gravel ballast, reclaiming 28mm of vertical height.
 *   **Weed Control Extension:** Extend the geotextile membrane **150mm past the external dimensions of the building** (beyond the ring beam/cladding line) and pin or glue it flat to the ground. This ensures the ventilated sub-skirt perimeter remains completely weed-free.
-*   **Weekend 2:** Build the heavy 150x120mm ring beam (bolting 3 lengths of 47x120mm C24 together, sitting from -75mm to +45mm datum) and bolt it to the ground screw U-brackets at -75mm. Hang internal 47x120mm joists via Face-Fix galvanized joist hangers (fixed exclusively to the inside vertical face of the ring beam) @ 400mm centers flush with the top of the ring beam (+45mm datum). The underside of the joists at -75mm establishes the mandatory 225mm heave void above the -300mm pit floor. *Foreman Note: Face-Fix hangers keep the top surface of the ring beam 100% flush timber, preventing metal tabs from puncturing the Polymeric DPC or pinching the SIP sole plate.*
-*   **Rodent Mesh (The 'L-Shape' Defense):** Roll out the 6mmx6mm welded steel mesh. Hold the top edge flat against the outer face of the timber ring beam at +45mm (it will be clamped by the EWI starter track later). Drop the mesh down into the pit, bend it outwards 150mm-200mm into an "L-shape", and pin it flat directly to the ground (as there is no gravel ballast to bury it).
-*   **Insulation Support & Drop:** Push stainless steel insulation support clips into the bottom sides of the C24 joists @ 600mm centers (or tack 25x25mm treated stop battens flush along the bottom edges) to create a mechanical stop ledge. Cut the 120mm PIR boards tightly and drop them between joists until they rest on the clips/battens. Inject low-expansion structural PU adhesive foam around all 4 perimeter edges of every panel to chemically bond the PIR to the timber joists and eliminate thermal bypassing.
+*   **Weekend 2:** Build the heavy 141x125mm ring beam (bolting 3 lengths of 47x125mm C24 together, sitting from -75mm to +50mm datum) and M10 bolt it to the ground screw U-brackets at -75mm. Hang internal 47x125mm joists via Face-Fix galvanized joist hangers (fixed exclusively to the inside vertical face of the ring beam) @ 400mm centers flush with the top of the ring beam (+50mm datum). Double up the joists at heavy loads and intermediate pile locations. Add 30x5mm galvanised restraint straps at 600mm max centres to secure the joists and ring beam. The underside of the joists at -75mm establishes the mandatory 225mm heave void above the -300mm pit floor. *Foreman Note: Face-Fix hangers keep the top surface of the ring beam 100% flush timber, preventing metal tabs from puncturing the Polymeric DPC or pinching the SIP sole plate.*
+*   **Rodent Mesh (The 'L-Shape' Defense):** Roll out the 6mmx6mm welded steel mesh. Hold the top edge flat against the outer face of the timber ring beam at +50mm (it will be clamped by the EWI starter track later). Drop the mesh down into the pit, bend it outwards 150mm-200mm into an "L-shape", and pin it flat directly to the ground (as there is no gravel ballast to bury it).
+*   **Insulation Support & Drop:** Push stainless steel insulation support clips into the bottom sides of the C24 joists @ 600mm centers (or tack 25x25mm treated stop battens flush along the bottom edges) to create a mechanical stop ledge. Cut the 125mm PIR boards tightly and drop them between joists until they rest on the clips/battens. Inject low-expansion structural PU adhesive foam around all 4 perimeter edges of every panel to chemically bond the PIR to the timber joists and eliminate thermal bypassing.
 
 ### Week 3: The Weatherproof Sub-Deck & Utility Pilot
-*   **Weekend 3:** Install 22mm Egger Protect P5 T&G chipboard (weatherproof peel-off foil, solo-lift ~24kg) screwed to joists at +45mm datum. This provides a rigid and weatherproof sub-deck that you can safely walk on and work from during the upcoming superstructure erection. Screw it down tightly to the joists at 300mm centers.
+*   **Weekend 3:** Install 22mm Egger Protect P5 T&G chipboard (weatherproof peel-off foil, solo-lift ~24kg) screwed to joists at +50mm datum. This provides a rigid and weatherproof sub-deck that you can safely walk on and work from during the upcoming superstructure erection. Screw it down tightly to the joists at 300mm centers.
 *   **Utility Pilot Stub:** Before covering the subterranean duct termination point, drill a pilot hole and insert a 32mm PVC stub pipe vertically up through the Egger Protect deck where the Consumer Unit will sit. This guarantees you will not have to blindly core down through the multi-layer floor later to locate the power/data cables.
 
 ---
@@ -58,7 +58,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 *OSB SIPs must not get wet. The clock is ticking the moment these arrive.*
 
 ### Week 4 Prep: Sole Plate & Anchoring Setup
-*   **Weeknights (Quiet, 45m-1.5h):** Lay High-Performance Polymeric DPC flat continuously along the exposed top surface of the 150x120mm timber ring beam (+45mm datum) to form a capillary break. Align the 47x125mm timber sole plates **100% flush with the outside perimeter of the 150mm timber ring beam** (do NOT center them on the ring beam; the remaining 25mm ledge sits internally). Drill and resin/anchor the M12 A4 (316) stainless threaded studs through the sole plates directly into the heavy timber ring beam @ 1200mm centers.
+*   **Weeknights (Quiet, 45m-1.5h):** Lay High-Performance Polymeric DPC flat continuously along the exposed top surface of the 141x125mm timber ring beam (+50mm datum) to form a capillary break. Align the 47x125mm timber sole plates **100% flush with the outside perimeter of the 141mm timber ring beam** (do NOT center them on the ring beam; the remaining 16mm ledge sits internally). Drill and resin/anchor the M12 A4 (316) stainless threaded studs through the sole plates directly into the heavy timber ring beam @ 1200mm centers.
 
 ### Week 4: 🚨 BIG EVENT: Panel Delivery & Wall Assembly
 *   **Friday (Delivery):** The SIP delivery arrives via Yarmouth ferry. Stack the OSB panels flat on bearers under a completely waterproof tarp.
@@ -72,8 +72,8 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 *   **Sunday Lockdown:** Install UPVC drip edge trims and kerb trims. The roof is now officially "Weather-Tight" and the OSB core is permanently protected from above.
 
 ### Week 6: External Insulation, Starter Track & Tyvek Wrap
-*   **Starter Track & XPS Skirt:** Screw a **60mm wide Aluminium EWI Starter Track** horizontally into the SIP sole plate / ring beam, perfectly level at the **+45mm mark** (flush with the bottom of SIP wall, sandwiching the top edge of the anti-rodent mesh behind it). Mechanically fix the **60mm thick x 180mm high XPS Plinth Skirt** into the starter track (covering from +45mm to +225mm).
-*   **Wood Fibre Insulation:** Mechanically fix **60mm Rigid Wood Fibre external insulation** directly to the exterior OSB of the SIP walls, starting at the **+225mm mark** (resting on top of the XPS skirt). Apply Compriband expanding foam tape or a bead of vapour-permeable MS Polymer sealant along the XPS/Wood Fibre horizontal joint.
+*   **Starter Track & XPS Skirt:** Screw a **60mm wide Aluminium EWI Starter Track** horizontally into the SIP sole plate / ring beam, perfectly level at the **+50mm mark** (flush with the bottom of SIP wall, sandwiching the top edge of the anti-rodent mesh behind it). Mechanically fix the **60mm thick x 180mm high XPS Plinth Skirt** into the starter track (covering from +50mm to +230mm).
+*   **Wood Fibre Insulation:** Mechanically fix **60mm Rigid Wood Fibre external insulation** directly to the exterior OSB of the SIP walls, starting at the **+230mm mark** (resting on top of the XPS skirt). Apply Compriband expanding foam tape or a bead of vapour-permeable MS Polymer sealant along the XPS/Wood Fibre horizontal joint.
 *   **Breather Membrane:** Drape the **Tyvek Breather Membrane** completely over the Wood Fibre and XPS skirt, taping it to the front face of the 60mm aluminium starter track using Tescon Vana (*do NOT tuck into track*). The SIP structure is now fully protected from coastal rain. You can safely remove the temporary wall tarpaulins.
 
 ---
@@ -82,11 +82,11 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 
 ### Week 7: AC Penetration, Glazing & Threshold Detailing
 *   **The AC Core Hole (Before Cladding):** Mount the internal bracket for the DIY Quick-Connect AC unit on the SIP OSB. Drill a ~65mm core hole through the SIP wall and Wood Fibre with a 2-3° downward angle to the outside for condensate drainage. Run the pipe bundle through to the outside and leave coiled. Fill the core gap with airtight foam, and tape the inside with Tescon Vana / Roflex grommet.
-*   **Glazing & Door Installation:** Install the Acoustic Triple Glazed Aluminium windows and the 1400x2083mm Thermally Broken Aluminium Asymmetric 1.5 Door into factory-cut SIP openings.
+*   **Glazing & Door Installation:** Install the Acoustic Triple Glazed Aluminium windows and the 1400x2078mm Thermally Broken Aluminium Asymmetric 1.5 Door into factory-cut SIP openings.
     *   *Note the handling protocol:* Acoustic triple glazed units are heavy (~47 kg/m² glass dead load; 2-person handling using heavy-duty vacuum suction cups is mandatory).
     *   *Note the thermal expansion gap:* Leave a 10-12mm perimeter expansion clearance around the dark powder-coated aluminium frames, sealed with pre-compressed expanding foam tape (Compriband / Illbruck illmod 600 / TP652) and low-expansion flexible PU foam, backed by Pro Clima Tescon Vana airtight taping internally.
-    *   *Preserve exact datums:* North/South/East clerestories top datum at **2000mm FFL** (verifying 129.7mm head zone under +2216.7mm plate); West panorama windows (1000x1000mm) and door top datum at **2083mm FFL** (verifying 103.5mm head zone under +2273.5mm wall plate).
-*   **Threshold Riser & Drainage:** Install a treated **42mm tall x 150mm wide C24 timber riser block** over the DPC across the 1400mm door opening to bring the door frame base up to **+87mm FFL**. Set an Aco HexDrain channel flush with the external patio level directly in front of the West door, and apply **RIW Flexiseal** liquid moisture barrier over the threshold junction.
+    *   *Preserve exact datums:* North/South/East clerestories top datum at **1995mm FFL** (verifying 129.7mm head zone under +2216.7mm plate); West panorama windows (1000x1000mm) and door top datum at **2078mm FFL** (verifying 103.5mm head zone under +2273.5mm wall plate).
+*   **Threshold Riser & Drainage:** Install a treated **42mm tall x 150mm wide C24 timber riser block** over the DPC across the 1400mm door opening to bring the door frame base up to **+92mm FFL**. Set an Aco HexDrain channel flush with the external patio level directly in front of the West door, and apply **RIW Flexiseal** liquid moisture barrier over the threshold junction.
 
 ### Week 8: Rainscreen Battens, Cladding & Rainwater System
 *   **Rainscreen Battens:** Screw **25x50mm treated rainscreen battens @ 400mm centers** vertically over the Tyvek using 150mm A4 EWI screws driven in alternating 60°/90° angles (Truss-Screw method). Staple **Perforated Bug Mesh** across the bottom 25mm gap between battens.
@@ -107,7 +107,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 
 ### Week 11: Direct-Mount Internal Boards & Floor Finish
 *   **Direct-Mount Fermacell:** Pre-cut 15mm Fermacell boards. Apply Jointstik glue to board edges and screw directly to the taped internal SIP OSB faces using 30mm Fermacell screws. (Provides required REI30/REI60 boundary fire rating).
-*   **Industrial Floor Paint:** Apply 2mm high-build industrial polyurethane / epoxy floor paint directly to the 18mm OSB3 (FFL = +87mm).
+*   **Industrial Floor Paint:** Apply 2mm high-build industrial polyurethane / epoxy floor paint directly to the 18mm OSB3 (FFL = +92mm).
 
 ---
 
@@ -115,7 +115,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 
 ### Week 12+: Surface Electrics, ASHP, dMVHR & Commissioning
 *   **Surface Conduit Electrics:** Run 20mm galvanised steel or PVC conduit and surface-mounted metal-clad sockets directly over the Fermacell. Keep circuits separated on separately labelled RCBOs (20A Type C for machines, 16A Type B for ASHP, 10A Type B for IR/controls, 6A Type B for dMVHR).
-*   **dMVHR Installation:** Install the Zehnder ComfoAir 70 (or equivalent enthalpy dMVHR) into the factory-cut 270mm core hole on the East wall (center at **+1681.7mm Datum Zero** / **1594.7mm FFL** / 535mm below +2216.7mm low-side plate, 1°-2° downward slope to outside). Seal sleeve with non-swelling foam.
+*   **dMVHR Installation:** Install the Zehnder ComfoAir 70 (or equivalent enthalpy dMVHR) into the factory-cut 270mm core hole on the East wall (center at **+1681.7mm Datum Zero** / **1589.7mm FFL** / 535mm below +2216.7mm low-side plate, 1°-2° downward slope to outside). Seal sleeve with non-swelling foam.
 *   **TT Island Earthing:** Drive a 1.2m copper earth rod into soil outside near the power entry. Route 16mm² earth cable to the Consumer Unit Earth Bar.
 *   **HVAC & Lighting:** Mount ceiling 1.2kW IR panel, surface track lighting, and DIY Quick-Connect ASHP / Mini-Split unit. Connect pre-charged AC lines to external compressor. Place 15mm SBR rubber isolation pads under cast-iron machine feet.
 *   **Sign-Off & Commissioning:** Hire a Part P registered electrician (NICEIC/NAPIT) to inspect, terminate main power, and issue Part P certification. Commission dMVHR with a BPEC engineer (respecting the 800mm clear zone in front of the dMVHR).

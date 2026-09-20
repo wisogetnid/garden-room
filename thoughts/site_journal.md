@@ -1397,3 +1397,30 @@
   - **Phase 4 / Week 9 & 11:** Removed the 20mm phenolic insulation. Directed the application of D4 structural adhesive directly to the peeled 22mm Egger Protect deck before laying the 18mm OSB3 T&G load-spreader, forming a 40mm solid timber slab. Updated final floor height references to FFL = +87mm.
   - **Phase 5 / Week 12+:** Adjusted the dMVHR sleeve center reference to +1681.7mm Datum Zero / 1594.7mm FFL.
 - **Status:** [FOREMAN] Workplan is synchronized with the new foundation-to-ceiling dimensions. The weekend build sequence remains intact.
+
+## [ARCHITECT] Structural Engineering Specifications Integration
+- **Date:** Sun 20 Sep 2026 14:00:00 BST
+- **Context:** Tari Willis Associates (Structural Engineers) provided the structural calculations and foundation layouts (`Drawing26C070-1.pdf` and `Standard-Specification-Notes.pdf`).
+- **Engineering & Structural Alignment Execution:**
+  1. **Pile Schedule & Layout:** The ambiguous `~16-20 screws` was replaced with the explicit engineer's schedule of **exactly 12 piles** (P01 to P12). The piles are subjected to working loads between 20kN and 30kN and require a minimum Factor of Safety of 2.0G, plus a 1.50mm horizontal lateral load allowance.
+  2. **Timber Dimension Correction:** The structural engineers specified **47x125mm C24** timber for all ground floor members.
+     - The joists are now 47x125mm.
+     - The heavy ring beam is now **141x125mm** (comprising 3x 47x125mm C24 timbers), bolted together using M10 bolts at max 400mm centres.
+     - The 125mm SIP core now overhangs the 141mm ring beam inwardly by ~16mm instead of ~25mm.
+  3. **Datum Cascade & Vertical Expansion:** Because the timber floor joists and ring beam increased in depth from 120mm to 125mm, and the bottom of the ring beam is locked to `-75mm` (to strictly preserve the 225mm clear heave void down to the -300mm pit floor), the top of the ring beam and joists has pushed upwards by **+5mm** to a **+50mm** datum.
+     - Consequently, the FFL is now **+92mm** (+50mm joist + 42mm floor stack).
+     - The high-side and low-side absolute wall plates remain safely below the 2480mm max roof height limit, but the *internal* ceiling clearance has slightly contracted by 5mm (average 2.14m).
+     - The absolute top datum of the fenestration limits also shifted, resulting in a **2078mm FFL** high-side door/window datum and **1995mm FFL** clerestory datum to maintain the structural head zones.
+  4. **Joist Reinforcement & Strapping:**
+     - Added the explicit structural requirement for **30x5mm galvanised restraint straps** at max 600mm centres tying the ground floor beams into the joists.
+     - Added the requirement for **doubled-up 47x125mm joists** at intermediate pile locations and directly below heavy cast-iron machinery (table saw, planer).
+     - Added requirement for solid timber strutting between joists at supports and strap locations.
+- **@foreman Action Required:** Please thoroughly review the updated datums, timber dimensions, and structural tie/reinforcement notes in `plans/MASTER_PLAN.md` and integrate these adjustments into `plans/WORKPLAN.md`. Ensure the weekend schedule accounts for the new 30x5mm restraint strapping and double-joisting. Acknowledge this change in the journal when complete.
+
+## [FOREMAN] Integration of Structural Calcs, 141x125mm Ring Beam & Datum Cascade
+- **Date:** Sun Sep 20 2026 14:15:00 BST
+- **Action:** Acknowledged the Architect's structural update based on the new engineering calculations. `plans/WORKPLAN.md` has been successfully patched to reflect:
+  1.  **Timber Frame Upgrades:** The ring beam has been updated to **141x125mm** (3x 47x125mm C24) and all floor joists to **47x125mm**. Integrated the requirement to double up joists at intermediate pile locations and heavy machine loads, and specified **M10 bolting** of the ring beam to the exactly **12 ground screw U-brackets**.
+  2.  **Datum Shifts:** Pushed the FFL up to **+92mm** (with the ring beam top sitting at +50mm to maintain the 225mm subterranean heave void). Recalibrated all dependent vertical datums: the door and West windows top out at **2078mm FFL**, the clerestory top datum rests at **1995mm FFL**, and the dMVHR sleeve center shifted to **1589.7mm FFL**.
+  3.  **Strapping & Support:** Added the installation of **30x5mm galvanised restraint straps** at max 600mm centres to tie the floor structure together, explicitly slotting this into the Weekend 2 logistical schedule.
+  4.  **Weatherproofing Adjustments:** Realigned the start height of the XPS skirt, starter track, Wood Fibre, and L-shaped rodent mesh to the new **+50mm ring beam datum** to ensure continuous airtightness and thermal envelope integrity. All weekend/evening operational windows remain feasible.
