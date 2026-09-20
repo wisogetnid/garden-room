@@ -27,7 +27,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 2. **Phase 2: Superstructure & Thermal Jacket** (Weeks 4-6): Sole plate on ring beam at +50mm datum, 125mm SIP walls/roof, 80mm flat over-roof PIR + EPDM membrane, +50mm aluminium starter track, 180mm XPS skirt (+50mm to +230mm), 60mm Wood Fibre (+230mm upwards), and Tyvek wrap.
 3. **Phase 3: Glazing & Cladding** (Weeks 7-8): Quick-Connect AC wall penetration, Acoustic Triple-Glazed Aluminium windows (West @ 2078mm FFL, Clerestories @ 1995mm FFL) and 1400x2078mm door with 42mm timber riser block (+92mm FFL), 25mm rainscreen battens, Hardie VL cladding, rainwater system.
 4. **Phase 4: Internal Thermal Floor & Passivhaus Detailing** (Weeks 9-11): Inside dry room, peel Egger Protect foil, glue 18mm OSB3 T&G directly to 22mm Egger Protect with D4 adhesive (forming rock-solid 40mm laminated timber slab), utility cable pull & airtight sealing, internal Tescon Vana VCL taping, 15mm direct-mount Fermacell, and 2mm industrial polyurethane/epoxy floor paint (FFL = +92mm).
-5. **Phase 5: MEP, Climate & Final Commissioning** (Week 12+): MEP, dMVHR (sleeve center at +1681.7mm Datum Zero / 1589.7mm FFL), ASHP, TT Island, machine pads, commissioning.
+5. **Phase 5: MEP, Climate & Final Commissioning** (Week 12+): MEP, dMVHR (sleeve center at +1616.7mm Datum Zero / 1524.7mm FFL), ASHP, TT Island, machine pads, commissioning.
 
 ---
 
@@ -115,7 +115,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 
 ### Week 12+: Surface Electrics, ASHP, dMVHR & Commissioning
 *   **Surface Conduit Electrics:** Run 20mm galvanised steel or PVC conduit and surface-mounted metal-clad sockets directly over the Fermacell. Keep circuits separated on separately labelled RCBOs (20A Type C for machines, 16A Type B for ASHP, 10A Type B for IR/controls, 6A Type B for dMVHR).
-*   **dMVHR Installation:** Install the Zehnder ComfoAir 70 (or equivalent enthalpy dMVHR) into the factory-cut 270mm core hole on the East wall (center at **+1681.7mm Datum Zero** / **1589.7mm FFL** / 535mm below +2216.7mm low-side plate, 1°-2° downward slope to outside). Seal sleeve with non-swelling foam.
+*   **dMVHR Installation:** Install the Zehnder ComfoAir 70 (or equivalent enthalpy dMVHR) into the factory-cut 270mm core hole on the East wall (center at **+1616.7mm Datum Zero** / **1524.7mm FFL** / 600mm below +2216.7mm low-side plate, 1°-2° downward slope to outside). Seal sleeve with non-swelling foam. *Foreman Note: this datum leaves 585mm clear above the pipe axis against Zehnder's 550mm minimum — do not raise it.*
 *   **TT Island Earthing:** Drive a 1.2m copper earth rod into soil outside near the power entry. Route 16mm² earth cable to the Consumer Unit Earth Bar.
 *   **HVAC & Lighting:** Mount ceiling 1.2kW IR panel, surface track lighting, and DIY Quick-Connect ASHP / Mini-Split unit. Connect pre-charged AC lines to external compressor. Place 15mm SBR rubber isolation pads under cast-iron machine feet.
 *   **Sign-Off & Commissioning:** Hire a Part P registered electrician (NICEIC/NAPIT) to inspect, terminate main power, and issue Part P certification. Commission dMVHR with a BPEC engineer (respecting the 800mm clear zone in front of the dMVHR).
