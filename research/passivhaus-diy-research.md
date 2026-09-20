@@ -127,7 +127,7 @@ Screw piles are galvanized steel columns with a helical screw at the end, driven
 
 * **No Excavation**: There is no need for deep trenches or the removal of tons of soil.41  
 * **Immediate Loading**: Unlike concrete, which takes weeks to cure, a timber frame can be built on screw piles the same day they are installed.42  
-* **Accuracy**: In the Isle of Wight, companies like Island Ground Screws use hydraulic machinery to install piles with extreme precision, providing a level base for WikiHouse or timber frames.44
+* **Accuracy**: In the Isle of Wight, specialist ground screw contractors use hydraulic machinery to install piles with extreme precision, providing a level base for WikiHouse or timber frames.44
 
 ### **The Timber Ground Floor**
 
@@ -145,7 +145,7 @@ Most Passivhaus-specific materials (Intello membranes, wood fiber, cellulose) mu
 | :---- | :---- |
 | **Freight Carriers** | Ferryspeed, Wightlink, Breakwells (Specialists in DIY shipping) |
 | **Local Timber Merchants** | West Cowes Timber, Sydenhams, RVN Building Supplies |
-| **Foundations** | Island Ground Screws (Local screw pile installers) |
+| **Foundations** | Specialist ground screw contractors |
 | **Ferry Routes** | Portsmouth to Fishbourne, Lymington to Yarmouth, Southampton to Cowes |
 
 Sources:.44  

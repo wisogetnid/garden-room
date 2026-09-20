@@ -585,7 +585,7 @@
   - Updated expected annual heating effort: Fabric loss reduced; HTC improved to 19.27 W/K; heating demand now 693 kWh/year. With ASHP COP of 3.5, running cost plummets to ~£48/year.
 - **Foreman Action:**
   - Updated `WORKPLAN.md` phases to remove the 21-28 day concrete curing halt.
-  - Rewrote Phase 1 & 2 to detail the Island Ground Screws installation, joist/PIR infill, CPB sub-deck, and Phenolic/Ply continuous thermal deck.
+  - Rewrote Phase 1 & 2 to detail the the ground screw contractor installation, joist/PIR infill, CPB sub-deck, and Phenolic/Ply continuous thermal deck.
   - Re-numbered weeks to reflect the significantly faster, dry-build timeline.
 - **Strategist Hand-off:** Please review structural integrity, Passivhaus continuity (the Red Line test), and run validation mesh for the new timber/rubber foundation against `tests/`.
 
@@ -768,7 +768,7 @@
 **Architect Notes: Structural Engineer Feedback on Foundation**
 - **User Query:** The structural engineer from Tari Willis replied, confirming that Ground Screws are sufficient (screw piles not needed). He also advised that Building Control will very likely mandate the full 150mm void gap for the oak tree.
 - **Architect Action:** 
-  - Confirmed the use of Island Ground Screws is now fully validated.
+  - Confirmed the use of the ground screw contractor is now fully validated.
   - Resolved the `[OPEN RISK FLAG]` regarding the vertical datums. We will proceed under the assumption of the strict 150mm clear heave gap.
   - The Cut List datums and wall heights previously calculated in the `MASTER_PLAN.md` were already based on this "worst-case" 150mm gap + 50mm gravel ballast scenario. No further mathematical adjustment is required.
 
@@ -981,9 +981,9 @@
 
 ## Date: 2026-07-25
 **Architect Notes: Removal of Prescriptive Ground Screw Diameter**
-- **User Query:** Requested removing the explicit tube diameter from the Master Plan, preferring Island Ground Screws to select the appropriate screw specification based on site torque testing.
+- **User Query:** Requested removing the explicit tube diameter from the Master Plan, preferring the ground screw contractor to select the appropriate screw specification based on site torque testing.
 - **Architect Action:** 
-  - Reverted Section 1.2 in `MASTER_PLAN.md` to defer specific tube gauge selection directly to Island Ground Screws based on their professional torque test results on-site.
+  - Reverted Section 1.2 in `MASTER_PLAN.md` to defer specific tube gauge selection directly to the ground screw contractor based on their professional torque test results on-site.
   - Maintained the requirement for **150mm U-brackets** to hold the heavy built-up ring beam.
 
 ## Date: 2026-07-25
@@ -1424,3 +1424,8 @@
   2.  **Datum Shifts:** Pushed the FFL up to **+92mm** (with the ring beam top sitting at +50mm to maintain the 225mm subterranean heave void). Recalibrated all dependent vertical datums: the door and West windows top out at **2078mm FFL**, the clerestory top datum rests at **1995mm FFL**, and the dMVHR sleeve center shifted to **1589.7mm FFL**.
   3.  **Strapping & Support:** Added the installation of **30x5mm galvanised restraint straps** at max 600mm centres to tie the floor structure together, explicitly slotting this into the Weekend 2 logistical schedule.
   4.  **Weatherproofing Adjustments:** Realigned the start height of the XPS skirt, starter track, Wood Fibre, and L-shaped rodent mesh to the new **+50mm ring beam datum** to ensure continuous airtightness and thermal envelope integrity. All weekend/evening operational windows remain feasible.
+
+## [ARCHITECT] Supplier Specification Update
+- **Date:** Sun 20 Sep 2026 14:30:00 BST
+- **Context:** User instructed the removal of all traces of the previously specified local ground screw contractor from the project.
+- **Action Taken:** Scrubbed all references to the specific company name across `MASTER_PLAN.md`, `WORKPLAN.md`, `site_journal.md`, and `research` files. The plans now generically refer to a "specialist ground screw contractor" to ensure the procurement process remains open.
