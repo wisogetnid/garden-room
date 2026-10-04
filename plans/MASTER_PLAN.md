@@ -101,28 +101,6 @@ layout: default
 | **Aesthetic/Wear Deck (FFL)** | **+90mm to +92mm** | 2mm High-Build Industrial Polyurethane / Epoxy Floor Coating | Directly applied to 18mm OSB3 deck | **Finished Floor Level (FFL = +92mm):** Ultra-durable seamless workshop deck (~9.2cm step from lawn) | ~17m² |
 | **Machine Decoupling** | **+92mm to +107mm** | 15mm SBR Rubber Isolation Pads (100x100mm) | Placed under feet of cast-iron machinery | **Critical:** Protects floor from denting and stops motor drumming | As needed |
 
-*Ground screw layout note — load case closed.* The installer's product returned an expected ultimate capacity of **45kN** against the 70kN assumed when the schedule was drawn, which left P02, P03, P10 and P11 over-loaded on the original 12-screw grid. Tari Willis resolved this on **24 Sep 2026** (`comms/2026-09-24_Proposed_Addition.pdf`) by adding **2 No. screws** rather than re-spacing the grid or lengthening screws: one on the mid-length centreline of each long perimeter beam line. Their stated basis — *"Installing at this location will maintain the deck structure design and beam locations as they are, but will alleviate enough load from Piles P02, P03, P10 and P11 to be within the lower load parameters indicated by the piling specialist."* The ring beam, internal E-W beams (G11–G14), joist layout and deck build-up are all **unchanged**; P13 and P14 simply add mid-span support to the two continuous long perimeter beams. P13/P14 are this document's labels — the engineer's markup leaves them unnumbered.
-
-**[OPEN RISK FLAG: setting-out — no drawing exists at the revised dimensions.** Two separate issues now compound:
-
-*   26C070/1 still shows the original **3408 x 5408** layout, with long-line bays of 1755 / 1757 / 1755mm.
-*   The 24 Sep markup adding P13/P14 was drawn **on that same superseded plan** — the engineer states explicitly: *"This is marked up on the current plan and not based on the revised dimensions."*
-
-The engineer has confirmed the resize has no impact on member design provided the screws are equally spaced along the revised length, and has offered to revise the drawings for a fee. On the revised **4783mm** long lines the geometry becomes **1594.3 / 797.15 / 797.15 / 1594.3mm**, with P13/P14 landing at 2391.45mm from each end. **The ground screw contractor must not set out from either the current drawing issue or the pink markup as scaled.** Either commission the revised drawing or get the figures above confirmed in writing before the rig arrives.**]**
-
-**[OPEN RISK FLAG: mid row P05–P08 never explicitly signed off at 45kN.** The 24 Sep addition relieves only the long perimeter lines; the mid row is untouched by it. On the revised 1594.3mm bay P05–P08 work out at roughly **22.7kN working / 45.4kN ultimate** — sitting right on the 45kN line rather than inside it. The engineer's reply addresses P02/P03/P10/P11 by name and is silent on the mid row, which the original load case had marked *"Engineer to review and accept at 45kN"*. This is a one-line question to Tari Willis, not a blocker — but get it answered in the same breath as the setting-out figures.**]**
-
-**[OPEN RISK FLAG: heave resistance — continuous-thread ground screw, unresolved.** The specified product is a **Radix Pro ground screw** (76–114mm shaft, continuous thread along the full shaft, terminating in a point) — **not** a helical pile with discrete bearing plates. This matters for heave:
-
-*   Resisting heave requires **low grip through the moving zone** and **concentrated anchorage below it**. A continuous thread does the reverse: it grips along its entire length, including through the desiccated zone that is trying to lift it, with no discrete anchor at the toe. Radix's stated advantage of *"greater friction underground than a traditional pile"* works against the structure in this load case.
-*   The screw **cannot be sleeved**, because it is rotated into place — so the mitigation required by drawing 26C070/1 (*"local sleeving of the pile as deemed necessary to cater for any potential heave"*) is not physically available with this product.
-*   **2050mm appears to be Radix's maximum length.** The compression load case no longer needs extra length (resolved by P13/P14), but this still caps how far the toe can be driven below the oak's zone of desiccation. Confirm the true maximum with the installer.
-*   With the head at -75mm the toe sits at approximately **-2125mm**. The proportion of the screw inside the active zone is unknown because **the depth of desiccation from the oak has never been measured**. The governing framework is **NHBC Chapter 4.2 (Building near trees)**; for a mature oak at close proximity on shrinkable clay, required depths beyond 2.5m are common.
-*   The building is light (~2.5 tonnes, ~2kN dead load per screw), so there is negligible self-weight resisting uplift. The installer achieving 45kN rather than the assumed 70kN may itself indicate stiff desiccated clay.
-*   The installer's pre-installation test measures **installation torque (compression)** only. It does not address uplift, and no geotechnical investigation has been carried out.
-
-**Action: put the product type, thread form, maximum length and toe depth to Tari Willis and obtain their written position before installation. A plasticity index test on a sample from the existing excavation would convert this from assumption into an NHBC 4.2 depth at modest cost.**]**
-
 > **Sidenote — Local geology (BGS borehole SZ49NE91, BGS ID 17761317; grid 449188, 95495).**
 > A Victorian 6-inch survey record (c.1890) covering two nearby boreholes. Descriptive geology only.
 >
@@ -136,10 +114,6 @@ The engineer has confirmed the resize has no impact on member design provided th
 > | **Total explored** | **5.18m** | **5.03m** |
 >
 > **Confirms:** clay to at least 5m with **no competent granular stratum in the explored depth** — the 2050mm ground screws (toe ~-2125mm) sit entirely within clay, and there is no bearing layer within reach to found on. The formations (Bembridge Marls, Lower Hempstead Beds — Solent Group) are recognised shrinkable clays, corroborating the engineer's *"shrinkable subsoils are expected"*.
->
-> **New consideration:** the clay is repeatedly described as *"full of selenite"* (gypsum — calcium sulfate). Sulfate-bearing ground is a **durability question for buried galvanised steel**. Confirm with Radix / the installer what galvanising specification is supplied and what design life is claimed in sulfate-bearing clay.
->
-> **Does not resolve the heave question:** no Atterberg limits, plasticity index, SPT values, shear strengths or consistency descriptions. The plasticity index that drives NHBC Chapter 4.2 is still unknown. Note also that neither borehole is at Coronation Road — the record establishes the regional setting, not conditions beneath the oak.
 
 *Internal Perimeter Detail:* Total inner floor thickness over the joists is 42mm (22mm Egger + 18mm OSB3 + 2mm Epoxy). Because the SIP wall now sits directly on the ring beam alongside the floor joists, this 42mm floor buildup butts directly against the inside OSB skin of the SIP wall. Ensure an expansion gap is left between the floor deck and the SIP OSB, which will be hidden by a standard skirting board.
 
