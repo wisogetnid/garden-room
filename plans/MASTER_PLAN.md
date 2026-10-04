@@ -16,9 +16,9 @@ layout: default
 ---
 
 ## Step-by-Step Construction Phases
-1. **Phase 1: Groundworks & Sub-Floor Platform (Weeks 1-3):** Installation of ground screws by a specialist contractor (bypassing buried concrete slabs), service trenching, zero-build-up mechanical geotextile membrane pinning at -300mm datum (establishing the mandatory 225mm clear air heave void), assembly of 141x125mm timber ring beam (3408 x 4924mm) and 125mm joist frame infilled with PIR, and installation of weatherproof 22mm Egger Protect P5 T&G sub-deck with utility pilot.
+1. **Phase 1: Groundworks & Sub-Floor Platform (Weeks 1-3):** Installation of ground screws by a specialist contractor (bypassing buried concrete slabs), zero-build-up mechanical geotextile membrane pinning at -300mm datum (establishing the mandatory 225mm clear air heave void), assembly of 141x125mm timber ring beam (3408 x 4924mm) and 125mm joist frame infilled with PIR, and installation of weatherproof 22mm Egger Protect P5 T&G sub-deck.
 2. **Phase 2: Superstructure & Thermal Jacket (Weeks 4-6):** Sole plate anchoring over Polymeric DPC directly onto the timber ring beam (+50mm datum), erection of 125mm EPS-core SIP walls, 125mm timber-splined sloped SIP roof, 80mm over-roof PIR + EPDM membrane (weather-tight shell), +50mm aluminium starter track, 180mm XPS skirt (+50mm to +230mm), 60mm rigid Wood Fibre insulation (+230mm upwards), and Tyvek breather membrane wrap.
-3. **Phase 3: Glazing, Cladding & Weatherproofing (Weeks 7-8):** DIY Quick-Connect AC wall penetration, Acoustic Triple-Glazed Aluminium window and door installation with flush threshold detailing (+92mm FFL), 25mm ventilated rainscreen battens with bug mesh, James Hardie VL fibre cement cladding, and rainwater harvesting system.
+3. **Phase 3: Glazing, Cladding & Weatherproofing (Weeks 7-8):** DIY Quick-Connect AC wall penetration, service cable wall core hole, Acoustic Triple-Glazed Aluminium window and door installation with flush threshold detailing (+92mm FFL), 25mm ventilated rainscreen battens with bug mesh, James Hardie VL fibre cement cladding, and rainwater harvesting system.
 4. **Phase 4: Internal Fit-Out & Solid Floor Deck (Weeks 9-11):** Inside the dry building, peeling off Egger Protect protective foil, installation of 18mm OSB3 T&G secondary deck glued directly to Egger Protect with D4 adhesive (creating a rock-solid 40mm laminated timber slab for heavy machinery), utility cable pull and airtight grommet sealing, internal Pro Clima Tescon Vana VCL joint taping, direct-mount 15mm Fermacell fire-rated boards, and 2mm high-build industrial polyurethane / epoxy workshop floor coating.
 5. **Phase 5: Electrical, HVAC & Commissioning (Week 12+):** Surface-mounted conduit wiring and metal-clad sockets, Blauberg Vento Maxi-Air dMVHR installation and balancing, DIY Quick-Connect ASHP heat pump commissioning, TT Island earthing rod connection, machine SBR rubber decoupling pads, Part P Electrical sign-off, and Building Control Completion Certificate.
 
@@ -143,20 +143,18 @@ The engineer has confirmed the resize has no impact on member design provided th
 
 *Internal Perimeter Detail:* Total inner floor thickness over the joists is 42mm (22mm Egger + 18mm OSB3 + 2mm Epoxy). Because the SIP wall now sits directly on the ring beam alongside the floor joists, this 42mm floor buildup butts directly against the inside OSB skin of the SIP wall. Ensure an expansion gap is left between the floor deck and the SIP OSB, which will be hidden by a standard skirting board.
 
-### 1.3 Underground Service Trenching & Floor Penetration
+### 1.3 Above-Ground Service Route & Wall Penetration
 
-**Objective:** Provide safe, code-compliant subterranean routes for the SWA power and Cat6a data cables from the house to the workshop, and bring them through the insulated floor without compromising the Passivhaus airtight envelope.
+**Objective:** Route the SWA power and Cat6a data cables from the house to the workshop **above ground, along the boundary fence** (route confirmed by the electrician — no service trench or buried ducting), and bring them in **through the wall** without compromising the SIP structure or the Passivhaus airtight envelope.
+
+*Design Note:* The underground trench and 50mm twinwall ducts have been removed from the scope. Both cables are rated for outdoor, above-ground use; the fence-line route, cable support and fixing method are the electrician's design. Entry follows the same on-site coring logic as the AC penetration (§4.1a).
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **Power Duct** | 50mm rigid twinwall electric ducting (Black/Red) | Laid in trench min **450mm** below ground level. | **BS 7671 Compliance:** Protects primary SWA power cable from shovel strikes. Cover with electrical warning tape 150mm above duct. | Length as required |
-| **Data Duct** | 50mm rigid twinwall comms ducting (Green) | Laid in same trench at **250-300mm** below ground level. | Vertical separation from high-voltage AC prevents electromagnetic interference (EMI). | Length as required |
-| **Duct Entry** | 90-degree long-radius sweeping bends | Emerging directly up into the 300mm sub-floor void. | Brings services beneath the workshop without external wall penetrations. | 2 bends |
-| **Duct Routing (In Void)** | 50mm twinwall ducts | Route horizontally across the 300mm void, pinned to gravel or strapped to joists. | Once inside the protected building footprint, BS 7671 does not require 450mm burial. | N/A |
-| **Duct Termination** | 50mm twinwall open end | Left exposed in the 300mm void, strapped to the side of a joist. | The bulky 50mm duct **does not** enter the room. It terminates in the sub-floor void. | N/A |
-| **Duct Vermin Plug** | Wire wool & standard expanding foam | Stuffed into the open end of the 50mm ducts around the exiting cables. | Prevents mice or spiders from using the underground duct as a highway from the house into the void. | 1 can |
-| **Floor Core Hole** | ~25mm-32mm drilled hole | Drilled vertically through the floor sandwich (OSB3, Egger Protect, PIR) strictly *between* joists. | Allows only the raw cables (SWA and Cat6a) to pass through the floor, minimizing the hole size. | N/A |
-| **Airtight Cable Grommet** | Pro Clima Kaflex (or Tescon Vana Tape + PU Foam) | Adhered to the OSB3 top deck, stretching over the cable jackets. | **Passivhaus Critical:** Seals the floor penetration permanently against draughts, moisture, and pressure loss. | 1-2 Grommets |
+| **Wall Core Hole** | ~32mm cored hole | Cored on-site (not factory pre-cut) through the SIP and 60mm Wood Fibre behind the Consumer Unit position, **avoiding the 1200mm vertical SIP spline joints**, with a **1°–2° downward fall to the outside**. Drilled before cladding. | Passes only the raw SWA and Cat6a cables through the envelope; the outward fall stops water tracking along the cables into the wall. | 1 hole |
+| **Core Void Fill** | Illbruck FM330 non-swelling airtight PU foam | Injected around the cables inside the 125mm SIP core. | Prevents air movement and thermal bypass within the core. | 1 can |
+| **Internal Airtight Cable Grommet** | Pro Clima Kaflex (or Tescon Vana Tape) | Adhered to the inner SIP OSB skin, stretching over the cable jackets, before the Fermacell goes up. | **Passivhaus Critical:** Seals the wall penetration permanently against draughts, moisture, and pressure loss. | 1-2 Grommets |
+| **External Weather Seal & Drip Loop** | Pro Clima Kaflex (or Tescon Extora tape) over the Tyvek | Grommet/tape lapped onto the Tyvek breather membrane; cables dressed with a drip loop below the entry point before passing through the cladding. | Keeps driven coastal rain out of the Wood Fibre layer and sheds water off the cables before the hole. | 1 Grommet |
 
 ---
 

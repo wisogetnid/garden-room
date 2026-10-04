@@ -24,7 +24,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 ---
 
 ## Step-by-Step Construction Phases (Overview)
-1. **Phase 1: Ground Screws & Foundation Platform** (Weeks 1-3): Ground screws at -75mm U-brackets, 225mm heave void over -300mm pit, 141x125mm ring beam (-75mm to +50mm), 47x125mm C24 joists infilled with PIR, 22mm Egger Protect P5 T&G sub-deck with utility pilot.
+1. **Phase 1: Ground Screws & Foundation Platform** (Weeks 1-3): Ground screws at -75mm U-brackets, 225mm heave void over -300mm pit, 141x125mm ring beam (-75mm to +50mm), 47x125mm C24 joists infilled with PIR, 22mm Egger Protect P5 T&G sub-deck.
 2. **Phase 2: Superstructure & Thermal Jacket** (Weeks 4-6): Sole plate on ring beam at +50mm datum, 125mm SIP walls/roof, 80mm flat over-roof PIR + EPDM membrane, +50mm aluminium starter track, 180mm XPS skirt (+50mm to +230mm), 60mm Wood Fibre (+230mm upwards), and Tyvek wrap.
 3. **Phase 3: Glazing & Cladding** (Weeks 7-8): Quick-Connect AC wall penetration, Acoustic Triple-Glazed Aluminium windows (West @ 2078mm FFL, Clerestories @ 1995mm FFL) and 1400x2078mm door with 42mm timber riser block (+92mm FFL), 25mm rainscreen battens, Hardie VL cladding, rainwater system.
 4. **Phase 4: Internal Thermal Floor & Passivhaus Detailing** (Weeks 9-11): Inside dry room, peel Egger Protect foil, glue 18mm OSB3 T&G directly to 22mm Egger Protect with D4 adhesive (forming rock-solid 40mm laminated timber slab), utility cable pull & airtight sealing, internal Tescon Vana VCL taping, 15mm direct-mount Fermacell, and 2mm industrial polyurethane/epoxy floor paint (FFL = +92mm).
@@ -35,9 +35,8 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 ## 🗓️ Phase 1: Ground Screws & Timber Frame (Weeks 1-3)
 *The heavy digging has been engineered out. Let the pros drive the screws.*
 
-### Week 1: Site Prep, Trenching & Ground Screws
+### Week 1: Site Prep & Ground Screws
 *   **The Big Win:** You have 3 existing concrete slabs buried 300mm down. Do not dig them out. a specialist ground screw contractor will arrive and drive **2050mm ground screws** on a base grid of **3267mm E-W × 4783mm N-S** (setting-out diagonal **5792mm**), breaking out the slabs locally where a screw position falls on one, and working safely around the oak tree roots. ✅ **The screw count is now FIXED at 14** (Tari Willis, 24 Sep 2026). The two long perimeter lines each get a 5th screw on their mid-length centreline — P13 between P02/P03, P14 between P10/P11 — making those lines **1594.3 / 797.15 / 797.15 / 1594.3mm**. The mid row (P05–P08) stays at 4 positions, so the grid is deliberately irregular; the ring beam, internal E-W beams and joist layout are all unchanged. *Foreman Note: no drawing exists at the revised dimensions. 26C070/1 still shows the old 3408 x 5408 footprint, and the engineer's pink markup adding P13/P14 was drawn on that same superseded plan — do not let the installer scale off either. Get the revised drawing or the bay figures above confirmed in writing before the rig arrives. See MASTER_PLAN §1.2.*
-*   **Service Trenching:** Before the screws go in, dig the service trench from the house. Dig down to **450mm** and lay the main electric duct (cover with warning tape at 300mm). In the same trench (offset horizontally or backfilled slightly higher), lay the data/comms duct at a depth of **250mm to 300mm**. Bring both ducts up via sweeping bends directly into your 300mm excavated pit.
 *   **Weekend 1:** Clear surface vegetation and ensure the site is free of loose debris.
 
 ### Week 2: Retaining, Weed Control & Timber Joists
@@ -49,9 +48,8 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 *   **Rodent Mesh (The 'L-Shape' Defense):** Roll out the 6mmx6mm welded steel mesh. Hold the top edge flat against the outer face of the timber ring beam at +50mm (it will be clamped by the EWI starter track later). Drop the mesh down into the pit, bend it outwards 150mm-200mm into an "L-shape", and pin it flat directly to the ground (as there is no gravel ballast to bury it).
 *   **Insulation Support & Drop:** Push stainless steel insulation support clips into the bottom sides of the C24 joists @ 600mm centers (or tack 25x25mm treated stop battens flush along the bottom edges) to create a mechanical stop ledge. Cut the 125mm PIR boards tightly and drop them between joists until they rest on the clips/battens. Inject low-expansion structural PU adhesive foam around all 4 perimeter edges of every panel to chemically bond the PIR to the timber joists and eliminate thermal bypassing.
 
-### Week 3: The Weatherproof Sub-Deck & Utility Pilot
+### Week 3: The Weatherproof Sub-Deck
 *   **Weekend 3:** Install 22mm Egger Protect P5 T&G chipboard (weatherproof peel-off foil, solo-lift ~24kg) screwed to joists at +50mm datum. This provides a rigid and weatherproof sub-deck that you can safely walk on and work from during the upcoming superstructure erection. Screw it down tightly to the joists at 300mm centers.
-*   **Utility Pilot Stub:** Before covering the subterranean duct termination point, drill a pilot hole and insert a 32mm PVC stub pipe vertically up through the Egger Protect deck where the Consumer Unit will sit. This guarantees you will not have to blindly core down through the multi-layer floor later to locate the power/data cables.
 
 ---
 
@@ -83,6 +81,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 
 ### Week 7: AC Penetration, Glazing & Threshold Detailing
 *   **The AC Core Hole (Before Cladding):** Mount the internal bracket for the DIY Quick-Connect AC unit on the SIP OSB. Drill a ~65mm core hole through the SIP wall and Wood Fibre with a 2-3° downward angle to the outside for condensate drainage. Run the pipe bundle through to the outside and leave coiled. Fill the core gap with airtight foam, and tape the inside with Tescon Vana / Roflex grommet.
+*   **The Service Cable Core Hole (Before Cladding):** Core a ~32mm hole through the SIP wall and Wood Fibre behind the Consumer Unit position, clear of the 1200mm spline joints, with a 1-2° fall to the outside. Seal the outside face onto the Tyvek with a Pro Clima Kaflex grommet (or Tescon Extora tape) so the hole is weather-tight before the cladding goes on. The SWA and Cat6a are run along the fence by the electrician and dressed in with a drip loop below the entry.
 *   **Glazing & Door Installation:** Install the Acoustic Triple Glazed Aluminium windows and the 1400x2078mm Thermally Broken Aluminium Asymmetric 1.5 Door into factory-cut SIP openings.
     *   *Note the handling protocol:* Acoustic triple glazed units are heavy (~47 kg/m² glass dead load; 2-person handling using heavy-duty vacuum suction cups is mandatory).
     *   *Note the thermal expansion gap:* Leave a 10-12mm perimeter expansion clearance around the dark powder-coated aluminium frames, sealed with pre-compressed expanding foam tape (Compriband / Illbruck illmod 600 / TP652) and low-expansion flexible PU foam, backed by Pro Clima Tescon Vana airtight taping internally.
@@ -101,7 +100,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 
 ### Week 9: Solid Timber Diaphragm Deck
 *   **The OSB3 Load-Spreader:** Inside the bone-dry room, peel off the Egger Protect protective foil. Apply D4 structural adhesive to the surface and lay 18mm OSB3 T&G directly over the 22mm Egger Protect deck, screwing into joists at 300mm centers to form a solid 40mm laminated timber slab. 
-*   **Utility Penetration:** Locate the pre-installed 32mm PVC stub. Pull SWA power and Cat6a data cables from the subterranean ducts up through the floor. In the sub-floor void, stuff wire wool into the 50mm duct ends and seal with expanding foam. Inside the room, seal the penetration with Illbruck FM330 airtight foam and cover with a Pro Clima Kaflex grommet / Tescon Vana tape.
+*   **Utility Penetration:** Pull the SWA power and Cat6a data cables through the service cable core hole. Fill the void inside the SIP core with Illbruck FM330 airtight foam and seal the inside face to the SIP OSB with a Pro Clima Kaflex grommet / Tescon Vana tape before the Fermacell goes up.
 
 ### Week 10: Internal Passivhaus Airtight Taping
 *   **Airtight VCL Taping:** Meticulously tape every internal wall-to-wall, wall-to-roof, and wall-to-floor joint, plus all window and door frame reveals, with **Pro Clima Tescon Vana** tape. This forms the continuous internal Passivhaus airtight/vapour barrier.
