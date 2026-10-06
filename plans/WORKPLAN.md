@@ -19,7 +19,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 2.  **Evening Micro-Shifts:** Weeknights are for 45-minute "setup" or "finesse" tasks. Cowes has neighbors. Tuesday nights are for 'Quiet/Low-Impact' tasks: taping the VCL, measuring, cutting insulation, or tool maintenance. No chop saws after 7 PM. 
 3.  **The "Stop-Loss" Rule:** If an evening task takes more than 90 minutes or you start making tired mistakes, put the tools down. Fatigue leads to injuries and ruined materials.
 4.  **The Sunday Lockdown:** At 4:00 PM every Sunday, tools go down. You execute a 'Weather-Tight & Secure' checklist to ensure the build stays dry and safe while you are at your desk from Monday to Friday. *With OSB SIPS, this means zero-delay on wrapping weather protection.*
-5.  **Statutory Checkpoints:** Do not cover up foundation, insulation, or structural work until Building Control has inspected it. Covering work without sign-off forces you to tear it back down.
+5.  **Statutory Position:** The building is **exempt from the Building Regulations** (Schedule 2, Class VI — confirmed in writing by Building Control) and has a **Lawful Development Certificate**. There are no Building Control inspections. Keep every wall face ≥1000mm from the boundaries when setting out, and build to the LDC drawings.
 
 ---
 
@@ -119,7 +119,7 @@ Listen up. You’re a weekend warrior with a 9-5 job, and you only have **45 to 
 *   **TT Island Earthing:** Drive a 1.2m copper earth rod into soil outside near the power entry. Route 16mm² earth cable to the Consumer Unit Earth Bar.
 *   **HVAC & Lighting:** Mount ceiling 1.2kW IR panel, surface track lighting, and DIY Quick-Connect ASHP / Mini-Split unit. Connect pre-charged AC lines to external compressor. Place 15mm SBR rubber isolation pads under cast-iron machine feet.
 *   **Sign-Off & Commissioning:** Hire a Part P registered electrician (NICEIC/NAPIT) to inspect, terminate main power, and issue Part P certification. Commission dMVHR with a BPEC engineer (respecting the 800mm clear zone in front of the dMVHR).
-*   **Statutory Completion:** Email Notice of Completion Declaration to Building Control and arrange final walk-through with Peter Millward for the Building Control Completion Certificate.
+*   **Statutory Completion:** No Building Control completion (exempt). Collect the electrician's Electrical Installation Certificate and Part P compliance certificate, and file them with the Building Control exemption letter, the Building Notice withdrawal confirmation and the LDC.
 
 ---
 

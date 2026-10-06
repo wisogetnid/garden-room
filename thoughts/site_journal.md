@@ -1463,3 +1463,10 @@
 - **Decision (user, final):** The project proceeds with the **225mm clear heave gap** and the **ground screws as provided** (14 No. 2050mm screws). The user has closed this topic: **no further changes or risk flags on the foundation.**
 - **Action Taken:** `MASTER_PLAN.md` §1.2: deleted the *Ground screw layout note — load case closed* and all three `[OPEN RISK FLAG]`s (setting-out drawing, mid row P05–P08 at 45kN, continuous-thread heave resistance). Trimmed the geology sidenote to the borehole record and its findings, removing the sulfate/galvanising and plasticity-index follow-ups. `WORKPLAN.md` Week 1: removed the Foreman setting-out note.
 - **Hand-off to all agents:** Do not reopen the heave gap, screw product or screw layout. The setting-out and mid-row questions in the 04 Oct ground screw entry above are no longer actions.
+
+## [ARCHITECT] Building Regulations Exemption & LDC Confirmed
+- **Date:** Mon 05 Oct 2026
+- **Trigger:** The user received (1) written confirmation from the Building Control inspector that the building is exempt from the Building Regulations, being ≥1m from the neighbouring boundaries, with the 1m **measured from the wall, not the roof overhang**; and (2) the Lawful Development Certificate.
+- **Action Taken:** `MASTER_PLAN.md` §1.0: the `[OPEN]` exemption note is closed; the boundary constraint now reads 1000mm from the external wall face, with the roof oversail (~40mm per end) recorded as spare margin, not to be used, because the LDC certifies the building as submitted. Phase 5 summary: Building Control Completion Certificate replaced by the Part P certificates.
+- **Hand-off to @foreman:** Done already in `WORKPLAN.md`: the statutory checkpoints rule now records the exemption (no BC inspections) and the 1000mm wall-face set-out check; the completion step now collects the Part P paperwork for the deeds file.
+- **User actions:** withdraw the Building Notice in writing (ask for a fee refund and written acknowledgement); file the exemption letter, withdrawal, LDC and Part P certificates with the deeds.
