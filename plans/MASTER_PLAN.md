@@ -92,14 +92,39 @@ layout: default
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Pit Soil Floor / Slabs** | **-300mm** | Excavated earth & existing slabs | Levelled & pinned with geotextile membrane | Hard base datum inside 300mm pit | N/A |
 | **Clear Heave Gap** | **-300mm to -75mm** | **225.0mm Air Gap** | Clear uninsulated air space beneath joists to top of membrane | **Oak Root & Clay Heave Protection:** Meets mandatory 225mm clear air space from grade to joist undersides | N/A |
-| **Ground Screws** | **-2125mm to -75mm** | **2050mm ground screws.** Base grid **3267mm E-W × 4783mm N-S**, setting-out diagonal **5792mm**. E-W: 3 screw lines (3 positions across, 2 bays @ 1633.5mm). N-S: 4 positions per line (3 bays @ 1594.3mm), **plus 1 additional screw on the mid-length centreline of each long perimeter line** — P13 between P02/P03, P14 between P10/P11 — splitting the centre bay into 2 x 797.15mm. Grid is **deliberately irregular**; the mid row (P05–P08) is unchanged at 4 positions. | Driven by a specialist contractor; capping plates/brackets engineered for specified loads. Loads on the schedule are **working (unfactored)**; FoS 2.00 applies. | Bypasses buried slabs & oak roots to hold U-brackets at -75mm. | **14 screws (fixed)** |
-| **Heavy Ring Beam** | **-75mm to +50mm** | 141x125mm Built-up Timber (3x 47x125mm C24) | Bolted to ground screw U-brackets. 3x C24 timbers bolted together using M10 bolts at max 400mm centres. | 141mm wide perimeter ledge carrying SIP walls. Top sits at +50mm. | **16.7 linear meters assembled = ~50 linear meters of 47x125mm C24** (3 laminations) |
+| **Ground Screws** | **-2125mm to -75mm** | **2050mm ground screws.** Final layout approved by the structural engineer (`comms/2026-10-06_ground-screws-layout_final.jpg`). Base grid **3268mm E-W × 4784mm N-S**, setting-out diagonal **~5793.5mm**. **10 perimeter screws** under the ring beam (4 corners, 1 mid-width on each of the South and North beams at 1634mm, 2 on each of the East and West beams at 1595mm / 3189mm) and **4 internal screws** under the two internal E-W beams (at 900mm in from each long side). See the setting-out schedule below. | Driven by a specialist contractor; capping plates/brackets engineered for specified loads. Max **29kN factored load** per screw against the 45kN product capacity — supports the 2.50 kN/m² garage imposed load. | Bypasses buried slabs & oak roots to hold U-brackets at -75mm. | **14 screws (final)** |
+| **Heavy Ring Beam** | **-75mm to +50mm** | 141x125mm Built-up Timber (3x 47x125mm C24) | Bolted to ground screw U-brackets. 3x C24 timbers laminated with **SPAX 8 × 140mm structural screws** (see Lamination Screws row; engineer-approved substitute for the drawn M10 bolts). | 141mm wide perimeter ledge carrying SIP walls. Top sits at +50mm. | **16.7 linear meters assembled = ~50 linear meters of 47x125mm C24** (3 laminations) |
+| **Lamination Screws** | **-75mm to +50mm** | **SPAX 8.0 × 140mm, partially threaded, countersunk, T40, stainless steel A2** (ETA-12/0114; e.g. SPAX 0257000801405) | Clamp the 3 plies, then drive from **alternating faces at 150mm centres** (300mm per face), countersunk 2–3mm. Outer-face row **45mm from the top**, inner-face row **45mm from the bottom**. ≥100mm from cut ends; 2 extra screws each side of every butt joint. No pre-drilling. Keep clear of the U-bracket zone (start ~50mm beyond each bracket plate). On the South/North ring beams, inner-face screws sit midway between joists; on the internal E-W beams (hangers both faces), all screws sit midway between joists. | Laminates the ring beam and the two internal E-W beams while keeping both faces **flush** for joist hangers, PIR and the starter track / rodent mesh. Engineer-approved (07 Oct 2026) substitute for M10 bolts at max 450mm (26C070/1). A2 stainless because the treated timber sits in a ventilated, coastal sub-floor void that is inaccessible once built. | **~180 screws** (~23m of beam at 150mm + butt-joint extras & spare; 4 boxes of 50) |
 | **Floor Joists** | **-75mm to +50mm** | 47x125mm C24 Treated Timber @ 400mm c/c | Hung via Face-Fix galvanised joist hangers flush with top of Ring Beam. Tied to ring beam with 30x5mm galv restraint straps at 600mm max centres. Double joists at intermediate screw locations and heavy equipment. Solid timber strutting between joists at supports and strap locations. | Carries internal floor independently. Top sits at +50mm. Designed to 2.50 kN/m² imposed (per 26C070/1). | ~44 linear meters (9 lines × 4924mm, spanning North-South between the internal E-W beams) |
 | **Primary Insulation** | **-75mm to +50mm** | 125mm PIR Board | Supported on insulation support clips / battens, perimeter-sealed with PU foam | **Bulk Thermal Layer:** Fills joist space, eliminates thermal bypassing | ~17m² |
 | **Sub-Deck** | **+50mm to +72mm** | 22mm Egger Protect P5 T&G Chipboard | Screwed directly to joists @ 300mm c/c | Rigid, peel-off weatherproof working platform, safe solo handling (~24kg/sheet) | ~17m² |
 | **Structural Secondary Deck** | **+72mm to +90mm** | 18mm OSB3 (Tongue & Groove) | Fully glued to Egger Protect with D4 structural adhesive, screwed through into joists | Combines with 22mm Egger to form rock-solid **40mm solid timber slab** for heavy machinery point loads | ~17m² |
 | **Aesthetic/Wear Deck (FFL)** | **+90mm to +92mm** | 2mm High-Build Industrial Polyurethane / Epoxy Floor Coating | Directly applied to 18mm OSB3 deck | **Finished Floor Level (FFL = +92mm):** Ultra-durable seamless workshop deck (~9.2cm step from lawn) | ~17m² |
 | **Machine Decoupling** | **+92mm to +107mm** | 15mm SBR Rubber Isolation Pads (100x100mm) | Placed under feet of cast-iron machinery | **Critical:** Protects floor from denting and stops motor drumming | As needed |
+
+#### 1.2.1 Ground Screw Setting-Out Schedule (Final, 06 Oct 2026)
+Screw centres, measured from **P01 at the South-East corner**. x runs **East → West** (3268mm), y runs **South → North** (4784mm). P-numbers are this document's labels; the engineer's sketch leaves the screws unnumbered.
+
+| Screw | Location | x (E→W) | y (S→N) |
+| :--- | :--- | ---: | ---: |
+| **P01** | South-East corner | 0 | 0 |
+| **P02** | South ring beam, mid-width | 1634 | 0 |
+| **P03** | South-West corner | 3268 | 0 |
+| **P04** | East ring beam | 0 | 1595 |
+| **P05** | South internal beam, East | 900 | 1595 |
+| **P06** | South internal beam, West | 2368 | 1595 |
+| **P07** | West ring beam | 3268 | 1595 |
+| **P08** | East ring beam | 0 | 3189 |
+| **P09** | North internal beam, East | 900 | 3189 |
+| **P10** | North internal beam, West | 2368 | 3189 |
+| **P11** | West ring beam | 3268 | 3189 |
+| **P12** | North-East corner | 0 | 4784 |
+| **P13** | North ring beam, mid-width | 1634 | 4784 |
+| **P14** | North-West corner | 3268 | 4784 |
+
+*   **Bays:** N-S **1595 / 1594 / 1595mm**; South and North beams **1634 / 1634mm**; internal beams **900 / 1468 / 900mm**.
+*   **Square check:** both corner diagonals (P01↔P14, P03↔P12) = **~5793.5mm**.
+*   **Ring beam lamination joints** may only fall over a screw position (per 26C070/1).
 
 > **Sidenote — Local geology (BGS borehole SZ49NE91, BGS ID 17761317; grid 449188, 95495).**
 > A Victorian 6-inch survey record (c.1890) covering two nearby boreholes. Descriptive geology only.

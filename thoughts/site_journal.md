@@ -1470,3 +1470,22 @@
 - **Action Taken:** `MASTER_PLAN.md` §1.0: the `[OPEN]` exemption note is closed; the boundary constraint now reads 1000mm from the external wall face, with the roof oversail (~40mm per end) recorded as spare margin, not to be used, because the LDC certifies the building as submitted. Phase 5 summary: Building Control Completion Certificate replaced by the Part P certificates.
 - **Hand-off to @foreman:** Done already in `WORKPLAN.md`: the statutory checkpoints rule now records the exemption (no BC inspections) and the 1000mm wall-face set-out check; the completion step now collects the Part P paperwork for the deeds file.
 - **User actions:** withdraw the Building Notice in writing (ask for a fee refund and written acknowledgement); file the exemption letter, withdrawal, LDC and Part P certificates with the deeds.
+
+## [ARCHITECT] Final Ground Screw Layout — 14 Screws, Engineer Approved
+- **Date:** Tue 06 Oct 2026
+- **Trigger:** The structural engineer approved the final layout after the loading results (`comms/2026-10-06_ground-screws-layout_final.jpg`): max **29kN factored** per screw, supporting the 2.50 kN/m² garage imposed load.
+- **Layout:** 3268 × 4784mm grid. **10 perimeter screws** (4 corners; mid-width on the South and North beams at 1634mm; East and West beams at 1595 / 3189mm) and **4 internal screws** under the two internal E-W beams at 900mm from each long side (900 / 1468 / 900mm). The previous P13/P14 mid-line screws (24 Sep markup) and the old mid row at 1634mm are **superseded**. Diagonal ~5793.5mm. North is at the bottom of the sketch, so the sketch's top-left screw is the South-East corner.
+- **Action Taken:** `MASTER_PLAN.md` §1.2 Ground Screws row rewritten; new §1.2.1 setting-out schedule with P01–P14 coordinates from the South-East corner (P-numbers are ours; the sketch is unnumbered). `WORKPLAN.md` Week 1 updated to set out from that schedule.
+- **Hand-off to @foreman:** Done already in `WORKPLAN.md`. Give the contractor the §1.2.1 coordinate table, not the 26C070/1 drawing or the 24 Sep markup.
+
+## [ARCHITECT] Beam Lamination — SPAX Screws Replace M10 Bolts (Engineer Confirmed)
+- **Date:** Wed 07 Oct 2026
+- **Trigger:** The structural engineer confirmed SPAX structural timber screws as a valid substitute for the M10 bolts at max 450mm centres on drawing 26C070/1.
+- **Action Taken:** `MASTER_PLAN.md` §1.2: Heavy Ring Beam row now references screws instead of M10 bolts; new **Lamination Screws** row — SPAX 8 × 140mm partially threaded, countersunk, A2 stainless, alternating faces at 200mm centres, rows 45mm from top/bottom, ≥100mm from ends, 2 extra each side of butt joints, ~140 screws. Applies to the ring beam and both internal E-W beams. The U-bracket fixings to the ground screws are unchanged.
+- **Procurement note:** Jewson's website only lists the 8 × 140 **washer-head WIROX** version. Order the A2 countersunk version through a Jewson branch (by SPAX code) or SPAX UK's contact route. If only the 8 × 120mm countersunk can be sourced, the spacing tightens to **150mm** alternating — confirm with the engineer which version their approval covers.
+- **Hand-off to @foreman:** Done already in `WORKPLAN.md` Weekend 2 (lamination method for the ring beam and internal beams).
+
+## [ARCHITECT] Lamination Screw Spacing — Engineer's Approved Spec
+- **Date:** Wed 07 Oct 2026
+- **Approved spec (engineer):** SPAX 8 × 140mm countersunk, partially threaded, A2 stainless, T40, driven from **alternating faces at 150mm centres (300mm on each face)**. This supersedes the 200mm spacing in the previous entry, and the 8 × 120mm fallback question is closed.
+- **Action Taken:** `MASTER_PLAN.md` §1.2 Lamination Screws row updated to 150mm; quantity raised to **~180 screws (4 boxes of 50)**. `WORKPLAN.md` Weekend 2 updated to 150mm.
