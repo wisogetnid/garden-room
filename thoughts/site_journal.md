@@ -1489,3 +1489,20 @@
 - **Date:** Wed 07 Oct 2026
 - **Approved spec (engineer):** SPAX 8 × 140mm countersunk, partially threaded, A2 stainless, T40, driven from **alternating faces at 150mm centres (300mm on each face)**. This supersedes the 200mm spacing in the previous entry, and the 8 × 120mm fallback question is closed.
 - **Action Taken:** `MASTER_PLAN.md` §1.2 Lamination Screws row updated to 150mm; quantity raised to **~180 screws (4 boxes of 50)**. `WORKPLAN.md` Weekend 2 updated to 150mm.
+
+## [ARCHITECT] dMVHR Reverted to Zehnder ComfoAir 70 — Internal Build-Out
+- **Date:** Wed 07 Oct 2026
+- **Trigger:** Zehnder support confirmed the 275mm minimum wall cannot be met by shortening the pipe (it houses the bypass flaps and motors) and that the wall should be built out locally; a follow-up confirmed an **internal** build-out is acceptable. A single Blauberg Vento Maxi-Air is an alternating (reversing) unit that Blauberg recommend installing in opposite-phase pairs — on its own in a Passivhaus-tight box it would push against the envelope and under-deliver its rated 54m³/h. The ComfoAir 70 is continuous balanced from one penetration.
+- **Action Taken:** `MASTER_PLAN.md` §4.2 / §4.2.1 rewritten for the ComfoAir 70: 270mm factory core (Ø250mm wall pipe, 1°–2° fall), new **60mm internal build-out** row (45mm insulated frame + 15mm Fermacell; wall at unit 296mm vs 275mm minimum), restored +1616.7mm / 1524.7mm FFL axis datum (585mm above axis vs 550mm required), 320/420/550/800mm clearances, flow table 15–70m³/h (2 ACH restored), G4/F7 filters, external cladding detail (square ~280mm cut-out behind the 380 × 376mm outside panel — no round cut in the Hardie planks). Phase 5 summary, §4.1a, operating modes and risk list updated. All Blauberg references removed.
+- **Risk Flags raised (`MASTER_PLAN.md` §4.2 / §4.2.1) — resolve before the SIP order:**
+  1. **[OPEN RISK FLAG] Horizontal fit:** the old "900mm solid gap" is not supported by the 4924mm East wall. Evenly spaced 1500mm clerestories leave ~641mm piers against Zehnder's 740mm side-clearance envelope. Either set out a ≥780mm central pier (corner piers ~572mm) or get Zehnder's written OK for an open reveal within the side clearance.
+  2. **[OPEN RISK FLAG] Spline joint:** the wall centre (~2462mm) is ~62mm from the 2400mm spline line. SIP manufacturer must keep joints ≥185mm from the core centreline on the shop drawings.
+  3. **[OPEN RISK FLAG] Extract-side F7:** confirm with Zehnder that the F7 option fits on the extract side (the side that protects the core from workshop dust).
+  4. **[OPEN] Dn,e,w:** request from Zehnder for the §2.7 East-elevation acoustic check.
+- **Self-verification (AGENTS.md §4 — `/tests` was retired in `cd3bc14`, so run by hand):**
+  - *Red Line:* build-out sits on the warm side of the VCL; the airtight line stays at the SIP OSB (Tescon Vana petals to the pipe, Week 10). External insulation and rainscreen unchanged. **Pass.**
+  - *Weather-Tight:* pipe installed and collared to the Tyvek in Week 7, before cladding in Week 8; pipe ends capped. **Pass.**
+  - *Sequence:* SIP core factory-cut → wood fibre cut-out (Week 6, before Tyvek) → pipe + Tyvek collar (Week 7) → batten frame + square plank notch (Week 8) → VCL tape (Week 10) → Fermacell + build-out (Week 11) → unit hang + outside panel (Week 12+). **Pass.**
+  - *Lint:* new material row uses the 5-column table with a populated quantity. **Pass.**
+- **Hand-off to @foreman:** Done already in `WORKPLAN.md` (Weeks 6, 7, 8, 10, 11, 12+ and the Phase 5 summary). No further action unless Risk Flag 1 changes the clerestory set-out — then update the Week 7 glazing datums note.
+- **User actions:** ask Zehnder about extract-side F7, Dn,e,w and the open-reveal question; give the SIP manufacturer the core position and the spline clearance requirement.

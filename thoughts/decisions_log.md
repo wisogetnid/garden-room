@@ -36,3 +36,8 @@
 2. `Test 02 (Weather-Tight Timeline)` was resolved by substituting the Weekend 9 Sunday Lockdown Tyvek wrap with heavy-duty tarpaulins. The Tyvek is now accurately scheduled for Week 11 over the external Wood Fibre insulation, preventing a dual-membrane trap.
 3. `Test 06 (SOP Fidelity Linter)` was resolved by inserting the "Step-by-Step Construction Phases" summary at the top of the `MASTER_PLAN.md`.
 **Result:** All validation tests pass successfully. The High-Fidelity SOP accurately reflects Passivhaus physics, logistical viability for the weekend-warrior, and strict adherence to Part B and Part L building regulations.
+
+## [Date: 2026-10-07] - dMVHR: Back to Zehnder ComfoAir 70 with Internal Build-Out
+**Context:** The 27 Sep switch to the Blauberg Vento Maxi-Air was driven by the ComfoAir 70's 275mm minimum wall (ours is 236mm). A single reversing Blauberg unit is a poor fit for an airtight envelope (Blauberg recommend paired, opposite-phase installation).
+**Decision:** Revert to the Zehnder ComfoAir 70. Zehnder support confirmed a local wall build-out is the correct fix and that an internal build-out is acceptable. Spec: 60mm internal build-out (wall 296mm at the unit), 270mm factory core, +1616.7mm axis datum, square cladding cut-out behind the 380 × 376mm outside panel.
+**Result:** Continuous balanced ventilation from one penetration, 70m³/h ceiling (2 ACH restored), no change to footprint or rainscreen. Open before SIP order: East-wall pier width vs 740mm side clearance, spline clearance at the core, extract-side F7, Dn,e,w.
