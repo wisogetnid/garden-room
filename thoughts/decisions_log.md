@@ -41,3 +41,29 @@
 **Context:** The 27 Sep switch to the Blauberg Vento Maxi-Air was driven by the ComfoAir 70's 275mm minimum wall (ours is 236mm). A single reversing Blauberg unit is a poor fit for an airtight envelope (Blauberg recommend paired, opposite-phase installation).
 **Decision:** Revert to the Zehnder ComfoAir 70. Zehnder support confirmed a local wall build-out is the correct fix and that an internal build-out is acceptable. Spec: 60mm internal build-out (wall 296mm at the unit), 270mm factory core, +1616.7mm axis datum, square cladding cut-out behind the 380 × 376mm outside panel.
 **Result:** Continuous balanced ventilation from one penetration, 70m³/h ceiling (2 ACH restored), no change to footprint or rainscreen. Open before SIP order: East-wall pier width vs 740mm side clearance, spline clearance at the core, extract-side F7, Dn,e,w.
+
+## [Date: 2026-10-07] - Swiftfix Lamination Screws; NFS Erects and Wraps the Shell
+**Decision:** (1) Swiftfix 8 × 140mm A4 countersunk TX40 (ETA-11/0283) replaces the SPAX A2 for the beam lamination — engineer-approved, UK-stocked. (2) New Forest SIPs supply and erect the shell including all structural connections, and wrap it in a temporary breather membrane to cover a weather hold while the user is away on work commitments.
+**Result:** DIY sole plate, wall erection and roof lift are removed from the Workplan. New risk: the temporary membrane's UV limit and its poor performance on a 1:60 roof — the roof is done first after the hold.
+
+## [Date: 2026-10-10] - Glazing: Triple → Asymmetric Acoustic Double
+**Context:** Triple-glazed window quotes came to ~£10k (windows only). The building is Building Regs exempt, so there is no Part L glazing limit.
+**Decision:** All six fixed lights use asymmetric acoustic double glazing (6T/16Ar/8.8 acoustic lam, glass Rw ≥ 39 dB). The door uses safety double glazing (6T/16Ar/6.4 lam) plus a mandatory seal package (compression gaskets, meeting-stile seal, threshold/drop seal). Frames stay thermally broken marine alu for now, with uPVC fixed lights left open as a cost lever.
+**Result:** Heating +~£8–13/yr (HTC 27.02 W/K, £68/yr). The neighbour-façade acoustic loss is ≤0.6 dB. Assumed saving ~£1.0–2.0k on the windows plus ~£200–400 on the door. Full breakdown: `thoughts/glazing_impact_breakdown.md`.
+
+## [Date: 2026-10-10] - Door: Single Leaf, No Acoustic Glass
+**Context:** The door's acoustic performance is limited by its seals, and the door faces the user's own house. The 1.5 door's meeting stile was the worst air and sound path.
+**Decision:** Single-leaf thermally broken alu door, ~1000mm leaf / ~1100mm frame, standard 4T/16Ar/4T double glazing. SIP opening reduced 1400 → ~1100mm; the right corner pillar is now 739mm.
+**Result:** HTC 25.84 W/K, £65.11/yr (−£3/yr vs the 1.5 door). Better airtightness. Clear access drops to ~900mm (open flag: check machinery fits).
+
+## [Date: 2026-10-10] - Door: Half-Glazed Leaf
+**Decision:** The single-leaf door becomes half-glazed (upper vision panel, insulated lower panel) to limit West summer solar gain.
+**Result:** Peak door solar gain ~510W → ~250W; Ud ~1.3; HTC 25.16 W/K; £63.40/yr.
+
+## [Date: 2026-10-10] - Door: 900mm Leaf
+**Decision:** 900mm single leaf (~1000mm frame, ~800mm clear), chosen for tolerance to small frame movement. Machinery access confirmed by the user. The right West corner pillar becomes 839mm.
+**Result:** HTC 24.92 W/K, £62.79/yr; peak door solar gain ~215W.
+
+## [Date: 2026-10-10] - uPVC Fixed Lights; Aluminium Door Movement Detail
+**Decision:** Fixed lights in uPVC (white or heat-reflective on the West); door in marine aluminium. The door frame is installed with movement gaps, jamb-only fixings and adjustable hardware so small foundation movement is taken up by adjustment, not by the frame.
+**Result:** HTC 24.18 W/K, £60.93/yr. The triple → double penalty is effectively recovered.

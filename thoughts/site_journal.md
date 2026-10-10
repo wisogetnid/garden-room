@@ -1506,3 +1506,72 @@
   - *Lint:* new material row uses the 5-column table with a populated quantity. **Pass.**
 - **Hand-off to @foreman:** Done already in `WORKPLAN.md` (Weeks 6, 7, 8, 10, 11, 12+ and the Phase 5 summary). No further action unless Risk Flag 1 changes the clerestory set-out — then update the Week 7 glazing datums note.
 - **User actions:** ask Zehnder about extract-side F7, Dn,e,w and the open-reveal question; give the SIP manufacturer the core position and the spline clearance requirement.
+
+## [ARCHITECT] Lamination Screws → Swiftfix A4; NFS Erects the Shell
+- **Date:** Wed 07 Oct 2026
+- **Lamination screws:** The engineer approved the **Swiftfix 8.0 × 140mm countersunk, partially threaded (80mm), TX40, A4 (316)** screw (ETA-11/0283, Timber Fixings, box of 100) in place of the SPAX A2, at the same 150mm alternating spacing. SPAX countersunk A2 has no UK retail stock. Order **2 boxes of 100 (~£178)**. The Swiftfix has a standard tip, so trial on an offcut and pre-drill if the outer ply splits.
+- **Shell scope:** **New Forest SIPs supply and erect the shell** — DPC, sole plates, anchoring, wall and roof SIPs, and all wall-to-ring-beam and roof-to-wall connections — then wrap it in a **temporary breather membrane** to cover a weather hold while the user is away on work commitments. The wrap is stripped face by face for the roof PIR/EPDM and the wall wood fibre/Tyvek.
+- **Action Taken:**
+  - `MASTER_PLAN.md`: Lamination Screws and Heavy Ring Beam rows → Swiftfix; Phase 2 summary; §2.3A scope note (NFS supplies and installs everything in that table); Critical Vapour Instruction reworded (temporary wrap allowed if fully stripped); temporary wood-fibre fixings added to the Wood Fibre row; Moisture Management risk note (tarps → NFS wrap).
+  - `WORKPLAN.md`: Weekend 2 → Swiftfix; Week 4 Prep is now the platform handover to NFS; Week 4 is NFS erection plus the user's handover checklist; new **Weather Hold** section (weekly walk-round, UV deadline); Week 5 is now the roof strip, PIR and EPDM on one dry weekend; Week 6 adds the one-face-at-a-time stripping rule and temporary wood-fibre fixings.
+- **[OPEN RISK FLAG] (`MASTER_PLAN.md` §2.3):** a breather membrane is not a roof covering at a 1:60 fall, and it has a limited UV exposure rating. Get the product and its UV period from NFS, ask about a waterproof temporary roof covering, make the roof the first job after the hold, and over-sheet with tarps if the hold overruns.
+- **Self-verification:** *Weather-Tight:* the shell is never left as bare OSB — NFS wrap → roof EPDM in one weekend → walls one face per session. **Pass.** *Sequence:* platform → NFS erection → hold → roof → walls → glazing/cladding. **Pass.** *Red Line:* no membrane left between OSB and wood fibre, or OSB and PIR. **Pass.**
+- **Hand-off to @foreman:** Done already in `WORKPLAN.md`. The week numbers from Week 5 on now float with the length of the weather hold.
+
+## [ARCHITECT] Lamination Screw Choice Reopened — SPAX Preferred
+- **Date:** Wed 07 Oct 2026
+- **Trigger:** The user prefers SPAX for its self-drilling 4CUT tip and has emailed SPAX UK about UK supply, price, Isle of Wight delivery and an A4 option.
+- **Action Taken:** `MASTER_PLAN.md` Lamination Screws and Heavy Ring Beam rows: **SPAX 0257000801405 (A2) preferred**, **Swiftfix A4 kept as the approved fallback**, with an `[OPEN]` supplier-choice note. Both are engineer-approved at 150mm alternating, so either can be used without another sign-off. Also removed a contradictory "No pre-drilling" left in the row. `WORKPLAN.md` Weekend 2 updated to match.
+- **To close:** when SPAX replies, pick one and remove the other from both files. Deadline: order in time for Weekend 2.
+
+## [ARCHITECT / STRATEGIST] Glazing Re-Spec — Triple → Asymmetric Acoustic Double
+- **Date:** Sat 10 Oct 2026
+- **Trigger:** The triple-glazed window quotes alone came to ~£10k. The user decided to switch to double glazing and asked for a per-opening impact breakdown (thermal, acoustic, price).
+- **Analysis:** `thoughts/glazing_impact_breakdown.md`. Key results:
+  - Building Regs exempt (Class VI), so there is no Part L glazing limit. Double costs **~£8/yr** against a realistic triple (+£13/yr against the plan's optimistic Uw 0.85).
+  - **Asymmetric acoustic double (6T/16/8.8 acoustic lam) is within 0.2–0.6 dB of the old triple** on the neighbour façades. The acoustic benefit comes from the laminated pane, not the third pane.
+  - The clerestories sit **above the 1.8m fences**, in line of sight to the N/S/E neighbours. With standard 4/16/4 they would pass 40–75 % of each neighbour façade's sound energy, so they keep the acoustic laminate.
+  - On the West façade, the **door seals** dominate. The door gets standard safety double glazing plus a seal package; acoustic glass in the door is not worth the money.
+- **Action Taken:** `MASTER_PLAN.md` Phase 3 summary, §2.7 (new spec, 5-column schedule table, upgrade path), §4.2.1 Dn,e,w note, §7.1 glazing row (Uw ~1.64 area-weighted), §7.2 recalculated (glazing 10.99 W/K, HTC 27.02 W/K, 972.6 kWh, **£68.08/yr**).
+- **Risk Flags:**
+  1. **[OPEN RISK FLAG] Price expectation:** the IGU is only ~20–30 % of a small bespoke alu unit's price. Triple → double saves an assumed **~£1.0–2.0k** of the £10k, not half. Bigger levers: line-item re-quote, uPVC fixed lights (−40–60 % on those units), a trade alu fabricator, single leaf + fixed sidelight.
+  2. **[OPEN] uPVC fixed lights:** the user decides once line-item quotes are in.
+- **Self-verification:** Red Line, Weather-Tight, Sequence **Pass**. Condensation **Pass** with frame fRsi ≥ 0.70 and RH ≤ 60 % (dehumidifier humidistat). Lint: new table uses the 5 columns with populated quantities.
+- **Hand-off to @foreman:** Done already in `WORKPLAN.md` (Phase 3 summary; Week 7 glazing step now includes the door-seal check and handling weight ~37 kg/m²). If the user later picks uPVC fixed lights, recheck the clerestory sightlines and fixing method in Week 7.
+- **User actions:** request re-quotes for D-AC fixed lights and a D-SAFE door with seal package, **itemised per unit** (glass build-up, coating class, delivery), and get a uPVC alternative for the six fixed lights.
+
+## [ARCHITECT] Door: Single Leaf, Standard Double Glazing
+- **Date:** Sat 10 Oct 2026
+- **Trigger:** The user dropped acoustic glazing on the door and approved replacing the asymmetric 1.5 door with a single leaf. They also asked about door thermal impact, standard leaf widths and uPVC durability (answers in `thoughts/glazing_impact_breakdown.md` §9).
+- **Action Taken:** `MASTER_PLAN.md` §2.7: single-leaf thermally broken alu door, ~1000mm leaf, **~1100 × 2078mm** frame, 4T/16Ar/4T Low-E (Ud ~1.6). Seal package reduced to factory gaskets plus threshold seal (Q50); drop seal optional. West layout: door opening 1400 → ~1100mm, **right corner pillar 439 → 739mm** (check 739+1100+319+1000+326+1000+440 = 4924). Threshold riser ~1100mm. §7.1/§7.2: openings 6.09m², glazing 9.70 W/K, HTC **25.84 W/K**, 930 kWh, **£65.11/yr**.
+- **Risk Flags:**
+  1. **[OPEN RISK FLAG] Machinery access:** clear opening drops from 1400mm to ~900mm. Measure the largest machine before the SIP order.
+  2. **[OPEN] Exact door width:** set the SIP opening from the chosen supplier's doorset size and adjust the right pillar.
+  3. **CAD drawings** (`plans/drawings/garden-room-v2.FCStd`, `plans/cad-drawing/*`) still show the 1400mm door. Update them before sending the SIP order to NFS.
+- **Self-verification:** Red Line: unchanged install detail, extra SIP wall replaces glazing. **Pass.** Weather-Tight: single leaf, four-sided gaskets. **Pass.** Sequence: unchanged. **Pass.** Lint: table rows have 5 columns and populated quantities. **Pass.**
+- **Hand-off to @foreman:** Done already in `WORKPLAN.md` (Phase 3 summary, Week 7 door install/seal check, ~1100mm threshold riser).
+
+## [ARCHITECT] Door: Half-Glazed Leaf
+- **Date:** Sat 10 Oct 2026
+- **Trigger:** The user asked for a half-glazed door to limit summer solar gain on the West façade.
+- **Action Taken:** `MASTER_PLAN.md` §2.7 door bullet, schedule table row and West elevation line → upper vision panel (~0.75m², 4T/16Ar/4T Low-E) + lower insulated alu infill panel, Ud ~1.3. §7.1 area-weighted Uw ~1.48. §7.2: glazing 9.02 W/K, HTC **25.16 W/K**, 905.7 kWh, **£63.40/yr**. `WORKPLAN.md` Week 7 door wording updated. Analysis in `thoughts/glazing_impact_breakdown.md` §9.5 (peak door solar gain ~510W → ~250W).
+- **Self-verification:** Red Line, Weather-Tight and Sequence are unchanged. **Pass.**
+- **Hand-off to @foreman:** Done already in `WORKPLAN.md`. No sequence change.
+
+## [ARCHITECT] Door: 900mm Leaf
+- **Date:** Sat 10 Oct 2026
+- **Trigger:** The user chose a 900mm leaf: less sensitivity to frame movement, and machinery access confirmed adequate.
+- **Action Taken:** `MASTER_PLAN.md` §2.7: 900mm leaf, ~1000 × 2078mm frame, ~800mm clear, glass ~0.65m². Machinery-access flag closed. West layout: door opening ~1000mm, **right corner pillar 839mm** (check 839+1000+319+1000+326+1000+440 = 4924). Threshold riser ~1000mm. §7.1 Uw ~1.49. §7.2: openings 5.88m², glazing 8.74 W/K, HTC **24.92 W/K**, 897 kWh, **£62.79/yr**. `WORKPLAN.md` Phase 3 summary and Week 7 updated.
+- **Still open:** exact door width from the supplier's doorset size; CAD drawings still show the 1400mm door and must be updated before the SIP order.
+- **Self-verification:** Red Line, Weather-Tight and Sequence are unchanged. **Pass.** Lint: table quantities updated. **Pass.**
+
+## [ARCHITECT] uPVC Fixed Lights Confirmed; Movement-Tolerant Door Detail
+- **Date:** Sat 10 Oct 2026
+- **Decisions confirmed by the user:** six fixed lights are **D-AC acoustic double glazing in uPVC**. The door is **half-glazed standard double glazing, 900mm leaf, aluminium**.
+- **Action Taken:** `MASTER_PLAN.md` Phase 3 summary, §2.7 frames (uPVC BS EN 12608 Class A, galvanised reinforcement, replaceable gaskets, white or heat-reflective foil on the West, direct-glazed fixed frames; door in marine alu with 316 hardware), window schedule and table rows → uPVC. New **Movement-Tolerant Door Installation** bullet: ~10mm jamb / ~15mm head gaps, jamb-only fixings, no rigid head fixing, expanding tape plus Contega with a head movement fold, 3D-adjustable hinges and keeps, diagonal monitoring after the first winter and summer. §7.1 Uw ~1.36. §7.2: glazing 8.00 W/K, HTC **24.18 W/K**, 870.5 kWh, **£60.93/yr**. `WORKPLAN.md` Phase 3 summary, Week 7 install and expansion-gap notes updated (uPVC expansion ~4mm on a 1500mm clerestory).
+- **Self-verification:** Red Line: the install plane and airtight tapes are unchanged, with a movement fold added. **Pass.** Weather-Tight: expanding tape stays the primary weather seal. **Pass.** Sequence: unchanged. **Pass.**
+- **Hand-off to @foreman:** Done already in `WORKPLAN.md` Week 7. Record the door diagonals and sill level in this journal at install.
+
+## [LIBRARIAN] Glazing Cost Ballpark
+- **Date:** Sat 10 Oct 2026
+- **Result:** Adopted uPVC D-AC fixed lights plus a half-glazed aluminium 900mm door, supply only: **≈ £2.8–5.5k** (central ~£3.8k); +£0.7–1.3k if fitted. Breakdown and sources in `thoughts/glazing_impact_breakdown.md` §10. Confidence 2/5. Validate with itemised quotes.
