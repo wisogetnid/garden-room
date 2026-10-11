@@ -80,3 +80,18 @@ The engineer approved 8 × 140mm stainless lamination screws at 150mm alternatin
 ## [Date: 2026-10-11] - Lamination Screws: SPAX Preferred, Choice Open
 **Decision:** SPAX 8 × 140mm A2 T40 is the preferred lamination screw again; Swiftfix 8 × 140mm A4 stays as the engineer-approved fallback. Supersedes the 2026-10-07 "Swiftfix replaces SPAX" wording.
 **Result:** Supplier choice stays open pending SPAX UK (supply, price, Isle of Wight delivery, A4 option). Order Swiftfix if SPAX cannot deliver in time for Weekend 2. Matches MASTER_PLAN §1.2.
+
+## [Date: 2026-10-11] - Ring Beam: Full-Length Plies, Halved Corners
+**Context:** 26C070/1 leaves the beam corner fixing to the builder and allows joints only at pile locations. A butted corner relies on screws in end grain.
+**Decision:** Every ring beam ply runs full length (5.4m stock for the 4924mm sides, 3.6m for the 3408mm and 3126mm beams). Corners are halved (141 × 62.5mm), East/West beams on the bottom, fixed with 4 × 8 × 100mm stainless screws per corner. Internal beams hang on heavy-duty face-fix hangers. Cut faces get end-grain preservative.
+**Result:** No butt joints in the beams; interlocking corners over P01/P03/P12/P14. Open: corner cap plates from the ground-screw contractor; UC2 vs UC3 treatment (Jewson PAJT4712 is UC2) to confirm with the engineer.
+
+## [Date: 2026-10-11] - Platform Materials Sourced from Jewson
+**Context:** User's Jewson list (`comms/Jewson_Materials_List.csv`) checked against the Jewson site and the plan geometry.
+**Decision:** Caberdek P5 22mm replaces Egger Protect (Jewson does not list Egger Protect; 42-day exposure rating). 120mm PIR replaces 125mm (not stocked), held on stainless screw pegs instead of timber battens. Joist hangers are Simpson SAE250/47/2 (101.5mm) from Screwfix/MKM; the listed 167mm SAE380 is taller than the 125mm header and would stand proud of the deck. Flat 1200 × 30 × 5mm straps (Jewson's 1200mm 5mm strap is twisted). The M10 × 160 zinc carriage bolts are dropped (lamination is by screws; too short and not coastal-grade for the brackets). The sub-deck stops 135mm in from the ring beam outer face for the NFS sole plate. Tarps and stack bearers added (MASTER_PLAN §1.2.3).
+**Result:** Floor U-value effectively unchanged (~0.23 W/m²K). Open: internal beam hangers (141mm) and double-joist hangers (engineer/Simpson), UC2 vs UC3, bracket bolts with the ground-screw contractor.
+
+## [Date: 2026-10-11] - Internal Beams T-Halved; Twin Joists; Deck-Edge Brackets
+**Context:** Simpson's 140–142mm hangers are 179–180mm tall and no 94mm SAE hanger is ≤125mm, so neither fits the 125mm beams. Timber noggins at the South/North bay ends would displace the PIR.
+**Decision:** Internal E-W beams T-halved onto the East/West ring beams over P04/P07/P08/P11 (like the corners). Doubled joists become twin joists in two SAE250/47 hangers, bolted through 83mm packers. South/North deck edge carried on galvanised angle brackets flush at -25mm. The 4 × 10m tarp moves from the timber stack to the platform; the two 5 × 4m tarps are dropped. PIR stays flush with the top of the joists.
+**Result:** Open: engineer to confirm the T-halving and twin joists (26C070/1 shows hangers and doubled joists); contractor brackets at P04/P07/P08/P11.

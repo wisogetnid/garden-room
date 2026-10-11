@@ -1601,3 +1601,27 @@
 - **Status:** Engineer review of the 150mm void completed by the user. The user is updating New Forest SIPs (panel heights 2241.7 / 2298.5mm) and the CAD drawings.
 - **Self-verification:** Red Line: floor PIR still meets the SIP base at the sole plate; XPS skirt continuous over the junction. **Pass.** Weather-Tight: base below lawn datum relies on the gravel margin and XPS; flagged in the Ground Clearance Rule. **Pass with conditions.** Sequence: unchanged. **Pass.**
 - **Hand-off to @foreman:** done in `WORKPLAN.md`. Set the screw heads and ring beam level at -150 / -25mm (±3mm).
+
+## [ARCHITECT] Ring Beam Halved Corners & Cut List
+- **Date:** Sun 11 Oct 2026
+- **Trigger:** The user chose 5.4m lengths (joint-free long sides) and halved corners over butted, screwed corners.
+- **Action Taken:** `MASTER_PLAN.md` new §1.2.2 (cut list, halving geometry, corner screws, end-grain preservative, lamination screw rule at the halving); ring beam row in §1.2 references it and carries an open flag on UC2 vs UC3 treatment. `WORKPLAN.md` Week 1 (corner cap plates) and Weekend 2 (cut list, halving, assembly) synced.
+- **Still open:** corner cap plates from the ground-screw contractor; treatment use class (engineer); SPAX vs Swiftfix.
+- **Self-verification:** Red Line unchanged (ring beam is below the insulated floor; SIP base and XPS unchanged). Weather-Tight unchanged. Sequence: halvings cut and treated before assembly; cap plates agreed before screws are driven. **Pass.**
+- **Hand-off to @foreman:** done in `WORKPLAN.md`.
+
+## [ARCHITECT] Platform Materials Check (Jewson List)
+- **Date:** Sun 11 Oct 2026
+- **Trigger:** User added `comms/Jewson_Materials_List.csv` and asked for everything needed to finish the ring beam, floor insulation and sub-deck before SIP erection, including weather protection.
+- **Action Taken:** CSV rewritten with quantities, verified links and a link-check column. `MASTER_PLAN.md` §1.2 (joists, PIR, sub-deck rows), §1.2.2 (hangers, screws, preservative), new §1.2.3 (site protection), §3.1 (straps, sub-deck), §7.1 floor row. `WORKPLAN.md` Weeks 1–3 synced (storage set-up, hangers, straps underside, noggins, screw pegs, 135mm deck setback, Sunday tarp lockdown). Egger Protect → Caberdek throughout.
+- **Still open:** 141mm internal beam hangers and 94mm double-joist hangers (engineer/Simpson); UC2 vs UC3; bracket bolt spec from the ground-screw contractor; SPAX vs Swiftfix.
+- **Self-verification:** Red Line: 120mm PIR tight under the deck, edges foamed; meets the SIP base at the sole plate. **Pass.** Weather-Tight: platform and ring beam top tarped every Sunday; Caberdek film rated 42 days. **Pass.** Sequence: deck setback leaves the sole plate zone clear for NFS; nothing (hangers, battens, straps) projects below -150mm. **Pass.**
+- **Hand-off to @foreman:** done in `WORKPLAN.md`.
+
+## [ARCHITECT] Internal Beam T-Halvings, Twin Joists, Deck-Edge Brackets
+- **Date:** Sun 11 Oct 2026
+- **Trigger:** User questions on hangers for the internal beams, noggins vs PIR, PIR alignment, tarp reuse and foam sourcing.
+- **Correction:** the earlier note that the 167mm SAE380 hanger "would hang into the heave void" was wrong: the joist sits on the hanger seat at -150mm, so a taller hanger stands proud of the deck. Plans and log corrected.
+- **Action Taken:** `MASTER_PLAN.md` §1.2 (hanger rule, PIR foam, deck-edge brackets), §1.2.2 (internal beams T-halved, 3408mm), §1.2.3 (4 × 10m tarp reused on the platform), §3.1 (twin joists, strutting). `WORKPLAN.md` Weekend 2 and Sunday Lockdown synced. CSV updated.
+- **Still open:** engineer to confirm T-halvings and twin joists vs 26C070/1 hangers/doubled joists; contractor brackets at P04/P07/P08/P11.
+- **Self-verification:** Red Line: PIR flush with the joist tops, no noggins at bay ends. **Pass.** Weather-Tight: platform tarped every Sunday. **Pass.** Sequence: notches cut and treated before assembly. **Pass.**
