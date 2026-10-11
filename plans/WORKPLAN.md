@@ -36,7 +36,7 @@ You're a weekend warrior with a 9-5 job and **45 to 90 minutes of daylight/energ
 *No heavy digging. Let the pros drive the screws.*
 
 ### Week 1: Site Prep & Ground Screws
-*   **Ground Screws:** Three concrete slabs lie buried 300mm down — leave them. A specialist contractor drives **14 No. 2050mm ground screws** on a **3268mm E-W × 4784mm N-S** grid (diagonal **~5793.5mm**), breaking out slab locally where a screw lands on one and working around the oak roots. ✅ **Engineer-approved layout (06 Oct 2026, max 29kN factored per screw):** 10 under the ring beam, 4 under the internal E-W beams. Set out every screw from the MASTER_PLAN §1.2.1 coordinate table, measured from P01 (South-East corner), and check both diagonals before the rig starts.
+*   **Ground Screws:** Three concrete slabs lie buried 300mm down — leave them. A specialist contractor drives **14 No. 2050mm ground screws** on a **3268mm E-W × 4784mm N-S** grid (diagonal **~5793.5mm**), breaking out slab locally where a screw lands on one and working around the oak roots. ✅ **Engineer-approved layout (max 29kN factored per screw):** 10 under the ring beam, 4 under the internal E-W beams. Set out every screw from the MASTER_PLAN §1.2.1 coordinate table, measured from P01 (South-East corner), and check both diagonals before the rig starts.
 *   **Weekend 1:** Clear surface vegetation and loose debris.
 
 ### Week 2: Retaining, Weed Control & Timber Joists

@@ -44,6 +44,7 @@
 
 ## [Date: 2026-10-07] - Swiftfix Lamination Screws; NFS Erects and Wraps the Shell
 **Decision:** (1) Swiftfix 8 × 140mm A4 countersunk TX40 (ETA-11/0283) replaces the SPAX A2 for the beam lamination — engineer-approved, UK-stocked. (2) New Forest SIPs supply and erect the shell including all structural connections, and wrap it in a temporary breather membrane to cover a weather hold while the user is away on work commitments.
+The engineer approved 8 × 140mm stainless lamination screws at 150mm alternating centres in place of M10 bolts at max 450mm (26C070/1).
 **Result:** DIY sole plate, wall erection and roof lift are removed from the Workplan. New risk: the temporary membrane's UV limit and its poor performance on a 1:60 roof — the roof is done first after the hold.
 
 ## [Date: 2026-10-10] - Glazing: Triple → Asymmetric Acoustic Double
@@ -75,3 +76,7 @@
 ## [Date: 2026-10-11] - Base Lowered 75mm; Taller Wall SIPs
 **Decision:** Ground screw heads at -150mm (150mm heave gap over the -300mm pit), sole plate at -25mm, FFL +17mm (~level with the lawn). External height stays at 2480mm; wall SIPs grow by 75mm (West 2298.5mm, East 2241.7mm) for +75mm headroom.
 **Result:** Headroom 2.24m West / 2.18m East. HTC 24.54 W/K, £61.84/yr. Engineer review completed by the user. Conditions: oak stays, gravel margin kept below the starter track.
+
+## [Date: 2026-10-11] - Lamination Screws: SPAX Preferred, Choice Open
+**Decision:** SPAX 8 × 140mm A2 T40 is the preferred lamination screw again; Swiftfix 8 × 140mm A4 stays as the engineer-approved fallback. Supersedes the 2026-10-07 "Swiftfix replaces SPAX" wording.
+**Result:** Supplier choice stays open pending SPAX UK (supply, price, Isle of Wight delivery, A4 option). Order Swiftfix if SPAX cannot deliver in time for Weekend 2. Matches MASTER_PLAN §1.2.
