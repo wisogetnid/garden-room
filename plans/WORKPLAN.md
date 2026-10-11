@@ -28,7 +28,7 @@ You're a weekend warrior with a 9-5 job and **45 to 90 minutes of daylight/energ
 2. **Phase 2: Superstructure & Thermal Jacket** (Weeks 4-6 + weather hold): **New Forest SIPs supply and erect the shell** (DPC, sole plate, anchoring, 125mm SIP walls/roof) and wrap it in a temporary breather membrane. Weather hold of variable length. Then strip in stages: 80mm flat over-roof PIR + EPDM, -25mm aluminium starter track, 180mm XPS skirt (-25mm to +155mm), 60mm Wood Fibre (+155mm upwards), Tyvek wrap.
 3. **Phase 3: Glazing & Cladding** (Weeks 7-8): Quick-Connect AC wall penetration, D-AC acoustic double-glazed uPVC windows (West @ 2078mm FFL, clerestories @ 1995mm FFL), ~1000x2078mm single-leaf (900mm leaf) door on a 42mm timber riser block (+17mm FFL), 25mm rainscreen battens, Hardie VL cladding, rainwater system.
 4. **Phase 4: Internal Thermal Floor & Passivhaus Detailing** (Weeks 9-11): Peel the Caberdek film, glue 18mm OSB3 T&G to the 22mm Caberdek with D4 adhesive (40mm laminated slab), utility cable pull & airtight sealing, Tescon Vana VCL taping, 15mm direct-mount Fermacell, 2mm polyurethane/epoxy floor paint (FFL = +17mm).
-5. **Phase 5: MEP, Climate & Final Commissioning** (Week 12+): Electrics, dMVHR (Zehnder ComfoAir 70 on a 60mm internal build-out, 270mm core, centre at +1616.7mm Datum Zero / 1599.7mm FFL), ASHP, TT Island, machine pads, commissioning.
+5. **Phase 5: MEP, Climate & Final Commissioning** (Week 12+): Electrics, dMVHR (Zehnder ComfoAir 70 on a 60mm internal build-out, 270mm core, centre at +1617mm Datum Zero / 1600mm FFL), ASHP, TT Island, machine pads, commissioning.
 
 ---
 
@@ -140,7 +140,7 @@ You're a weekend warrior with a 9-5 job and **45 to 90 minutes of daylight/energ
 
 ### Week 12+: Surface Electrics, ASHP, dMVHR & Commissioning
 *   **Surface Conduit Electrics:** 20mm galvanised steel or PVC conduit and surface-mounted metal-clad sockets on the Fermacell. Separate labelled RCBOs (20A Type C machines, 16A Type B ASHP, 10A Type B IR/controls, 6A Type B dMVHR).
-*   **dMVHR Installation:** Hang the **Zehnder ComfoAir 70** on the build-out over the pipe (axis **+1616.7mm Datum Zero** / **1599.7mm FFL**, 600mm below the +2216.7mm low-side plate). Fit the outside wall panel (380 × 376mm) over the cladding opening. Fit the **F7** filter wherever Zehnder permits (extract side pending — MASTER_PLAN §4.2). *Foreman Note: 585mm clear above the axis against Zehnder's 550mm minimum — do not raise it. Keep 320mm clear left and 420mm right of the axis.*
+*   **dMVHR Installation:** Hang the **Zehnder ComfoAir 70** on the build-out over the pipe (axis **+1617mm Datum Zero** / **1600mm FFL**, ~600mm below the +2216.7mm low-side plate). Fit the outside wall panel (380 × 376mm) over the cladding opening. Fit the **F7** filter wherever Zehnder permits (extract side pending — MASTER_PLAN §4.2). *Foreman Note: ~584mm clear above the axis against Zehnder's 550mm minimum — do not raise it. Keep 320mm clear left and 420mm right of the axis.*
 *   **TT Island Earthing:** Drive a 1.2m copper earth rod outside near the power entry; 16mm² earth cable to the Consumer Unit Earth Bar.
 *   **HVAC & Lighting:** Ceiling 1.2kW IR panel, surface track lighting, Quick-Connect ASHP / Mini-Split with pre-charged lines to the external compressor. 15mm SBR pads under cast-iron machine feet.
 *   **Sign-Off & Commissioning:** Part P registered electrician (NICEIC/NAPIT) inspects, terminates main power and certifies. BPEC engineer commissions the dMVHR (800mm clear zone in front of the unit).

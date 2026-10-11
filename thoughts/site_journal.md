@@ -1625,3 +1625,10 @@
 - **Action Taken:** `MASTER_PLAN.md` §1.2 (hanger rule, PIR foam, deck-edge brackets), §1.2.2 (internal beams T-halved, 3408mm), §1.2.3 (4 × 10m tarp reused on the platform), §3.1 (twin joists, strutting). `WORKPLAN.md` Weekend 2 and Sunday Lockdown synced. CSV updated.
 - **Still open:** engineer to confirm T-halvings and twin joists vs 26C070/1 hangers/doubled joists; contractor brackets at P04/P07/P08/P11.
 - **Self-verification:** Red Line: PIR flush with the joist tops, no noggins at bay ends. **Pass.** Weather-Tight: platform tarped every Sunday. **Pass.** Sequence: notches cut and treated before assembly. **Pass.**
+
+## [ARCHITECT] dMVHR Core Heights Rounded to Whole mm
+- **Date:** Sun 11 Oct 2026
+- **Trigger:** User asked for the dMVHR cut-out heights in whole mm.
+- **Action Taken:** `MASTER_PLAN.md` §4.2.1: centre **+1617mm / 1600mm FFL / 1642mm from panel base**; core top **+1752mm / 1735mm FFL / 1777mm**; bottom **+1482mm / 1465mm FFL / 1507mm**. Axis raised 0.3mm; clearance above **~584mm** (34mm over Zehnder's 550mm). `WORKPLAN.md` Phase 5 summary and dMVHR installation synced.
+- **Self-verification:** Red Line, Weather-Tight and Sequence unchanged. **Pass.**
+- **Hand-off to @foreman:** done in `WORKPLAN.md`. Give NFS the panel-base figures (1642mm centre) for the factory cut.
