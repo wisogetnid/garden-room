@@ -67,3 +67,11 @@
 ## [Date: 2026-10-10] - uPVC Fixed Lights; Aluminium Door Movement Detail
 **Decision:** Fixed lights in uPVC (white or heat-reflective on the West); door in marine aluminium. The door frame is installed with movement gaps, jamb-only fixings and adjustable hardware so small foundation movement is taken up by adjustment, not by the frame.
 **Result:** HTC 24.18 W/K, £60.93/yr. The triple → double penalty is effectively recovered.
+
+## [Date: 2026-10-10] - West Façade: Even Pier Layout
+**Decision:** Door (right / South end, seen from outside) and two 1000mm windows separated by four equal 481mm piers. Door mid-rail at ~1078mm FFL, level with the window sills.
+**Result:** Balanced façade (~341mm visible corner piers inside). The inner piers land over ground screws P07 / P11, so jamb loads go directly into the foundation.
+
+## [Date: 2026-10-11] - Base Lowered 75mm; Taller Wall SIPs
+**Decision:** Ground screw heads at -150mm (150mm heave gap over the -300mm pit), sole plate at -25mm, FFL +17mm (~level with the lawn). External height stays at 2480mm; wall SIPs grow by 75mm (West 2298.5mm, East 2241.7mm) for +75mm headroom.
+**Result:** Headroom 2.24m West / 2.18m East. HTC 24.54 W/K, £61.84/yr. Engineer review completed by the user. Conditions: oak stays, gravel margin kept below the starter track.

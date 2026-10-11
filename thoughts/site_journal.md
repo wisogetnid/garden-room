@@ -1575,3 +1575,29 @@
 ## [LIBRARIAN] Glazing Cost Ballpark
 - **Date:** Sat 10 Oct 2026
 - **Result:** Adopted uPVC D-AC fixed lights plus a half-glazed aluminium 900mm door, supply only: **≈ £2.8–5.5k** (central ~£3.8k); +£0.7–1.3k if fitted. Breakdown and sources in `thoughts/glazing_impact_breakdown.md` §10. Confidence 2/5. Validate with itemised quotes.
+
+## [ARCHITECT] West Façade: Even Pier Layout
+- **Date:** Sat 10 Oct 2026
+- **Trigger:** After the door was narrowed to ~1000mm, the freed width had all gone into the right corner pillar (839mm vs 440mm on the left), making the façade lopsided. The user approved an even layout with the door on the right (South end, seen from outside).
+- **Action Taken:** `MASTER_PLAN.md` §2.7: West layout → 481 + 1000 (door) + 481 + 1000 + 481 + 1000 + 481 = 4924mm. The inner piers (1481–1962mm and 2962–3443mm from the South end) sit over West ring-beam screws P07 / P11 (1665mm from each end), so jamb loads go straight into the screws and the openings sit mid-span. Door mid-rail at ~1078mm FFL, level with the window sills. Closed the risk flag on the ~300mm left corner pier (both corners now ~341mm visible internally). `thoughts/glazing_impact_breakdown.md` synced.
+- **Still open:** exact door frame width from the supplier (spread any difference equally across the four piers); CAD drawings (`plans/drawings/garden-room-v2.FCStd`, `plans/cad-drawing/*`) must be updated to this layout before the SIP order.
+- **Self-verification:** Red Line and Weather-Tight are unchanged. Sequence is unchanged. Structural: every pier ≥ 400mm, inner piers over screws. **Pass.**
+- **Hand-off to @foreman:** no WORKPLAN change. Give the SIP supplier the opening positions from §2.7.
+
+## [ARCHITECT] Base Lowered 75mm; Taller Wall SIPs; 150mm Heave Gap
+- **Date:** Sun 11 Oct 2026
+- **Trigger:** The user is setting the ground screw heads at -150mm (pit already dug to -300mm or deeper), reducing the clear heave gap from 225mm to 150mm for near-level access. They chose to keep the external height at 2480mm and put the 75mm into taller wall SIPs for more headroom.
+- **Basis for 150mm:** NHBC high-shrinkage heave allowance; the oak stays; ventilated on N/S/E (West solid). Splash protection: the XPS skirt (-25mm to +155mm) covers the SIP base; breather membrane, wood fibre and cladding start above it.
+- **Action Taken:** `MASTER_PLAN.md`:
+  - Screws -2200 to -150mm; ring beam, joists and PIR -150 to -25mm; heave void -300 to -150mm (150mm).
+  - Sole plate / DPC / starter track -25mm; XPS -25 to +155mm; wood fibre from +155mm.
+  - Floor stack -25 → FFL **+17mm**.
+  - Wall SIPs **2298.5mm (West) / 2241.7mm (East)**; top plates unchanged (+2273.5 / +2216.7mm); max height 2480mm unchanged.
+  - Headroom 2241.5mm West / 2184.7mm East (+75mm). Opening sizes and FFL heights unchanged; head zones now 178.5mm (West) and 204.7mm (East).
+  - dMVHR axis unchanged at +1616.7mm (now 1599.7mm FFL).
+  - New §2.3B Ground Clearance Rule (gravel margin ≤ -50mm falling away, nothing against the XPS, Aco channel mandatory at the door).
+  - §7.2: walls 37.83m², volume 32.15m³, HTC **24.54 W/K**, 883.4 kWh, **£61.84/yr**; ACH table updated.
+  - `WORKPLAN.md` datums synced; ground-clearance step added to the starter-track work.
+- **Status:** Engineer review of the 150mm void completed by the user. The user is updating New Forest SIPs (panel heights 2241.7 / 2298.5mm) and the CAD drawings.
+- **Self-verification:** Red Line: floor PIR still meets the SIP base at the sole plate; XPS skirt continuous over the junction. **Pass.** Weather-Tight: base below lawn datum relies on the gravel margin and XPS; flagged in the Ground Clearance Rule. **Pass with conditions.** Sequence: unchanged. **Pass.**
+- **Hand-off to @foreman:** done in `WORKPLAN.md`. Set the screw heads and ring beam level at -150 / -25mm (±3mm).

@@ -14,9 +14,9 @@
 | **West fixed windows** | 2 × 1000 × 1000mm (2.00m²) | **uPVC**, white or heat-reflective foil (no dark standard foil on the West) | **D-AC** (as above) | ~1.3 W/m²K | ~38 dB |
 | **West entrance door** | 1 × **single leaf, 900mm**; doorset ~1000 × 2078mm (2.08m²); ~800mm clear | **Thermally broken marine aluminium** (Qualicoat Seaside), 316 / BS EN 1670 Grade 5 hardware, 3D-adjustable hinges | **Half-glazed:** upper vision panel ~0.65m², **D-STD** 4mm toughened / 16mm argon / 4mm toughened Low-E; lower insulated aluminium infill panel (≥28mm) | ~1.3 W/m²K | ~32 dB (~34 with optional drop seal) |
 
-**No side panel.** The SIP door opening is cut to the single-leaf doorset (~1000mm). The ~400mm freed from the original 1400mm opening becomes solid wall on the right corner pillar (839mm; ~699mm visible internally). The exact width is set from the chosen supplier's doorset size before the SIP order.
+**No side panel.** The SIP door opening is cut to the single-leaf doorset (~1000mm). The West façade uses an even rhythm: door (right / South end, seen from outside) and two windows, all ~1000mm, separated by four equal 481mm piers. The inner piers land over ground screws P07 / P11 (see MASTER_PLAN §2.7). The door mid-rail sits at ~1078mm FFL, level with the window sills. The exact width is set from the chosen supplier's doorset size before the SIP order.
 
-**Whole building:** glazed and door area **5.88m²**, area-weighted Uw **~1.36 W/m²K**, glazing heat loss **8.00 W/K**, HTC **24.18 W/K**, **~£61/yr** heating. Cost ballpark **≈ £2.8–5.5k supply only** (§9).
+**Whole building:** glazed and door area **5.88m²**, area-weighted Uw **~1.36 W/m²K**, glazing heat loss **8.00 W/K**, HTC **24.54 W/K** (after the 2026-10-11 taller-wall revision), **~£62/yr** heating. Cost ballpark **≈ £2.8–5.5k supply only** (§9).
 
 ---
 
@@ -133,7 +133,7 @@ The **leaf** is the opening part; the **frame** (doorset) is the fixed outer par
 | **Half-glazed (adopted)** | **~0.65m²** | **~1.3** | **2.70 W/K** | **£6.81/yr** | **~215W** |
 | Solid insulated | 0 | ~1.0 | 2.08 W/K | £5.24/yr | ~0W |
 
-**Reading:** the options differ by only ~£3/yr on heating, so the choice comes down to **summer overheating and daylight**. The half-glazed leaf cuts peak door solar gain by ~230W, which matters in a 31m³ room that already has machine heat. It still keeps a vision panel at standing eye height (~1000–1900mm FFL).
+**Reading:** the options differ by only ~£3/yr on heating, so the choice comes down to **summer overheating and daylight**. The half-glazed leaf cuts peak door solar gain by ~230W, which matters in a 31m³ room that already has machine heat. It still keeps a vision panel at standing eye height (mid-rail ~1078mm FFL, level with the window sills).
 
 ### 6.3 Movement-Tolerant Installation (Small Foundation Movement)
 
@@ -167,7 +167,7 @@ The aluminium frame is stiff and springs back. It does not absorb movement: it r
 
 * **Secondary glazing (if a neighbour complains):** DIY 6mm acrylic or polycarbonate inside the 236mm reveal with a ~100mm gap adds **~8–12 dB** per clerestory, for £30–60 each.
 * **Optional automatic drop seal on the door:** ~+1 dB on the West façade (door Rw 32 → 34), £80–150.
-* **[OPEN] Exact door width:** take it from the chosen supplier's doorset size and adjust the right corner pillar so the West wall still totals 4924mm.
+* **[OPEN] Exact door width:** take it from the chosen supplier's doorset size and spread any difference equally across the four 481mm piers so the West wall still totals 4924mm.
 * **[OPEN] CAD drawings** still show the 1400mm door. Update them before the SIP order.
 * **[OPEN] Zehnder Dn,e,w:** still needed to rank the dMVHR terminal against the East clerestories (MASTER_PLAN §4.2.1).
 
