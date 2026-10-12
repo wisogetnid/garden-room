@@ -1662,3 +1662,18 @@
 - **OPEN RISK FLAG:** 47mm sole plate on the -25mm DPC tops out at +22mm, 5mm above FFL. User to confirm sole plate size/level with New Forest SIPs; fallback is planing/chiselling it to +17mm across the opening (re-treat the cut surface).
 - **Self-verification:** Red Line: sole plate continuous under the frame; threshold airtight line unchanged. **Pass.** Weather-Tight: RIW Flexiseal and Aco channel unchanged. **Pass.** Sequence: plate levelled before the frame is bedded. **Pass.**
 - **Hand-off to @foreman:** done in `WORKPLAN.md`. Order the doorset at ≤ ~2060mm frame height once NFS confirms the sole plate level.
+
+## [ARCHITECT] dMVHR Core Lowered to 730mm Below Ceiling
+- **Date:** Mon 12 Oct 2026
+- **Trigger:** Check of the East clerestories against the Zehnder ComfoAir 70 clearances. The operation & installation manual (§5.1, https://zehnder.picturepark.com/v/MX5FmA0O) gives clearances from the **housing**: 100mm extract side, 200mm supply side, 200mm above, 800mm in front. Housing 440 × 660mm (455mm with radio module); pipe ~530mm below the housing top (measured off §5.9.3 drawing). The plan's 550mm-above-centre left only ~50mm above the housing. User chose to lower the core to keep ~730mm from centre to ceiling.
+- **Action Taken:** `MASTER_PLAN.md` §1.0a dMVHR row and §4.2.1: centre **+1471mm / 1454mm FFL / 1496mm from panel base**; core top **+1606mm / 1589mm FFL / 1631mm**; bottom **+1336mm / 1319mm FFL / 1361mm**; housing ~1324–1984mm FFL; ~731mm to the ceiling. Clearance text rewritten from the manual. `WORKPLAN.md` Phase 5 summary and dMVHR installation synced.
+- **Still open:** (1) ~530mm pipe-to-housing-top to be checked against the Zehnder installation template before the SIP order. (2) **East clerestory side clearance not met** (existing §4.2.1 risk flag): ~320mm each side available vs 420mm supply side (and 335mm extract side with radio module). Decide (a) ≥780mm central pier (watch the 2400mm spline) or (b) Zehnder written acceptance of the open reveal. (3) Wall pipe fall: the manual gives none; 1° recommended over the plan's 1°–2° (not yet changed).
+- **Self-verification:** Red Line unchanged (core sealing detail unchanged). Weather-Tight unchanged. Sequence: core position fixed before the SIP order. Outdoor air intake now ~1.47m above ground (manual recommends >1m). **Pass.**
+- **Hand-off to @foreman:** done in `WORKPLAN.md`. Mark the new axis height on the East wall build-out.
+
+## [ARCHITECT] East Clerestory Clearance Accepted; dMVHR Fall 1°
+- **Date:** Mon 12 Oct 2026
+- **Trigger:** User decision: the open clerestory reveals do not obstruct the ComfoAir 70 airflow; drop the East clerestory question. Set the wall pipe fall to 1°.
+- **Action Taken:** `MASTER_PLAN.md` §4.2.1 horizontal risk flag replaced by the accepted position (core centred in the ~641mm pier; reveals count as clear space; nothing may project into the reveals beside the unit). §1.0a East clerestory and dMVHR rows updated (evenly spaced; 1° fall). §4.2.1 core fall 1° (manual sets none). `WORKPLAN.md` wall pipe step: 1° fall.
+- **Self-verification:** No change to envelope, weather or sequence. **Pass.**
+- **Hand-off to @foreman:** done in `WORKPLAN.md`. Keep window boards and blinds out of the East reveals beside the unit.
