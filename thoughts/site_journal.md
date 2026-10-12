@@ -1677,3 +1677,11 @@
 - **Action Taken:** `MASTER_PLAN.md` §4.2.1 horizontal risk flag replaced by the accepted position (core centred in the ~641mm pier; reveals count as clear space; nothing may project into the reveals beside the unit). §1.0a East clerestory and dMVHR rows updated (evenly spaced; 1° fall). §4.2.1 core fall 1° (manual sets none). `WORKPLAN.md` wall pipe step: 1° fall.
 - **Self-verification:** No change to envelope, weather or sequence. **Pass.**
 - **Hand-off to @foreman:** done in `WORKPLAN.md`. Keep window boards and blinds out of the East reveals beside the unit.
+
+## [ARCHITECT] Ring Beam Top Moved to Datum Zero
+- **Date:** Mon 12 Oct 2026
+- **Trigger:** Ground screws installed with heads at **-135mm** (design -150mm). User chose to pack them 10mm so the ring beam top lands at Datum Zero, simplifying all build heights; accepts the headroom loss.
+- **Action Taken:** `MASTER_PLAN.md`: ring beam -125mm to 0mm on 10mm packers; heave gap 175mm; floor stack 0 → +42mm (FFL +42mm); sole plate, DPC, starter track at 0mm; XPS skirt 0 to +180mm, wood fibre from +180mm; wall panels **2273.5 / 2216.7mm** (top plates and 2480mm roof peak unchanged); ceilings **2216.5 / 2159.7mm** (avg 2188.1mm); head zones West 153.5mm, clerestories 179.7–236.5mm; dMVHR centre +1471mm = 1471mm from panel base / **1429mm FFL** (still ~731mm below the ceiling); PIR pegs at -120mm; gravel margin ≤ -25mm; sole plate at the door +47mm vs FFL +42mm (plane-down flag kept). Volume 31.79m³, ACH and HTC (24.42 W/K, 879 kWh/yr) recalculated. `WORKPLAN.md` Phases 1–5, Week 1 (as-installed screws, packers), Weekend 2/3, NFS targets, plinth, glazing and finishes synced.
+- **OPEN:** ground-screw contractor / engineer to confirm the 10mm packing (or bracket adjustment). Tell NFS the shorter wall panels and reduced head zones (153.5 / 179.7mm). Patio and Aco channel at the door to suit the +42mm FFL.
+- **Self-verification:** Red Line: wall/floor/roof junctions unchanged, PIR still flush under the deck. **Pass.** Weather-Tight: SIP base now at lawn level (improves splash zone), gravel margin rule kept. **Pass.** Sequence: packers levelled before the ring beam is bolted. **Pass.** Height: peak 2480mm, 20mm under 2.5m. **Pass.**
+- **Hand-off to @foreman:** done in `WORKPLAN.md`.
