@@ -1685,3 +1685,15 @@
 - **OPEN:** ground-screw contractor / engineer to confirm the 10mm packing (or bracket adjustment). Tell NFS the shorter wall panels and reduced head zones (153.5 / 179.7mm). Patio and Aco channel at the door to suit the +42mm FFL.
 - **Self-verification:** Red Line: wall/floor/roof junctions unchanged, PIR still flush under the deck. **Pass.** Weather-Tight: SIP base now at lawn level (improves splash zone), gravel margin rule kept. **Pass.** Sequence: packers levelled before the ring beam is bolted. **Pass.** Height: peak 2480mm, 20mm under 2.5m. **Pass.**
 - **Hand-off to @foreman:** done in `WORKPLAN.md`.
+
+## Date: 2026-10-12
+**Agent:** @architect → @foreman
+**Task:** Remove leftover -25mm SIP-base references
+- **Trigger:** User asked to clear every remaining trace of the old -25mm sole plate datum after the ring beam top moved to Datum Zero.
+- **Action Taken:**
+  - `MASTER_PLAN.md` §2.3B: gravel margin below the starter track now reads < 0mm (was ≤ -25mm).
+  - `WORKPLAN.md`: Phase 4 FFL +42mm (was +17mm). Weekend 2 halved corners dry-fit flush at 0mm (was -25mm). Ground Clearance gravel margin below 0mm.
+  - `decisions_log.md`: 2026-10-11 "Base Lowered 75mm" marked superseded. Deck-edge brackets now flush with the ring beam top (0mm). New 2026-10-12 "Ring Beam Top at Datum Zero" entry.
+  - CAD (`garden-room-v2.FCStd`) checked: no -25mm values.
+- **Not changed:** older site journal entries stay as the historical record.
+- **Hand-off to @foreman:** none. Wording only; the levels already matched the plan.

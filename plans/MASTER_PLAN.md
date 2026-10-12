@@ -252,7 +252,7 @@ Heights from **Datum Zero (0.00mm = Highest Adjacent Ground)**. The ring beam to
 | **Splash Zone Skirt** | **60mm thick** x **180mm high** XPS Strip | 100mm wood screws with plastic washers into the SIP base / sole plate, backed by PU adhesive. Covers **0mm to +180mm**. | **Waterproof Plinth:** Rot-proof splash zone over the SIP base. | ~16.7 linear meters |
 
 *   **Ground Clearance Rule (base at 0mm):** The sole plate and SIP base sit level with the lawn datum (the highest adjacent ground), so the **XPS skirt (0mm to +180mm) is the splash zone**: the breather membrane, wood fibre and cladding all start above it. The XPS is the rot-proof splash layer, not tanking. Water must never stand against it:
-    *   The finished surface of the **perimeter gravel margin** around the building stays **below the starter track** (≤ -25mm) and falls away from the building to the French drain, so the drip edge discharges into open gravel or void, never onto turf.
+    *   The finished surface of the **perimeter gravel margin** around the building stays **below the starter track** (< 0mm) and falls away from the building to the French drain, so the drip edge discharges into open gravel or void, never onto turf.
     *   **West patio (solid fascia, no vent gap):** keep it ~10mm off the XPS face (or a gravel/drain strip), falling away from the wall; lawn, soil or paving never bears against the skirt.
     *   **Door threshold:** FFL +42mm sits ~42mm above a patio at lawn level on the driving-rain façade. Set the patio and Aco channel at the door to suit; the channel and threshold seal (§2.7) are mandatory, not optional.
 

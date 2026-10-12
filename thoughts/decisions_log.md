@@ -74,6 +74,7 @@ The engineer approved 8 × 140mm stainless lamination screws at 150mm alternatin
 **Result:** Balanced façade (~341mm visible corner piers inside). The inner piers land over ground screws P07 / P11, so jamb loads go directly into the foundation.
 
 ## [Date: 2026-10-11] - Base Lowered 75mm; Taller Wall SIPs
+*Superseded 2026-10-12 (Ring Beam Top at Datum Zero): the -25mm sole plate / +17mm FFL levels no longer apply.*
 **Decision:** Ground screw heads at -150mm (150mm heave gap over the -300mm pit), sole plate at -25mm, FFL +17mm (~level with the lawn). External height stays at 2480mm; wall SIPs grow by 75mm (West 2298.5mm, East 2241.7mm) for +75mm headroom.
 **Result:** Headroom 2.24m West / 2.18m East. HTC 24.54 W/K, £61.84/yr. Engineer review completed by the user. Conditions: oak stays, gravel margin kept below the starter track.
 
@@ -93,5 +94,10 @@ The engineer approved 8 × 140mm stainless lamination screws at 150mm alternatin
 
 ## [Date: 2026-10-11] - Internal Beams T-Halved; Twin Joists; Deck-Edge Brackets
 **Context:** Simpson's 140–142mm hangers are 179–180mm tall and no 94mm SAE hanger is ≤125mm, so neither fits the 125mm beams. Timber noggins at the South/North bay ends would displace the PIR.
-**Decision:** Internal E-W beams T-halved onto the East/West ring beams over P04/P07/P08/P11 (like the corners). Doubled joists become twin joists in two SAE250/47 hangers, bolted through 83mm packers. South/North deck edge carried on galvanised angle brackets flush at -25mm. The 4 × 10m tarp moves from the timber stack to the platform; the two 5 × 4m tarps are dropped. PIR stays flush with the top of the joists.
+**Decision:** Internal E-W beams T-halved onto the East/West ring beams over P04/P07/P08/P11 (like the corners). Doubled joists become twin joists in two SAE250/47 hangers, bolted through 83mm packers. South/North deck edge carried on galvanised angle brackets flush with the ring beam top (0mm since 2026-10-12). The 4 × 10m tarp moves from the timber stack to the platform; the two 5 × 4m tarps are dropped. PIR stays flush with the top of the joists.
 **Result:** Open: engineer to confirm the T-halving and twin joists (26C070/1 shows hangers and doubled joists); contractor brackets at P04/P07/P08/P11.
+
+## [Date: 2026-10-12] - Ring Beam Top at Datum Zero
+**Context:** Ground screws installed with heads at -135mm (spread up to 7mm), set 150mm above the highest point of the dig-out as agreed with No More Digging.
+**Decision:** 10mm packers on the bracket seats put the ring beam at -125mm to 0mm (top = Datum Zero). Sole plate, DPC and starter track at 0mm; XPS skirt 0 to +180mm; FFL +42mm. Wall SIPs 2273.5mm (West) / 2216.7mm (East); external height stays at 2480mm. Supersedes the -25mm sole plate / +17mm FFL levels of 2026-10-11.
+**Result:** All build heights read from 0mm. Headroom drops 25mm (ceilings 2216.5 / 2159.7mm FFL). Gravel margin stays below the starter track (< 0mm).
