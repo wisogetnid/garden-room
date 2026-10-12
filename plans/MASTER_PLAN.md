@@ -67,7 +67,7 @@ layout: default
     *   **East Wall (Low Side):** 4924mm × **2216.7mm** *(base 0mm; top plate +2216.7mm; 56.8mm roof fall)*
     *   **North & South Walls (Sloped):** 3158mm wide (between the long walls) × 2216.7mm to 2273.5mm.
 *   **3. SIP Roof Panels (125mm):**
-    *   Cantilevers **120mm** past the SIP walls on all four sides: 96mm over the cladding buildup plus a **24mm drip projection**.
+    *   Cantilevers **120mm** past the outer face of the SIP walls on all four sides. The roof SIP edge ends 24mm past the cladding face, so the fascia stands clear of the cladding and the wall's rainscreen cavity can vent out at the top (§2.6).
     *   **Roof Plane:** **3648mm × 5164mm** (24mm oversail per side beyond the 3600 × 5116mm clad envelope).
 *   **4. Factory-Cut Openings (the single opening schedule):**
     *   Heights from the **SIP panel base (0mm = Datum Zero)**, the factory reference. FFL height = panel-base height − 42mm. Head zone = top plate − opening top.
@@ -318,7 +318,7 @@ Heights from **Datum Zero (0.00mm = Highest Adjacent Ground)**. The ring beam to
 
 | Material Name | Dimensions / Gauge | Fixing Method | Purpose | Estimated Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Structural Overhang (Cantilever)** | The 125mm SIP Roof Panel | Overhangs the SIP walls by **120mm**. | 96mm covers the Wood Fibre + batten + cladding; the **24mm drip projection** keeps the soffit vent slot (item 5) open behind the fascia. No solid timber block. | N/A |
+| **1. Structural Overhang (Cantilever)** | The 125mm SIP Roof Panel | Overhangs the SIP walls by **120mm**. | 96mm covers the Wood Fibre + batten + cladding; the last **24mm** holds the fascia clear of the cladding so the wall's rainscreen cavity vents out at the top (item 5). The roof itself is a warm roof and is not ventilated. No solid timber block. | N/A |
 | **2. Structural Hard Edge (The Perimeter Kerb)** | Treated Timber Batten, 47x80mm nominal | **On edge** (80mm tall, 50mm wide), screwed down into the outermost edge of the cantilevered roof SIP. | Replaces the outer 50mm of over-roof PIR; flush anchor for fascia and EPDM trims at the PIR height. | ~17.6 linear meters |
 | **3. Fascia Board (Oversized Drop)** | **205mm minimum** (225mm recommended) Marine Ply or UPVC Fascia (80mm kerb + 125mm SIP edge = 205mm) | Screwed into the outer face of the kerb, dropping past the SIP edge. | Covers kerb and SIP edge; drips clear of the Hardie planks. | ~17.6 linear meters |
 | **4. EPDM Clamping (High Sides)** | Sure-Edge Check Kerb Trim | Screwed through the EPDM into the kerb/fascia | Clamps the EPDM against wind uplift; stops water running off the non-draining sides. | ~12.5 linear meters |
