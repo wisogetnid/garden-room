@@ -66,6 +66,9 @@ layout: default
     *   **West Wall (High Side):** 4924mm × **2298.5mm** *(base -25.0mm; top plate +2273.5mm)*
     *   **East Wall (Low Side):** 4924mm × **2241.7mm** *(base -25.0mm; top plate +2216.7mm; 56.8mm roof fall)*
     *   **North & South Walls (Sloped):** 3158mm wide (between the long walls) × 2241.7mm to 2298.5mm.
+    *   *Opening Tops from SIP Panel Base (-25mm; = FFL height + 42mm; sizes and layout §2.7):*
+        *   **West windows (2× 1000×1000mm) and door:** **2120mm** *(2078mm FFL; 178.5mm head zone)*
+        *   **North, South and East clerestories (4× 300×1500mm):** **2037mm** *(1995mm FFL; 204.7mm head zone at the East wall)*
 *   **3. SIP Roof Panels (125mm):**
     *   Cantilevers **120mm** past the SIP walls on all four sides: 96mm over the cladding buildup plus a **24mm drip projection**.
     *   **Roof Plane:** **3648mm × 5164mm** (24mm oversail per side beyond the 3600 × 5116mm clad envelope).

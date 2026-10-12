@@ -1632,3 +1632,10 @@
 - **Action Taken:** `MASTER_PLAN.md` §4.2.1: centre **+1617mm / 1600mm FFL / 1642mm from panel base**; core top **+1752mm / 1735mm FFL / 1777mm**; bottom **+1482mm / 1465mm FFL / 1507mm**. Axis raised 0.3mm; clearance above **~584mm** (34mm over Zehnder's 550mm). `WORKPLAN.md` Phase 5 summary and dMVHR installation synced.
 - **Self-verification:** Red Line, Weather-Tight and Sequence unchanged. **Pass.**
 - **Hand-off to @foreman:** done in `WORKPLAN.md`. Give NFS the panel-base figures (1642mm centre) for the factory cut.
+
+## [ARCHITECT] Opening Tops Added to §1.0a Cut List
+- **Date:** Sun 11 Oct 2026
+- **Trigger:** User asked for window and door top heights from the SIP panel base in the structural order dimensions.
+- **Action Taken:** `MASTER_PLAN.md` §1.0a: West windows and door top **2120mm**, North/South/East clerestories top **2037mm** from the SIP panel base (-25mm). Derived from the existing §2.7 FFL datums (+42mm); no geometry change.
+- **Self-verification:** No change to envelope, weather or sequence. **Pass.**
+- **Hand-off to @foreman:** none needed; `WORKPLAN.md` datums are unchanged. Use these figures when checking the NFS shop drawings.
