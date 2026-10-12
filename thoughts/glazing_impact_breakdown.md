@@ -141,7 +141,7 @@ The aluminium frame is stiff and springs back. It does not absorb movement: it r
 
 | Measure | Specification | What it absorbs |
 | :--- | :--- | :--- |
-| Installation gaps | ~10mm at each jamb, **~15mm at the head**; sill fully bedded and packed on the 42mm riser block | ~10mm before the frame is loaded |
+| Installation gaps | ~10mm at each jamb, **~15mm at the head**; sill fully bedded and packed on the continuous SIP sole plate | ~10mm before the frame is loaded |
 | Fixings | Jamb fixings only (3 per jamb, packer behind each); **no rigid fixing through the head** (sliding or slotted restraint or head clip) | Head of the opening can move freely |
 | Seals across the gap | Pre-compressed expanding foam tape (e.g., illbruck TP600); internal Pro Clima Contega SL / Tescon Profil with a **~10mm movement fold at the head**; no gun-foam-only seals | Weather and airtightness kept while moving |
 | Hardware | **3D-adjustable hinges** (±2–3mm) and **adjustable lock keeps** | ~2–3mm of out-of-square, by adjustment alone |

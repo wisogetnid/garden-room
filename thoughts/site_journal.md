@@ -1654,3 +1654,11 @@
 - **Action Taken:** `MASTER_PLAN.md` §2.7: duplicate "Door Mechanism" bullet merged into the single door spec (made-to-order leaf note, cam-action lock). Door FFL heights removed from §2.7; frame size kept, heights point to §1.0a. Mid-rail given from the frame base (~1078mm). No geometry change; `WORKPLAN.md` unaffected.
 - **Self-verification:** No change to envelope, weather or sequence. **Pass.**
 - **Hand-off to @foreman:** none needed.
+
+## [ARCHITECT] Door Threshold on Continuous Sole Plate
+- **Date:** Mon 12 Oct 2026
+- **Trigger:** User expects the SIP sole plate to run across the door opening for ease of installation.
+- **Action Taken:** `MASTER_PLAN.md` §1.0a door row, §2.7 door spec, materials row, gaps and threshold bullet: 42mm riser block deleted; frame sill bedded on the continuous sole plate. Door frame height corrected to **≤ ~2060mm**: the old 2078mm frame filled the full cut-out with no room for the 15mm head gap. `WORKPLAN.md` Phase 3 summary, glazing step and threshold step synced; `thoughts/glazing_impact_breakdown.md` gap note synced.
+- **OPEN RISK FLAG:** 47mm sole plate on the -25mm DPC tops out at +22mm, 5mm above FFL. User to confirm sole plate size/level with New Forest SIPs; fallback is planing/chiselling it to +17mm across the opening (re-treat the cut surface).
+- **Self-verification:** Red Line: sole plate continuous under the frame; threshold airtight line unchanged. **Pass.** Weather-Tight: RIW Flexiseal and Aco channel unchanged. **Pass.** Sequence: plate levelled before the frame is bedded. **Pass.**
+- **Hand-off to @foreman:** done in `WORKPLAN.md`. Order the doorset at ≤ ~2060mm frame height once NFS confirms the sole plate level.
