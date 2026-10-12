@@ -1639,3 +1639,18 @@
 - **Action Taken:** `MASTER_PLAN.md` §1.0a: West windows and door top **2120mm**, North/South/East clerestories top **2037mm** from the SIP panel base (-25mm). Derived from the existing §2.7 FFL datums (+42mm); no geometry change.
 - **Self-verification:** No change to envelope, weather or sequence. **Pass.**
 - **Hand-off to @foreman:** none needed; `WORKPLAN.md` datums are unchanged. Use these figures when checking the NFS shop drawings.
+
+## [ARCHITECT] Single Opening Schedule in §1.0a
+- **Date:** Mon 12 Oct 2026
+- **Trigger:** User asked to merge the FFL-only Window Schedule (§2.7) and the §1.0a opening tops into one section.
+- **Action Taken:** `MASTER_PLAN.md` §1.0a item 4 "Factory-Cut Openings": one table with door, West windows, N/S/E clerestories and the dMVHR core: size, wall, qty, top/bottom from panel base and FFL, head zone, horizontal position. §2.7 Window Schedule removed (pointer to §1.0a); duplicate height datums in Clerestory Logic and West Vertical Datum removed. `WORKPLAN.md` Week 4 opening check now points to §1.0a. No geometry change.
+- **Still open:** N/S clerestory horizontal set-out (NFS shop drawings); fitting tolerances from window/door suppliers; door width (§2.7).
+- **Self-verification:** No change to envelope, weather or sequence. **Pass.**
+- **Hand-off to @foreman:** done in `WORKPLAN.md`. Check the NFS shop drawings against the §1.0a panel-base heights.
+
+## [ARCHITECT] Door Spec Consolidated in §2.7
+- **Date:** Mon 12 Oct 2026
+- **Trigger:** User asked for the same cleanup on the door.
+- **Action Taken:** `MASTER_PLAN.md` §2.7: duplicate "Door Mechanism" bullet merged into the single door spec (made-to-order leaf note, cam-action lock). Door FFL heights removed from §2.7; frame size kept, heights point to §1.0a. Mid-rail given from the frame base (~1078mm). No geometry change; `WORKPLAN.md` unaffected.
+- **Self-verification:** No change to envelope, weather or sequence. **Pass.**
+- **Hand-off to @foreman:** none needed.

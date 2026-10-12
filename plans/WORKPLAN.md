@@ -71,7 +71,7 @@ You're a weekend warrior with a 9-5 job and **45 to 90 minutes of daylight/energ
 *   **Handover Checklist (before they leave):**
     *   Walls plumb; outer faces flush with the ring beam; wall plan diagonals equal.
     *   Top plates: East **+2216.7mm**, West **+2273.5mm**; roof falls **1:60** to the East; **120mm** oversail on all four sides.
-    *   Every opening (door, windows, clerestories, 270mm dMVHR core) in position and size — check against MASTER_PLAN §2.7 and §4.2.1.
+    *   Every opening (door, windows, clerestories, 270mm dMVHR core) in position and size — check against the MASTER_PLAN §1.0a opening schedule (panel-base heights).
     *   Wrap: laps shingled (upper over lower), taped closed over **every opening**, no loose flaps, roof shedding water at 1:60.
     *   Get from NFS: the membrane **product name and rated UV-exposure period**, and their fixing schedule.
 

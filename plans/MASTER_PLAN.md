@@ -66,12 +66,23 @@ layout: default
     *   **West Wall (High Side):** 4924mm × **2298.5mm** *(base -25.0mm; top plate +2273.5mm)*
     *   **East Wall (Low Side):** 4924mm × **2241.7mm** *(base -25.0mm; top plate +2216.7mm; 56.8mm roof fall)*
     *   **North & South Walls (Sloped):** 3158mm wide (between the long walls) × 2241.7mm to 2298.5mm.
-    *   *Opening Tops from SIP Panel Base (-25mm; = FFL height + 42mm; sizes and layout §2.7):*
-        *   **West windows (2× 1000×1000mm) and door:** **2120mm** *(2078mm FFL; 178.5mm head zone)*
-        *   **North, South and East clerestories (4× 300×1500mm):** **2037mm** *(1995mm FFL; 204.7mm head zone at the East wall)*
 *   **3. SIP Roof Panels (125mm):**
     *   Cantilevers **120mm** past the SIP walls on all four sides: 96mm over the cladding buildup plus a **24mm drip projection**.
     *   **Roof Plane:** **3648mm × 5164mm** (24mm oversail per side beyond the 3600 × 5116mm clad envelope).
+*   **4. Factory-Cut Openings (the single opening schedule):**
+    *   Heights from the **SIP panel base (-25mm)**, the factory reference. FFL height = panel-base height − 42mm. Head zone = top plate − opening top.
+
+| Opening | Wall | Qty | Cut-Out (W × H) | Top / Bottom from Panel Base | Top / Bottom (FFL) | Head Zone | Horizontal Position |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Entrance Door** (single-leaf, half-glazed alu) | West | 1 | ~1000 × 2120mm | **2120mm** / 0mm | 2078mm / -42mm (42mm riser block fills to +17mm, §2.7) | 178.5mm | South end, next to the 481mm corner pier (§2.7 layout) |
+| **West Fixed Window** (D-AC uPVC) | West | 2 | 1000 × 1000mm | **2120mm** / 1120mm | 2078mm / 1078mm | 178.5mm | Between the 481mm piers (§2.7 layout) |
+| **Clerestory** (D-AC uPVC) | North | 1 | 1500 × 300mm | **2037mm** / 1737mm | 1995mm / 1695mm | 204.7–261.5mm (sloped wall) | **[OPEN: set out on the NFS shop drawings]** |
+| **Clerestory** (D-AC uPVC) | South | 1 | 1500 × 300mm | **2037mm** / 1737mm | 1995mm / 1695mm | 204.7–261.5mm (sloped wall) | **[OPEN: set out on the NFS shop drawings]** |
+| **Clerestory** (D-AC uPVC) | East | 2 | 1500 × 300mm | **2037mm** / 1737mm | 1995mm / 1695mm | 204.7mm | Either side of the dMVHR pier (§4.2.1 risk flag) |
+| **dMVHR Core** (Zehnder ComfoAir 70) | East | 1 | Ø270mm, 1°–2° fall to outside | **1777mm** / 1507mm (centre **1642mm**) | 1735mm / 1465mm (centre 1600mm) | — | Central East pier, clear of splines (§4.2.1) |
+
+*   Cut-out sizes are the nominal unit sizes. Confirm frame fitting tolerances with the window and door suppliers before the SIP order (door width already **[OPEN]**, §2.7).
+*   The ~65mm AC core is **site-drilled**, not factory-cut (§4.1a).
 
 
 ### 1.1 Void Management, Erosion & Rodent Defense
@@ -332,7 +343,7 @@ Heights from **Datum Zero (0.00mm = Highest Adjacent Ground)**. All walls sit on
     *   **Door: thermally broken marine-grade aluminium** (Qualicoat Seaside certified, min 60–80µm coating), **316 stainless** hardware (or BS EN 1670 Grade 5).
     *   All units: frame **fRsi ≥ 0.70**, warm-edge spacers, declared Uw per unit size.
     *   **Fixed lights — "D-AC" asymmetric acoustic double:** 6mm Toughened outer / 16mm 90% Argon (warm edge) / **8.8mm Acoustic-PVB Laminated** Low-E inner (e.g., Pilkington Optiphon™ or Saint-Gobain Stadip Silence®). $U_g \approx 1.1\text{ W/m²K}$, glass $R_w \ge 39\text{ dB}$, ~37 kg/m². The laminated pane also retains glass on impact (kickback, long boards).
-    *   **Door — single-leaf, "D-STD" double:** **Single-leaf, thermally broken aluminium doorset**, **900mm leaf**, **~1000 × 2078mm max outer frame**, ~800mm clear opening. The narrower leaf tolerates small frame movement and racking and sags less. **Half-glazed:** vision panel in the **upper half** only (~0.65m²). **Mid-rail at ~1078mm FFL, level with the West window sills**, so the door glass and the two windows read as one continuous glass band, **solid insulated aluminium infill panel** below (PIR/XPS core, aluminium-faced, ≥28mm). Peak West solar gain through the door is **~215W** (vs ~510W fully glazed; 550 W/m², g ≈ 0.6). Glazing: **4mm Toughened / 16mm Argon (warm edge) / 4mm Toughened Low-E**, no acoustic pane. $U_d \approx 1.3\text{ W/m²K}$. Factory gaskets, multi-point cam lock and a threshold seal onto the flush +17mm threshold **for Q50 airtightness**. No meeting stile, so no air/sound path there. Automatic acoustic drop seal **optional** (~+2 dB). **Operating rule:** door shut while machines run. Machinery access through the 900mm leaf is confirmed adequate.
+    *   **Door — single-leaf, "D-STD" double:** **Single-leaf, thermally broken aluminium doorset**, **900mm leaf**, **~1000 × 2078mm max outer frame** (cut-out and heights §1.0a), ~800mm clear opening. UK off-the-shelf doorsets stop at ~920mm frame width (~816mm leaf, ~760mm clear); a 900mm leaf is a routine *made-to-order* aluminium size (systems reach ~1200mm leaves). The narrower leaf tolerates small frame movement and racking and sags less. **Half-glazed:** vision panel in the **upper half** only (~0.65m²). **Mid-rail ~1078mm above the frame base, level with the West window sills**, so the door glass and the two windows read as one continuous glass band, **solid insulated aluminium infill panel** below (PIR/XPS core, aluminium-faced, ≥28mm). Peak West solar gain through the door is **~215W** (vs ~510W fully glazed; 550 W/m², g ≈ 0.6). Glazing: **4mm Toughened / 16mm Argon (warm edge) / 4mm Toughened Low-E**, no acoustic pane. $U_d \approx 1.3\text{ W/m²K}$. Factory gaskets, a cam-action multi-point lock (compresses the gaskets on all four sides) and a threshold seal onto the flush +17mm threshold **for Q50 airtightness**. No meeting stile, so no air/sound path there. Automatic acoustic drop seal **optional** (~+2 dB). **Operating rule:** door shut while machines run. Machinery access through the 900mm leaf is confirmed adequate.
     *   **Expected Uw:** uPVC clerestories ~1.5, uPVC West fixed ~1.3, door ~1.3 W/m²K (area-weighted **~1.36 W/m²K**).
     *   West solar gain is controlled by external blinds (summer shading, winter light).
     *   **Upgrade path:** if a neighbour noise complaint arises, DIY secondary glazing (6mm acrylic / polycarbonate, ~100mm gap inside the 236mm reveal) adds ~8–12 dB per clerestory for ~£30–60 each.
@@ -341,15 +352,11 @@ Heights from **Datum Zero (0.00mm = Highest Adjacent Ground)**. All walls sit on
 | :--- | :--- | :--- | :--- | :--- |
 | **Fixed Clerestory, D-AC Acoustic Double Glazed** | 300 × 1500mm; 6T/16Ar/8.8 acoustic lam IGU (30.8mm), direct-glazed in a white uPVC fixed frame (BS EN 12608 Class A) | Screwed / bracketed into the factory-cut SIP opening; Pro Clima Tescon Vana / Contega to the VCL inside, EPDM / Tescon Extora to the Tyvek outside | Daylight above the 1.8m fence; blocks saw / planer noise toward the N, S and E neighbours (direct line of sight) | 4 units (1.80m²): N ×1, S ×1, E ×2 |
 | **West Fixed Window, D-AC Acoustic Double Glazed** | 1000 × 1000mm; 6T/16Ar/8.8 acoustic lam IGU, direct-glazed in a uPVC fixed frame (white or heat-reflective foil) | As above | Workbench panorama; laminated pane retains glass on impact | 2 units (2.00m²) |
-| **West Entrance Door, Single-Leaf Half-Glazed** | ~1000 × 2078mm max outer frame; 900mm leaf (~800mm clear); upper vision panel 4T/16Ar/4T Low-E IGU (~0.65m²), lower insulated alu infill (≥28mm); thermally broken marine alu, 316 hardware | Frame on 42mm C24 riser block (+17mm FFL); airtight tapes as above; RIW Flexiseal at threshold | Secure, airtight entrance; half-glazing limits summer solar gain | 1 unit (~2.08m²) |
+| **West Entrance Door, Single-Leaf Half-Glazed** | ~1000 × 2078mm max outer frame; 900mm leaf (~800mm clear); upper vision panel 4T/16Ar/4T Low-E IGU (~0.65m²), lower insulated alu infill (≥28mm); thermally broken marine alu, 316 hardware | Frame on 42mm C24 riser block (flush with FFL, §1.0a); airtight tapes as above; RIW Flexiseal at threshold | Secure, airtight entrance; half-glazing limits summer solar gain | 1 unit (~2.08m²) |
 | **Door Threshold Seal** | Factory EPDM gaskets + threshold seal onto the flush threshold; *optional* surface-mounted automatic drop seal (e.g., Reddiseals Harmony) | Factory-fitted; drop seal on the leaf bottom rail | Q50 airtightness at the flush threshold; drop seal adds ~2 dB | 1 set (~0.9m) |
 
-*   **Window Schedule:**
-    *   **North (Short Wall):** 1x 300x1500mm D-AC uPVC clerestory; top **1995mm FFL**, sill **1695mm FFL**.
-    *   **South (Short Wall):** 1x 300x1500mm D-AC uPVC clerestory; top **1995mm FFL**, sill **1695mm FFL**.
-    *   **East (Long / Low-Side Wall):** 2x 300x1500mm D-AC uPVC clerestories; top **1995mm FFL**, sill **1695mm FFL**. Spacing per the §4.2.1 risk flag.
-    *   **West (High-Side Façade):** 2x **1000x1000mm** D-AC uPVC fixed windows (top **2078mm FFL**, sill **1078mm FFL**) + 1x **~1000 x 2078mm** single-leaf, **half-glazed** aluminium door. External blinds for summer shading.
-*   **Clerestory Logic:** The 300x1500mm fixed windows are factory-cut into the SIPs at a **1995mm FFL** top datum. Fixed panes have zero air leakage; the dMVHR provides all ventilation. ~1695mm of uninterrupted wall below takes tool racks and machinery.
+*   **Opening Schedule:** sizes, positions and cut-out heights for every opening are in **§1.0a (4. Factory-Cut Openings)**. Not repeated here.
+*   **Clerestory Logic:** The 300x1500mm fixed windows sit high (heights §1.0a). Fixed panes have zero air leakage; the dMVHR provides all ventilation. ~1695mm of uninterrupted wall below takes tool racks and machinery.
 *   **West Façade 'Workbench Panorama' Layout:** **Even rhythm**: three equal ~1000mm openings separated by **four equal 481mm solid SIP piers**, door at the **right (South) end** when seen from outside. Across the **4924mm** SIP core (viewed from outside, right to left):
     *   **Right Corner Pier:** **481mm** solid SIP (~341mm visible internally after the 140mm side-wall buildup).
     *   **Main Door:** **~1000mm** opening (doorset outer frame + fitting tolerance). **[OPEN: set the exact width from the chosen supplier's doorset before the SIP order. Spread any difference equally across the four piers; do not add it to one corner.]**
@@ -360,15 +367,14 @@ Heights from **Datum Zero (0.00mm = Highest Adjacent Ground)**. All walls sit on
     *   **Left Corner Pier:** 481mm solid SIP (~341mm visible internally).
     *   *Check:* 481 + 1000 + 481 + 1000 + 481 + 1000 + 481 = **4924mm**.
     *   *Structural logic:* the West ring-beam screws P07 / P11 sit **1665mm** from each wall end (1595mm / 3189mm grid + ~70mm offset to the SIP outer face). The two inner piers span **1481–1962mm** and **2962–3443mm** from the South end, so **each lands directly over a screw**. Jamb loads from the roof go straight down the pier into a screw, every opening sits about mid-span between screws, and the door jambs sit beside fixed points instead of over a flexing section of ring beam. Every pier is ≥ 400mm, which leaves room for jamb studs and frame fixings.
-    *   *Vertical Datum:* Door and window heads at **2078mm FFL** (178.5mm head zone). Window sills at **1078mm FFL** leave ~183mm above a 900mm workbench or desk.
-*   **Door Mechanism:** **Single-leaf** thermally broken aluminium doorset, **900mm leaf**, outer frame ≤ **2078mm FFL**. UK off-the-shelf doorsets stop at ~920mm frame width (~816mm leaf, ~760mm clear); a 900mm leaf is a routine *made-to-order* aluminium size (systems reach ~1200mm leaves), sized below the maximum to tolerate small frame movement. The cam-action multi-point lock compresses continuous gaskets on all four sides.
+    *   *Vertical Datum (§1.0a):* the 1078mm FFL window sills leave ~183mm above a 900mm workbench or desk.
 *   **Movement-Tolerant Door Installation (small differential movement of the screw foundation):** The aluminium frame is stiff and does not absorb movement; fixed rigidly, it loads up until the leaf binds, the gaskets lose compression (air and sound leaks) or the corner cleats open. Opening movement is taken up by **installation gaps and adjustable hardware, not the frame**:
     *   **Gaps:** ~10mm at each jamb, **~15mm at the head**. The sill is fully bedded and packed on the riser block (load path).
     *   **Fixings:** jamb fixings only (3 per jamb, packer behind each). **No rigid fixings through the head**: sliding or slotted head restraint, or the frame's head clip.
     *   **Seals:** pre-compressed expanding foam tape rated for joint movement (e.g., illbruck TP600 / Pro Clima expanding tape); internal airtight tape (Pro Clima Contega SL / Tescon Profil) with a **~10mm movement fold at the head**. Never rigid PU gun-foam as the only seal.
     *   **Hardware:** **3D-adjustable hinges** (±2–3mm side, height and compression) and **adjustable lock keeps** take up **2–3mm** of distortion by adjustment; the gaps take ~10mm before the frame is loaded.
     *   **Monitoring:** record the opening **diagonals** and a level line across the sill at install. Re-measure after the first winter and summer. Diagonal change **≤3mm**: re-adjust hinges and keeps. **>3mm** or recurring: check the ring-beam levels at the screw heads.
-*   **Threshold Riser Block:** A treated **42mm x 150mm C24 timber riser block** (or high-density threshold packer) across the ~1000mm opening, over the DPC / sole plate (-25mm), lifts the door frame base to **+17mm FFL**, flush with the floor.
+*   **Threshold Riser Block:** A treated **42mm x 150mm C24 timber riser block** (or high-density threshold packer) across the ~1000mm opening, over the DPC / sole plate (-25mm), lifts the door frame base flush with the floor (FFL; cut-out bottom at the panel base, §1.0a).
 *   **Flush Threshold Drainage:** An Aco HexDrain Channel flush with the external patio in front of the door. RIW Flexiseal liquid moisture barrier over the threshold junction.
 
 ---
