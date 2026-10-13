@@ -1766,3 +1766,64 @@
 - **Finding:** Toolstation Galvanised Ground Staples 100 × 150mm (Powapost, code 79016): £15.82 ex VAT per 50, so ~£32 per 100, verified 13 Oct 2026. Alternatives: GCL Products 3 × 150mm U-pins (100-pack price not shown online); B&Q BLOSTM 100-pack (out of stock).
 - **Action Taken:** `jewson-pit-perimeter-order.md`: ExtraFix struck out; 3 packs of Toolstation staples added (£47.46 ex VAT). The Jewson subtotal drops to ~£390 + washers. `WORKPLAN.md` and `MASTER_PLAN.md` §1.1 peg references updated.
 - **Hand-off to @foreman:** order 3 packs from Toolstation, or ask the Jewson account manager to match ~£32 per 100.
+
+## Date: 2026-10-13 (West boards tight to soil)
+**Agent:** @architect → @foreman
+**Task:** West retaining boards bear directly on the soil, with no gap behind
+- **Trigger:** User wants the West face boarded straight onto the soil, with no backfilled gap.
+- **Action Taken:**
+  - `WORKPLAN.md` Saturday:
+    - Earth face trimmed 22mm behind the string (±5mm, checked with a straight-edge and level), so the westward extension is ~376mm (was ~423mm).
+    - Stakes go in ~55 × 50mm pockets cut into the face, their pit face flush with the soil, so the boards bear on soil and stakes alike.
+    - Hollows found by tapping are packed with rammed spoil. The pea gravel step is deleted.
+  - `MASTER_PLAN.md` §1.1: pit footprint and board fixing updated; the UC4 confirmation is now marked essential.
+  - Order list: the 6 pea gravel handy bags are dropped; the Jewson subtotal is ~£345 + washers.
+- **Note:** board inner face, clearance (200mm) and quantities are unchanged. The rodent mesh flare and the geotextile are unaffected.
+- **Self-verification:** Sequence unchanged. Timber now in direct clay contact, so it relies on UC4 treatment (open item). **Pass with open item.**
+
+## Date: 2026-10-13 (ventilated gap cover)
+**Agent:** @architect → @foreman
+**Task:** Close the open gap between the ring beam and the pit edge
+- **Trigger:** The user asked how the ~200mm gap closes against the building. The plan only had a vertical slatted sub-skirt, which left an open slot from the skirt to the pit edge. User chose a horizontal slatted cover.
+- **Action Taken:**
+  - `MASTER_PLAN.md` §1.1: "Ventilated Sub-Skirt" replaced by **Ventilated Gap Cover (Slatted Lid)**.
+    - 26 × 118mm treated redwood decking, perpendicular to the wall, 15mm gaps, tops at -25mm.
+    - 47 × 50mm ledgers with tops at -51mm: wall ledger on the ring beam face (-51 to -101mm, over the mesh); pit-side ledger on the West boards, on stakes East/North, on the concrete (CT1) or stakes South.
+    - Screwed with A2 stainless, so it can be lifted.
+  - Rodent mesh fixing row moved from -50mm to **-110mm** (MASTER_PLAN §1.1 and WORKPLAN mesh step 3) to keep the ledger band clear.
+  - `WORKPLAN.md` Week 8: new 7-step Gap Cover build after the cladding, with scaffold boards over the gap until then. Phase 3 overview updated.
+  - Order file §4: later order of ~£440 + ledger + 5 × 100mm screws.
+- **Self-verification:**
+  - Red Line: no change. **Pass.**
+  - Weather-Tight: the drip discharges through the slats into the void; the pit is proven dry. **Pass.**
+  - Sequence: mesh (Weekend 2) → starter track (Week 6) → cladding → gap cover (Week 8); ledger band kept clear of the mesh fixings. **Pass.**
+  - Ventilation: ~11% open area over ~4m². **Pass.**
+- **Hand-off to @foreman:** done in `WORKPLAN.md`. Fix the mesh at -110mm in Weekend 2, not -50mm.
+
+## Date: 2026-10-13 (mesh round the screw heads)
+**Agent:** @architect → @foreman
+**Task:** Rodent mesh detail at the RADIX 76mm ground screws (140mm heads)
+- **Trigger:** User asked how the mesh gets past the 140mm screw heads.
+- **Geometry:** screw centres 70mm inside the ring beam outer face, so a 140mm head finishes flush with the face line. The NMD ±50mm location tolerance, or the quoted 220mm top plates (+40mm), push it out. The 76mm shaft stays 32mm inside the face line.
+- **Action Taken:** `WORKPLAN.md` mesh step 4 rewritten:
+  - Measure the projection p at each of the 10 perimeter screws.
+  - p ≤ 0: straight drop. p ≤ ~10mm: bulge over the head, no cuts.
+  - p > 10mm: a continuous horizontal step-out of p + 10mm at -125mm along that whole side, with strips ≥ 460mm + p wide (third roll if needed). No slots round the heads.
+  - `MASTER_PLAN.md` §1.1 mesh row synced.
+- **OPEN:** the plan text says "U-brackets"; the NMD spec (`comms/2026-10-12_nmd_screws-layout_final.pdf`) says RADIX PRO with **220mm top plates**. User to confirm what is fitted under the ring beam. This sets p and the M10 bolting detail.
+- **Hand-off to @foreman:** measure p on all 10 perimeter screws once the ring beam is bolted, before cutting the mesh strips.
+
+## Date: 2026-10-13 (220mm top plates confirmed)
+**Agent:** @architect → @foreman
+**Task:** Ground screws carry RADIX PRO 220mm top plates (not U-brackets)
+- **Trigger:** User confirmed the 220mm top plates (as in the NMD spec).
+- **Action Taken:**
+  - **Mesh:** each plate projects ~40mm past the ring beam outer face (+ position error), so **every side steps out**. WORKPLAN mesh steps 1, 2, 4 and 6 rewritten:
+    - measure p per side;
+    - strips 460mm + p (~500mm), one per roll;
+    - profile 125 vertical → p + 10 step → 175 vertical → ≥150mm flare.
+  - **Order:** mesh goes from 2 to **4 × 6m rolls** (£83.20; the 30m roll is £87.70). MASTER_PLAN §1.1 mesh row synced.
+  - **Structure (wording only):** MASTER_PLAN ring beam row, lamination screw start point and corner support note, and the WORKPLAN Weekend 2 bolting line, no longer say U-brackets.
+  - **Gap cover:** the wall ledger recesses now refer to any plate fixing visible on the beam face.
+- **OPEN:** beam-to-plate fixing method (coach screws through the plate holes, or angle cleats) to confirm with No More Digging / the engineer before Weekend 2.
+- **Hand-off to @foreman:** order 4 mesh rolls; get the fixing method answered before the ring beam goes down.
