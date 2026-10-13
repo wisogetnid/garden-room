@@ -1697,3 +1697,72 @@
   - CAD (`garden-room-v2.FCStd`) checked: no -25mm values.
 - **Not changed:** older site journal entries stay as the historical record.
 - **Hand-off to @foreman:** none. Wording only; the levels already matched the plan.
+
+## Date: 2026-10-12
+**Agent:** @architect → @foreman
+**Task:** Floor finish deck: 18mm birch plywood replaces OSB3 + paint
+- **Trigger:** User chose 18mm engineered wood panels instead of the 18mm OSB3 T&G and 2mm floor paint.
+- **Action Taken (`MASTER_PLAN.md`):**
+  - §1.2 and §3.1: **18mm exterior birch plywood BB/BB** (EN 636-2/3, 2440 × 1220mm, square edge) glued with D4 to the Caberdek and screwed into the joists, joints staggered ≥300mm from the Caberdek joints. Clear hard-wax oil or lacquer finish. 7 sheets.
+  - The 40mm laminated slab and machine point-load role are unchanged.
+  - **FFL +42mm → +40mm**, and every FFL-based figure moves by 2mm:
+    - Openings: West tops 2080mm FFL, sills 1080mm; clerestories 1997 / 1697mm FFL; door -40mm.
+    - dMVHR centre 1431mm FFL (core 1566 / 1296mm; housing ~1301–1961mm).
+    - Ceilings 2218.5 / 2161.7mm (average 2190.1mm); volume 31.81m³.
+    - Machine pads +40 to +55mm; door mid-rail ~1080mm.
+  - Datum and panel-base heights are unchanged, so the SIP order is unaffected.
+  - HTC stays ~24.42 W/K and floor U ~0.23 W/m²K.
+- **Threshold:** a 47mm sole plate now stands 7mm above FFL (was 5mm). The risk flag now says to plane it down to +40mm.
+- **Also fixed:** `glazing_impact_breakdown.md` door and clerestory heights.
+- **Hand-off to @foreman:** done in `WORKPLAN.md` Phase 4:
+  - Birch plywood laid as the load-spreader and the finished floor: ~36kg sheets, two-person lift, protected with hardboard / Correx during fit-out.
+  - Oil or lacquer finish after the dusty work.
+  - Threshold plane-down target is now +40mm.
+
+## Date: 2026-10-13
+**Agent:** @architect → @foreman
+**Task:** Pit perimeter SOP: gravel boards, geotextile and rodent mesh, plus a Jewson order list
+- **Trigger:** Ground screws are in. The user asked for detailed steps to set out the pit perimeter with gravel boards, geotextile and rodent mesh, a Jewson material list, and a tool check.
+- **Action Taken:**
+  - `WORKPLAN.md` Week 2: the four pit bullets are replaced by a step-by-step procedure:
+    - Saturday: set out from the screw centre lines (board inner face 270mm out; 3808 × 5324mm; diagonal 6546mm), trim the earth face, stakes at ≤900mm, two courses of 150 × 22mm boards with a cut plan, pea gravel backfill.
+    - Sunday: geotextile in 2 × 4.75m pieces with a 300mm lap, Flashband collars at the screws, CT1 on the slabs, up and over the boards to ~250mm beyond the ring beam.
+    - The rodent mesh bullet is expanded: 450mm strips, 295 + 155mm "L", A2 screws and penny washers at 300mm, 50mm below the top, 6mm drill-bit test.
+  - `MASTER_PLAN.md` §1.1: retaining boards changed to Jewson 150 × 22mm in two courses (was 150 × 32 / 200 × 47) with stakes behind the boards. The pit earth face is now 3946 × 5462mm, and the westward extension 354 → ~423mm. Geotextile fixings updated (CT1 on concrete, Flashband collars, pegs). Mesh spec: 19g preferred, 23g minimum; 2 × 6m × 900mm rolls.
+  - New `research/suppliers/jewson-pit-perimeter-order.md`: Jewson SKUs and prices (~£864 materials), items Jewson doesn't stock (6mm mesh, line pins, cut gloves), and tools to buy (8m tape, aviation snips).
+- **OPEN RISK FLAG (pit drainage):** the -300mm clay pit has no outlet and can pond under the ring beam. User to decide on a fall and an outlet (sump, or pipe to the French drain) before the geotextile goes down. Logged in MASTER_PLAN §1.1.
+- **OPEN:** UC4 confirmation for the Jewson gravel boards and pegs (use class not stated online). Mesh gauge: source 19g if possible.
+- **Self-verification:**
+  - Red Line: no change to the thermal envelope. **Pass.**
+  - Weather-Tight: the membrane is permeable and the boards are pea-gravel backed; ponding is flagged. **Pass with flag.**
+  - Sequence: boards → membrane → ring beam → mesh → starter track. The mesh needs the ring beam face; the membrane goes in before the ring beam closes access to the screw collars. **Pass.**
+  - Heave void: no gravel ballast; floor ≤ -300mm, so 175mm clear. **Pass.**
+- **Hand-off to @foreman:** done in `WORKPLAN.md`. Place the Jewson order and the mesh order this week. Confirm the drainage decision before Sunday's membrane.
+
+## Date: 2026-10-13 (revision)
+**Agent:** @architect → @foreman
+**Task:** Pit perimeter: only the West face gets boards
+- **Trigger:** The user reported the pit as dug: the South and East sides already have a ~400mm trench at -300mm, measured from the screws. On the South side, concrete stands ~300mm from the screws. Only the West face needs retaining.
+- **Action Taken:**
+  - `WORKPLAN.md` Week 2:
+    - Saturday is now West face only: string line 270mm outside P03–P14, trim the earth face, ~10 stakes, two courses of one 3.6m board + one ~1.8m piece, ~6 bags of pea gravel. The diagonal check is dropped; the screws already fix the square.
+    - Sunday's geotextile: measure first; pieces ~4.8m (3938mm floor + 470mm West + 400mm East). Up the earth faces on the East and North, CT1 up the South concrete. Use the 11.1m Drivetex roll if a piece needs more than 5.0m.
+  - `MASTER_PLAN.md` §1.1: as-dug faces recorded. Board quantity cut to 2 × 3.6m + 2 × 3.0m and ~10 stakes. Geotextile fixing per face.
+  - `jewson-pit-perimeter-order.md`: quantities revised; materials ~£864 → **~£531** + washers.
+- **Assumption:** the 400mm and 300mm figures are from the screw centres, so ~330mm and ~230mm clear of the ring beam. Both are inside the 150–400mm band.
+- **Still open:** pit drainage risk flag. UC4 confirmation for the boards and stakes.
+- **Self-verification:** Sequence and heave void unchanged. **Pass.**
+
+## Date: 2026-10-13 (drainage closed)
+**Agent:** @architect → @foreman
+**Task:** Close the pit drainage risk flag
+- **Trigger:** The user confirmed the open pit and trenches show no puddles, even after heavy rain.
+- **Action Taken:** `MASTER_PLAN.md` §1.1: the risk flag is replaced by a closed note, keeping the fallback (fall + sump or pipe to the French drain) in case ponding ever appears. `WORKPLAN.md` Week 2: Saturday step 1 marked done; Sunday lockdown no longer asks for a ponding check.
+- **Hand-off to @foreman:** none; the geotextile goes down as planned.
+
+## Date: 2026-10-13 (peg supplier)
+**Agent:** @librarian → @foreman
+**Task:** Cheaper membrane pegs than Jewson ExtraFix (£70.68 per 100)
+- **Finding:** Toolstation Galvanised Ground Staples 100 × 150mm (Powapost, code 79016): £15.82 ex VAT per 50, so ~£32 per 100, verified 13 Oct 2026. Alternatives: GCL Products 3 × 150mm U-pins (100-pack price not shown online); B&Q BLOSTM 100-pack (out of stock).
+- **Action Taken:** `jewson-pit-perimeter-order.md`: ExtraFix struck out; 3 packs of Toolstation staples added (£47.46 ex VAT). The Jewson subtotal drops to ~£390 + washers. `WORKPLAN.md` and `MASTER_PLAN.md` §1.1 peg references updated.
+- **Hand-off to @foreman:** order 3 packs from Toolstation, or ask the Jewson account manager to match ~£32 per 100.

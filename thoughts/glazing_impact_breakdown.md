@@ -12,9 +12,9 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Fixed clerestories** (N ×1, S ×1, E ×2) | 4 × 300 × 1500mm (1.80m²) | **uPVC**, white, BS EN 12608 Class A, glazed directly into the frame (no dummy sash) | **D-AC:** 6mm toughened / 16mm argon, warm edge / 8.8mm acoustic-PVB laminated Low-E | ~1.5 W/m²K | ~38 dB |
 | **West fixed windows** | 2 × 1000 × 1000mm (2.00m²) | **uPVC**, white or heat-reflective foil (no dark standard foil on the West) | **D-AC** (as above) | ~1.3 W/m²K | ~38 dB |
-| **West entrance door** | 1 × **single leaf, 900mm**; doorset ~1000 × 2078mm (2.08m²); ~800mm clear | **Thermally broken marine aluminium** (Qualicoat Seaside), 316 / BS EN 1670 Grade 5 hardware, 3D-adjustable hinges | **Half-glazed:** upper vision panel ~0.65m², **D-STD** 4mm toughened / 16mm argon / 4mm toughened Low-E; lower insulated aluminium infill panel (≥28mm) | ~1.3 W/m²K | ~32 dB (~34 with optional drop seal) |
+| **West entrance door** | 1 × **single leaf, 900mm**; opening ~1000 × 2080mm (2.08m²); ~800mm clear | **Thermally broken marine aluminium** (Qualicoat Seaside), 316 / BS EN 1670 Grade 5 hardware, 3D-adjustable hinges | **Half-glazed:** upper vision panel ~0.65m², **D-STD** 4mm toughened / 16mm argon / 4mm toughened Low-E; lower insulated aluminium infill panel (≥28mm) | ~1.3 W/m²K | ~32 dB (~34 with optional drop seal) |
 
-**No side panel.** The SIP door opening is cut to the single-leaf doorset (~1000mm). The West façade uses an even rhythm: door (right / South end, seen from outside) and two windows, all ~1000mm, separated by four equal 481mm piers. The inner piers land over ground screws P07 / P11 (see MASTER_PLAN §2.7). The door mid-rail sits at ~1078mm FFL, level with the window sills. The exact width is set from the chosen supplier's doorset size before the SIP order.
+**No side panel.** The SIP door opening is cut to the single-leaf doorset (~1000mm). The West façade uses an even rhythm: door (right / South end, seen from outside) and two windows, all ~1000mm, separated by four equal 481mm piers. The inner piers land over ground screws P07 / P11 (see MASTER_PLAN §2.7). The door mid-rail sits at ~1080mm FFL, level with the window sills. The exact width is set from the chosen supplier's doorset size before the SIP order.
 
 **Whole building:** glazed and door area **5.88m²**, area-weighted Uw **~1.36 W/m²K**, glazing heat loss **8.00 W/K**, HTC **24.54 W/K** (after the 2026-10-11 taller-wall revision), **~£62/yr** heating. Cost ballpark **≈ £2.8–5.5k supply only** (§9).
 
@@ -27,7 +27,7 @@
 | **Regulation** | The building is exempt from the Building Regulations (Schedule 2, Class VI; confirmed by IoW Building Control, MASTER_PLAN §1.0). Part L sets **no** U-value limit for these windows. | Double glazing is not a compliance problem. The thermal spec is a running-cost and comfort choice only. |
 | **Heating cost per W/K** | `24h × 1500 HDD ÷ 1000 ÷ SCOP 3.5 × £0.245/kWh` = **£2.52 per W/K per year**. | Each extra W/K of heat loss through glazing costs about £2.50/yr. Thermal savings cannot repay a glazing upgrade costing hundreds of pounds. |
 | **Neighbour exposure** | Neighbours are on the **North, South and East** boundaries (1m wall clearance). The **West** façade faces the user's own house. | Acoustic money goes first to the N/S/E openings. |
-| **Fence line** | The clerestory head is at 1995mm FFL ≈ **+2087mm absolute** and the sill at ≈ +1787mm, against **1.8m** boundary fences. | The clerestories sit almost entirely **above the fence**, with a direct line of sight to the neighbours' gardens. They are small but the most exposed openings. |
+| **Fence line** | The clerestory head is at 1997mm FFL ≈ **+2037mm absolute** and the sill at ≈ +1737mm, against **1.8m** boundary fences. | The clerestories sit almost entirely **above the fence**, with a direct line of sight to the neighbours' gardens. They are small but the most exposed openings. |
 | **Wall acoustic baseline** | 125mm EPS SIP, 15mm Fermacell glued direct, 60mm wood fibre, ventilated cavity, 11mm Hardie VL. Estimated **Rw ≈ 40 dB**, sensitivity case 45 dB. *(Confidence 2/5. EPS-core SIPs have a poor mass-spring-mass resonance and there is no lab test for this build-up.)* | A window is "good enough" once it passes **only a small share of the façade's sound energy**. Going beyond the wall's own Rw gains almost nothing. |
 | **Noise source** | Table saw / planer-thicknesser: **~95–105 dB(A) at 1m**, with mostly mid- and high-frequency energy. | Acoustic laminated glass (PVB damping) targets exactly this band. Low-frequency motor hum is a matter for mass and vibration isolation. |
 
@@ -133,7 +133,7 @@ The **leaf** is the opening part; the **frame** (doorset) is the fixed outer par
 | **Half-glazed (adopted)** | **~0.65m²** | **~1.3** | **2.70 W/K** | **£6.81/yr** | **~215W** |
 | Solid insulated | 0 | ~1.0 | 2.08 W/K | £5.24/yr | ~0W |
 
-**Reading:** the options differ by only ~£3/yr on heating, so the choice comes down to **summer overheating and daylight**. The half-glazed leaf cuts peak door solar gain by ~230W, which matters in a 31m³ room that already has machine heat. It still keeps a vision panel at standing eye height (mid-rail ~1078mm FFL, level with the window sills).
+**Reading:** the options differ by only ~£3/yr on heating, so the choice comes down to **summer overheating and daylight**. The half-glazed leaf cuts peak door solar gain by ~230W, which matters in a 31m³ room that already has machine heat. It still keeps a vision panel at standing eye height (mid-rail ~1080mm FFL, level with the window sills).
 
 ### 6.3 Movement-Tolerant Installation (Small Foundation Movement)
 

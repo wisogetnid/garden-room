@@ -101,3 +101,7 @@ The engineer approved 8 × 140mm stainless lamination screws at 150mm alternatin
 **Context:** Ground screws installed with heads at -135mm (spread up to 7mm), set 150mm above the highest point of the dig-out as agreed with No More Digging.
 **Decision:** 10mm packers on the bracket seats put the ring beam at -125mm to 0mm (top = Datum Zero). Sole plate, DPC and starter track at 0mm; XPS skirt 0 to +180mm; FFL +42mm. Wall SIPs 2273.5mm (West) / 2216.7mm (East); external height stays at 2480mm. Supersedes the -25mm sole plate / +17mm FFL levels of 2026-10-11.
 **Result:** All build heights read from 0mm. Headroom drops 25mm (ceilings 2216.5 / 2159.7mm FFL). Gravel margin stays below the starter track (< 0mm).
+
+## [Date: 2026-10-12] - Birch Plywood Floor Replaces OSB3 + Paint
+**Decision:** 18mm exterior birch plywood BB/BB (engineered wood panel) replaces the 18mm OSB3 T&G and 2mm epoxy / PU floor paint. It is glued and screwed to the Caberdek as before and finished with clear hard-wax oil or lacquer.
+**Result:** FFL drops from +42mm to +40mm, giving +2mm headroom (ceilings 2218.5 / 2161.7mm). All FFL heights move 2mm; panel-base and datum heights are unchanged. Extra cost ~£600–1,100 over OSB (web prices).
