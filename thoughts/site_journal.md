@@ -1958,3 +1958,10 @@
 - **Supersedes** the open risk entry above on the T-halvings. The departure from the 26C070/1 hanger note is still flagged in §1.2.2 (no engineer review).
 - **Foreman:** buy a 45° drilling guide; source the 8 × 160mm fully threaded screws with the lamination screws (specialist supplier); no bearing packer under the internal beam ends (dropped by the user, 18 Oct 2026).
 - **Strategist:** re-run the sequence and Red Line tests on Weekend 2. No change to the thermal envelope.
+
+## Date: 2026-10-18 (floor joists at ~342mm, 125mm PIR)
+**Agent:** @architect → @foreman, @strategist
+- **Changed:** `MASTER_PLAN.md` §1.2 Floor Joists (10 single lines, set-out positions, 30 pieces, 48 + 4 hangers) and Primary Insulation (125mm PIR, 4 strips per board, stainless band support, thickness check, 5 boards); §3.1 Structural Joist Reinforcement (sister joists under machines only; twins dropped) and Restraint Straps (48 noggins, 4 × 4.8m); §7 floor build-up 125mm. `WORKPLAN.md` Weekend 2 (joist set-out, single joists, noggins) and Insulation Support & Drop (band, 125mm PIR cut plan). `comms/Jewson_Materials_List.csv` rows updated; twin packer row removed. New `research/suppliers/floor-frame-material-list.md` (known total ~£999 ex VAT).
+- **Foreman:** mark the 10 joist centres before hanging; fit the fixing band from the pit side before decking; measure PIR thickness before cutting; fix machine positions before the PIR goes in if any sister joists are needed.
+- **Open:** confirm 125mm PIR stock and Isle of Wight delivery (several suppliers out of stock); check the Wickes strap is really 1200 × 30 × 5mm; hanger and nail prices.
+- **Strategist:** Red Line unchanged (floor PIR still meets the lower XPS strip at the ring beam). Sequence: band before PIR, PIR before deck. Pass expected.
