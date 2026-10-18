@@ -105,3 +105,14 @@ The engineer approved 8 × 140mm stainless lamination screws at 150mm alternatin
 ## [Date: 2026-10-12] - Birch Plywood Floor Replaces OSB3 + Paint
 **Decision:** 18mm exterior birch plywood BB/BB (engineered wood panel) replaces the 18mm OSB3 T&G and 2mm epoxy / PU floor paint. It is glued and screwed to the Caberdek as before and finished with clear hard-wax oil or lacquer.
 **Result:** FFL drops from +42mm to +40mm, giving +2mm headroom (ceilings 2218.5 / 2161.7mm). All FFL heights move 2mm; panel-base and datum heights are unchanged. Extra cost ~£600–1,100 over OSB (web prices).
+
+## [Date: 2026-10-14] - Starter Track Lowered to -125mm; XPS Skirt -125 to +175mm
+**Context:** The ring beam outer face (0 to -125mm) was bare timber below the starter track: an un-insulated Red Line gap between the floor PIR (inside the beam) and the wall insulation (from 0mm).
+**Decision (user):** Starter track at the ring beam underside (-125mm). 60mm XPS skirt from -125 to +175mm, using full 600mm-wide boards ripped into two 300mm strips (1250 × 600mm boards; Jewson has none: Kingspan GreenGuard GG300 from Insulation Superstore). Fitted as a 125mm lower piece (Weekend 2) and a 175mm upper piece (Week 6). Wood fibre now starts at +175mm (~200mm above the cover/gravel).
+**Consequences:** rodent mesh goes in front of the XPS and drops straight past the 220mm top plates (back to 2 rolls); gap-cover wall ledger on the XPS face with 150mm A4 EWI screws; Tyvek ends at 0mm on the XPS face; starter track and lower XPS move to Weekend 2.
+**Open:** confirm with New Forest SIPs that the lower strip doesn't clash with their DPC/sole plate fixings; confirm the wood fibre maker's minimum base height.
+
+## [Date: 2026-10-18] - Internal Beam Ends: Inclined Screws Replace T-Halvings
+**Decision (user):** The internal E-W beams butt square, full depth, against the East/West ring beam inner faces over P04/P07/P08/P11 (cut 3125mm), held by 2 × 8 × 160mm fully threaded structural screws per end, driven at 45° from the beam top, 55mm back from the end. No notch in either beam. Ring beam to plate at those four screws: one outer-face bracket plus coach screws from below if the plate holes allow.
+**Why:** The engineer is no longer available. The T-halving cut the continuous East/West beam to half depth over a support (hogging zone), and the concealed hanger option would have taken the inner face needed by the plate fixing.
+**Result:** ~6 kN design vertical per end vs ~3 kN ULS. The 16 T-halving screws drop out (corner screws: 16 + ~24 edge joists, box of 50). **Open:** screw supplier and A4 availability; departs from the 26C070/1 hanger note without engineer review.

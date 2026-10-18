@@ -1827,3 +1827,134 @@
   - **Gap cover:** the wall ledger recesses now refer to any plate fixing visible on the beam face.
 - **OPEN:** beam-to-plate fixing method (coach screws through the plate holes, or angle cleats) to confirm with No More Digging / the engineer before Weekend 2.
 - **Hand-off to @foreman:** order 4 mesh rolls; get the fixing method answered before the ring beam goes down.
+
+## Date: 2026-10-14
+**Agent:** @architect → @foreman
+**Task:** West face boarded in two stages; clearance stays 200mm
+- **Trigger:** User kept the 200mm West clearance (dropped the 100mm idea) and chose staged boarding: bottom board now, soil cut back at 45° above it, top board later, to keep room for screwing into the ring beam.
+- **Action Taken (`WORKPLAN.md`):**
+  - Saturday is now Stage 1: full-height stakes, earth face trimmed plumb for the bottom 150mm only with a 45° slope above, bottom course only. The cut plan covers both courses.
+  - Sunday: the West membrane runs up the bottom board, over its top and up the slope.
+  - New "West Face, Stage 2" block after the rodent mesh:
+    - fit the West gap-cover wall ledger early, while the slope gives ~270–320mm of room (a 5 × 100mm screw won't go in sideways in a 200mm gap);
+    - pre-assemble the top board with the gap-cover outer ledger on the bench (screwed from the back);
+    - fix it to the stakes above and below the ledger;
+    - backfill the wedge with rammed spoil.
+  - Week 8 gap cover: the West ledgers are marked as already fitted.
+- **Also fixed:** the earlier West pit-side ledger detail (5 × 100mm screws driven sideways in a 153mm gap) wasn't buildable. The bench pre-assembly replaces it.
+- `MASTER_PLAN.md` §1.1: staged West boarding noted.
+- **Self-verification:** Sequence: beam → mesh → West wall ledger → top board + outer ledger → backfill → joists/PIR. Every sideways screw now has room for a driver. **Pass.**
+
+## Date: 2026-10-14 (perimeter order list)
+**Agent:** @librarian → @foreman
+**Task:** Bring `research/suppliers/jewson-pit-perimeter-order.md` in line with this week's decisions
+- **Changes:**
+  - Added a "When" column (Stage 1 / Sunday / Weekend 2).
+  - Moved the West gap-cover ledgers (~11m 50 × 47mm) and the A2 5 × 100mm screw pack into this order, since they are needed by Weekend 2. §4 now covers South/East/North only (~29m ledger).
+  - SPAX 4 × 50mm count rechecked (~145, 1 box).
+  - Mesh confirmed at 4 rolls.
+  - Advent 8m tape dropped: Stanley FatMax THSTAN15 is already on `comms/Jewson_Materials_List.csv`.
+  - Optional right-angle attachment added.
+- **Totals:** Jewson ~£345 + ledger + washers; other suppliers ~£131 + 5 × 100mm screws, line, gloves; snips £33.42.
+- **Noticed, not changed:** `comms/Jewson_Materials_List.csv` still has a "U-Bracket Bolts" row (M10 A4 bolts, ~28 sets) that no longer applies with the 220mm top plates. Waiting on the beam-to-plate fixing answer from No More Digging.
+
+## Date: 2026-10-14 (rebar pins replace timber stakes)
+**Agent:** @architect → @foreman
+**Task:** West retaining boards held by 16mm rebar pins instead of timber stakes
+- **Trigger:** User chose rebar over timber stakes (outlasts the boards). User's 3–5 bars were raised to ~9: at 1.35m spacing a 22mm board bows ~15mm under clay pressure, against ~3mm at ≤900mm. 16mm, not 12mm, for bending as a short cantilever post.
+- **Action Taken:**
+  - `WORKPLAN.md` Saturday steps 6–8: pins driven 300mm into the floor on the pit side at ≤900mm + one each side of every joint; boards slide in behind; no screws, no pockets. Slab fallback: SDS 16mm hole + CT1.
+  - Sunday: the membrane is screwed to the board itself.
+  - Stage 2: the top board drops in behind the pins; the outer ledger gets a 20mm groove at each pin.
+  - `MASTER_PLAN.md` §1.1 board row and pit footprint updated.
+  - Order: 2 × FNRERD80 (£38.90) replace 10 × FEG47STD (£53.80). The SPAX count drops to ~100 (still 1 box). Grinder only if the branch won't cut. Jewson subtotal ~£330 + ledger + washers.
+- **Unchanged:** East/North gap-cover ledgers (Week 8) stay on timber stakes, since the ledgers screw to them.
+
+## Date: 2026-10-14 (geotextile swap)
+**Agent:** @librarian → @foreman
+**Task:** Wrekin MultiTrack non-woven unavailable; switched to Groundtex woven LSGGWF45
+- **Change:** Groundtex woven polypropylene, 11.1 × 4.5m, £93.10 (was £151.69). Adequate for a dark, dry, untrafficked pit. The longer roll removes the 5.0m piece limit.
+- **Action Taken:**
+  - `WORKPLAN.md` Sunday step 1: Groundtex roll; West allowance recalculated for the 45° slope (~460mm); new handling notes (fold cut edges under, staple folds, avoid nicks). Step 2: the X-cut must pass the 220mm top plates.
+  - `MASTER_PLAN.md` §1.1 geotextile row synced.
+  - Order: Jewson subtotal ~£272 + ledger + washers.
+
+## Date: 2026-10-14 (glue on woven membrane)
+**Agent:** @architect → @foreman
+**Task:** CT1 on the woven polypropylene membrane
+- **Finding:** hybrid MS-polymer adhesives (CT1) don't bond reliably to polypropylene. The non-woven felt keyed into the adhesive; the smooth woven tapes don't.
+- **Action Taken:** `WORKPLAN.md` Sunday steps 4–6 and `MASTER_PLAN.md` §1.1:
+  - no fixing in the field over slabs;
+  - laps planned to land on soil (stapled);
+  - edges ending on concrete held with CT1 "rivet" dabs (under + over, locking through the weave) at ~300mm, or masonry screws + penny washers.
+  - Order note updated; CT1 quantity unchanged.
+
+## Date: 2026-10-14 (Jewson availability: pins and washers)
+**Agent:** @librarian → @foreman
+**Task:** Jewson can't supply the 16mm rebar (FNRERD80) or the A2 M6 penny washers (LFWPSS06)
+- **Replacements:**
+  - **Prosolve steel road form pins, 16mm × 600mm, pointed** (PV-RP1600): The Safety Supply Company, £2.80 ex VAT each, 10 off; also MKM B093732. Pre-cut, so no grinder. Mild steel (not HT), still adequate for 300mm of clay at ≤900mm.
+  - **Apex A2 penny washers M6 × 25 × 1.5mm**, pack of 100: Toolstation 29575, £9.66 ex VAT.
+- **Action Taken:** order file §1/§2 updated (Jewson ~£233 + ledger; other suppliers ~£169 + pin delivery, screws, line, gloves); angle grinder row removed. `WORKPLAN.md` step 6 and `MASTER_PLAN.md` §1.1 now specify road form pins.
+
+## Date: 2026-10-14 (ring beam face below the starter track)
+**Agent:** @architect → @user
+**Task:** User asked whether the ring beam below the starter track is open
+- **Finding:** yes. The starter track and XPS start at 0mm; the ring beam outer face (0 to -125mm) is bare timber behind the mesh, wall ledger and slats. That's fine for moisture (sheltered, ventilated void), but it's an un-insulated Red Line gap between the floor PIR (inside the beam) and the wall insulation (from 0mm). Rough ~1.5–3 W/K, ~5–10% of the HTC; not calculated.
+- **Action Taken:** OPEN RISK FLAG added to `MASTER_PLAN.md` §2.3B with options: (a) accept; (b) 50–60mm XPS on the beam face, 0 to -125mm.
+- **Decision needed before Weekend 2:** option (b) changes the mesh fixing and the gap-cover wall ledger.
+
+## Date: 2026-10-14 (starter track lowered, XPS -125 to +175mm)
+**Agent:** @architect → @foreman
+**Task:** Close the ring beam Red Line gap
+- **Trigger:** User chose the starter track at -125mm and full-width XPS strips (+175mm top) after confirming 60mm XPS comes in 1250 × 600mm boards (not at Jewson online).
+- **Action Taken:**
+  - `WORKPLAN.md` Weekend 2:
+    - new "Starter Track & Lower XPS Strip" step;
+    - rodent mesh rewritten: in front of the XPS, 450mm strips, top at -15mm, A2 5 × 100mm + washers at -110mm through the XPS, no step-out, ~130mm foot on the West;
+    - West Stage 2 ledger now on the XPS face with 150mm A4 EWI screws.
+  - `WORKPLAN.md` Week 6: upper XPS 0 to +175mm, wood fibre from +175mm, Tyvek ends at 0mm. Week 8: wall ledger on the XPS face, slats ~60mm shorter, drip/check wording updated. Phase summaries synced.
+  - `MASTER_PLAN.md`:
+    - mesh, gap cover, starter track and splash skirt rows rewritten;
+    - levels table: XPS -125 to +175mm;
+    - ground clearance rule: wood fibre ~200mm above cover/gravel;
+    - Tyvek base and wood fibre start updated;
+    - Red Line flag replaced by the closed detail.
+  - Order: + XPS pack of 7 (£67.50), + 7 starter track lengths, + ~20 × 150mm A4 EWI screws (West ledger), TIMCO 5 × 100mm pack now for the mesh. Mesh down to 2 rolls. Other-supplier subtotal ~£195 + delivery, track and screws.
+  - `decisions_log.md` entry added.
+- **OPEN:** NFS to confirm no clash at the sole plate/DPC; wood fibre minimum base height; exposed XPS above ground (0 to +175mm) needs a UV-resistant finish (render, paint or cover board), not yet specified.
+- **Self-verification:**
+  - Red Line: XPS now continuous from the wall insulation down over the beam to the floor PIR. **Pass** (beam underside open to the void, by design).
+  - Weather-Tight: water runs down the XPS face to the track drip at -125mm. **Pass.**
+  - Sequence: ring beam → track + lower XPS → mesh → West ledger → Stage 2 board → … → upper XPS (Week 6) → gap cover (Week 8). **Pass.**
+
+## Date: 2026-10-14 (tarp + Torx-only screws)
+**Agent:** @librarian → @foreman
+- **Tarp:** added a 5 × 8m tarpaulin: Screwfix 391GT (on-island, Screwfix Newport), £39.99 ex VAT. Jewson has no 8m tarps (max 4 × 10m / 5.4 × 7m).
+- **Screw rule (user):** Torx / SPAX T-STAR (plus) drives only, never Pozi.
+  - Replaced the Pozi TIMCO A2 5 × 100mm with **SPAX A2 6 × 100mm washer-head T30 (Jewson SXSS6010)** for the mesh (through the XPS) and the E/N ledger-to-stake fixings.
+  - Replaced the unsourced 150mm A4 EWI ledger screws with **SPAX A2 6 × 140mm washer-head T30 (SXSS6014)**, now at 300mm centres (~32mm bite into the beam).
+  - `WORKPLAN.md`, `MASTER_PLAN.md` §1.1 and the order file updated. Generic screw lines in `comms/Jewson_Materials_List.csv` tagged "Torx / T-STAR only". The rainscreen batten EWI screws are unchanged (check their drive when sourcing).
+- **Totals:** Jewson ~£409 + ledger; other suppliers ~£235 + delivery, starter track, line, gloves.
+
+## Date: 2026-10-18 (ring beam material list: Jewson vs Sydenhams)
+**Agent:** @librarian → @foreman
+- **New file:** `research/suppliers/ring-beam-material-list.md` covers the ring beam + internal E-W beam plies, lamination/corner screws, end-grain preservative, provisional beam-to-plate fixings and packers. Web list prices ex VAT, 18 Oct 2026.
+- **Totals (like-for-like: timber + preservative):** Jewson £458.42, Sydenhams £461.58.
+- **[OPEN RISK FLAG]:** Sydenhams "47 × 125mm" C24 (WS120372003) is **45 × 120mm finished**. That gives a 135 × 120mm beam, not the 141 × 125mm on 26C070/1 (packers, screw cover and Datum Zero all affected). **Buy the plies from Jewson PAJT4712 (47 × 125mm actual).**
+- Neither merchant stocks the 8 × 140 / 8 × 100mm stainless structural screws: still SPAX UK / Timber Fixings.
+- Only Sydenhams sells stainless (A2) M10 coach screws (LF211348–54) and washers. Hold the order until No More Digging confirms the beam-to-plate fixing.
+- **Foreman:** no workplan change. Order the plies + 2 × LDR37334 from Jewson for Weekend 2.
+
+## Date: 2026-10-18 (U-brackets removed; engineer unavailable)
+**Agent:** @architect → @strategist
+- **U-bracket wording removed** from `MASTER_PLAN.md` (§1.2 Ground Screws / Heavy Ring Beam; §1.2.2 cut list and corner support), `WORKPLAN.md` (Week 1 screws, Weekend 2) and `comms/Jewson_Materials_List.csv` (the "U-Bracket Bolts" row is now "Beam-to-Plate Fixings", TBC with No More Digging). Everything now refers to the RADIX PRO 220mm flat top plates.
+- **User:** the engineer will not answer any more questions. Open items that relied on him now need a decision by the user.
+- **[OPEN RISK FLAG] Internal beam T-halvings (P04/P07/P08/P11):** besides departing from the 26C070/1 hanger note, the halving cuts the *continuous* East/West ring beam to half depth over an interior support, where it carries hogging moment from the walls. The corners don't have this problem (beam ends). Proposed alternative: a proprietary concealed beam hanger that fits inside the 125mm depth (Simpson BTALU90 or Rothoblaas ALUMIDI 80), with the ring beam left un-notched. Awaiting the user's choice; §1.2.2 is not yet changed.
+
+## Date: 2026-10-18 (internal beam ends: inclined screws)
+**Agent:** @architect → @foreman, @strategist
+- **Changed:** `MASTER_PLAN.md` §1.2.2 (internal beam plies cut to 3125mm, square ends; new "Internal Beam End Screws" row; corner-screw count; T-halving bullet replaced by internal beam end, bearing packer and outer-face plate fixing bullets). `WORKPLAN.md` Weekend 2 (cut list, packer check at P04/P07/P08/P11, outer-face brackets, inclined screw step). `comms/Jewson_Materials_List.csv` and `research/suppliers/ring-beam-material-list.md` (new screw row: not at Jewson or Sydenhams).
+- **Supersedes** the open risk entry above on the T-halvings. The departure from the 26C070/1 hanger note is still flagged in §1.2.2 (no engineer review).
+- **Foreman:** buy a 45° drilling guide; source the 8 × 160mm fully threaded screws with the lamination screws (specialist supplier); no bearing packer under the internal beam ends (dropped by the user, 18 Oct 2026).
+- **Strategist:** re-run the sequence and Red Line tests on Weekend 2. No change to the thermal envelope.

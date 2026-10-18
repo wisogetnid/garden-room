@@ -1,57 +1,98 @@
 # Jewson Order: Pit Perimeter, Geotextile & Rodent Mesh
 
-**Scope:** `WORKPLAN.md` Week 2: retaining boards (**West face only**; South, East and North stay as dug), geotextile and rodent mesh (MASTER_PLAN §1.1).
+**Scope (as of 14 Oct 2026):** `WORKPLAN.md` Week 2 and Weekend 2 (MASTER_PLAN §1.1, §2.3B).
+- **West face only** gets retaining boards, at 200mm off the ring beam, boarded in two stages: the bottom course + a 45° soil slope now, the top course after the ring beam and mesh. South, East and North stay as dug.
+- Geotextile over the whole pit floor.
+- Starter track at -125mm and the lower XPS plinth strip on the ring beam face (Weekend 2), with the rodent mesh in front of it.
+- The **West** gap-cover ledgers, which must go in at Weekend 2 while there is room to drive screws.
+
 **Prices:** Jewson web list prices read on 13 Oct 2026, apparently **ex VAT**. Account pricing, Isle of Wight delivery and "non-standard delivery area" fees are not included. Confidence 3/5: confirm at the Newport branch (Trafalgar Road or Manners View).
+
+**Screw rule (user, 14 Oct 2026):** Torx / SPAX T-STAR (plus) drives only, never Pozi or Phillips.
+
+**Not on this list:** the 8m tape (Stanley FatMax THSTAN15) and the end-grain preservative (Ronseal LDR37334) are already on the main foundation list, `comms/Jewson_Materials_List.csv`.
 
 ## 1. Materials (Jewson)
 
-| Item | Jewson SKU | Unit | Qty | Unit price | Line total | Notes |
-| :--- | :--- | :--- | ---: | ---: | ---: | :--- |
-| FSC Treated Sawn Gravel Board, Green, 3600 × 150 × 22mm | [SGGFHV36](https://www.jewson.co.uk/p/fsc-sawn-carcassing-treated-brown-3600-x-150-x-22mm-SGGFHV36) | each | 2 | £15.43 | £30.86 | West face, one per course |
-| FSC Treated Sawn Gravel Board, Green, 3000 × 150 × 22mm | [SGGFHV30](https://www.jewson.co.uk/p/fsc-sawn-carcassing-treated-brown-3000-x-150-x-22mm-SGGFHV30) | each | 2 | £12.84 | £25.68 | One cut in half for the two ~1.8m short pieces, +1 spare. **Ask the branch for UC4: the boards bear directly on clay.** |
-| FSC Sawn Treated Pointed Peg 600 × 50 × 47mm | [FEG47STD](https://jewson.co.uk/p/fsc-sawn-treated-pointed-peg-600-x-50-x-47mm-FEG47STD) | each | 10 | £5.38 | £53.80 | ~5.4m run at ≤900mm centres + ends + joints + 2 spare. Price looks high per peg: check whether it is a pack price. |
-| SPAX A2 Stainless Countersunk 4 × 50mm, box of 200 | [SXTF4050](https://www.jewson.co.uk/p/spax-flat-countersunk-head-stainless-steel-screws-50-x-4mm-silver-SXTF4050) | box | 1 | £36.64 | £36.64 | Boards to stakes (~40), membrane at stakes (~10), mesh (~70) |
-| A2 Stainless Penny Washer M6 × 25mm, pack of 200 | [LFWPSS06](https://www.jewson.co.uk/p/a2-304-stainless-steel-mudguard-penny-washer-m6-x-25mm-pack-of-200-LFWPSS06) | pack | 1 | TBC | TBC | ~80 needed (membrane at stakes, mesh at 300mm) |
-| Wrekin MultiTrack Non-Woven Geotextile, 10 × 4.5m × 1mm | [BCH06150](https://jewson.co.uk/p/wrekin-multitrack-non-woven-geotextile-membrane-10-x-4-5m-x-1mm-BCH06150) | roll | 1 | £151.69 | £151.69 | 2 × ~4.8m pieces. **Measure first:** if a piece needs more than 5.0m, buy Drivetex 11.1 × 4.5m ([LSGDGF45](https://www.jewson.co.uk/p/drivetex-heavy-duty-driveway-membrane-11-1-x-4-5m-LSGDGF45), £176.38) instead |
-| ~~ExtraFix Plastic Membrane Peg 160mm, pack of 100~~ | [LSGRGPP1](https://www.jewson.co.uk/p/extrafix-plastic-peg-160mm-long-pack-of-100-LSGRGPP1) | pack | 0 | £70.68 | — | **Replaced by Toolstation ground staples (§2)**, unless the Jewson account manager matches ~£32 per 100 |
-| Evo-Stik Flashband 100mm × 10m | [RFFGE504](https://www.jewson.co.uk/p/evo-stik-flashband-100mm-x-10m-grey-RFFGE504) | roll | 1 | £15.62 | £15.62 | Collars at the 14 screw shafts |
-| CT1 Sealant & Construction Adhesive, grey 290ml | [EQFAPH11](https://www.jewson.co.uk/p/ct1-unique-sealant-and-construction-adhesive-grey-290ml-EQFAPH11) | tube | 2 | £15.41 | £30.82 | Bonds the membrane to the slabs and the South concrete face (no SDS needed) |
-| ~~Pea Gravel / Pipe Bedding, handy bag~~ | [AGSML016](https://www.jewson.co.uk/p/pea-gravelpipe-bedding-handy-bag-AGSML016) | bag | 0 | £7.48 | — | Dropped: the West boards now bear directly on the soil, so there is no gap to backfill |
-| | | | | **Jewson materials subtotal** | **~£345 + washers** | Plus ~£47 Toolstation pegs and ~£42 mesh (§2) |
+| Item | Jewson SKU | Unit | Qty | Unit price | Line total | When | Notes |
+| :--- | :--- | :--- | ---: | ---: | ---: | :--- | :--- |
+| FSC Treated Sawn Gravel Board, Green, 3600 × 150 × 22mm | [SGGFHV36](https://www.jewson.co.uk/p/fsc-sawn-carcassing-treated-brown-3600-x-150-x-22mm-SGGFHV36) | each | 2 | £15.43 | £30.86 | Stage 1 + 2 | One per course |
+| FSC Treated Sawn Gravel Board, Green, 3000 × 150 × 22mm | [SGGFHV30](https://www.jewson.co.uk/p/fsc-sawn-carcassing-treated-brown-3000-x-150-x-22mm-SGGFHV30) | each | 2 | £12.84 | £25.68 | Stage 1 + 2 | One cut in half for the two ~1.8m short pieces, +1 spare. **Ask the branch for UC4: the boards bear directly on clay.** |
+| Regularised Treated Carcassing 50 × 47mm | [FVRT4750](https://www.jewson.co.uk/p/fsc-standard-kiln-dried-regularised-treated-carcassing-50-x-47mm-FVRT4750) | m | ~11 | TBC | TBC | Weekend 2 | West gap-cover **wall ledger** (~4.9m on the ring beam) + **outer ledger** (~5.4m, pre-screwed to the Stage 2 top board). Above ground, so UC3 is enough |
+| SPAX A2 Stainless Countersunk 4 × 50mm, box of 200 | [SXTF4050](https://www.jewson.co.uk/p/spax-flat-countersunk-head-stainless-steel-screws-50-x-4mm-silver-SXTF4050) | box | 1 | £36.64 | £36.64 | Stage 1 + Weekend 2 | T-STAR plus T20. Membrane to the West board (~6), outer ledger to top board from behind (~18) + spare; the boards need none (held by the pins) |
+| SPAX A2 Stainless Washer-Head Construction Screw 6.0 × 100mm, T30 T-STAR plus, box of 100 | [SXSS6010](https://www.jewson.co.uk/p/spax-stainless-steel-washer-head-construction-screws-t30-t-star-plus-recess-6-0-x-100mm-box-of-100-SXSS6010) | box | 1 | £79.37 | £79.37 | Weekend 2 | Rodent mesh through the 60mm XPS into the ring beam at 300mm, with penny washers (~60); Week 8 E/N ledgers to stakes (~30). Replaces the Pozi TIMCO 5 × 100mm |
+| SPAX A2 Stainless Washer-Head Construction Screw 6.0 × 140mm, T30 T-STAR plus, box of 100 | [SXSS6014](https://www.jewson.co.uk/p/spax-stainless-steel-washer-head-construction-screws-t30-t-star-plus-recess-6-0-x-140mm-box-of-100-SXSS6014) | box | 1 | £97.01 | £97.01 | Weekend 2 | Gap-cover wall ledgers through ledger + mesh + XPS into the beam at 300mm (~32mm bite): West ~17 now, S/E/N ~45 in Week 8. Replaces the unsourced 150mm A4 EWI screws |
+| Groundtex Woven Geotextile Geo Fabric, 11.1 × 4.5m (50m²) | [LSGGWF45](https://www.jewson.co.uk/p/groundtex-woven-geotextile-geo-fabric-11-10-x-4-50m-LSGGWF45) | roll | 1 | £93.10 | £93.10 | Sunday | Woven polypropylene. 2 × ~4.8m pieces + ~1.5m spare for patches. Fold cut edges under (it frays). Replaces the unavailable Wrekin MultiTrack (BCH06150, £151.69) |
+| Evo-Stik Flashband 100mm × 10m | [RFFGE504](https://www.jewson.co.uk/p/evo-stik-flashband-100mm-x-10m-grey-RFFGE504) | roll | 1 | £15.62 | £15.62 | Sunday | Collars at the 14 screw shafts |
+| CT1 Sealant & Construction Adhesive, clear 290ml | [EQFAPH13](https://www.jewson.co.uk/p/ct1-sealant-and-construction-adhesive-290ml-clear-EQFAPH13) | tube | 2 | £14.11 | £28.22 | Sunday | "Rivet" dabs (under + over, locking through the weave) where the woven membrane ends on concrete: plain bonding to polypropylene is unreliable. Also sets a rebar pin in a slab if needed. Clear chosen: grey EQFAPH11 has a 1–2 week lead time (14 Oct 2026); the colour is irrelevant out of sight |
+| | | | | **Jewson subtotal** | **~£409 + ledger** | | |
 
-**Already on order:** Ronseal Decking End Grain Protector (Jewson LDR37334) from MASTER_PLAN §1.2.2. Use it on every board and stake cut.
+**Removed since the first draft:**
+- **ExtraFix plastic pegs (LSGRGPP1, £70.68 per 100):** replaced by the Toolstation staples (§2), unless the Jewson account manager matches ~£32 per 100.
+- **Pea gravel:** the West boards bear directly on soil, and the Stage 2 wedge is backfilled with rammed spoil.
+- **Extra gravel boards** for the South, East and North faces: those stay as dug.
+- **Wrekin MultiTrack non-woven geotextile (BCH06150, £151.69):** unavailable at the branch (14 Oct 2026); replaced by Groundtex woven LSGGWF45.
+- **Timber pointed stakes for the West boards (FEG47STD, 10 × £5.38):** replaced by 16mm steel pins (14 Oct 2026). Timber stakes are still used for the Week 8 gap-cover ledgers on the East/North (§4), because those ledgers are screwed to them.
+- **16mm rebar (FNRERD80) and A2 M6 penny washers (LFWPSS06):** not available from Jewson (user, 14 Oct 2026). Replaced by pre-cut road form pins and Toolstation washers (§2).
+- **Grey CT1 (EQFAPH11):** 1–2 week lead time; replaced by clear CT1 EQFAPH13.
+- **TIMCO A2 5 × 100mm (Pozi) and 150mm A4 EWI screws:** replaced by SPAX A2 washer-head T30 6 × 100mm / 6 × 140mm from Jewson (Torx-type drives only).
+- **Two extra mesh rolls:** no longer needed now the mesh drops straight past the screw plates in front of the XPS.
 
-**Optional, only if a slab is wider than 1.2m under the board line:** Raptor 75mm Corner Brace, zinc plated, pack of 10 ([RAP11466](https://www.jewson.co.uk/p/raptor-75mm-corner-brace-zinc-plated-pack-of-10-RAP11466), £3.31) + Thunderbolt 6 × 50mm masonry screws ([TBV35141](https://www.jewson.co.uk/p/thunderbolt-countersunk-t30-torx-drive-screws-50-x-6mm-TBV35141)) + SDS drill hire from Jewson Trafalgar Road.
+**Optional, only if a slab under the West board line is wider than 1.2m:** SDS drill hire from Jewson Trafalgar Road with a 16mm bit (17–18mm for a road pin that won't go in), to set a pin ~100mm into the slab in CT1.
 
 ## 2. Not Stocked by Jewson
 
-| Item | Spec | Qty | Source (found) | Notes |
-| :--- | :--- | ---: | :--- | :--- |
-| Galvanised Welded Mesh | 6m roll, 36" (900mm) × ¼" × ¼" (6mm) | **4 rolls** (£83.20; the 30m roll, 0102309622B, is £87.70) | [FH Brundle 010269622B, 23g](https://www.fhbrundle.co.uk/products/010269622B__6m_Roll_36_x_1_4_x_1_4_x_23g_Galvanised_Welded_Mesh_Mesh_Master), £20.80 ex VAT each | Jewson's site search for welded/rodent mesh returns only plaster bead and expanded metal. **19g (1.0mm) is the better rat barrier**; 23g (0.6mm) is the only ¼" gauge found so far. Confidence 3/5. |
-| Galvanised Ground Staples 100 × 150mm (Powapost), pack of 50 | ~150 needed (face feet at 600mm, top lips at 500mm, lap at 300mm, mesh flare at 300mm) | 3 packs | [Toolstation 79016](https://www.toolstation.com/galvanised-ground-staples/p79016), **£15.82 ex VAT** (£18.99 inc) per 50 = **£47.46 ex VAT** | Verified 13 Oct 2026; next-day click & collect. The 100mm crown straddles several mesh wires, so it holds the rodent mesh flare better than a plastic peg. **Alternatives:** GCL Products 3 × 150mm galvanised U-pins in packs of 100 ([gclproducts.co.uk](https://www.gclproducts.co.uk/p/u-pins-landscape-staples/u-pin-3mm-150mm/); 100-pack price not shown online, 3–5 day delivery); B&Q BLOSTM 150mm × 3mm, pack of 100 (out of stock 13 Oct 2026). |
-| Builder's line + steel line pins | ~20m line, 2–4 pins | 1 set | Screwfix / Toolstation | Not found on Jewson's site |
-| Cut-resistant gloves | EN 388 cut level C or higher | 1 pair | Screwfix / Toolstation | Not found on Jewson's site |
+| Item | Spec | Qty | Source (found) | Line total | Notes |
+| :--- | :--- | ---: | :--- | ---: | :--- |
+| Galvanised Welded Mesh | 6m roll, 36" (900mm) × ¼" × ¼" (6mm), 23g | **2 rolls** | [FH Brundle 010269622B](https://www.fhbrundle.co.uk/products/010269622B__6m_Roll_36_x_1_4_x_1_4_x_23g_Galvanised_Welded_Mesh_Mesh_Master), £20.80 ex VAT each | £41.60 | Back to 2 rolls: with the XPS on the ring beam face, the mesh drops straight past the screw plates (no step-out), so each roll splits into two 450mm strips. **19g (1.0mm) is the better rat barrier**; 23g (0.6mm) is the only ¼" gauge found so far. Confidence 3/5. |
+| Steel Road Form Pin, 16mm × 600mm, pointed (Prosolve PV-RP1600) | Holds the West gravel boards on the pit side | **10** (~9 + 1 spare) | [The Safety Supply Company](https://www.thesafetysupplycompany.co.uk/p/9537119/prosolve-steel-fencing-road-form-pin-16mm-dia-600mm-l-pv-rp1600), £2.80 ex VAT (£3.36 inc) each, 38 in stock 13–14 Oct 2026. Also [MKM](https://mkm-buildings-prod.europe-west1.gcp.storefrontcloud.io/product/prosolve-road-pin-16mm-diameter-600mm-long-b093732) (B093732) | £28.00 + delivery (from £3.25; island surcharge possible) | Replaces the Jewson rebar. Pre-cut and pointed, so no grinder. **Mild steel**, not high-tensile: still adequate for 300mm of clay at ≤900mm centres. Arrives with surface rust (normal). |
+| Stainless Steel Penny Washer M6 × 25 × 1.5mm, A2 (Apex), pack of 100 | Membrane at the West board + mesh at 300mm (~65) | 1 pack | [Toolstation 29575](https://www.toolstation.com/stainless-steel-penny-washer/p29575), £9.66 ex VAT (£11.59 inc), verified 14 Oct 2026 | £9.66 | Replaces Jewson LFWPSS06. Next-day click & collect with the ground staples |
+| Galvanised Ground Staples 100 × 150mm (Powapost), pack of 50 | ~150 (face feet at 600mm, top lips at 500mm, lap at 300mm, mesh flare at 300mm) | 3 packs | [Toolstation 79016](https://www.toolstation.com/galvanised-ground-staples/p79016), £15.82 ex VAT (£18.99 inc) per 50 | £47.46 | Verified 13 Oct 2026; next-day click & collect. The 100mm crown straddles several mesh wires. Alternatives: GCL Products 3 × 150mm U-pins (100-pack price not shown online); B&Q BLOSTM 100-pack (out of stock 13 Oct 2026). |
+| XPS Insulation Board 60mm, 1250 × 600mm (Kingspan GreenGuard GG300), pack of 7 | Lower plinth strips (-125 to 0mm) now; the matching upper strips (0 to +175mm) are cut from the same boards for Week 6 | 1 pack | [Insulation Superstore](https://www.insulationsuperstore.co.uk/product/kingspan-greenguard-gg300-r-rigid-extruded-polystyrene-60mm-5-25m2.html), £67.50 ex VAT (£81.00 inc), verified 14 Oct 2026. Alt: Mike Wye XPS Plinth Board 60mm, 1250 × 600mm | £67.50 + delivery | **Needed by Weekend 2.** Not stocked by Jewson. 7 boards = 14 strips of 300mm × 1250mm = 17.5 lm for ~17m |
+| Aluminium EWI Starter Track, 60mm, with drip edge, 2.5m | Base at -125mm on the ring beam | 7 lengths | [EWI Store](https://ewistore.co.uk/shop/external-wall-insulation/aluminium-starter-track-2-5m/) (choose 60mm) | TBC (~£4–£20 per length) | **Needed by Weekend 2** (was Week 6). Corner pieces or mitred cuts at the 4 corners |
+| Low-expansion PU foam adhesive | Bonds the lower XPS strip to the ring beam | 1 can | e.g. the Soudal Flexible already on the foundation list (PIR edges) | — | Use one of those cans |
+| Tarpaulin 5 × 8m (Essentials, green/brown, reinforced eyelets) | Weather cover: platform / stacks / open West slope | 1 | **Screwfix 391GT**, £47.99 inc VAT (£39.99 ex); Screwfix Newport is on the island. Alt: Wickes Heavy Duty 5 × 8m, 125gsm (153087, £45); Draper 200gsm 5 × 8m (mail order) | £39.99 | Jewson's largest are 4 × 10m (already on the main list) and 5.4 × 7m; no 8m sizes |
+| Builder's line + steel line pins | ~20m line, 2–4 pins | 1 set | Screwfix / Toolstation | TBC | Not found on Jewson's site |
+| Cut-resistant gloves | EN 388 cut level C or higher | 1 pair | Screwfix / Toolstation | TBC | Not found on Jewson's site |
+| | | | | **~£235 + delivery, starter track, line, gloves** | |
 
 ## 3. Tools to Buy (per user check, 13 Oct 2026)
 
-| Tool | Jewson SKU | Price | Why |
+| Tool | Source | Price | Why |
 | :--- | :--- | ---: | :--- |
-| Advent 4 Series Tape Measure 8m × 25mm | [THMATC8M](https://www.jewson.co.uk/p/advent-4-series-tape-measure-8m-x-25mm-THMATC8M) | £18.68 | Longest measurements are the ~5.5m pit length and the ~4.8m membrane cuts |
-| OX Pro Heavy Duty Aviation Snips, straight cut | [TOX91460](https://www.jewson.co.uk/p/ox-pro-heavy-duty-aviation-snips-straight-cut-yellow-TOX91460) | £33.42 | Splitting the mesh rolls (~24m of cut) |
+| OX Pro Heavy Duty Aviation Snips, straight cut | Jewson [TOX91460](https://www.jewson.co.uk/p/ox-pro-heavy-duty-aviation-snips-straight-cut-yellow-TOX91460) | £33.42 | Splitting 4 mesh rolls (~24m of cut) |
 
 **On site (confirmed by the user):** rotating laser + staff, 1200mm spirit level, spade, shovel, mattock, wheelbarrow, club/sledge hammer, circular/mitre saw, drill/driver + impact driver, utility knife, safety glasses, knee pads.
+**On the main Jewson list:** 8m tape (Stanley FatMax THSTAN15).
 **Assumed on site, not confirmed:** sealant gun (CT1), 3mm wood drill bit, sash clamp (mesh bending).
-**Not needed for this stage:** SDS drill (CT1 replaces Thunderbolts on the slabs). A staple gun is not used here; it is first needed in Phase 3 for the rainscreen bug mesh and the top vent trim (WORKPLAN Phase 3, Rainscreen Battens).
+**Not needed for this stage:** SDS drill (CT1 replaces Thunderbolts on the slabs). A staple gun is first needed in Phase 3 for the rainscreen bug mesh and the top vent trim.
 
-## 4. Later Order: Ventilated Gap Cover (WORKPLAN Week 8)
+## 4. Later Order: Ventilated Gap Cover, South / East / North (WORKPLAN Week 8)
 
-Not needed for the pit weekend. Order it with the Phase 3 cladding delivery (MASTER_PLAN §1.1).
+Order it with the Phase 3 cladding delivery (MASTER_PLAN §1.1). The West ledgers are in §1.
 
 | Item | Source / SKU | Unit | Qty | Unit price | Line total | Notes |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- |
-| Redwood Decking Treated PEFC 32 × 125 × 4200mm (actual 26 × 118mm) | Jewson [PR321242](https://www.jewson.co.uk/p/redwood-decking-treated-pefc-32-x-125-x-4200mm-act-size-26-x-118-PR321242) | each | 12 | £18.56 | £222.72 | ~140 slats (185–315mm, North as measured) + waste |
-| Regularised Treated Carcassing 50 × 47mm | Jewson [FVRT4750](https://www.jewson.co.uk/p/fsc-standard-kiln-dried-regularised-treated-carcassing-50-x-47mm-FVRT4750) | m | ~40 | TBC | TBC | Wall ledger ~16.7m + pit-side ledgers ~19m + corner blocks; cut lengths to suit |
+| Redwood Decking Treated PEFC 32 × 125 × 4200mm (actual 26 × 118mm) | Jewson [PR321242](https://www.jewson.co.uk/p/redwood-decking-treated-pefc-32-x-125-x-4200mm-act-size-26-x-118-PR321242) | each | 12 | £18.56 | £222.72 | ~140 slats (185–315mm, North as measured) + waste, all four sides |
+| Regularised Treated Carcassing 50 × 47mm | Jewson [FVRT4750](https://www.jewson.co.uk/p/fsc-standard-kiln-dried-regularised-treated-carcassing-50-x-47mm-FVRT4750) | m | ~29 | TBC | TBC | South/East/North wall ledgers (~11.8m) + pit-side ledgers (~13.7m) + corner blocks |
 | FSC Sawn Treated Pointed Peg 600 × 50 × 47mm | Jewson [FEG47STD](https://jewson.co.uk/p/fsc-sawn-treated-pointed-peg-600-x-50-x-47mm-FEG47STD) | each | 20 | £5.38 | £107.60 | East/North (and South if the concrete can't carry the ledger) at ≤900mm |
 | SPAX A2 Stainless Countersunk 4 × 50mm, box of 200 | Jewson [SXTF4050](https://www.jewson.co.uk/p/spax-flat-countersunk-head-stainless-steel-screws-50-x-4mm-silver-SXTF4050) | box | 3 | £36.64 | £109.92 | 2 per slat end |
-| TIMCO Classic A2 Stainless Countersunk 5.0 × 100mm, pack of 100 | Not found at Jewson; [e.g. mytradesupplies](https://mytradesupplies.com/?p=5776), B&Q, Screwfix | pack | 1 | TBC | TBC | Ledgers to ring beam (400mm) and stakes (~100) |
-| | | | | **Known subtotal** | **~£440 + ledger + 5 × 100mm screws** | |
+| | | | | **Known subtotal** | **~£440 + ledger** | Ledger screws come from the SPAX SXSS6014 / SXSS6010 boxes in §1 |
+
+## 5. Isle of Wight Sources for the Non-Jewson Items (checked 14 Oct 2026)
+
+Online catalogues and search only. **Confirm stock by phone before driving.** Confidence 2–4/5 as noted.
+
+| Item | On-island option | Status | Fallback (mail order) |
+| :--- | :--- | :--- | :--- |
+| Galvanised ground staples 100 × 150mm | **Toolstation Newport** (Manners View), code 79016 | Product verified; branch stock not checked (4/5) | — |
+| A2 penny washers M6 × 25mm | **Toolstation Newport**, code 29575 | Product verified (4/5). Sydenhams lists stainless M8 × 30mm only (hole too big) | — |
+| Builder's line + pins | **Screwfix Newport** (Manners View): Ragni Line Pin Set 626PX, 76m + 2 pins, £14.99 | Product verified (4/5) | — |
+| Cut-resistant gloves (EN 388 level C) | Screwfix / Toolstation Newport | Both carry cut-rated gloves; product not checked (3/5) | — |
+| Tarpaulin 5 × 8m | **Screwfix Newport**: Essentials 391GT, £47.99 inc VAT | Product verified (4/5) | Wickes 153087 |
+| Road form pins 16 × 600mm | **Sydenhams Newport**, Forest Road, PO30 5YS, 01983 532320, sales.newportbm@sydenhams.co.uk; Travis Perkins (Ryde / Wroxall): call. Common merchant item, not listed online | Not listed online on-island (2/5) | [The Safety Supply Company](https://www.thesafetysupplycompany.co.uk/p/9537119/prosolve-steel-fencing-road-form-pin-16mm-dia-600mm-l-pv-rp1600), £2.80 ex VAT each |
+| 6mm (¼") galvanised welded mesh | **County Fencing Supplies** (IoW fencing & landscaping since 1995), 01983 741207: call. Sydenhams only lists 13mm Handymesh panels (too coarse) | Not confirmed (2/5) | [FH Brundle](https://www.fhbrundle.co.uk/products/010269622B__6m_Roll_36_x_1_4_x_1_4_x_23g_Galvanised_Welded_Mesh_Mesh_Master) 23g; [Steel Express](https://www.steelexpress.co.uk/weld-mesh/welded-wire-mesh.html) lists ¼" × ¼" × **22g** (slightly heavier wire) and shows an 01983 640 018 number, but no island depot could be confirmed |
+| 60mm XPS boards, 1250 × 600mm | None found: Sydenhams lists only 6–12.5mm XPS tile-backer boards | Not on-island (3/5) | [Insulation Superstore](https://www.insulationsuperstore.co.uk/product/kingspan-greenguard-gg300-r-rigid-extruded-polystyrene-60mm-5-25m2.html), pack of 7, £67.50 ex VAT; or [EWI Store](https://ewistore.co.uk/shop/external-wall-insulation/kingspan-greenguard-xps-insulation-board-60mm/), per board (60mm price TBC) |
+| 60mm aluminium starter track | None found on-island (Sydenhams only lists Hardie cladding starter profiles) | Not on-island (3/5) | [EWI Store](https://ewistore.co.uk/shop/external-wall-insulation/aluminium-starter-track-2-5m/): **order with the XPS boards in one delivery** |
+
+**Sydenhams Newport (checked 14 Oct 2026, ex VAT):** Sawn & Treated Timber 22 × 150mm £3.86/m (sold per metre, so ask for 5.4m single lengths; UC not stated); Supreme concrete gravel board 1830 × 150 × 50mm (GBS150, IoW line) £22.29, 1830 × 305 × 50mm (GBS305) £32.76; treated pointed pegs 47 × 50 × 600mm (WS140190) £2.31. Quote request goes to sales.newportbm@sydenhams.co.uk.
