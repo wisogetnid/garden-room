@@ -47,14 +47,14 @@
 | Galvanised Welded Mesh | 6m roll, 36" (900mm) × ¼" × ¼" (6mm), 23g | **2 rolls** | [FH Brundle 010269622B](https://www.fhbrundle.co.uk/products/010269622B__6m_Roll_36_x_1_4_x_1_4_x_23g_Galvanised_Welded_Mesh_Mesh_Master), £20.80 ex VAT each | £41.60 | Back to 2 rolls: with the XPS on the ring beam face, the mesh drops straight past the screw plates (no step-out), so each roll splits into two 450mm strips. **19g (1.0mm) is the better rat barrier**; 23g (0.6mm) is the only ¼" gauge found so far. Confidence 3/5. |
 | Steel Road Form Pin, 16mm × 600mm, pointed (Prosolve PV-RP1600) | Holds the West gravel boards on the pit side | **10** (~9 + 1 spare) | [The Safety Supply Company](https://www.thesafetysupplycompany.co.uk/p/9537119/prosolve-steel-fencing-road-form-pin-16mm-dia-600mm-l-pv-rp1600), £2.80 ex VAT (£3.36 inc) each, 38 in stock 13–14 Oct 2026. Also [MKM](https://mkm-buildings-prod.europe-west1.gcp.storefrontcloud.io/product/prosolve-road-pin-16mm-diameter-600mm-long-b093732) (B093732) | £28.00 + delivery (from £3.25; island surcharge possible) | Replaces the Jewson rebar. Pre-cut and pointed, so no grinder. **Mild steel**, not high-tensile: still adequate for 300mm of clay at ≤900mm centres. Arrives with surface rust (normal). |
 | Stainless Steel Penny Washer M6 × 25 × 1.5mm, A2 (Apex), pack of 100 | Membrane at the West board + mesh at 300mm (~65) | 1 pack | [Toolstation 29575](https://www.toolstation.com/stainless-steel-penny-washer/p29575), £9.66 ex VAT (£11.59 inc), verified 14 Oct 2026 | £9.66 | Replaces Jewson LFWPSS06. Next-day click & collect with the ground staples |
-| Galvanised Ground Staples 100 × 150mm (Powapost), pack of 50 | ~150 (face feet at 600mm, top lips at 500mm, lap at 300mm, mesh flare at 300mm) | 3 packs | [Toolstation 79016](https://www.toolstation.com/galvanised-ground-staples/p79016), £15.82 ex VAT (£18.99 inc) per 50 | £47.46 | Verified 13 Oct 2026; next-day click & collect. The 100mm crown straddles several mesh wires. Alternatives: GCL Products 3 × 150mm U-pins (100-pack price not shown online); B&Q BLOSTM 100-pack (out of stock 13 Oct 2026). |
+| Galvanised Ground Staples 100 × 150mm (Powapost), pack of 50 | ~90 (only ~1/3 of the pit floor is soil, the rest old slabs: face feet on soil at 600mm ~10, top lips at 500mm ~30, lap at 300mm ~7, open soil at 1m ~7, mesh foot on soil at 300mm ~20, folds and slab edges ~15) | **2 packs** | [Toolstation 79016](https://www.toolstation.com/galvanised-ground-staples/p79016), £15.82 ex VAT (£18.99 inc) per **pack of 50** (re-checked 24 Oct 2026) | £31.64 | Verified 13 Oct 2026; quantity is staples, not packs (150 packs ≈ £1,350 by mistake). Was 3 packs before the slab cover was counted (24 Oct 2026); next-day click & collect. The 100mm crown straddles several mesh wires. Alternatives: GCL Products 3 × 150mm U-pins (100-pack price not shown online); B&Q BLOSTM 100-pack (out of stock 13 Oct 2026). |
 | XPS Insulation Board 60mm, 1250 × 600mm (Kingspan GreenGuard GG300), pack of 7 | Lower plinth strips (-125 to 0mm) now; the matching upper strips (0 to +175mm) are cut from the same boards for Week 6 | 1 pack | [Insulation Superstore](https://www.insulationsuperstore.co.uk/product/kingspan-greenguard-gg300-r-rigid-extruded-polystyrene-60mm-5-25m2.html), £67.50 ex VAT (£81.00 inc), verified 14 Oct 2026. Alt: Mike Wye XPS Plinth Board 60mm, 1250 × 600mm | £67.50 + delivery | **Needed by Weekend 2.** Not stocked by Jewson. 7 boards = 14 strips of 300mm × 1250mm = 17.5 lm for ~17m |
 | Aluminium EWI Starter Track, 60mm, with drip edge, 2.5m | Base at -125mm on the ring beam | 7 lengths | [EWI Store](https://ewistore.co.uk/shop/external-wall-insulation/aluminium-starter-track-2-5m/) (choose 60mm) | TBC (~£4–£20 per length) | **Needed by Weekend 2** (was Week 6). Corner pieces or mitred cuts at the 4 corners |
 | Low-expansion PU foam adhesive | Bonds the lower XPS strip to the ring beam | 1 can | e.g. the Soudal Flexible already on the foundation list (PIR edges) | — | Use one of those cans |
 | Tarpaulin 5 × 8m (Essentials, green/brown, reinforced eyelets) | Weather cover: platform / stacks / open West slope | 1 | **Screwfix 391GT**, £47.99 inc VAT (£39.99 ex); Screwfix Newport is on the island. Alt: Wickes Heavy Duty 5 × 8m, 125gsm (153087, £45); Draper 200gsm 5 × 8m (mail order) | £39.99 | Jewson's largest are 4 × 10m (already on the main list) and 5.4 × 7m; no 8m sizes |
 | Builder's line + steel line pins | ~20m line, 2–4 pins | 1 set | Screwfix / Toolstation | TBC | Not found on Jewson's site |
 | Cut-resistant gloves | EN 388 cut level C or higher | 1 pair | Screwfix / Toolstation | TBC | Not found on Jewson's site |
-| | | | | **~£235 + delivery, starter track, line, gloves** | |
+| | | | | **~£219 + delivery, starter track, line, gloves** | |
 
 ## 3. Tools to Buy (per user check, 13 Oct 2026)
 
@@ -96,3 +96,38 @@ Online catalogues and search only. **Confirm stock by phone before driving.** Co
 | 60mm aluminium starter track | None found on-island (Sydenhams only lists Hardie cladding starter profiles) | Not on-island (3/5) | [EWI Store](https://ewistore.co.uk/shop/external-wall-insulation/aluminium-starter-track-2-5m/): **order with the XPS boards in one delivery** |
 
 **Sydenhams Newport (checked 14 Oct 2026, ex VAT):** Sawn & Treated Timber 22 × 150mm £3.86/m (sold per metre, so ask for 5.4m single lengths; UC not stated); Supreme concrete gravel board 1830 × 150 × 50mm (GBS150, IoW line) £22.29, 1830 × 305 × 50mm (GBS305) £32.76; treated pointed pegs 47 × 50 × 600mm (WS140190) £2.31. Quote request goes to sales.newportbm@sydenhams.co.uk.
+
+## 6. Branch Quotes (Jewson Newport, Manners View, account VOGT002)
+
+Source PDFs: `comms/quotes/K8 document Quotation-00447205.pdf` (Drop 1) and `comms/quotes/K8 document Quotation-00447215.pdf` (Drop 2). Reviewed 24 Oct 2026 against this list. Prices are **ex VAT** and include haulage.
+
+### Drop 1: quote 3777/1649155 (19 Oct 2026, **expired 22 Oct 2026**: ask for a re-quote)
+
+| Line | Qty | Total | Check against the plan |
+| :--- | ---: | ---: | :--- |
+| Gravel board 22 × 150 × 3600mm SGGFHV36 | 4 | £31.80 | 4 × 3.6m covers both courses (one cut into two 1.8m pieces) + 1 spare. **[OPEN RISK FLAG: quoted as UC3; the boards bear directly on clay and need UC4. Ask for UC4 ground-contact boards.]** |
+| RSS fencing pin with lamp hook, 1200 × **10mm** PM586626 | 10 | £44.40 | **Not the planned pin.** The plan uses 16 × 600mm road pins driven 300mm. A 10mm bar has only ~1/4 of the bending strength, and a 1200mm pin must go ~900mm into the clay to keep its top below 0mm (impossible over a slab). Swap for 16 × 600mm road pins (§2 / §5) |
+| Don & Low Lotrak 100 non-woven geotextile, 4.5 × 10m FNDL0110 | 1 | £61.98 | Replaces the woven Groundtex (£93.10). **Better:** non-woven was the first choice and doesn't fray, so no fold-under. 10m gives the two ~4.8m pieces; patches come from Piece B's width trim |
+| Unifix galvanised staples 3.55 × 30mm, 0.5kg OJ017426 | 1 bag | £6.16 | Not on the plan (fencing staples for timber). Ask the branch why they were added, or drop |
+| Bostik Flashband 100mm × 10m RFFGE504 | 1 | £11.40 | ✓ Screw collars |
+| CT1 white 290ml EQFAPH09 | 1 | £11.30 | **Plan needs 2** (membrane rivet dabs + mesh foot over the slabs). Colour doesn't matter |
+| SPAX A2 4.0 × 45mm T-STAR, box of 200 SXTF4045 | 1 | £27.54 | ✓ Replaces 4 × 50mm (SXTF4050): enough bite for the membrane and the outer ledger |
+| A2 penny washer M6 × 25mm LFWPSS06 | 100 | £12.00 | ✓ Now available at Jewson, so the Toolstation washers aren't needed |
+| Raptor tarpaulin 5 × 4m RAP00612 | 1 | £23.43 | ✓ Board stack tarp |
+| **Birkdale 100mm gate staples, pack of 5, special order SP/4668740** | **30 packs (150)** | **£1,350.90** | **Remove.** £9 a staple with special-order haulage and no returns. Buy **2 packs of 50** Toolstation 79016 instead (£31.64 ex VAT, §2) |
+| Fuel surcharge | 1 | £5.00 | |
+| **Quote total** | | **£1,585.91** (£1,903.10 inc) | **Without the gate staples: £235.01 ex (£282.01 inc)**; +1 CT1 → ~£246 ex |
+
+### Drop 2: quote 3777/1649640 (20 Oct 2026, expires 27 Oct 2026)
+
+| Line | Qty | Total | Check against the plan |
+| :--- | ---: | ---: | :--- |
+| Regularised treated joist 47 × 50mm PBJT4750, 5 × 2.4m | 12m | £15.96 | ✓ West wall ledger (~4.9m) + outer ledger (~5.4m). 2.4m lengths mean joints: land them on pins or stakes |
+| SPAX A2 washer-head 6 × 100mm T30 SXSS6010, box of 100 | 1 | £56.88 | ✓ £22 under the web price |
+| SPAX A2 washer-head 6 × 140mm T30 SXSS6014, box of 100 | 1 | £66.81 | ✓ £30 under the web price |
+| Galvanised welded mesh 6m roll, 36" × ¼" × ¼" × 23g (special order, no returns) | 2 | £49.32 | ✓ Same FH Brundle 010269622 roll as §2 |
+| Kingspan GreenGuard GG300 **rebated** 600 × 1250 × 60mm (special order, no returns) | 7 | £145.39 | ✓ Quantity. **Price is ~2×** Insulation Superstore (pack of 7, £67.50 + delivery): compare their IoW delivery charge. Rebated edges: saw the rebate off the strip edge that goes into the starter track |
+| Fuel surcharge | 1 | £5.00 | |
+| **Quote total** | | **£339.36** (£407.23 inc) | |
+
+**Not on either quote (still to buy elsewhere):** 16 × 600mm road pins, ground staples (Toolstation), 60mm starter track (EWI Store).

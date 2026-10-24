@@ -1965,3 +1965,32 @@
 - **Foreman:** mark the 10 joist centres before hanging; fit the fixing band from the pit side before decking; measure PIR thickness before cutting; fix machine positions before the PIR goes in if any sister joists are needed.
 - **Open:** confirm 125mm PIR stock and Isle of Wight delivery (several suppliers out of stock); check the Wickes strap is really 1200 × 30 × 5mm; hanger and nail prices.
 - **Strategist:** Red Line unchanged (floor PIR still meets the lower XPS strip at the ring beam). Sequence: band before PIR, PIR before deck. Pass expected.
+
+## Date: 2026-10-18 (PIR brackets; strap detail pending)
+**Agent:** @architect → @foreman
+- **PIR support** switched from fixing band to A2 stainless angle brackets fixed from above (MASTER_PLAN §1.2 Primary Insulation, WORKPLAN Insulation Support & Drop, CSV, floor material list: ~£1,180 known total).
+- **Pending:** MASTER_PLAN §3.1 straps and WORKPLAN Weekend 2 currently say "straps on top, recessed, 4 noggins per strap" (written before the user asked for an alternative). Do not build from this until the strap decision is logged.
+
+## Date: 2026-10-18 (straps & noggins dropped: diaphragm tie)
+**Agent:** @architect → @foreman, @strategist
+- **Supersedes** the "strap detail pending" entry above. MASTER_PLAN §3.1 row is now **Floor Diaphragm Tie**; §1.2 Floor Joists / Primary Insulation / Sub-Deck, lamination and corner screw quantities, WORKPLAN Weekend 2 + Weekend 3, CSV, ring beam and floor material lists updated.
+- **Foreman:** edge joists get 8 × 140mm at 300mm (staggered, midway between lamination screws, clear of the P04/P07/P08/P11 inclined screws); deck screws at 150mm along the edge joists. No straps, no noggins.
+- **Strategist:** sequence unchanged (edge joists → hangers/joists → brackets → PIR → deck). Red Line unchanged.
+
+## 2026-10-24 — Ground staples recounted for the slab cover (@architect → @foreman)
+- **Fact (user):** only ~1/3 of the pit floor is soil; the rest is old concrete slabs.
+- **Staples:** ~150 → **~90 = 2 packs of 50** (Toolstation 79016, £18.99 inc per pack). The order is in packs: 150 entered as packs priced ~£1,350 by mistake.
+- **Rodent mesh foot over slabs:** no staples; CT1 dabs at ~600mm, plus a staple either side of every slab-to-soil edge. MASTER_PLAN §1.1 mesh row and WORKPLAN mesh step 5 updated. The 2 CT1 tubes on the Jewson order should still cover the extra ~20 dabs.
+- **@foreman:** when laying out, count the staples actually needed on the soil strips; the 2 packs include ~15 spare for folds and slab edges.
+
+## 2026-10-24 — Jewson branch quotes reviewed (@strategist → @foreman / user)
+- Quotes 3777/1649155 (Drop 1, expired 22 Oct) and 3777/1649640 (Drop 2, expires 27 Oct) reviewed in `research/suppliers/jewson-pit-perimeter-order.md` §6.
+- **Remove** the special-order gate staples (£1,350.90); buy 2 × 50 Toolstation 79016.
+- **[OPEN RISK FLAG]** Gravel boards quoted UC3, need UC4. Fencing pins quoted are 10 × 1200mm, not the 16 × 600mm road pins: swap.
+- CT1: quote has 1, plan needs 2. Lotrak 100 non-woven replaces the woven Groundtex (improvement; plan text still says Groundtex until confirmed).
+- GG300 XPS at Jewson is ~2× Insulation Superstore; compare delivery.
+
+## 2026-10-24 — Jewson single-drop list (@strategist → @foreman / user)
+- New `comms/quotes/jewson-single-drop-order.md`: accepted lines of both Jewson quotes as one drop, £384.72 ex VAT (£461.66 inc). CT1 now 2; gate staples, Unifix staples, fencing pins and XPS dropped.
+- Sydenhams quotes (NH111923/4) compared there: no mesh, XPS, track, staples or stainless washers; UC2 timber only; washer-head screws are zinc WIROX. Not usable for this order.
+- **To do:** ask Jewson to re-quote as one drop (1649155 expired) and ask for UC4 gravel boards. Separately buy staples (Toolstation), 16 × 600mm road pins, XPS + starter track.
