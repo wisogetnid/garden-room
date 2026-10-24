@@ -20,19 +20,18 @@ Draft emails the user sends themselves. Never send anything.
 
 ## Structure
 
-1. **Subject:** what is being asked + delivered to Isle of Wight (PO31 7JY), when delivery applies.
+1. **Subject:** what is being asked + delivered to Cowes, Isle of Wight, when delivery applies.
 2. **Greeting:** "Hello,".
 3. **One opening line:** e.g. "I'd like a delivered quote for the following, for a garden room build on the Isle of Wight:".
 4. **Numbered item list:** name (or generic spec), size, pack: quantity. Product URL on the next line when it is the supplier's own item.
 5. **Numbered questions:** each starts with a short bold label (**Delivery:**, **Stock:**, **Substitute:**, ...), one or two sentences each. Typical questions:
-   - total cost including carriage to the address, all items in one delivery;
+   - total cost including carriage to Cowes, Isle of Wight, `[postcode]`, all items in one delivery. The user fills in the postcode; never write the street address or postcode into this skill or any committed file;
    - for items shown out of stock: when they're expected back, the lead time and a possible substitute;
    - one factual product question the website doesn't answer.
 6. **Sign-off:**
    ```
-   Thank you,
-   Tobias Vogel
-   31 Coronation Road, Cowes, PO31 7JY
+   Best regards,
+   tobi vogel
    [phone number]
    ```
 
@@ -44,7 +43,7 @@ Show the draft in the reply between horizontal rules, ready to paste. Then note 
 
 ---
 
-**Subject:** Quote request: 60mm XPS boards + 60mm base track, delivered to Isle of Wight (PO31 7JY)
+**Subject:** Quote request: 60mm XPS boards + 60mm base track, delivered to Cowes, Isle of Wight
 
 Hello,
 
@@ -57,14 +56,13 @@ I'd like a delivered quote for the following, for a garden room build on the Isl
 
 Could you please let me know:
 
-1. **Delivery:** the total cost, including carriage, to Cowes, Isle of Wight, PO31 7JY, with both items in one delivery.
+1. **Delivery:** the total cost, including carriage, to Cowes, Isle of Wight, [postcode], with both items in one delivery.
 2. **Stock:** the base track shows as out of stock. When do you expect it back, and what's the lead time for both items together? If it's not available soon, is there a substitute?
 3. **Drip edge:** does the 60mm base track have a drip edge? Do you have matching corner pieces or connectors?
 4. **Rebate:** on the GG300 R boards, which edges are rebated (long edges only, or all four), and what size is the rebate?
 
-Thank you,
-Tobias Vogel
-31 Coronation Road, Cowes, PO31 7JY
+Best regards,
+tobi vogel
 [phone number]
 
 ---
