@@ -1994,3 +1994,9 @@
 - New `comms/quotes/jewson-single-drop-order.md`: accepted lines of both Jewson quotes as one drop, £384.72 ex VAT (£461.66 inc). CT1 now 2; gate staples, Unifix staples, fencing pins and XPS dropped.
 - Sydenhams quotes (NH111923/4) compared there: no mesh, XPS, track, staples or stainless washers; UC2 timber only; washer-head screws are zinc WIROX. Not usable for this order.
 - **To do:** ask Jewson to re-quote as one drop (1649155 expired) and ask for UC4 gravel boards. Separately buy staples (Toolstation), 16 × 600mm road pins, XPS + starter track.
+
+## 2026-10-24 — UC3 gravel boards + DPC (@architect → @foreman)
+- User keeps the UC3 boards. MASTER_PLAN §1.1 Earth Retaining Boards: UC4 open item replaced by the DPC detail + OPEN RISK FLAG (service life). Board qty now 4 × 3.6m, as quoted.
+- WORKPLAN Week 2 step 7 (preservative, DPC with bottom L, flap up the slope), Sunday West membrane step (DPC flap laid back over the membrane), Stage 2 steps 3–5 (lift DPC, backfill behind it, cap the top edge).
+- Single-drop list: DPC 450mm × 30m added (price TBC); email to Carla asks for it.
+- **@foreman:** check the preservative tins cover the soil faces as well as the cuts (2 × 750ml on the main list); add a tin if short.

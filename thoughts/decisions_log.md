@@ -129,3 +129,8 @@ The engineer approved 8 × 140mm stainless lamination screws at 150mm alternatin
 **Decision (user):** No restraint straps and no strutting noggins. The East/West ring beams are tied into the floor by (1) the edge joists, screwed to the ring beam with 8 × 140mm stainless structural screws at 300mm, staggered 35mm from top and bottom, between the inner-face lamination screws; and (2) the deck: Caberdek glued at every T&G joint, screwed at 300mm into every joist and at 150mm into the edge joists, with the birch ply glued over it.
 **Why:** Straps under the joists could not be fitted in the 175mm void; top-fixed straps needed 4 noggins each, cutting up most PIR pockets and adding joints.
 **Result:** Every PIR pocket is clear end to end. Lamination screw order ~180 → ~216 (SPAX 5 × 50 / Swiftfix 3 × 100); corner screws back to 16 (box of 50); joist timber 15 → 11 lengths; floor material list known total ~£887 ex VAT. **[OPEN RISK FLAG]:** departs from the 26C070/1 strap/strutting notes without engineer review.
+
+## [Date: 2026-10-24] - West Retaining Boards: UC3 Kept, Protected by DPC
+**Decision (user):** Keep the UC3 gravel boards Jewson quoted (SGGFHV36) instead of chasing UC4. One continuous 450mm polythene DPC runs behind both courses, folded ~22mm under the bottom edge (an L, never a U: no trough) and capped over the top edge ~30mm down the pit face, fixed with SPAX A2 4 × 45mm + A2 penny washers. Preservative (2 coats) on the soil face, long edges and cuts.
+**Why:** No direct clay contact; the boards dry towards the ventilated void. A geotextile offcut was considered and rejected: it is permeable and would keep the board as wet as the clay.
+**Open:** **[OPEN RISK FLAG]** shorter service life than UC4; inspect under the gap-cover slats.

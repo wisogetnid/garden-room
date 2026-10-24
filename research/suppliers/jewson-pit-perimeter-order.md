@@ -105,7 +105,7 @@ Source PDFs: `comms/quotes/K8 document Quotation-00447205.pdf` (Drop 1) and `com
 
 | Line | Qty | Total | Check against the plan |
 | :--- | ---: | ---: | :--- |
-| Gravel board 22 × 150 × 3600mm SGGFHV36 | 4 | £31.80 | 4 × 3.6m covers both courses (one cut into two 1.8m pieces) + 1 spare. **[OPEN RISK FLAG: quoted as UC3; the boards bear directly on clay and need UC4. Ask for UC4 ground-contact boards.]** |
+| Gravel board 22 × 150 × 3600mm SGGFHV36 | 4 | £31.80 | 4 × 3.6m covers both courses (one cut into two 1.8m pieces) + 1 spare. **[OPEN RISK FLAG: quoted as UC3. User decision 24 Oct 2026: keep UC3, protected by a 450mm DPC behind the boards (L under the bottom, cap over the top) + preservative.]** |
 | RSS fencing pin with lamp hook, 1200 × **10mm** PM586626 | 10 | £44.40 | **Not the planned pin.** The plan uses 16 × 600mm road pins driven 300mm. A 10mm bar has only ~1/4 of the bending strength, and a 1200mm pin must go ~900mm into the clay to keep its top below 0mm (impossible over a slab). Swap for 16 × 600mm road pins (§2 / §5) |
 | Don & Low Lotrak 100 non-woven geotextile, 4.5 × 10m FNDL0110 | 1 | £61.98 | Replaces the woven Groundtex (£93.10). **Better:** non-woven was the first choice and doesn't fray, so no fold-under. 10m gives the two ~4.8m pieces; patches come from Piece B's width trim |
 | Unifix galvanised staples 3.55 × 30mm, 0.5kg OJ017426 | 1 bag | £6.16 | Not on the plan (fencing staples for timber). Ask the branch why they were added, or drop |
