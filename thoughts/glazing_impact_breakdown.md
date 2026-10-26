@@ -14,7 +14,9 @@
 | **West fixed windows** | 2 × 1000 × 1000mm (2.00m²) | **uPVC**, white or heat-reflective foil (no dark standard foil on the West) | **D-AC** (as above) | ~1.3 W/m²K | ~38 dB |
 | **West entrance door** | 1 × **single leaf, 900mm**; opening ~1000 × 2080mm (2.08m²); ~800mm clear | **Thermally broken marine aluminium** (Qualicoat Seaside), 316 / BS EN 1670 Grade 5 hardware, 3D-adjustable hinges | **Half-glazed:** upper vision panel ~0.65m², **D-STD** 4mm toughened / 16mm argon / 4mm toughened Low-E; lower insulated aluminium infill panel (≥28mm) | ~1.3 W/m²K | ~32 dB (~34 with optional drop seal) |
 
-**No side panel.** The SIP door opening is cut to the single-leaf doorset (~1000mm). The West façade uses an even rhythm: door (right / South end, seen from outside) and two windows, all ~1000mm, separated by four equal 481mm piers. The inner piers land over ground screws P07 / P11 (see MASTER_PLAN §2.7). The door mid-rail sits at ~1080mm FFL, level with the window sills. The exact width is set from the chosen supplier's doorset size before the SIP order.
+**No side panel.** The SIP door opening is cut to the single-leaf doorset (~1000mm). The West façade uses an even rhythm: door (right / South end, seen from outside) and two windows, all ~1000mm, separated by four equal 481mm piers. The inner piers land over ground screws P07 / P11 (see MASTER_PLAN §2.7). The door mid-rail sits at ~1080mm FFL, level with the window sills. The door is made to order to suit the ~1000mm SIP opening after the SIP drawings are confirmed (decision 25 Oct 2026).
+
+**Supplier check (25 Oct 2026):** the IOW Glass estimate (4/18Ar/6.8 acoustic lam, REHAU TOTAL70, Smart Systems door) is assessed against this spec in **§12**. The Master Plan now uses ~1.5 W/m²K for every unit (HTC 25.24 W/K, ~£63.60/yr); §0–§11 keep the earlier figures for traceability.
 
 **Whole building:** glazed and door area **5.88m²**, area-weighted Uw **~1.36 W/m²K**, glazing heat loss **8.00 W/K**, HTC **24.54 W/K** (after the 2026-10-11 taller-wall revision), **~£62/yr** heating. Cost ballpark **≈ £2.8–5.5k supply only** (§9).
 
@@ -167,7 +169,7 @@ The aluminium frame is stiff and springs back. It does not absorb movement: it r
 
 * **Secondary glazing (if a neighbour complains):** DIY 6mm acrylic or polycarbonate inside the 236mm reveal with a ~100mm gap adds **~8–12 dB** per clerestory, for £30–60 each.
 * **Optional automatic drop seal on the door:** ~+1 dB on the West façade (door Rw 32 → 34), £80–150.
-* **[OPEN] Exact door width:** take it from the chosen supplier's doorset size and spread any difference equally across the four 481mm piers so the West wall still totals 4924mm.
+* **Door width (resolved 25 Oct 2026):** the SIP opening stays ~1000mm and the bespoke doorset is made to it. Before the SIP order, only confirm the door system gives ~800mm clear in that opening; if it can't, widen the opening and spread the difference equally across the four 481mm piers.
 * **[OPEN] CAD drawings** still show the 1400mm door. Update them before the SIP order.
 * **[OPEN] Zehnder Dn,e,w:** still needed to rank the dMVHR terminal against the East clerestories (MASTER_PLAN §4.2.1).
 
@@ -217,3 +219,84 @@ The aluminium frame is stiff and springs back. It does not absorb movement: it r
 5. Fully glazed leaf → **half-glazed** (summer solar gain).
 6. 1000mm leaf → **900mm leaf** (movement tolerance; machinery access confirmed by user).
 7. Aluminium fixed lights → **uPVC fixed lights** (cost, salt immunity, lower Uf).
+
+---
+
+## 12. IOW Glass Estimate: Thermal & Acoustic Recalculation (25 Oct 2026)
+
+**Source:** `comms/quotes/iow-glass_windows-door.txt` (estimate, valid 14 days). **£3,450 + VAT (£4,140 inc)**, supply and delivery only. That is within the §9 ballpark (central ~£3,800). Fitting team optional at £750 + VAT/day.
+**Persona:** @strategist. **Status:** MASTER_PLAN §2.7 / §7 now use **~1.5 W/m²K for every unit** (scenario B below, 26 Oct 2026) and describe the glass generically (acoustic laminated inner pane, glass Rw ≥ 39 dB). The quote itself is not yet accepted.
+
+### 12.1 Quoted vs Adopted Specification
+
+| Item | Adopted (§0) | IOW Glass estimate | Delta |
+| :--- | :--- | :--- | :--- |
+| Fixed-light frame | uPVC, BS EN 12608 Class A, galvanised reinforcement, replaceable gaskets, direct-glazed | **REHAU TOTAL70**, white/white, Class A, galvanised reinforcement, direct-glazed; gasket arrangement "to be confirmed" | Match (confirm replaceable gaskets). TOTAL70 takes glass up to 44mm. |
+| Fixed-light glass | 6T / 16 Ar / **8.8** acoustic lam Low-E, 30.8mm, ~36 kg/m² | **4 Low-E / 18 (Ar "to be confirmed") / 6.8 acoustic lam**, black warm edge, 28.8mm, ~25 kg/m² | Thinner, lighter unit; argon not yet committed |
+| Glass acoustic rating | Rw ≥ 39 dB (assumed 39–41), Rw+Ctr ~35 | **Rw (C;Ctr) = 39 (−2;−6) → Rw+C 37, Rw+Ctr 33** (supplier figure, no test report) | Meets the ≥ 39 floor, at its bottom; ~2 dB lower at low frequency |
+| Fixed-light Uw | Clerestory ~1.5, West ~1.3 | "~1.5 or better" for all six | West units possibly +0.2 |
+| Door | Thermally broken marine alu, 900mm leaf, half-glazed 4T/16Ar/4T, Ud ~1.3 | **Smart Systems** thermally broken alu, half-glazed over insulated panel, low threshold; Ud "~1.5 or better"; leaf width, glass and hardware not yet stated | +0.2 W/m²K; coastal coating spec and 316 hardware not named |
+| Solar control | None (external blinds) | None | Match |
+
+### 12.2 Thermal Recalculation
+
+Uw per unit to BS EN ISO 10077-1: `Uw = (Ag·Ug + Af·Uf + lg·ψ) ÷ Aw`. Assumes ~65mm visible frame per side, Uf 1.3 (sensitivity 1.4), ψ 0.045 W/mK (black warm-edge spacer in uPVC). Ug: 1.1 with argon + soft-coat Low-E (ε ≤ 0.03), **1.4 if air-filled**. *Confidence 3/5: REHAU publishes no fixed-frame Uf; get the declared Uw per unit size.*
+
+| Glass fill | Clerestory 1500 × 300 (52% glass) | West 1000 × 1000 (76% glass) |
+| :--- | :--- | :--- |
+| **Argon, Ug 1.1** | **1.50** (1.55 at Uf 1.4) | **1.31** (1.33) |
+| Argon, Ug 1.0 (e.g., Planitherm One class) | 1.45 | 1.23 |
+| **Air, Ug 1.4** | **1.66** (1.71) | **1.53** (1.56) |
+
+So the quote's "~1.5" matches the clerestory calculation with argon. For the West units it's a blanket figure: with argon they should come out ~1.3. Without argon they don't, which is why argon has to go in the formal spec.
+
+Whole-building effect (base: MASTER_PLAN §7.2, glazing 8.00 W/K, HTC 24.42 W/K, 1,500 HDD, SCOP 3.5, £0.245/kWh):
+
+| Scenario | Clere / West / Door Uw | Glazing loss | Δ | HTC | Thermal demand | Heating cost | Δ cost |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Current plan | 1.5 / 1.3 / 1.3 | 8.00 W/K | – | 24.42 W/K | 879 kWh | £61.55/yr | – |
+| **A. Quote, argon confirmed (calculated)** | 1.5 / 1.3 / 1.5 | **8.42 W/K** | **+0.42** | **24.84 W/K** | 894 kWh | **£62.60/yr** | **+£1.05** |
+| B. Quote as written (all ~1.5) | 1.5 / 1.5 / 1.5 | 8.82 W/K | +0.82 | 25.24 W/K | 909 kWh | £63.60/yr | +£2.05 |
+| C. Air-filled, door 1.5 | 1.66 / 1.53 / 1.5 | 9.17 W/K | +1.17 | 25.59 W/K | 921 kWh | £64.48/yr | +£2.95 |
+| D. Air-filled, door 1.6 (worst) | 1.66 / 1.53 / 1.6 | 9.38 W/K | +1.38 | 25.80 W/K | 929 kWh | £65.01/yr | +£3.45 |
+
+**Reading:** at worst ~£3.50/yr more heating and **~+25W** on the 1.1–1.4kW peak load (1.38 W/K × ~17K). Area-weighted opening Uw moves from 1.36 to 1.43 (A) or 1.50 (B). The heat pump sizing doesn't change.
+
+**Condensation (§3):** Ug unchanged with argon and the same warm-edge spacer, so the check still passes at RH ≤ 60%. Air fill lowers the centre-pane surface temperature by ~1°C (~11°C at 0°C outside), still above the 8.6°C dew point at 70% RH. Frame fRsi ≥ 0.70 still has to be declared.
+
+### 12.3 Acoustic Recalculation
+
+Same method as §4: fitted Rw = glass Rw − 2 → **37 dB** (was 38). Wall Rw 40 dB (sensitivity 45 dB). Door stays seal-limited at Rw 32.
+
+| Façade | Wall 40: adopted → quote | Window share | Wall 45: adopted → quote | Window share |
+| :--- | :--- | :--- | :--- | :--- |
+| **East** (2 clerestories) | 39.8 → **39.65 dB** (−0.15) | 13% → 16% | 43.7 → **43.4 dB** (−0.35) | 32% → 37% |
+| **North / South** (1 clerestory) | 39.85 → **39.75 dB** (−0.1) | 9% → 11% | 44.1 → **43.8 dB** (−0.25) | 24% → 29% |
+| **West** (2 windows + door Rw 32) | 36.75 → **36.6 dB** (−0.15) | wall / windows / door 29 / 17 / 55% | – | – |
+| West, door seals poorly adjusted (Rw 30) | 35.4 dB | 22 / 13 / 66% | – | – |
+| West, optional drop seal (Rw 34) | 37.6 dB | 36 / 21 / 43% | – | – |
+
+**Readings:**
+1. **Saw / planer noise (mid-high frequency, Rw / Rw+C is the right metric): −0.1 to −0.35 dB** at the neighbour façades. Inaudible (about 1 dB is the smallest change people notice; 3 dB is clearly noticeable). The clerestories remain a minority path; the wall still dominates.
+2. **Low-frequency noise (dust extractor and motor hum; Rw+Ctr):** glass Rw+Ctr 33 vs ~35. The lighter unit (25 vs 36 kg/m²) moves the mass-air-mass resonance from ~160 Hz to ~180 Hz. At the façade this is still only ~−0.3 dB, because the EPS SIP wall is weak at low frequency too. Low-frequency hum is handled by machine isolation (§3.2) and keeping the extractor away from the N/S/E walls, not by glass.
+3. **West:** the door is still the dominant path (55%). Ask for the Smart Systems door's tested Rw or its seal arrangement, and keep the drop-seal option open. The low threshold is the weakest seal line.
+4. **The Rw 39 (−2;−6) is a supplier figure for this build-up, with no test report.** A 4/16/6 acoustic unit is commonly listed at the same 39 (−2;−6), so the figure is plausible. Ask for the glass maker's datasheet (Pilkington Optiphon / Saint-Gobain Stadip Silence) for 4/18/6.8.
+5. **Secondary glazing upgrade path (§8) unchanged**: +8–12 dB per clerestory if a neighbour complains.
+
+**Side effect (handling):** a West 1000 × 1000 unit's glass drops from ~27kg to ~19kg, so DIY glazing is easier (WORKPLAN Week 7).
+
+### 12.4 Verdict & What to Pin Down in the Formal Quote
+
+**Verdict:** accept the glass and frame spec in principle. Thermally it costs ≤ £3.50/yr and acoustically ≤ 0.35 dB, both negligible against the §9 saving and well inside the "Rw ≥ 39" requirement in MASTER_PLAN §2.7. To stop scenario C/D happening, these go in the formal quote:
+
+1. **Argon fill (≥ 90%) committed**, not "to be confirmed", plus **soft-coat Low-E** (ε ≤ 0.03; declared Ug ≤ 1.1).
+2. **Declared Uw per unit size** (1500 × 300 and 1000 × 1000) and the door's whole-unit Ud; **frame fRsi ≥ 0.70**.
+3. **Glass datasheet / test report** for the 4/18/6.8 Rw 39 (−2;−6).
+4. **Replaceable (not co-extruded) gaskets** confirmed (§7).
+5. **Door:** system name (e.g., Alitherm range), frame made to the ~1000mm SIP opening after the SIP drawings are confirmed; **before the SIP order, only confirm the system gives ~800mm clear in that opening** (§8), vision-panel glass (4T/16Ar/4T Low-E or better), **coastal finish spec** (Qualicoat Seaside or equivalent marine pretreatment), **316 / BS EN 1670 Grade 5 hardware**, 3D-adjustable hinges, multi-point lock, threshold seal detail at the +40mm FFL, and the drop-seal option price.
+6. **Sizes = structural opening minus fitting gaps.** The estimate lists the windows at the nominal SIP opening sizes (1500 × 300, 1000 × 1000), which leaves no installation gap. Order the frames ~20mm smaller than the confirmed SIP openings (e.g., ~1480 × 280, ~980 × 980). On a 300mm clerestory that costs ~20mm of visible glass; the alternative is cutting the clerestory openings 20mm taller (head zone 179.7 → ~160mm, still above the ~80–90mm minimum).
+7. **Cills / drainage** (excluded, priced separately): agree the detail before ordering. It is not a thermal or acoustic issue, but it affects the head-of-cladding weathering at every opening.
+
+**If adopted:** MASTER_PLAN §2.7 (D-AC → 4/18Ar/6.8 acoustic lam, glass Rw 39 (−2;−6), Ud ~1.5), §7.1 (area-weighted ~1.43) and §7.2 (glazing 8.42 W/K, HTC 24.84 W/K, 894 kWh, ~£62.60/yr, scenario A) need updating. The WORKPLAN only changes if IOW Glass fits.
+
+**Sources:** quote above; [REHAU TOTAL70 brochure](https://www.rehau.com/downloads/419572/rehau-total70-brochure.pdf) (glass up to 44mm); [Copeland planning doc, REHAU TOTAL70 Uw calc](https://www.copeland.gov.uk/sites/default/files/planning-applications/energy_efficient_windows_millom_u_value.pdf) (1.34 W/m²K, 4/20Ar/4 casement); [BuildHub acoustic DGU thread](https://forum.buildhub.org.uk/topic/42967-acoustic-double-glazing-units) (4/18/6.8 offer; 4/16/6 listed at 39 (−2;−6)); [Smart Systems Alitherm 400 doors (NBS)](https://source.thenbs.com/product/alitherm-400-doors/siQKUbhtnW7nGc5gEFveHF/h6QFf14DcUFFGGMkSr5tPH); [Smart Visoglide Plus (NBL)](https://www.nationalbimlibrary.com/en/smart-systems-ltd/visoglide-plus-patio-doors/?lo=en) (alu systems ~1.5–1.6 W/m²K).

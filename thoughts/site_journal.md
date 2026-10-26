@@ -2000,3 +2000,17 @@
 - WORKPLAN Week 2 step 7 (preservative, DPC with bottom L, flap up the slope), Sunday West membrane step (DPC flap laid back over the membrane), Stage 2 steps 3–5 (lift DPC, backfill behind it, cap the top edge).
 - Single-drop list: DPC 450mm × 30m added (price TBC); email to Carla asks for it.
 - **@foreman:** check the preservative tins cover the soil faces as well as the cuts (2 × 750ml on the main list); add a tin if short.
+
+## 2026-10-25 — IOW Glass window & door estimate assessed (@strategist → user / @architect)
+- Estimate £3,450 + VAT supply & delivery (`comms/quotes/iow-glass_windows-door.txt`, valid 14 days). Recalculation in `thoughts/glazing_impact_breakdown.md` §12.
+- **Thermal:** +0.42 W/K with argon confirmed (HTC 24.84, ~£62.60/yr), up to +1.38 W/K if air-filled and door 1.6 (~£65/yr). Negligible either way.
+- **Acoustic:** glass 4/18/6.8 lam, Rw 39 (−2;−6) vs assumed 6/16/8.8 ~40. Neighbour façades −0.1 to −0.35 dB; West −0.15 dB. Inaudible.
+- **To pin down in the formal quote:** argon + soft-coat Low-E committed, declared Uw per size + fRsi, glass datasheet, replaceable gaskets, door system / 900mm leaf / coastal finish / 316 hardware / threshold seal, cills.
+- **@architect:** MASTER_PLAN §2.7 / §7.1 / §7.2 not yet changed. Update to scenario A once the user accepts the quote.
+- **Door sequencing (user decision):** the door is made to order to suit the ~1000mm SIP opening after the SIP drawings are confirmed, so the door width is no longer a pre-SIP-order blocker. Before the SIP order, only confirm the system gives ~800mm clear in that opening. MASTER_PLAN §1.0a note + §2.7 West layout updated. Windows and door to be ordered at opening minus fitting gaps (the quote lists the nominal sizes).
+
+## 2026-10-26 — §2.7 simplified, glazing U-values set to 1.5 (@architect → @foreman, @strategist)
+- MASTER_PLAN §2.7 rewritten shorter and product-neutral (no glass, profile, seal or drainage brand names). Kept: uPVC fixed lights, D-AC acoustic laminated glass (glass Rw ≥ 39 dB), 900mm half-glazed alu door, West pier layout, door movement install rules, sole plate OPEN RISK FLAG.
+- **U-values:** ~1.5 W/m²K for every window and the door. §7.1 updated; §7.2 glazing 8.00 → 8.82 W/K, HTC 24.42 → 25.24 W/K, 908.6 kWh, ~£63.60/yr. Peak heat load (§4.1) unchanged (+~15W).
+- **@foreman:** WORKPLAN Week 7 keeps the detailed install steps (still references §2.7). Its handling note (~37 kg/m² glass) is conservative; the quoted 4/18/6.8 unit is ~25 kg/m².
+- **@strategist:** Red Line, Weather-Tight and Sequence unchanged (same openings, tapes and install week).
