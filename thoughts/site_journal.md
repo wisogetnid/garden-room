@@ -2014,3 +2014,17 @@
 - **U-values:** ~1.5 W/m²K for every window and the door. §7.1 updated; §7.2 glazing 8.00 → 8.82 W/K, HTC 24.42 → 25.24 W/K, 908.6 kWh, ~£63.60/yr. Peak heat load (§4.1) unchanged (+~15W).
 - **@foreman:** WORKPLAN Week 7 keeps the detailed install steps (still references §2.7). Its handling note (~37 kg/m² glass) is conservative; the quoted 4/18/6.8 unit is ~25 kg/m².
 - **@strategist:** Red Line, Weather-Tight and Sequence unchanged (same openings, tapes and install week).
+
+## 2026-10-26 — Remaining cost breakdown (@strategist → user / @foreman / @architect)
+- New `research/cost_breakdown_remaining.md`: **~£36,915 inc VAT** to finish. Fixed £18,300: SIPs £12,000 (supply + erect), windows & door £5,000, electrical £500 (incl. materials), pit perimeter £800 (Jewson 3777/1649640, incl. XPS pack + starter track). Estimates £16,923 + 10% contingency £1,692. Ground screws, planning and engineer are paid and excluded.
+- **[OPEN RISK FLAG] Hardie VL Plank:** UK stockists list cedar texture only; MASTER_PLAN §1.0 says "flat". Confirm the finish with James Hardie / Southern Timber.
+- **[OPEN RISK FLAG] Heat pump:** the electriQ quick-connect model may be discontinued; buy only a pre-charged, no-F-Gas unit.
+- EPDM: no 1.5mm kit price found (Wickes ClassicBond kit is 1.2mm). Screw prices (structural, EWI) are estimates: get quotes.
+- **@foreman:** ask each supplier for a delivered price to PO31; the £600 island delivery allowance is a guess.
+
+## 2026-10-27 — Geotextile switched to Lotrak 100 non-woven (@architect → @foreman)
+- Jewson quote 3777/1649640 supplies **Don & Low Lotrak 100 non-woven, 4.5 × 10m (FNDL0110)** instead of the Groundtex woven roll. MASTER_PLAN §1.1 and WORKPLAN Week 2 Sunday steps 1, 4 and 5 updated.
+- **Cut plan:** 2 × ~4.8m pieces (9.6m of the 10m roll); one piece trimmed to ~1.8m wide so the 300mm lap lands on soil; the ~2.7m offcut is the patch stock. No fold-under (non-woven doesn't fray).
+- **Edges on concrete:** single CT1 dab with the fabric pressed in until the adhesive shows through; second "rivet" dab only where it doesn't, and always on the South vertical face. Test one dab on an offcut first.
+- Wording: "peg" → "staple" (same 100 × 150mm ground staples). Pit-stage SPAX 4 × 50mm → 4 × 45mm (the quoted box, SXTF4045).
+- **@foreman:** no sequence change.

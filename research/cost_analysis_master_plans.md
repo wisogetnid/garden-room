@@ -1,5 +1,7 @@
 # Cost Analysis: 4x5m Cowes Passivhaus Workshop (Self-Build)
 
+> **Superseded (26 Oct 2026):** see `research/cost_breakdown_remaining.md` for the current remaining-cost breakdown.
+
 **Context:** This analysis compares the material costs for the three architectural strategies detailed in the `plans/` directory. 
 **Assumptions:** 
 * 20m² footprint (4x5m).
