@@ -22,7 +22,7 @@
 | **Corner Screws** | 8.0 × 100mm countersunk structural, stainless, same family | 4 per halving, driven vertically | Clamps the 4 corners | 16 (box of 50) |
 | **Internal Beam End Screws** | 8.0 × 160mm fully threaded structural screws, countersunk, T40, ETA for inclined main–secondary joints; A4 stainless or C4/C5 coating | 2 per beam end at 45° from the beam top, 55mm back from the end | Hang the internal beams off the ring beam (replace the T-halvings) | 10 (8 + 2 spare) |
 | **End-Grain Preservative** | Ronseal Decking End Grain Protector, 750ml, green | 2 flood coats on every cut and halving face | Restores the treatment at cuts (BS 8417) | 2 × 750ml |
-| **Beam-to-Plate Fixing (provisional)** | M10 stainless hex coach screws, ~100mm, with M10 stainless Form C washers | Up through the RADIX 220mm plate holes and the packers into the beam underside | Holds the beam down and in line on the screws | ~28 + washers (2 per plate × 14). **[OPEN: method, size and count to confirm with No More Digging / the engineer]** |
+| **Beam-to-Plate Fixing** | No More Digging angle brackets (supplied, 30 Oct 2026) + SPAX A2 6 × 80mm washer-head T30 (Jewson SXSS6008); the supplied 6 × 50mm screws are Pozidriv | Horizontal leg bolted to the 220mm plate, upright leg screwed to the beam side | Holds the beam down and in line on the screws | 1 bracket per screw (14) |
 | **Steel Packers** | 10mm galvanised or stainless shim plates, full plate seat | Between plate and beam, drilled to match the plate holes | Lift the beam underside to -125mm | 14 + spares (from No More Digging) |
 
 ## 2. Price Comparison (ex VAT, 18 Oct 2026)
@@ -50,5 +50,5 @@
    The saving is ~£3 on the like-for-like timber (£5.59 vs £5.65 per metre), so it is not worth it. **Buy the plies from Jewson (PAJT4712, 47 × 125mm actual).**
 2. **Neither merchant stocks the structural screws.** The 8 × 140mm lamination screws and 8 × 100mm corner screws still come from SPAX UK or Timber Fixings, as already planned.
 3. **The end-grain preservative is cheaper at Jewson** (£15.64 vs £19.49) and can go on the same order as the timber.
-4. **Only Sydenhams sells stainless coach screws.** They are useful if No More Digging confirms coach screws up through the plate holes. Sydenhams lists them as A2; the plan prefers A4 in the coastal void, so ask the engineer whether A2 is acceptable, as it already is for the lamination screws.
+4. **Coach screws not needed (30 Oct 2026):** No More Digging supplied angle brackets and 6 × 50mm self-drilling screws for the beam-to-plate fixing. The Sydenhams coach screw lines in §2 are kept for reference only.
 5. **Treatment class:** neither site states UC3. Jewson PAJT4712 is UC2, and Sydenhams' page gives no use class. The UC2 vs UC3 question for the engineer (MASTER_PLAN §1.2) is unchanged.

@@ -20,16 +20,16 @@
 | 3 | Electrical installation, labour + materials + Part P certificate | Fixed (user) | 500 |
 | 4 | Pit perimeter build-out | Fixed (user; Jewson Quote 3777/1649640, £782.79) | 800 |
 | | **Fixed subtotal** | | **18,300** |
-| 5 | Floor platform: ring beam, joists, PIR, sub-deck | Estimate (§3) | 2,900 |
+| 5 | Floor platform: ring beam, joists, PIR, sub-deck | Estimate (§3) | 2,876 |
 | 6 | Roof: over-roof PIR, EPDM, kerb, fascia | Estimate (§4) | 1,864 |
 | 7 | Walls: wood fibre, Tyvek, battens, Hardie VL cladding | Estimate (§5) | 4,879 |
-| 8 | Rainwater + gap cover (South/East/North) | Estimate (§6) | 825 |
+| 8 | Rainwater + gap cover (West only) | Estimate (§6) | 340 |
 | 9 | Interior: birch ply deck, Fermacell, airtight tapes | Estimate (§7) | 2,745 |
 | 10 | Climate & ventilation: dMVHR, heat pump, dehumidifier, air cleaner | Estimate (§8) | 2,290 |
 | 11 | Site & logistics: island deliveries, skip, tools, door drainage | Estimate (§9) | 1,420 |
-| | **Estimated subtotal** | | **16,923** |
-| 12 | Contingency, 10% of the estimated subtotal | | 1,692 |
-| | **TOTAL REMAINING** | | **~£36,915** |
+| | **Estimated subtotal** | | **16,414** |
+| 12 | Contingency, 10% of the estimated subtotal | | 1,641 |
+| | **TOTAL REMAINING** | | **~£36,355** |
 
 **Where the money goes:** SIPs 33%, walls 13%, windows & door 14%, everything else under 10% each. The fixed figures are 50% of the total; the estimate lines carry the uncertainty (range about **£34,000–£39,000**).
 
@@ -53,7 +53,7 @@
 | 47 × 125mm C24 treated, ring beam + internal beam plies | 75.6m (6 × 5.4m, 12 × 3.6m) | Jewson PAJT4712, £5.65/m ex | 513 | 3 |
 | 47 × 125mm C24 treated, floor joists + 1 spare | 11 × 4.8m | Jewson PAJT4712 | 358 | 3 |
 | Structural screws: 8 × 140mm lamination (~216), 8 × 100mm corner (box of 50), 8 × 160mm fully threaded (10) | — | SPAX UK / Timber Fixings / specialist | 350 | 2 |
-| Beam-to-plate fixings, M10 A2 coach screws + Form C washers (provisional) | ~28 + washers | Sydenhams | 90 | 3 |
+| Beam-to-plate fixings: angle brackets (No More Digging, supplied) + SPAX A2 6 × 80mm | 14 + 1 box of 100 | Jewson SXSS6008 | 66 | 3 |
 | Joist hangers SAE250/47/2 | 52 (2 boxes of 50) | Sitebox / Screwfix | 258 | 2 |
 | Hanger nails 30 × 3.75mm | 4 × 0.5kg | Jewson NTG30Q05 | 25 | 2 |
 | 125mm PIR 2400 × 1200 + delivery | 5 boards | Insulation Wholesale (Eco-Versal) | 320 | 3 |
@@ -66,7 +66,7 @@
 | SPAX WIROX 4.5 × 60mm flooring screws | 2 tubs | Jewson SXFT4560 | 60 | 2 |
 | D4 adhesive (T&G joints) + CaberFix joint tape | 2 × 1L + 1 roll | Jewson | 45 | 2 |
 | Board stack tarp 4 × 5m, blocks, polythene, bungees, sandbags | 1 set | Jewson / any | 60 | 3 |
-| **Subtotal** | | | **~2,900** | |
+| **Subtotal** | | | **~2,876** | |
 
 ---
 
@@ -108,8 +108,10 @@
 | Item | Qty | Source | Cost (£) | Conf. |
 | :--- | :--- | :--- | ---: | :--- |
 | 112mm black uPVC gutter, brackets, outlet, stop ends, 68mm downpipe, diverter, 200–250L slimline water butt | 1 set (~5.2m gutter) | Screwfix / any | 250 | 2 |
-| Gap cover South/East/North: 12 × decking boards, ~29m 47 × 50mm ledger, 20 pegs, 3 boxes SPAX A2 4 × 50mm | 1 set | Jewson (`jewson-pit-perimeter-order.md` §4) | 575 | 3 |
-| **Subtotal** | | | **~825** | |
+| Gap cover, West only (27 Oct 2026: South/East/North stay open trenches): 2 × decking boards, 1 box SPAX A2 4 × 50mm; ledgers in the pit drop | 1 set | Jewson (`jewson-pit-perimeter-order.md` §4) | 90 | 4 |
+| **Subtotal** | | | **~340** | |
+
+*The cladding dropping to -100mm on South/East/North adds ~2.7m² of Hardie plank and ~7m of batten to §5 (not yet re-priced).*
 
 ---
 

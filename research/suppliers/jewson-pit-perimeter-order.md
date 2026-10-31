@@ -67,17 +67,15 @@
 **Assumed on site, not confirmed:** sealant gun (CT1), 3mm wood drill bit, sash clamp (mesh bending).
 **Not needed for this stage:** SDS drill (CT1 replaces Thunderbolts on the slabs). A staple gun is first needed in Phase 3 for the rainscreen bug mesh and the top vent trim.
 
-## 4. Later Order: Ventilated Gap Cover, South / East / North (WORKPLAN Week 8)
+## 4. Later Order: Ventilated Gap Cover, West Only (WORKPLAN Week 8)
 
-Order it with the Phase 3 cladding delivery (MASTER_PLAN §1.1). The West ledgers are in §1.
+**Changed 27 Oct 2026 (user):** South, East and North stay as open trenches with the cladding down to -100mm, so only the West slats are needed. The West ledgers are in §1. Order with the Phase 3 cladding delivery (MASTER_PLAN §1.1).
 
 | Item | Source / SKU | Unit | Qty | Unit price | Line total | Notes |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- |
-| Redwood Decking Treated PEFC 32 × 125 × 4200mm (actual 26 × 118mm) | Jewson [PR321242](https://www.jewson.co.uk/p/redwood-decking-treated-pefc-32-x-125-x-4200mm-act-size-26-x-118-PR321242) | each | 12 | £18.56 | £222.72 | ~140 slats (185–315mm, North as measured) + waste, all four sides |
-| Regularised Treated Carcassing 50 × 47mm | Jewson [FVRT4750](https://www.jewson.co.uk/p/fsc-standard-kiln-dried-regularised-treated-carcassing-50-x-47mm-FVRT4750) | m | ~29 | TBC | TBC | South/East/North wall ledgers (~11.8m) + pit-side ledgers (~13.7m) + corner blocks |
-| FSC Sawn Treated Pointed Peg 600 × 50 × 47mm | Jewson [FEG47STD](https://jewson.co.uk/p/fsc-sawn-treated-pointed-peg-600-x-50-x-47mm-FEG47STD) | each | 20 | £5.38 | £107.60 | East/North (and South if the concrete can't carry the ledger) at ≤900mm |
-| SPAX A2 Stainless Countersunk 4 × 50mm, box of 200 | Jewson [SXTF4050](https://www.jewson.co.uk/p/spax-flat-countersunk-head-stainless-steel-screws-50-x-4mm-silver-SXTF4050) | box | 3 | £36.64 | £109.92 | 2 per slat end |
-| | | | | **Known subtotal** | **~£440 + ledger** | Ledger screws come from the SPAX SXSS6014 / SXSS6010 boxes in §1 |
+| Redwood Decking Treated PEFC 32 × 125 × 4200mm (actual 26 × 118mm) | Jewson [PR321242](https://www.jewson.co.uk/p/redwood-decking-treated-pefc-32-x-125-x-4200mm-act-size-26-x-118-PR321242) | each | 2 | £18.56 | £37.12 | ~41 West slats (~125mm) + waste |
+| SPAX A2 Stainless Countersunk 4 × 50mm, box of 200 | Jewson [SXTF4050](https://www.jewson.co.uk/p/spax-flat-countersunk-head-stainless-steel-screws-50-x-4mm-silver-SXTF4050) | box | 1 | £36.64 | £36.64 | 2 per slat end |
+| | | | | **Subtotal** | **~£74 ex VAT** | Ledgers and ledger screws are in the pit drop (§7) |
 
 ## 5. Isle of Wight Sources for the Non-Jewson Items (checked 14 Oct 2026)
 
@@ -131,3 +129,35 @@ Source PDFs: `comms/quotes/K8 document Quotation-00447205.pdf` (Drop 1) and `com
 | **Quote total** | | **£339.36** (£407.23 inc) | |
 
 **Not on either quote (still to buy elsewhere):** 16 × 600mm road pins, ground staples (Toolstation), 60mm starter track (EWI Store).
+
+## 7. Confirmed Order (27 Oct 2026)
+
+**Jewson Newport, quote 3777/1649640 (27 Oct 2026 version), confirmed by the user: £698.50 ex VAT (£838.19 inc), one drop, haulage included.** Source PDF: `comms/quotes/K8 document Quotation-00447327.pdf`.
+
+| Line | Qty | Total (ex VAT) |
+| :--- | ---: | ---: |
+| Regularised treated joist 47 × 50mm PBJT4750 (5 × 2.4m) | 12m | £15.96 |
+| SPAX A2 washer-head 6 × 100mm T30 SXSS6010, box of 100 | 1 | £56.88 |
+| SPAX A2 washer-head 6 × 140mm T30 SXSS6014, box of 100 | 1 | £66.81 |
+| Visqueen polythene DPC 450mm × 30m FNPYDP56 | 1 | £21.22 |
+| Gravel board 22 × 150 × 3600mm SGGFHV36 (UC3) | 4 | £31.80 |
+| Don & Low Lotrak 100 non-woven geotextile 4.5 × 10m FNDL0110 | 1 | £61.98 |
+| Bostik Flashband 100mm × 10m RFFGE504 | 1 | £11.40 |
+| CT1 white 290ml EQFAPH09 | 2 | £22.60 |
+| SPAX A2 countersunk 4 × 45mm T20 SXTF4045, box of 200 | 1 | £27.54 |
+| A2 penny washer M6 × 25mm LFWPSS06 | 100 | £12.00 |
+| Raptor tarpaulin 10 × 4m RAP00611 | 1 | £38.57 |
+| Ronseal Decking End Grain Protector 750ml LDR37334 | 1 | £14.10 |
+| Galvanised welded mesh 6m roll 36" × ¼" × 23g (special order, no returns) | 2 | £49.32 |
+| Kingspan GreenGuard GG300 rebated 60mm 600 × 1250mm (special order, no returns) | 8 | £166.16 |
+| 60mm aluminium EWI base rail 2.5m, **no drip bead** (special order) | 7 | £97.16 |
+| Fuel surcharge | 1 | £5.00 |
+
+**Ordered elsewhere (user, 27 Oct 2026):** 16 × 600mm road form pins (10), ground staples, straight aviation snips, 8m tape (Minotaur, Toolstation 96105), cut-resistant gloves (Screwfix).
+
+**Delivery status (user, 30 Oct 2026):**
+- **Received:** all Toolstation and Screwfix items, and the 10 road form pins.
+- **Outstanding:** the Jewson drop (quote 3777/1649640), and the first Ronseal End Grain Protector tin (LDR37334; the second tin is on the ring beam drop).
+
+**Still to borrow:**
+- West slab section (~2.2m): SDS drill + 18mm bit (~250mm+ working length), borrowed from a neighbour. Pins are driven full length through the slab into the clay; no resin, no cut pins.

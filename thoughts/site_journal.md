@@ -2028,3 +2028,71 @@
 - **Edges on concrete:** single CT1 dab with the fabric pressed in until the adhesive shows through; second "rivet" dab only where it doesn't, and always on the South vertical face. Test one dab on an offcut first.
 - Wording: "peg" → "staple" (same 100 × 150mm ground staples). Pit-stage SPAX 4 × 50mm → 4 × 45mm (the quoted box, SXTF4045).
 - **@foreman:** no sequence change.
+
+## 2026-10-27 — Starter track: base rail without drip bead (@architect → @foreman)
+- Jewson's 60mm base rail (SP/4675640) has no drip; the drip needs a separate clip-on bead. **User decision: no bead.** Water off the XPS face drains off the rail edge into the ventilated void; minor risk of occasional back-tracking to the beam underside, which dries in the void.
+- **7 rails, butt-jointed corners:** South/North 2.5m + 1.028m (run past the corners), East/West 2.5m + 2.424m (between). ~0.44m offcut spare only; mitred corners would need 8.
+- MASTER_PLAN §2.3B and the "drip" wording in §1.1 / §2.3 C updated; WORKPLAN Weekend 2 starter track step (cut plan added) and mesh step 4 updated.
+- Jewson quote 3777/1649640 (27 Oct 2026): £698.50 ex VAT, validated. 8m tape, cut-resistant gloves and snips bought in Newport (Toolstation / Screwfix).
+
+## 2026-10-27 — Pit perimeter order confirmed (@foreman)
+- Jewson quote 3777/1649640 confirmed, £698.50 ex VAT; line list in `research/suppliers/jewson-pit-perimeter-order.md` §7. Pins, staples, snips and tape ordered elsewhere.
+- **Still to buy:** level C gloves (size M), and for the ~2.2m West slab section an 18mm SDS bit, anchor resin, hole brush and SDS hire.
+- **[OPEN RISK FLAG: WORKPLAN Week 2 Saturday step 6 "Over a buried slab" still says 16mm hole + CT1 with full-length pins. A 600mm pin set 100mm into the slab stands ~200mm above 0mm: cut those pins to ~400mm, drill 18mm, set in anchor resin. Plan text not yet updated.]**
+
+## 2026-10-27 — West slab pins: drill through, drive full length (@architect → @foreman)
+- Resolves the open risk flag above. Over the ~2.2m West slab: 18mm hole drilled right through the slab (borrowed SDS + long bit), full 600mm pin driven through into the clay, top at or below 0mm. The slab collars the pin; no resin, no cut pins.
+- WORKPLAN Week 2 Saturday step 6 and MASTER_PLAN §1.1 updated.
+
+## 2026-10-27 — Cladding base lowered to +125mm (@architect → @foreman)
+- User decision: battens and Hardie planks come down to **+125mm** (150mm above the -25mm slats/gravel, James Hardie ground clearance). Wood fibre still starts at +175mm; the cavity runs over the upper XPS from +125 to +175.
+- Bug mesh specified: perforated aluminium L-profile closure **50 × 25mm** (e.g., Millboard Envello GP300L), 50mm leg behind the battens, 25mm leg across the cavity bottom at +125mm.
+- Tyvek now ends at +125mm (was 0mm), so none is left exposed to daylight below the cladding.
+- Fixes the WORKPLAN Week 8 "cavity inlet at 0mm" error.
+- **[OPEN RISK FLAG: XPS face 0 to +125mm exposed to daylight; confirm GG300 UV durability with Kingspan or add a plinth strip.]**
+- MASTER_PLAN §2.3B ground clearance rule, §2.3C rows 5, 7, 8; WORKPLAN Week 6 Tyvek and Week 8 battens updated.
+
+## 2026-10-27 — South/East/North open trenches, cladding to -100mm (@architect → @foreman)
+- **User decision:** no gap cover on the South, East and North. Battens, Tyvek, bug mesh and Hardie planks come down to **-100mm** there (~200mm above the -300mm trench floor). No XPS exposed; the rodent mesh top (-30mm) sits inside the cavity. Rodent mesh, starter track and XPS unchanged.
+- **West unchanged for now** (slatted gap cover, cladding +125mm). **[OPEN RISK FLAG: West detail open; candidate cladding +25mm with the mesh up to +20mm. Cladding steps at the NW/SW corners.]**
+- Maintenance: clear the trenches yearly; bridge them with a scaffold board for ladders.
+- Updated: MASTER_PLAN §1.1 (mesh, gap cover → West only), §2.3B clearance rule, §2.3C rows 5–8; WORKPLAN Weekend 2 mesh step, Week 6 clearance + Tyvek, Week 8 battens + gap cover; `jewson-pit-perimeter-order.md` §4 (2 boards + 1 box screws); `cost_breakdown_remaining.md` (gap cover £825 → £340 line, total ~£36,382; cladding increase not yet re-priced).
+
+## 2026-10-30 — Pit perimeter deliveries (@foreman)
+- **Received:** all Toolstation and Screwfix items (staples, snips, tape, gloves) and the 10 road form pins.
+- **Outstanding:** the Jewson drop (quote 3777/1649640) and the first Ronseal End Grain Protector tin. Status in `research/suppliers/jewson-pit-perimeter-order.md` §7.
+- **@foreman:** chase a delivery date from Jewson Newport. Week 2 can't start without the gravel boards, geotextile and CT1, and Weekend 2 needs the GG300, base rail and mesh (all special orders).
+- **Also received (ring beam drop):** Simpson Strong-Tie SAE250/47/2 face-fix hangers (Screwfix 872TJ). `ring-beam-drop-order.md` §3 marked received. **@foreman:** check the box says SAE250/47/2 (102mm tall) and count 52 + spares.
+- Hangers confirmed by the user: SAE250/47/2 (47 × 102mm), 6 packs of 10.
+
+## 2026-10-30 — Starter track fixing specified; Weekend 2 screw check (@architect → @foreman)
+- The starter track fixing was unspecified. Now **SPAX A2 4 × 45mm T20 (SXTF4045) at 300mm + one within 50mm of every end/cut (~70)**; add an M6 penny washer only if the rail holes are wider than the head. MASTER_PLAN §2.3B track row and WORKPLAN Weekend 2 step 1 updated.
+- Count against the Jewson drop: SXTF4045 ~100 of 200 (track ~70, West membrane ~6, outer ledger ~17, DPC cap ~9). SXSS6010 ~70 of 100 (mesh at 300mm + laps/corners). SXSS6014 ~17 of 100 (West wall ledger). M6 penny washers ~85 of 100 (mesh ~70, membrane ~6, DPC cap ~9): only ~15 spare.
+- **@foreman:** check the base rail hole size when the drop arrives. If washers are needed on the track, buy 1 more pack of A2 M6 penny washers (Toolstation 29575).
+
+## 2026-10-30 — Beam-to-plate fixing resolved: No More Digging brackets (@architect → @foreman)
+- No More Digging supplied angle brackets + **6 × 50mm self-drilling wood screws** (photo `comms/nmd/ground-screw_beam-fixing.jpg`): horizontal leg bolted to the 220mm plate, upright leg screwed to the beam side. Closes the MASTER_PLAN §1.2 open item.
+- **Bracket face:** outer face at the corners and P04/P07/P08/P11 (East/West inner faces are covered by the edge joists / internal beams); inner face at P02/P13 and P05/P06/P09/P10, between the joist hangers.
+- Outer-face brackets: starter track packed out and lower XPS rebated over them (8 places, was 4); mesh screws kept clear. Inner-face brackets: PIR strip end notched and foamed.
+- Provisional M10 A2 coach screws + washers dropped (−£73 ex VAT on the ring beam drop; cost breakdown total ~£36,283).
+- Updated: MASTER_PLAN §1.2 ring beam row, §1.2.2 bullets; WORKPLAN Weekend 2 ring beam + lower XPS steps; `ring-beam-drop-order.md`, `ring-beam-material-list.md`, `cost_breakdown_remaining.md`.
+- **@foreman:** confirm 14 brackets arrived and check the screws' drive type (Torx/hex OK, not Pozi/Phillips).
+
+## 2026-10-30 — Bracket screws: SPAX A2 6 × 80mm replaces the supplied Pozidriv (@architect → @foreman)
+- The No More Digging 6 × 50mm screws are Pozidriv (Torx-only rule). Replaced by **SPAX A2 6 × 80mm washer-head T30 (Jewson SXSS6008)**, 1 box of 100, added to the ring beam drop.
+- 80mm: ~77mm into the beam, through the outer ply into the second. No longer: the 8 × 140mm lamination and edge-joist screws cross the full 141mm width.
+- **New clearance rule:** no 8 × 140mm screw within 80mm of a bracket centreline. Mark the 14 bracket positions on the plies before laminating (MASTER_PLAN §1.2.2, WORKPLAN lamination step).
+- Cost breakdown total ~£36,355.
+- **Correction (user):** all 14 brackets go on the **inner face**; nothing on the outer face. Starter track and lower XPS no longer packed/rebated. Edge joists and internal beam ends are rebated over the brackets instead (MASTER_PLAN §1.2.2, WORKPLAN Weekend 2).
+- **[OPEN RISK FLAG: at P04/P07/P08/P11 the bracket screws sit in the same zone as the inclined 8 × 160mm internal beam end screws (tips ~58mm into the ring beam at ~-118mm, ~30mm either side of centre). Needs the bracket's hole positions to resolve.]**
+
+## 2026-10-31 — West cladding lowered to +25mm (@architect → @foreman)
+- **User decision:** West battens, Tyvek, bug mesh trim and Hardie planks come down to **+25mm** (was +125mm), 50mm above the -25mm slats. This replaces the old West risk flag. The cladding steps 125mm at the NW/SW corners.
+- **Rodent mesh, West, in two stages:** in Weekend 2 the lower mesh top goes to **0mm** (was -30mm; strip bent ~300mm vertical + ~130mm foot). In Week 6, after the upper XPS, a ~115mm top strip goes from -45 to +70mm, lapped 45mm (the wall ledger at -51mm blocks a 100mm lap), screwed at -38mm with no penny washers (keeps the 10mm slat slot clear). Its top edge is clamped in Week 8 by the bug mesh trim screws at ~+35mm into the SIP base / sole plate.
+- **Still visible:** a 50mm shadow gap from -25 to +25mm, with mesh over XPS. No XPS is left unprotected.
+- **[OPEN RISK FLAG: James Hardie UK written acceptance of 50mm clearance above the slatted cover requested 31 Oct 2026. Fallback: +125mm, with the mesh top strip to +150mm, visible.]**
+- **Order:** ~34 more SPAX A2 6 × 100mm (SXSS6010). Buy a second box before Week 6. Mesh comes from the roll surplus. Cladding ~41.5m² (not re-priced).
+- Updated: MASTER_PLAN §1.1 mesh row, §2.3B clearance rule, §2.3C rows 5, 7, 8; WORKPLAN Weekend 2 mesh steps 2–3, Week 6 Tyvek + new West mesh top strip step, Week 8 bug mesh/battens.
+- **Deferred until NFS sign-off pack v2 arrives:** opening sizes (1010 × 1010mm at 1120–2130mm, door 1010 × 2130mm), 2 × 47 × 97mm lintels, 610mm roof panels, site-cut dMVHR hole, sole plate planing flag closed; plus bug mesh trim moved to Week 6 and mesh screws offset from batten lines.
+- **Mesh cut list (same day):** 4 × 6m strips of 450mm. West 5.14m, East 5.14m, North 3.63m, South 3.63m (one 100mm corner return each). Offcuts: 2 × 0.86m (patches), 2 × 2.37m (one for the Week 6 West top strip, ~4.2m of 115mm strip, one spare). No extra mesh to order. Width margin only 20–30mm, so measure the pit depth per face before bending. WORKPLAN Weekend 2 step 1 and Week 6 top strip step 1 updated.
+- **Mesh corners corrected (same day):** "mitre the foot" replaced. The vertical leg gets a 100mm return. At an external corner the outward feet leave a ~150 × 150mm open square: patch it (~250 × 250mm, under both feet, stapled) at the SW corner only (soil). NW/NE/SE sit on slabs: no patch, CT1 the foot ends. WORKPLAN Weekend 2 mesh step 6 updated.

@@ -4,7 +4,7 @@
 
 **Already covered elsewhere:**
 - **Pit drop** (`comms/quotes/jewson-single-drop-order.md`, quote 3777/1649640): starter track, 60mm XPS, rodent mesh, SPAX 6 × 100 / 6 × 140mm, DPC roll. Any DPC pads under the ring beam come from that roll.
-- **No More Digging:** 10mm packers.
+- **No More Digging:** 10mm packers, beam-to-plate angle brackets (received). Their 6 × 50mm screws are Pozidriv: replaced by SPAX SXSS6008 (§1).
 - **New Forest SIPs:** sole plate DPC, sole plate, M12 anchors.
 - **Week 3 sub-deck** (Caberdek, D4 glue, WIROX screws): separate order, `comms/Jewson_Materials_List.csv`.
 
@@ -20,11 +20,12 @@
 | PAJT4712, **3.6m** | PAJT4712 | 12 | £5.65/m | £244.08 | South/North plies (cut 3408mm) + internal beam plies (cut 3125mm) |
 | PAJT4712, **4.8m** | PAJT4712 | 11 | £5.65/m | £298.32 | 30 joists (3 per length, ~1448mm) + 1 spare (sister joists) |
 | Ronseal Decking End Grain Protector 750ml, green | LDR37334 | 2 | £15.64 | £31.28 | Every cut and halving face, 2 coats |
+| SPAX A2 washer-head 6 × 80mm T30, box of 100 | SXSS6008 | 1 | ~£55 | ~£55 | Beam-to-plate brackets (replaces the supplied Pozidriv screws) |
 | SPAX A2 4.0 × 40mm T20, box of 200 | SXTF4040 | 2 | £25.19 | £50.38 | ~200 PIR brackets + ~64 deck-edge brackets |
 | Galvanised square twist nails 30 × 3.75mm, 0.5kg | NTG30Q05 | 4 | ~£5 | ~£20 | Every hanger hole |
 | Galvanised angle bracket ~40 × 40 × 3mm | ask the branch | ~32 | ~£0.80 | ~£26 | Deck-edge support on the South/North ring beams |
 | **125mm PIR 2400 × 1200mm**, Recticel Eurothane GP 125 (or Ecotherm Eco-Versal 125) | ask for a special-order quote | 5 | ~£45–90 | **~£225–450** | Floor insulation, ripped into 4 strips per board |
-| | | | **Subtotal** | **~£1,080–1,300** | |
+| | | | **Subtotal** | **~£1,135–1,355** | |
 
 **[OPEN RISK FLAG: no island delivery confirmed for the 125mm PIR.]** Jewson's website lists Eurothane GP only up to 120mm. Insulation Wholesale (£45.99) and Materials Market (£53.11) don't confirm Isle of Wight delivery, and Insulation Superstore doesn't deliver to the island. Ask the Newport branch to quote 125mm as a special order, as with the GG300. **Don't accept 120mm:** the board must be flush with the joist tops (MASTER_PLAN §1.2).
 
@@ -43,14 +44,12 @@ The supplier choice is still open (MASTER_PLAN §1.2). Order early: this is the 
 
 | Item | Qty | Source | Price | Use |
 | :--- | ---: | :--- | ---: | :--- |
-| Simpson Strong-Tie face-fix hanger 47 × 102mm (SAE250/47/2), 10-pack | 6 packs (52 used + 8 spare) | **Screwfix Newport** 872TJ (£27.99 inc VAT per pack) | £139.95 | Inner joist lines. Check it is the SAE heavy-duty type, never a taller hanger |
+| Simpson Strong-Tie face-fix hanger 47 × 102mm (SAE250/47/2), 10-pack | 6 packs (52 used + 8 spare) | **Screwfix Newport** 872TJ (£27.99 inc VAT per pack). **Received 30 Oct 2026** | £139.95 | Inner joist lines. Check it is the SAE heavy-duty type, never a taller hanger |
 | A2 stainless angle bracket 25 × 41mm, 3mm (SSWAB41) | ~200 | [GS Products](https://www.gsproducts.co.uk/25mm-stainless-steel-angle-bracket/) (£1.36–1.63 each) | ~£272–326 + postage | PIR support. Ask for a bulk price |
 | Soudal Flexible Expanding Foam, gun grade 750ml | 7 | **Toolstation Newport** 69089 | ~£84.49 | 6 for the PIR edges + 1 for the lower XPS strip |
-| A2 stainless coach screw M10 × 100mm, pack of 5 (**provisional**) | 6 packs | **Sydenhams Newport** LF211350 | £59.70 | Beam to top plates, 2 per plate |
-| A2 stainless Form C washer M10, pack of 10 (**provisional**) | 3 packs | Sydenhams LF211384 | £13.35 | With the coach screws |
-| | | | **~£570–625** | |
+| | | | **~£497–552** | |
 
-**Coach screws:** buy only after No More Digging confirms the beam-to-plate fixing method and length (MASTER_PLAN §1.2, still open).
+**Beam-to-plate fixing:** No More Digging's angle brackets (supplied, 30 Oct 2026) with SPAX A2 6 × 80mm washer-head screws from Jewson (§1). The provisional M10 coach screws are dropped.
 
 ## 4. Estimate
 
@@ -60,13 +59,12 @@ The supplier choice is still open (MASTER_PLAN §1.2). Order early: this is the 
 | Jewson 125mm PIR (special order, to be quoted) | ~£225–450 |
 | Structural screws | ~£340–500 |
 | Hangers, PIR brackets, foam | ~£495–550 |
-| Coach screws + washers (provisional) | ~£73 |
-| **Total** | **~£1,990–2,430 ex VAT (~£2,390–2,915 inc VAT)** + parcel postage |
+| **Total** | **~£1,917–2,357 ex VAT (~£2,300–2,830 inc VAT)** + parcel postage |
 
 **Calibration against the pit drop (26 Oct 2026).** The pit-perimeter estimate compared with Jewson quote 3777/1649640:
 - **Jewson stock lines:** the branch came in **~32% under** the Jewson web prices (−20% to −48%).
 - **Mail-order lines Jewson supplied instead:** came in **+20% to +115%** over the estimate, which had left out island delivery. The bulky XPS was the worst case.
-- **Applied here:** the Jewson stock lines (~£855) fall to about £580–640. The 125mm PIR special order should be expected at the top of its range. **Calibrated total: ~£1,750–2,250 ex VAT.**
+- **Applied here:** the Jewson stock lines (~£855) fall to about £580–640. The 125mm PIR special order should be expected at the top of its range. **Calibrated total: ~£1,680–2,180 ex VAT.**
 
 **What moves the total:**
 1. **The PIR quote** (±£225).
