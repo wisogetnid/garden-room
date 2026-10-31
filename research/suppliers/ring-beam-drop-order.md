@@ -18,7 +18,7 @@
 | :--- | :--- | ---: | ---: | ---: | :--- |
 | PEFC Premium C24 treated regularised 47 × 125mm, **5.4m** | PAJT4712 | 6 | £5.65/m | £183.06 | East/West ring beam plies (cut 4924mm) |
 | PAJT4712, **3.6m** | PAJT4712 | 12 | £5.65/m | £244.08 | South/North plies (cut 3408mm) + internal beam plies (cut 3125mm) |
-| PAJT4712, **4.8m** | PAJT4712 | 11 | £5.65/m | £298.32 | 30 joists (3 per length, ~1448mm) + 1 spare (sister joists) |
+| PAJT4712, **4.8m** | PAJT4712 | 11 | £5.65/m | £298.32 | 30 joists (3 per length, ~1448mm) + 1 spare |
 | Ronseal Decking End Grain Protector 750ml, green | LDR37334 | 2 | £15.64 | £31.28 | Every cut and halving face, 2 coats |
 | SPAX A2 washer-head 6 × 80mm T30, box of 100 | SXSS6008 | 1 | ~£55 | ~£55 | Beam-to-plate brackets (replaces the supplied Pozidriv screws) |
 | SPAX A2 4.0 × 40mm T20, box of 200 | SXTF4040 | 2 | £25.19 | £50.38 | ~200 PIR brackets + ~64 deck-edge brackets |

@@ -24,7 +24,6 @@
 | **Bracket Screws** | SPAX A2 stainless 4.0 × 40mm, T20 | 1 per bracket, ~90mm below the joist top | Fix the brackets | ~200 = 1 box of 200 |
 | **PIR Edge Seal** | Soudal Flexible Expanding Foam, gun grade, 750ml (low expansion) | All four edges and every butt joint | Airtight, bypass-free fit | 6 cans |
 | **Deck-Edge Brackets** | Galvanised angle ~40 × 40 × 3mm | South/North ring beam inner faces between the hangers, leg flush at 0mm | Carry the deck edge | ~32 |
-| **Sister Joists (as required)** | 47 × 125mm C24 + SPAX A2 6 × 80mm washer-head (SXSS6008) + 2 × 6 × 160mm fully threaded screws per end | Under heavy machines only (MASTER_PLAN §3.1) | Doubling under heavy equipment (26C070/1) | 2 per machine (from the spare strutting length) |
 
 **PIR cut plan:** rip every board into four ~293mm strips (295mm pockets, ~2mm foam gap). Then:
 1. Cut each 2400mm strip into one 1450mm pocket piece and a 950mm offcut. Twenty strips fill 20 pockets.
